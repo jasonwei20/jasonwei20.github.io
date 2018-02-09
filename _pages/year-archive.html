@@ -1,0 +1,47 @@
+---
+layout: archive
+permalink: /year-archive/
+title: "Personal"
+author_profile: true
+redirect_from:
+  - /wordpress/blog-posts/
+---
+
+
+<ul>
+<li>
+I am on the <a href="http://www.dartmouth.edu/~fencing" style="color:navy"> club fencing </a> team at Dartmouth (DCFC). I have competed as a Men’s Epeeist in several regional competitions, as well as the 2017 club nationals competition in Lansing, Michigan, where we won second place for club fencing in the nation.
+</li>
+<li>
+I am also a member of <a href="http://www.dartmouth.edu/~dfr/" style="color:navy"> Dartmouth Formula Racing </a> (DFR). I’ve worked on and driven both our electric and hybrid racecars. At some point, I’d like to give our electric car, Paula, self-driving capabilities.
+</li>
+<li>
+I have been a member of the <a href="https://orgsync.com/133396/chapter" style="color:navy"> Dartmouth Finance Society </a>  since fall of my freshman year. I am currently the Vice President of the currencies group. I was previously Vice President of the equities group (Spring 2017), and Vice President of the fixed income group (Winter 2017).
+</li>
+<li>
+When visiting home, I enjoy playing tennis and bridge with my childhood friends.
+</li>
+</ul>
+<img src="/images/1.png" width="24.2%">
+<img src="/images/2.png" width="24.2%">
+<img src="/images/3.png" width="24%">
+<img src="/images/4.png" width="24.2%">
+</br>
+</br>
+</br>
+
+
+<h1> Blog Posts </h1>
+
+
+{% include base_path %}
+{% capture written_year %}'None'{% endcapture %}
+{% for post in site.posts %}
+  {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
+  {% if year != written_year %}
+    <h2 id="{{ year | slugify }}" class="archive__subtitle">{{ year }}</h2>
+    {% capture written_year %}{{ year }}{% endcapture %}
+  {% endif %}
+  {% include archive-single.html %}
+{% endfor %}
+

@@ -11,17 +11,18 @@ redirect_from:
 
 Education
 ------
-* Dartmouth College, 2020
+* Dartmouth College, Hanover, NH (2020)
   * B.A. in Computer Science, Engineering Sciences
-* Thomas Jefferson High School for Science and Technology, 2016
+* Thomas Jefferson High School for Science and Technology, Alexandria, VA (2016)
 
 Experience
 ------
-* Protagonist Labs, Aug. 2017 - Present
+* Protagonist Labs, Tysons Corner, VA (Aug. 2017 - Present)
   * Machine Learning Developer
-* Armed Forces Benefit Association, Jun. 2017 - Aug. 2017
+* Armed Forces Benefit Association, Alexandria, VA (Jun. 2017 - Aug. 2017)
   * Software Engineering Intern
   
-Skills
+Skills and Tools
 ------
-* Python, Java, MATLAB, Tensorflow, Keras, Scikit-Learn, Pandas, NumPy
+* Python, Java, MATLAB
+* Pytorch, Tensorflow, Keras, Scikit-Learn, Pandas, NumPy

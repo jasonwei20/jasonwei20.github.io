@@ -29,7 +29,7 @@ Random Ideas
 
 * For career counselors, deep learning can shed some insight into what parts of a resume really matter when applying for jobs. 
 
-* It could be cool to train a CNN on images of the streets of the major cities in the world. 
+* It could be cool to train a CNN on images of the streets of the major cities in the world (or the streets of college campuses). 
 
 * The histories for the Israeli-Palestinian conflict are vastly different depending on whether they are writen by an Israeli or a Palestinian. This difference is well-documented in the textbook [Side by Side](https://www.amazon.com/Side-Parallel-Histories-Israel-Palestine/dp/1595586830), by Sami Adwan. A machine learning technique using something like Doc2Vec could rank historical documents by their bias and send new light on the histories portrayed by each side are so different.
 

@@ -13,7 +13,7 @@ Deep Learning
 ------
 * I took Andrew Ng’s [course](http://www.coursera.org/deep-learning‎) on deep learning and I thought it was really good.
 
-* My notes for his course are [here](https://github.com/jasonwei20/course-notes/blob/master/Machine_Learning_Notes.pdf)
+* My notes for his course are [here](https://github.com/jasonwei20/course-notes/blob/master/Machine_Learning_Notes.pdf).
 
 Random Ideas
 ------

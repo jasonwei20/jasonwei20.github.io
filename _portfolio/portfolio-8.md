@@ -6,4 +6,4 @@ collection: portfolio
 With genre, rootword, and temperature input, we generate a large corpus of original song lyrics. 
 [Link](https://github.com/jasonwei20/Song-RNN) to Github.
 
-<img src="/images/crypto.png" width="100%">
+<div style="text-align: center;"><img src="/images/song.png" width="65%"></div>

@@ -33,7 +33,7 @@ Random Ideas
 
 8. I think training a chatbot on someone's personal facebook messages would be pretty funny.
 
-9. The histories for the Israeli-Palestinian conflict are vastly different depending on whether they are writen by an Israeli or a Palestinian. This difference is well-documented in the textbook [Side by Side](https://www.amazon.com/Side-Parallel-Histories-Israel-Palestine/dp/1595586830), by Sami Adwan. A machine learning technique using something like Doc2Vec could rank historical documents by their bias and shed new light on why the histories portrayed by each side are so different.
+9. The histories for the Israeli-Palestinian conflict are vastly different depending on whether they are written by an Israeli or a Palestinian. This difference is well-documented in the textbook [Side by Side](https://www.amazon.com/Side-Parallel-Histories-Israel-Palestine/dp/1595586830), by Sami Adwan. A machine learning technique using something like Doc2Vec could rank historical documents by their bias and shed new light on why the histories portrayed by each side are so different.
 
 10. An NLP model trained on religious and secular texts, used on government documents, could provide insight into whether some nations truly have a separation between religion and state. 
 

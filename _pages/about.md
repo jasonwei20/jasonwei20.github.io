@@ -10,6 +10,6 @@ redirect_from:
 
 Hi. I'm a second year student at Dartmouth College, studying Computer Science and Engineering. I'm interested in machine learning, deep learning, and computer vision.
 
-I work with [Saeed Hassanpour](https://www.hassanpourlab.com/) on deep learning for medical image analysis. I have also been working for Protago Labs, an artificial intelligence company based in my hometown in Virginia, since last June.
+I work with [Saeed Hassanpour](https://www.hassanpourlab.com/) on deep learning for medical image analysis. I also work for Protago Labs, an artificial intelligence company based in my hometown in Virginia.
 
 I'm currently taking summer quarter classes at Dartmouth. I will be studying at the Technical University of Denmark in Copanhagen this fall and doing an academic internship with the American University of Kuwait in Kuwait City next spring (2019).

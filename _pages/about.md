@@ -10,7 +10,5 @@ redirect_from:
 
 Hi. I'm a second year student at Dartmouth College, studying Computer Science and Engineering. I'm interested in machine learning, deep learning, and computer vision.
 
-I am currently interning at Oracle's machine learning office in Hanover, NH. 
-
-I also work with [Professor Saeed Hassanpour](https://www.hassanpourlab.com/) on deep learning for medical image analysis.
+I also work with [Saeed Hassanpour](https://www.hassanpourlab.com/) on deep learning for medical image analysis.
 

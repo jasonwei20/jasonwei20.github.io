@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi. I'm a second year student at Dartmouth College, studying Computer Science and Engineering. I'm interested in machine learning, deep learning, and computer vision.
+Hi. My name is Jason. I'm a second-year undergraduate student at Dartmouth College, studying Computer Science and Engineering. I'm interested in machine learning, deep learning, and computer vision.
 
 I work with [Saeed Hassanpour](https://www.hassanpourlab.com/) on deep learning for medical image analysis. I also work for Protago Labs, an artificial intelligence company based in my hometown in Virginia.
 

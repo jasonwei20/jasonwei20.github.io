@@ -18,9 +18,7 @@ Deep Learning
 Random Ideas
 ------
 1. Machine learning could help greatly with college admissions, especially since most colleges have large datasets.
-
 2. Computer vision could be used on dating apps to suggest matches (it might already be used).
-
 3. Machine learning could probably do better than average at fantasy basketball.
 
 4. It could be a fun project to train a GAN on shoe designs. 

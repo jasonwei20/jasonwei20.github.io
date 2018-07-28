@@ -11,14 +11,8 @@ redirect_from:
 
 Current
 ------
-<ul>
-  <li>
-  	<dl>
-  		<dt>Reading Lung Adenocarcinoma Patterns with Deep Learning</dt>
-  		<dd>With Saeed Hassanpour, Laura Tafe, Louis Vaickus, and Yevgeniy Linnik<dd>
-	</dl>
-  </li>
-</ul>  
+* Reading Lung Adenocarcinoma Patterns with Deep Learning
+    * with Saeed Hassanpour, Laura Tafe, Louis Vaickus, and Yevgeniy Linnik
   
 
 Projects

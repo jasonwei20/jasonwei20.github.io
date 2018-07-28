@@ -13,7 +13,7 @@ Current
 ------
 <ul>
   <li>
-  	<dl style="margin-left: 10px;">
+  	<dl>
   		<dt>Reading Lung Adenocarcinoma Patterns with Deep Learning</dt>
   		<dd>With Saeed Hassanpour, Laura Tafe, Louis Vaickus, and Yevgeniy Linnik<dd>
 	</dl>

@@ -178,7 +178,7 @@ collections:
   talks:
     output: false
     permalink: /:collection/:path/
-  resources:
+  research:
     output: true
     permalink: /:collection/:path/
 
@@ -206,7 +206,7 @@ defaults:
   # _resources
   - scope:
       path: ""
-      type: resources
+      type: research
     values:
       layout: single
       author_profile: true

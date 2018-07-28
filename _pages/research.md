@@ -15,8 +15,8 @@ Current
 
 Projects
 ------
-* Predicting IP Geolocation from DNS & BGP Data with Deep Learning | [Github](https://github.com/jasonwei20/oracle-dyn-ml)
-* Predicting the Price of Bitcoin | [Github](https://github.com/jasonwei20/cryptocurrency-prediction)
+* Predicting IP Geolocation from DNS & BGP Data with Deep Learning \| <a href="https://github.com/jasonwei20/oracle-dyn-ml" style="color:navy">Github</a>
+* Predicting the Price of Bitcoin \| <a href="https://github.com/jasonwei20/cryptocurrency-prediction" style="color:navy">Github</a>
 
 Some Random Ideas
 ------

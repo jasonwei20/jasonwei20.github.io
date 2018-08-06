@@ -16,7 +16,7 @@ Current
 
 Projects
 ------
-* IP Geolocation from DNS & BGP data with Recurrent Neural Nets (Oracle, Spring 2018) \| <a href="research/oracle.pdf" style="color:navy">Talk</a>
+* IP Geolocation from DNS & BGP data with Recurrent Neural Nets (Oracle, Spring 2018) \| <a href="oracle.pdf" style="color:navy">Talk</a>
 * Predicting Cryptocurrency Prices \| <a href="https://github.com/jasonwei20/cryptocurrency-prediction" style="color:navy">Github</a>
 
 Some Random Ideas

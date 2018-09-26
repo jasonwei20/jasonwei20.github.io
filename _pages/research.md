@@ -11,15 +11,14 @@ redirect_from:
 
 Current
 ------
-* Reading Lung Adenocarcinoma Patterns with Deep Learning
-    * with Saeed Hassanpour, Laura Tafe, Yevgeniy Linnik, Louis Vaickus, and Naofumi Tomita
+* Deep Neural Nets for Classification of Histologic Patterns in Lung Adenocarcinoma
+    * with Laura Tafe, Yevgeniy Linnik, Louis Vaickus, Naofumi Tomita, and Saeed Hassanpour
+
+* Historic Event Discovery with Deep Neural Nets: A Novel Analysis of the
+Israeli-Palestine Conflict
+	* with Eugene Santos
 
 Projects
 ------
 * IP Geolocation from DNS & BGP data with Recurrent Neural Nets (Oracle, Spring 2018) \| <a href="oracle.pdf" style="color:navy">Talk</a>
 * Predicting Cryptocurrency Prices \| <a href="https://github.com/jasonwei20/cryptocurrency-prediction" style="color:navy">Github</a>
-
-Some Random Ideas
-------
-* Machine learning could help greatly with college admissions, especially since most colleges have large datasets.
-* An NLP model trained on religious and secular texts, used on government documents, could provide insight into whether some nations truly have a separation between religion and state.

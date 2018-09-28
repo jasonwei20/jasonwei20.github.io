@@ -15,7 +15,7 @@ Current
     * with Laura Tafe, Yevgeniy Linnik, Louis Vaickus, Naofumi Tomita, and Saeed Hassanpour
 
 * Historic Event Discovery with Deep Neural Nets: A Novel Analysis of the
-Israeli-Palestine Conflict
+Israel-Palestine Conflict
 	* with Eugene Santos
 
 Projects

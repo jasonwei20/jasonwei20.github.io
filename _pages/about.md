@@ -8,38 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Hi. My name is Jason. I'm a third-year undergraduate student at Dartmouth College, studying Computer Science. I'm interested in deep learning and computer vision.
+Hi. My name is Jason. I'm a third-year undergraduate student at Dartmouth College, studying Computer Science. I'm interested in deep learning and computer vision. I currently work with [Saeed Hassanpour](https://www.hassanpourlab.com/) on deep learning for medical image analysis.
 
-I work with [Saeed Hassanpour](https://www.hassanpourlab.com/) on deep learning for medical image analysis. I also work part-time for Protago Labs, an artificial intelligence company based in my hometown in Virginia. Last spring, I interned at Oracle's internet intelligence office.
-
-I'm currently studying abroad at the Technical University of Denmark (DTU) in Lyngby, Denmark.
-
-<!DOCTYPE html>
 <html>
 <head>
 <style>
-
-body {
-    margin: 5px 20px;
-    background-image: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB3aWR0aD0iNiIgaGVpZ2h0PSI2Ij4KPHJlY3Qgd2lkdGg9IjYiIGhlaWdodD0iNiIgZmlsbD0iI2VlZWVlZSI+PC9yZWN0Pgo8ZyBpZD0iYyI+CjxyZWN0IHdpZHRoPSIzIiBoZWlnaHQ9IjMiIGZpbGw9IiNlNmU2ZTYiPjwvcmVjdD4KPHJlY3QgeT0iMSIgd2lkdGg9IjMiIGhlaWdodD0iMiIgZmlsbD0iI2Q4ZDhkOCI+PC9yZWN0Pgo8L2c+Cjx1c2UgeGxpbms6aHJlZj0iI2MiIHg9IjMiIHk9IjMiPjwvdXNlPgo8L3N2Zz4=");
-    font-family: 'Open Sans'; 
-    font-weight: 300; 
-}
-
-h2 {
-    margin-bottom: 30px;
-    color: #4679bd;
-    font-weight: 400;
-    text-align: center;
-}
-
-p.footer {
-    margin-bottom: 20px;
-    color: #999999;
-    font-size: 18px;
-    text-align: center;
-}
-
 /* -----------------------------------------------
  * Timeline
  * --------------------------------------------- */
@@ -147,7 +120,7 @@ p.footer {
     margin-top: 0;
     color: inherit;
 }
-.timeline-heading h4 {
+.timeline-heading h2 {
     font-weight: 400;
     padding: 0 15px;
     color: #4679bd;
@@ -225,12 +198,9 @@ p.footer {
     }
 }
 
-
 </style>
 </head>
 <body>
-
-<h2>Super Simple Bootstrap Responsive Timeline</h2>
 
 <ul class="timeline">
     <li>
@@ -239,13 +209,13 @@ p.footer {
         </div>
         <div class="timeline-panel">
             <div class="timeline-heading">
-                <h4>Timeline Event</h4>
+                <h4>Study Abroad in Denmark</h4>
             </div>
             <div class="timeline-body">
-                <p>Invitamus me testatur sed quod non dum animae tuae lacrimis ut libertatem deum rogus aegritudinis causet. Dicens hoc contra serpentibus isto.</p>
+                <p>Technical University of Denmark (DTU) in Lyngby, Denmark</p>
             </div>
             <div class="timeline-footer">
-                <p class="text-right">Feb-21-2014</p>
+                <p class="text-right">Fall 2018</p>
             </div>
         </div>
     </li>
@@ -256,13 +226,13 @@ p.footer {
         </div>
         <div class="timeline-panel">
             <div class="timeline-heading">
-                <h4>Timeline Event</h4>
+                <h4>Data Science Intern @Oracle</h4>
             </div>
             <div class="timeline-body">
-                <p>Stranguillione in deinde cepit roseo commendavit patris super color est se sed. Virginis plus plorantes abscederem assignato ipsum ait regem Ardalio nos filiae Hellenicus mihi cum. Theophilo litore in lucem in modo invenit quasi nomen magni ergo est se est Apollonius, habet clementiae venit ad nomine sed dominum depressit filia navem.</p>
+                <p>Machine learning for internet intelligence analysis</p>
             </div>
             <div class="timeline-footer">
-                <p class="text-right">Feb-23-2014</p>
+                <p class="text-right">Spring 2018</p>
             </div>
         </div>
     </li>
@@ -273,13 +243,13 @@ p.footer {
         </div>
         <div class="timeline-panel">
             <div class="timeline-heading">
-                <h4>Timeline Event</h4>
+                <h4>Machine Learning Intern @Protago Labs</h4>
             </div>
             <div class="timeline-body">
-                <p>Advenientibus aliorum eam ad per te sed. Facere debetur aut veneris accedens.</p>
+                <p>Generative Chatbots</p>
             </div>
             <div class="timeline-footer">
-                <p class="text-right">Feb-23-2014</p>
+                <p class="text-right">Summer 2017</p>
             </div>
         </div>
     </li>
@@ -290,56 +260,19 @@ p.footer {
         </div>
         <div class="timeline-panel">
             <div class="timeline-heading">
-                <h4>Timeline Event</h4>
+                <h4>Dartmouth College</h4>
             </div>
             <div class="timeline-body">
-                <p>Volvitur ingreditur id ait mea vero cum autem quod ait Cumque ego illum vero cum unde beata. Commendavi si non dum est in. Dionysiadem tuos ratio puella ut casus, tunc lacrimas effunditis magister cives Tharsis. Puellae addita verbaque' capellam sanctissima quid, apollinem existimas filiam rex cum autem quod tamen adnuente rediens eam est se in. Peracta licet ad nomine Maria non ait in modo compungi mulierem volutpat.</p>
+                <p>Major in Computer Science </p>
             </div>
             <div class="timeline-footer">
-                <p class="text-right">Feb-27-2014</p>
+                <p class="text-right">September 2016</p>
             </div>
         </div>
     </li>
     
-    <li>
-        <div class="timeline-badge">
-            <a><i class="fa fa-circle" id=""></i></a>
-        </div>
-        <div class="timeline-panel">
-            <div class="timeline-heading">
-                <h4>Timeline Event</h4>
-            </div>
-            <div class="timeline-body">
-                <p>Adfertur guttae sapientiae ducitur est Apollonius ut a a his domino Lycoridem in lucem. Theophile atque bona dei cenam veniebant est cum. Iusto opes mihi Tyrum in modo compungi mulierem ubi augue eiusdem ordo quos vero diam omni catervis famulorum. Bene dictis ut diem finito servis unde.</p>
-            </div>
-            <div class="timeline-footer">
-                <p class="text-right">Mar-01-2014</p>
-            </div>
-        </div>
-    </li>
-    
-    <li  class="timeline-inverted">
-        <div class="timeline-badge">
-            <a><i class="fa fa-circle invert" id=""></i></a>
-        </div>
-        <div class="timeline-panel">
-            <div class="timeline-heading">
-                <h4>Timeline Event</h4>
-            </div>
-            <div class="timeline-body">
-                <p>Crede respiciens loco dedit beneficio ad suis alteri si puella eius in. Acceptis codicello lenonem in deinde plectrum anni ipsa quod eam est Apollonius.</p>
-            </div>
-            <div class="timeline-footer primary">
-                <p class="text-right">Mar-02-2014</p>
-            </div>
-        </div>
-    </li>
     <li class="clearfix no-float"></li>
 </ul>
-
-<p class="footer">Icons by <a href="https://fortawesome.github.io/Font-Awesome/">FontAwesome 4.1 Icons</a>.<br />
-  Created by <a href="http://jenniferperrin.com">Jennifer Perrin</a>
-</p>
 
 </body>
 </html>

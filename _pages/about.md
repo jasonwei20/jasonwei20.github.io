@@ -8,11 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi. My name is Jason. I'm a third-year undergraduate student at Dartmouth College, studying Computer Science. I'm interested in deep learning and computer vision.
-
-I work with [Saeed Hassanpour](https://www.hassanpourlab.com/) on deep learning for medical image analysis. I also work part-time for Protago Labs, an artificial intelligence company based in my hometown in Virginia. Last spring, I interned at Oracle's internet intelligence office.
-
-I'm currently studying abroad at the Technical University of Denmark (DTU) in Lyngby, Denmark.
+Hi. My name is Jason. I'm a third-year undergraduate student at Dartmouth College, studying Computer Science. I'm interested in deep learning and computer vision. I work with [Saeed Hassanpour](https://www.hassanpourlab.com/) on deep learning for medical image analysis.
 
 <html>
 <head>
@@ -29,15 +25,7 @@ html, body {
   color: white;
   margin-bottom: 40px;
 }
-.bg1 {
-  background-image: url('dartmouthpano.jpg');
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-size: auto 100%;
-}
-.bg2 {
-  background-color: #299DB6;
-}
+
 #headerblob {
   position: absolute;
   left: 5%;
@@ -175,14 +163,14 @@ li {
   font-size: 18px;
   font-weight: 400;
   margin-bottom: -5px;
-  color: rgb(132,0,0);
+  color: rgb(0,0,132);
 }
 .ttitle {
-  font-size: 20px;
+  font-size: 18px;
   font-weight: 400;
 }
 .tdesc {
-  font-size: 18px;
+  font-size: 16px;
   font-weight: 300;
 }
 @media (max-width: 768px) {
@@ -197,7 +185,7 @@ li {
   }
 }
 .thigh {
-  color: #070;
+  color: rgb(75,0,130);
 }
 .quote {
   color: #777;
@@ -382,45 +370,32 @@ hr.soft {
 
 <div id="timeline">
     <div class="timelineitem">
-      <div class="tdate">June 2018</div>
-      <div class="ttitle">Google <a href="https://ai.google/research/join-us/ai-residency/">AI Resident</a></div>
-      <div class="tdesc"><span class="thigh">Google Brain, San Francisco.</span></div>
+      <div class="tdate">Fall 2018</div>
+      <div class="ttitle">Technical University of Denmark</div>
+      <div class="tdesc"><span class="thigh">Exchange term.</span></div>
     </div>
 
 
     <div class="timelineitem">
-      <div class="tdate">April 2017</div>
-      <div class="ttitle"><a href="https://news.dartmouth.edu/news/2017/04/dartmouth-students-compete-tournament-physicists" style="color:#333;">International Physicists' Tournament</a></div>
-      <div class="tdesc"><span class="thigh">US Team, Gothenburg, Sweden</span></div>
+      <div class="tdate">Mar.&mdashMay 2018</div>
+      <div class="ttitle">Data Science Intern, Oracle + Dyn</div>
+      <div class="tdesc"><span class="thigh">Machine learning for internet intelligence.</span></div>
     </div>
 
 
     <div class="timelineitem">
-      <div class="tdate">July 2017</div>
-      <div class="ttitle">Senior Honors Thesis, Whitfield Lab</div>
-      <div class="tdesc"><span class="thigh">Quantum systems. My advisor is James Whitfield.</span></div>
+      <div class="tdate">Summer 2017</div>
+      <div class="ttitle">Machine Learning Intern, Protago Labs</div>
+      <div class="tdesc"><span class="thigh">Generative chatbots.</span></div>
     </div>
 
 
     <div class="timelineitem">
-      <div class="tdate">Summer 2016</div>
-      <div class="ttitle">Microsoft New England</div>
-      <div class="tdesc"><span class="thigh">Azure Machine Learning Team</span></div>
-    </div>
-
-
-    <div class="timelineitem">
-      <div class="tdate">Fall 2015</div>
-      <div class="ttitle">Research Semester at CERN</div>
-      <div class="tdesc">Monte Carlo simulation of <span class="thigh">Higgs Radiation</span>.</div>
-    </div>
-
-
-    <div class="timelineitem">
-      <div class="tdate">2013</div>
+      <div class="tdate">Fall 2016</div>
       <div class="ttitle">Dartmouth College</div>
-      <div class="tdesc">Major in <span class="thigh">Physics</span>.</div>
+      <div class="tdesc"><span class="thigh">Major in Computer Science</span></div>
     </div>
+
 
 
 </div>

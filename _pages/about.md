@@ -55,6 +55,7 @@ html, body {
   font-size: 18px;
   font-weight: 300;
   margin-top: -6px;
+  font-style: italic;
 }
 #htem {
   font-size: 14px;

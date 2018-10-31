@@ -8,10 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-Hi. My name is Jason. I'm a third-year undergraduate student at Dartmouth College, studying Computer Science. I work with [Saeed Hassanpour](https://www.hassanpourlab.com/) on deep learning for medical image analysis.
+Hi. My name is Jason. I'm a third-year undergraduate student at Dartmouth College, studying Computer Science. I'm interested in deep learning and computer vision.
 
+My advisor is [Saeed Hassanpour](https://www.hassanpourlab.com/). I'm currently working on deep learning for lung cancer classification.
 
 ------
+My timeline: 
 <html>
 <head>
 <style>
@@ -162,17 +164,17 @@ li {
 }
 
 .tdate {
-  font-size: 15.5px;
+  font-size: 16.5px;
   font-weight: 400;
   margin-bottom: -5px;
   color: rgb(178,34,34);
 }
 .ttitle {
-  font-size: 17px;
+  font-size: 18px;
   font-weight: 400;
 }
 .tdesc {
-  font-size: 14px;
+  font-size: 15px;
   font-weight: 300;
 }
 @media (max-width: 768px) {
@@ -183,6 +185,7 @@ li {
     font-size: 16px;
   }
   .tdesc {
+  	font-style: italic;
     font-size: 16px;
   }
 }
@@ -379,7 +382,7 @@ hr.soft {
 
 
     <div class="timelineitem">
-      <div class="tdate">Mar.&mdash;May 2018</div>
+      <div class="tdate">Mar&mdash;May 2018</div>
       <div class="ttitle">Data Science Intern, Oracle</div>
       <div class="tdesc"><span class="thigh">Deep learning for internet intelligence.</span></div>
     </div>

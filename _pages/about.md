@@ -8,8 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-Hi. My name is Jason. I'm a third-year undergraduate student at Dartmouth College, studying Computer Science. I'm interested in deep learning and computer vision. I work with [Saeed Hassanpour](https://www.hassanpourlab.com/) on deep learning for medical image analysis.
+Hi. My name is Jason. I'm a third-year undergraduate student at Dartmouth College, studying Computer Science. I work with [Saeed Hassanpour](https://www.hassanpourlab.com/) on deep learning for medical image analysis.
 
+
+------
 <html>
 <head>
 <style>
@@ -160,17 +162,17 @@ li {
 }
 
 .tdate {
-  font-size: 18px;
+  font-size: 15.5px;
   font-weight: 400;
   margin-bottom: -5px;
-  color: rgb(0,0,132);
+  color: rgb(178,34,34);
 }
 .ttitle {
-  font-size: 18px;
+  font-size: 17px;
   font-weight: 400;
 }
 .tdesc {
-  font-size: 16px;
+  font-size: 14px;
   font-weight: 300;
 }
 @media (max-width: 768px) {
@@ -377,9 +379,9 @@ hr.soft {
 
 
     <div class="timelineitem">
-      <div class="tdate">Mar.&mdashMay 2018</div>
-      <div class="ttitle">Data Science Intern, Oracle + Dyn</div>
-      <div class="tdesc"><span class="thigh">Machine learning for internet intelligence.</span></div>
+      <div class="tdate">Mar.&mdash;May 2018</div>
+      <div class="ttitle">Data Science Intern, Oracle</div>
+      <div class="tdesc"><span class="thigh">Deep learning for internet intelligence.</span></div>
     </div>
 
 
@@ -391,9 +393,9 @@ hr.soft {
 
 
     <div class="timelineitem">
-      <div class="tdate">Fall 2016</div>
+      <div class="tdate">2016</div>
       <div class="ttitle">Dartmouth College</div>
-      <div class="tdesc"><span class="thigh">Major in Computer Science</span></div>
+      <div class="tdesc"><span class="thigh">Computer science major.</span></div>
     </div>
 
 

@@ -14,5 +14,11 @@ I work with [Saeed Hassanpour](https://www.hassanpourlab.com/) on deep learning 
 
 I'm currently studying abroad at the Technical University of Denmark (DTU) in Lyngby, Denmark.
 
-aa|bb|cc
-ee|ff|gg
+2018 Sep&mdash;Dec Study Abroad @ Technical University of Denmark
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#8226; Exchange term
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mar&mdash;May Data Science Intern @ Oracle
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#8226; Deep learning for internet intelligence
+2017 Jun&mdash;Aug Machine Learning Intern @ Protago Labs
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#8226; Generative Chatbots
+2016 Fall&nbsp;&nbsp;&nbsp;&nbsp; Dartmouth College
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#8226; Major in Computer Science

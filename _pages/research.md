@@ -11,12 +11,10 @@ redirect_from:
 
 Current
 ------
-* Deep Neural Nets for Classification of Histologic Patterns in Lung Adenocarcinoma
-    * with Laura Tafe, Yevgeniy Linnik, Louis Vaickus, Naofumi Tomita, and Saeed Hassanpour
 
-* Historic Event Discovery with Deep Neural Nets: A Novel Analysis of the
-Israel-Palestine Conflict
-	* with Eugene Santos
+Finding a Needle in the Haystack: Attention-Based Classification of High Resolution Microscopy Images
+Naofumi Tomita, Behnaz Abdollahi, **Jason Wei**, Bing Ren, Arief Suriawinata, Saeed Hassanpour  
+<a href="https://arxiv.org/abs/1811.08513" style="color:navy">arXiv</a>
 
 Projects
 ------

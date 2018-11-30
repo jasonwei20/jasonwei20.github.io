@@ -10,7 +10,7 @@ redirect_from:
 
 Hi. My name is Jason. I'm a third-year computer science major at Dartmouth College, studying Computer Science. I'm interested in deep learning and computer vision.
 
-My advisor is [Saeed Hassanpour]<a href="https://www.hassanpourlab.com/" style="color:navy" target="_blank">Saeed Hassanpour</a>. I'm currently working on deep learning for lung cancer classification.
+My advisor is <a href="https://www.hassanpourlab.com/" style="color:navy" target="_blank">Saeed Hassanpour</a>. I'm currently working on deep learning for lung cancer classification.
 
 ------
 My timeline: 

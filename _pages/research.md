@@ -17,9 +17,11 @@ Papers
 Naofumi Tomita, Behnaz Abdollahi, **Jason Wei**, Bing Ren, Arief Suriawinata, Saeed Hassanpour  
 <a href="https://arxiv.org/abs/1811.08513" style="color:navy" target="_blank">[arXiv]</a>
 
+------
+
 Projects
 ------
 **IP Geolocation from DNS & BGP Data with Deep Learning**  
 **Jason Wei**, Alin Popescu  
-*Oracle*  
+*Oracle+Dyn*  
 <a href="oracle.pdf" style="color:navy" target="_blank">[Talk]</a>

@@ -9,14 +9,17 @@ redirect_from:
 
 {% include base_path %}
 
-Current
-------
+My research is in the areas of deep learning and computer vision, with a focus on analysis of histopathology images of gastrointestinal diseases and lung cancer. I am advised by [Saeed Hassanpour](https://www.hassanpourlab.com/) at Dartmouth College.
 
+
+Publications
+------
 **Finding a Needle in the Haystack: Attention-Based Classification of High Resolution Microscopy Images**  
 Naofumi Tomita, Behnaz Abdollahi, **Jason Wei**, Bing Ren, Arief Suriawinata, Saeed Hassanpour  
-<a href="https://arxiv.org/abs/1811.08513" style="color:navy">[arXiv]</a>
+<a href="https://arxiv.org/abs/1811.08513" style="color:navy" target="_blank">[arXiv]</a>
 
 Projects
 ------
-* IP Geolocation from DNS & BGP data with Recurrent Neural Nets (Oracle, Spring 2018) \| <a href="oracle.pdf" style="color:navy">[Talk]</a>
-* Predicting Cryptocurrency Prices \| <a href="https://github.com/jasonwei20/cryptocurrency-prediction" style="color:navy">[Github]</a>
+**IP Geolocation from DNS & BGP Data with Recurrent Neural Nets**
+**Jason Wei**, Alin Popescu
+<a href="oracle.pdf" style="color:navy" target="_blank">[Talk]</a> @ Oracle

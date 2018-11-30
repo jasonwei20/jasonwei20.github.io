@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi. My name is Jason. I'm a third-year undergraduate student at Dartmouth College, studying Computer Science. I'm interested in deep learning and computer vision.
+Hi. My name is Jason. I'm a third-year computer science major at Dartmouth College, studying Computer Science. I'm interested in deep learning and computer vision.
 
 My advisor is [Saeed Hassanpour](https://www.hassanpourlab.com/). I'm currently working on deep learning for lung cancer classification.
 

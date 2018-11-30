@@ -9,10 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-My research is in the areas of deep learning and computer vision, with a focus on analysis of histopathology images of gastrointestinal diseases and lung cancer. I am advised by [Saeed Hassanpour](https://www.hassanpourlab.com/) at Dartmouth College.
+My research is in the areas of deep learning and computer vision, with a focus on analysis of histopathology images of gastrointestinal diseases and lung cancer. I am advised by <a href="https://www.hassanpourlab.com/" style="color:navy" target="_blank">Saeed Hassanpour</a>.
 
-
-Publications
+Papers
 ------
 **Finding a Needle in the Haystack: Attention-Based Classification of High Resolution Microscopy Images**  
 Naofumi Tomita, Behnaz Abdollahi, **Jason Wei**, Bing Ren, Arief Suriawinata, Saeed Hassanpour  
@@ -20,6 +19,7 @@ Naofumi Tomita, Behnaz Abdollahi, **Jason Wei**, Bing Ren, Arief Suriawinata, Sa
 
 Projects
 ------
-**IP Geolocation from DNS & BGP Data with Recurrent Neural Nets**
-**Jason Wei**, Alin Popescu
-<a href="oracle.pdf" style="color:navy" target="_blank">[Talk]</a> @ Oracle
+**IP Geolocation from DNS & BGP Data with Recurrent Neural Nets**  
+**Jason Wei**, Alin Popescu  
+*Oracle*  
+<a href="oracle.pdf" style="color:navy" target="_blank">[Talk]</a>

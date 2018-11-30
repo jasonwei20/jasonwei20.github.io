@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-My research is in the areas of deep learning and computer vision, with a focus on analysis of histopathology images of gastrointestinal diseases and lung cancer. I am advised by <a href="https://www.hassanpourlab.com/" style="color:navy" target="_blank">Saeed Hassanpour</a>.
+My research in deep learning for medical image analysis, advised by <a href="https://www.hassanpourlab.com/" style="color:navy" target="_blank">Saeed Hassanpour</a>.
 
 Papers
 ------
@@ -19,7 +19,7 @@ Naofumi Tomita, Behnaz Abdollahi, **Jason Wei**, Bing Ren, Arief Suriawinata, Sa
 
 Projects
 ------
-**IP Geolocation from DNS & BGP Data with Recurrent Neural Nets**  
+**IP Geolocation from DNS & BGP Data with Deep Learning**  
 **Jason Wei**, Alin Popescu  
 *Oracle*  
 <a href="oracle.pdf" style="color:navy" target="_blank">[Talk]</a>

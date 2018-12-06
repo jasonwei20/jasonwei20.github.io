@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-My research in deep learning for medical image analysis, advised by <a href="https://www.hassanpourlab.com/" style="color:navy" target="_blank">Saeed Hassanpour</a>.
+My research is in deep learning for medical image analysis, advised by <a href="https://www.hassanpourlab.com/" style="color:navy" target="_blank">Saeed Hassanpour</a>.
 
 Papers
 ------

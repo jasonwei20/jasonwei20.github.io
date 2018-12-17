@@ -25,3 +25,7 @@ Projects
 **Jason Wei**, Alin Popescu  
 *Oracle+Dyn*  
 <a href="oracle.pdf" style="color:navy" target="_blank">[Talk]</a>
+
+------
+
+Some <a href="https://jasonwei20.github.io/writing_tips/" style="color:navy" target="_blank">[tips]</a> for writing papers I've compiled. 

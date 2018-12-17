@@ -33,8 +33,8 @@ Some phrases that I like:
 
 Need more inspiration?:
 
-- Tom Cormen's [usage rules](https://www.cs.dartmouth.edu/~thc/Cormen-rules.pdf) 
-- Andrej Karpathy's [post](http://karpathy.github.io/2016/09/07/phd/) on a PhD
-- [Sam Greydanus](https://greydanus.github.io/about.html)
-- Read [Jason Yosinki](http://yosinski.com/)
+- Tom Cormen's <a href="https://www.cs.dartmouth.edu/~thc/Cormen-rules.pdf" style="color:navy" target="_blank">usage rules</a>
+- Andrej Karpathy's <a href="http://karpathy.github.io/2016/09/07/phd/" style="color:navy" target="_blank">post</a> on PhD tips
+- <a href="https://greydanus.github.io/about.html" style="color:navy" target="_blank">Sam Greydanus</a>
+- Read <a href="http://yosinski.com/" style="color:navy" target="_blank">Jason Yosinki</a>
 - Read Steven King in your free time

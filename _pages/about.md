@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi. My name is Jason. I'm a third-year computer science major at Dartmouth College, interested in deep learning and computer vision. My advisor is <a href="https://www.hassanpourlab.com/" style="color:navy" target="_blank">Saeed Hassanpour</a>. I'm currently working on deep learning for lung cancer classification.
+Hi. My name is Jason. I'm a third-year computer science major at Dartmouth College, interested in deep learning and computer vision. My advisor is <a href="https://www.hassanpourlab.com/" style="color:navy" target="_blank">Saeed Hassanpour</a>. 
+
+Since December 2018, I have been spliting my time between Hassanpour Lab and the AI Research Team at Protago Labs, a startup in Tysons Corner, VA.
 
 ------
 My timeline: 

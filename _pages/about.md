@@ -378,9 +378,9 @@ hr.soft {
 
 
     <div class="timelineitem">
-      <div class="tdate">Winter 2017</div>
+      <div class="tdate">Winter 2019</div>
       <div class="ttitle">Machine Learning Intern, Protago Labs</div>
-      <div class="tdesc"><span class="thigh">Generative chatbots.</span></div>
+      <div class="tdesc"><span class="thigh">NLP research.</span></div>
     </div>
 
 

@@ -375,6 +375,15 @@ hr.soft {
 <body>
 
 <div id="timeline">
+
+
+    <div class="timelineitem">
+      <div class="tdate">Winter 2017</div>
+      <div class="ttitle">Machine Learning Intern, Protago Labs</div>
+      <div class="tdesc"><span class="thigh">Generative chatbots.</span></div>
+    </div>
+
+
     <div class="timelineitem">
       <div class="tdate">Fall 2018</div>
       <div class="ttitle">Technical University of Denmark</div>
@@ -383,16 +392,9 @@ hr.soft {
 
 
     <div class="timelineitem">
-      <div class="tdate">Mar&mdash;May 2018</div>
+      <div class="tdate">Spring 2018</div>
       <div class="ttitle">Data Science Intern, Oracle</div>
       <div class="tdesc"><span class="thigh">Deep learning for internet intelligence.</span></div>
-    </div>
-
-
-    <div class="timelineitem">
-      <div class="tdate">Summer 2017</div>
-      <div class="ttitle">Machine Learning Intern, Protago Labs</div>
-      <div class="tdesc"><span class="thigh">Generative chatbots.</span></div>
     </div>
 
 

@@ -10,7 +10,7 @@ redirect_from:
 
 Hi. My name is Jason. I'm a third-year computer science major at Dartmouth College, interested in deep learning and computer vision. My advisor is <a href="https://www.hassanpourlab.com/" style="color:navy" target="_blank">Saeed Hassanpour</a>. 
 
-Since December 2018, I have been spliting my time between Hassanpour Lab and the AI Research Team at Protago Labs, a startup based in Tysons Corner, VA.
+Since December 2018, I have been spliting my time between Hassanpour Lab and the AI Research Team at Protago Labs, a startup based in Tysons Corner, VA. I will be interning at Blend Labs in San Francisco for the summer of 2019.
 
 ------
 My timeline: 

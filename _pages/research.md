@@ -26,7 +26,7 @@ Papers
 
 **Automated Detection of Celiac Disease on Duodenal Biopsy Slides: A Deep Learning Approach**  
 **Jason Wei**, Jerry Wei, Christopher Jackson, Bing Ren, Arief Suriawinata, Saeed Hassanpour  
-*Journal of Pathology Informatics 2019, accepted & in press*
+*Journal of Pathology Informatics 2019, accepted & in press*   
 <a href="https://arxiv.org/abs/1901.11447" style="color:navy" target="_blank">[paper]</a>
 
 **Finding a Needle in the Haystack: Attention-Based Classification of High Resolution Microscopy Images**  
@@ -35,7 +35,7 @@ Naofumi Tomita, Behnaz Abdollahi, **Jason Wei**, Bing Ren, Arief Suriawinata, Sa
 
 **Automating the Paris System for Urine Cytopathology: A Hybrid Deep Learning and Morphometric Approach**  
 Louis Vaickus, Arief Suriawinata, **Jason Wei**, Xiaoying Liu  
-*Cancer Cytopathology 2019*
+*Cancer Cytopathology 2019*  
 <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/cncy.22099" style="color:navy" target="_blank">[paper]</a>
 
 ------

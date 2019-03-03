@@ -45,14 +45,7 @@ Naofumi Tomita, Behnaz Abdollahi, **Jason Wei**, Bing Ren, Arief Suriawinata, Sa
 <a href="https://arxiv.org/abs/1811.08513" style="color:navy" target="_blank">[paper]</a>
 
 ------
+My <a href="oracle.pdf" style="color:navy" target="_blank">[talk]</a> on deep learning and internet intelligence at Oracle. 
 
-Projects
-------
-**IP Geolocation from DNS & BGP Data with Deep Learning**  
-**Jason Wei**, Alin Popescu  
-*Oracle+Dyn*  
-<a href="oracle.pdf" style="color:navy" target="_blank">[talk]</a>
+<a href="https://jasonwei20.github.io/writing_tips/" style="color:navy" target="_blank">[Tips]</a> for writing papers that I compiled. 
 
-------
-
-Some <a href="https://jasonwei20.github.io/writing_tips/" style="color:navy" target="_blank">[tips]</a> for writing papers I've compiled. 

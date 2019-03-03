@@ -16,12 +16,13 @@ General tips:
 - Include math equations if relevant.
 - You should make your code and data available, if possible.
 - After you finish your first draft, go through the entire paper and delete any unncessary words. Also check all the prepositions to make sure they're correct.
-- It's almost always good to have some sort of baseline approach for comparison, even if the point of your paper isn't the methods. This came up a lot in reviewer comments for me when I didn't include it.
+- It is good to have some sort of baseline approach for comparison, even if the point of your paper isn't the methods. This came up a lot in reviewer comments for me when I didn't include it.
 - For methods papers, you should have a table comparing your results to other papers for a given benchmark task. You should also validate on multiple datasets.
 - If you haven't done an extensive literature review, reviewers will likely notice. If you miss a related paper that the reviewer happens to personally know of, your credibility immediately drops and you'll likely get rejected.
 - If your testing set is small, are you overfitting?
 - If you're presenting a new application of deep learning, do some error analysis. What is your model doing well and what isn't it?
 - What's the training time and runtime of your model?
+- Can you do a cute t-SNE visualization?
 
 Conferences: 
 
@@ -47,6 +48,11 @@ Some phrases that I like:
 - "In closing, we xyz."
 - "Board-certified" radiologist/pathologist sounds good for asserting dominance.
 - Transition words I like: in addition, furthermore, moreover.
+
+Easiest reasons for a reviewer to reject you:
+
+- No literature review
+- No methodological innovation
 
 Need more inspiration?:
 

@@ -12,7 +12,7 @@ Hi. My name is Jason. I'm a third-year computer science major at Dartmouth Colle
 
 Since December 2018, I have been spliting my time between Hassanpour Lab and the AI Research Team at Protago Labs, a startup based in Tysons Corner, VA. I will be interning at Blend Labs in San Francisco, CA for the summer of 2019.
 
-My paper "Pathologist-level classifcation of histologic patterns on resected lung adenocarcinoma slides with deep neural networks" was recently published in <a href="https://www.nature.com/articles/s41598-019-40041-7?fbclid=IwAR2_A-a6I5q-01xjDzme1gPmynB5KtWvdMMqILhoLE1vTmx8cXDuIhniht4" style="color:navy" target="_blank">Nature Scientific Reports</a>. 
+My paper "Pathologist-level classification of histologic patterns on resected lung adenocarcinoma slides with deep neural networks" was recently published in <a href="https://www.nature.com/articles/s41598-019-40041-7?fbclid=IwAR2_A-a6I5q-01xjDzme1gPmynB5KtWvdMMqILhoLE1vTmx8cXDuIhniht4" style="color:navy" target="_blank">Nature Scientific Reports</a>. 
 
 
 

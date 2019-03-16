@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 2019
-* **Mar. 4:** Publishing a good research paper
+* **Mar 4:** Publishing a good research paper
 
 2018
 * **Dec 21:** Feeling insignificant at the Grand Canyon
@@ -16,6 +16,7 @@ author_profile: true
 * **Nov 11:** Playing poker with old Frenchmen in Nice
 * **Oct 6:** Getting drunk at Oktoberfest
 * **Aug-Dec:** Studying abroad in Denmark
+* **Jun-Aug:** Learning to sail
 * **Jul:** Joining a fraternity
 * **Jun 15-16:** Jumping from the Sky Tower in Auckland, watching the sunset from Mount Victoria, bathing in the Polynesian Spa
 * **Jun 11-14:** Visiting the Sydney Opera House, having a drink at Baxter's Inn, seeing the Great Ocean Road and 12 Apostles
@@ -35,8 +36,10 @@ author_profile: true
 
 2015
 * **Dec:** Cruising on the Oasis of the Seas
+* **Sep-Dec:** Working as a grocery store cashier
 * **Oct 25:** Fancy Homecoming at Meadowlark Botanical Gardens and a French restaurant in Georgetown
-* **Jun:** Spending 4 days at the the US Naval Academy summer seminar 
+* **Jun-Dec:** Working in a Chemistry Lab at the Naval Research Laboratory
+* **Jun:** Spending 4 days at the US Naval Academy summer seminar
 
 2014
 * **Sep-Dec:** Studying really hard
@@ -44,6 +47,7 @@ author_profile: true
 
 2013
 * **May 17:** Rowing in the Stotesbury Cup Regatta
+* **Jan-Feb:** Crew conditioning
 
 2012
 * **Jun:** Touring China with a tour group

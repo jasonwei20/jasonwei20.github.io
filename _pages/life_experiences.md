@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Experiences that were transformative, memorable, or just really, really fun"
-permalink: /life/
+permalink: /life_experiences/
 author_profile: true
 ---
 

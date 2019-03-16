@@ -12,7 +12,7 @@ author_profile: true
 
 2018
 * **Dec 21:** Feeling insignificant at the Grand Canyon
-* **Dec 5,15:** Strolling through Christmas Markets in Copenhagen
+* **Dec 14:** Strolling through Christmas Markets in Copenhagen
 * **Nov 11:** Playing poker with old Frenchmen in Nice
 * **Oct 6:** Getting drunk at Oktoberfest
 * **Aug-Dec:** Studying abroad in Denmark
@@ -22,7 +22,7 @@ author_profile: true
 * **Feb 2-4:** Dogsledding in Maine
 
 2017
-* **Dec 5:** Almost dying in a car accident in Iceland
+* **Dec 5:** Being in a car accident in Iceland
 * **Dec 4:** Seeing the Northern Lights while bathing in the Laugarvatn Fontana Geothermal Baths, Iceland
 * **Nov 2:** Driving a formula racing car
 * **Aug:** Getting into machine learning

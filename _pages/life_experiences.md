@@ -1,0 +1,49 @@
+---
+layout: archive
+title: "Experiences that were transformative, memorable, or just really, really fun"
+permalink: /life/
+author_profile: true
+---
+
+{% include base_path %}
+
+2019
+* **Mar. 4:** Publishing a good research paper
+
+2018
+* **Dec 21:** Feeling insignificant at the Grand Canyon
+* **Dec 5,15:** Strolling through Christmas Markets in Copenhagen
+* **Nov 11:** Playing poker with old Frenchmen in Nice
+* **Oct 6:** Getting drunk at Oktoberfest
+* **Aug-Dec:** Studying abroad in Denmark
+* **Jul:** Joining a fraternity
+* **Jun 15-16:** Jumping from the Sky Tower in Auckland, watching the sunset from Mount Victoria, bathing in the Polynesian Spa
+* **Jun 11-14:** Visiting the Sydney Opera House, having a drink at Baxter's Inn, seeing the Great Ocean Road and 12 Apostles
+* **Feb 2-4:** Dogsledding in Maine
+
+2017
+* **Dec 5:** Almost dying in a car accident in Iceland
+* **Dec 4:** Seeing the Northern Lights while bathing in the Laugarvatn Fontana Geothermal Baths, Iceland
+* **Nov 2:** Driving a formula racing car
+* **Aug:** Getting into machine learning
+
+2016
+* **Jun 26:** Watching an outdoor movie in Bryant Park, NYC
+* **Jun 15:** Auditioning for Shark Tank then going to Prom on a boat
+* **May:** Winning $1500 at the Virginia Science Fair
+* **Feb-Aug:** Playing a lot of tennis
+
+2015
+* **Dec:** Cruising on the Oasis of the Seas
+* **Oct 25:** Fancy Homecoming at Meadowlark Botanical Gardens and a French restaurant in Georgetown
+* **Jun:** Spending 4 days at the the US Naval Academy summer seminar 
+
+2014
+* **Sep-Dec:** Studying really hard
+* **May:** Having my first kiss
+
+2013
+* **May 17:** Rowing in the Stotesbury Cup Regatta
+
+2012
+* **Jun:** Touring China with a tour group

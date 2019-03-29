@@ -40,10 +40,10 @@ Louis Vaickus, Arief Suriawinata, **Jason Wei**, Xiaoying Liu
 *Cancer Cytopathology 2019*  
 <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/cncy.22099" style="color:navy" target="_blank">[paper]</a>
 
-**Finding a Needle in the Haystack: Attention-Based Classification of High Resolution Microscopy Images**  
+<!-- **Finding a Needle in the Haystack: Attention-Based Classification of High Resolution Microscopy Images**  
 Naofumi Tomita, Behnaz Abdollahi, **Jason Wei**, Bing Ren, Arief Suriawinata, Saeed Hassanpour  
 <a href="https://arxiv.org/abs/1811.08513" style="color:navy" target="_blank">[paper]</a>
-
+ -->
 ------
 My <a href="oracle.pdf" style="color:navy" target="_blank">[talk]</a> on deep learning and internet intelligence at Oracle. 
 

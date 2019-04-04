@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "The Story of My Passport"
+title: "The Art of How to Look"
 permalink: /coco_21_journal_3/
 author_profile: true
 ---

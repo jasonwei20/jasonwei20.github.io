@@ -15,6 +15,15 @@ My research is in deep learning for medical image analysis, advised by <a href="
 
 Papers
 ------
+
+**EDA: Easy Data Augmentation Techniques for Boosting Performance on Text Classification Tasks**  
+**Jason Wei**, Kai Zou  
+*ICLR Learning from Limited Data Workshop 2019*
+<a href="http://arxiv.org/abs/1901.11196" style="color:navy" target="_blank">[paper]</a> 
+<a href="https://medium.com/@jason.20/these-are-the-easiest-data-augmentation-techniques-in-natural-language-processing-you-can-think-of-88e393fd610" style="color:navy" target="_blank">[blog post]</a>
+<a href="https://github.com/jasonwei20/eda_nlp" style="color:navy" target="_blank">[Github]</a>
+<img height="16" src="https://img.shields.io/github/stars/jasonwei20/eda_nlp.svg?logo=github&logoColor=white&colorA=navy&link=https://github.com/jasonwei20/eda_nlp&link=https://github.com/jasonwei20/eda_nlp">
+
 **Pathologist-level Classification of Histologic Patterns on Resected Lung Cancer Slides with Deep Neural Networks**  
 **Jason Wei**, Laura Tafe, Yevgeniy Linnik, Louis Vaickus, Naofumi Tomita, Saeed Hassanpour  
 *Nature Scientific Reports 2019*   
@@ -22,13 +31,6 @@ Papers
 <a href="https://medium.com/health-data-science/classification-of-histopathology-images-with-deep-learning-a-practical-guide-2e3ffd6d59c5" style="color:navy" target="_blank">[blog post]</a>
 <a href="https://github.com/BMIRDS/deepslide" style="color:navy" target="_blank">[Github]</a> 
 <img height="16" src="https://img.shields.io/github/stars/BMIRDS/deepslide.svg?logo=github&logoColor=white&colorA=navy&link=https://github.com/BMIRDS/deepslide&link=https://github.com/BMIRDS/deepslide">
-
-**EDA: Easy Data Augmentation Techniques for Boosting Performance on Text Classification Tasks**  
-**Jason Wei**, Kai Zou  
-<a href="http://arxiv.org/abs/1901.11196" style="color:navy" target="_blank">[paper]</a> 
-<a href="https://medium.com/@jason.20/these-are-the-easiest-data-augmentation-techniques-in-natural-language-processing-you-can-think-of-88e393fd610" style="color:navy" target="_blank">[blog post]</a>
-<a href="https://github.com/jasonwei20/eda_nlp" style="color:navy" target="_blank">[Github]</a>
-<img height="16" src="https://img.shields.io/github/stars/jasonwei20/eda_nlp.svg?logo=github&logoColor=white&colorA=navy&link=https://github.com/jasonwei20/eda_nlp&link=https://github.com/jasonwei20/eda_nlp">
 
 **Automated Detection of Celiac Disease on Duodenal Biopsy Slides: A Deep Learning Approach**  
 **Jason Wei**, Jerry Wei, Christopher Jackson, Bing Ren, Arief Suriawinata, Saeed Hassanpour  

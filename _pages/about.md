@@ -10,7 +10,7 @@ redirect_from:
 
 Hi. My name is Jason. I'm a third-year computer science major at Dartmouth College, interested in deep learning and computer vision. My advisor is <a href="https://www.hassanpourlab.com/" style="color:navy" target="_blank">Saeed Hassanpour</a>. 
 
-I've been working part-time since June 2016 at Protago Labs, an AI startup based in Tysons Corner, Virginia. 
+Since June 2016, I have been working part-time at Protago Labs, an AI startup based in Tysons Corner, Virginia. 
 <!-- I will be interning at Blend Labs in San Francisco, CA for the summer of 2019. -->
 
 I recently published a paper in <a href="https://www.nature.com/articles/s41598-019-40041-7?fbclid=IwAR2_A-a6I5q-01xjDzme1gPmynB5KtWvdMMqILhoLE1vTmx8cXDuIhniht4" style="color:navy" target="_blank">Nature Scientific Reports</a> called *Pathologist-level classification of histologic patterns on resected lung adenocarcinoma slides with deep neural networks*.

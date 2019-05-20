@@ -8,6 +8,7 @@ author_profile: true
 {% include base_path %}
 
 2019
+* **May 5-9:** Attending my first machine learning conference (ICLR)
 * **Mar 4:** Publishing a good research paper
 
 2018

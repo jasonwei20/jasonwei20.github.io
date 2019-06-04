@@ -32,15 +32,15 @@ Papers
 <a href="https://github.com/BMIRDS/deepslide" style="color:navy" target="_blank">[Github]</a> 
 <img height="16" src="https://img.shields.io/github/stars/BMIRDS/deepslide.svg?logo=github&logoColor=white&colorA=navy&link=https://github.com/BMIRDS/deepslide&link=https://github.com/BMIRDS/deepslide">
 
-**Automated Detection of Celiac Disease on Duodenal Biopsy Slides: A Deep Learning Approach**  
-**Jason Wei**, Jerry Wei, Christopher Jackson, Bing Ren, Arief Suriawinata, Saeed Hassanpour  
-*Journal of Pathology Informatics 2019*   
-<a href="http://www.jpathinformatics.org/article.asp?issn=2153-3539;year=2019;volume=10;issue=1;spage=7;epage=7;aulast=Wei" style="color:navy" target="_blank">[paper]</a>
-
 **Automating the Paris System for Urine Cytopathology: A Hybrid Deep Learning and Morphometric Approach**  
 Louis Vaickus, Arief Suriawinata, **Jason Wei**, Xiaoying Liu  
 *Cancer Cytopathology 2019*  
 <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/cncy.22099" style="color:navy" target="_blank">[paper]</a>
+
+**Automated Detection of Celiac Disease on Duodenal Biopsy Slides: A Deep Learning Approach**  
+**Jason Wei**, Jerry Wei, Christopher Jackson, Bing Ren, Arief Suriawinata, Saeed Hassanpour  
+*Journal of Pathology Informatics 2019*   
+<a href="http://www.jpathinformatics.org/article.asp?issn=2153-3539;year=2019;volume=10;issue=1;spage=7;epage=7;aulast=Wei" style="color:navy" target="_blank">[paper]</a>
 
 <!-- **Finding a Needle in the Haystack: Attention-Based Classification of High Resolution Microscopy Images**  
 Naofumi Tomita, Behnaz Abdollahi, **Jason Wei**, Bing Ren, Arief Suriawinata, Saeed Hassanpour  

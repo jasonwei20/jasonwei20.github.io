@@ -18,7 +18,7 @@ Papers
 
 **EDA: Easy Data Augmentation Techniques for Boosting Performance on Text Classification Tasks**  
 **Jason Wei**, Kai Zou  
-*ICLR Learning from Limited Data Workshop 2019*   
+*EMNLP-IJCNLP 2019*   
 <a href="http://arxiv.org/abs/1901.11196" style="color:navy" target="_blank">[paper]</a> 
 <a href="https://medium.com/@jason.20/these-are-the-easiest-data-augmentation-techniques-in-natural-language-processing-you-can-think-of-88e393fd610" style="color:navy" target="_blank">[blog post]</a>
 <a href="https://github.com/jasonwei20/eda_nlp" style="color:navy" target="_blank">[Github]</a>

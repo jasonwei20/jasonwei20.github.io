@@ -12,9 +12,9 @@ Hi. My name is Jason. I'm a fourth-year computer science major at Dartmouth Coll
 
 Since June 2017, I have been working part-time at Protago Labs, an artificial intelligence start-up based in Tysons Corner, Virginia. 
 
-My <a href="https://openreview.net/forum?id=BJelsDvo84" style="color:navy" target="_blank">work</a> in NLP was featured at a workshop at ICLR 2019. 
-
 I'm currently a software engineering intern at <a href="https://blend.com/" style="color:#357EC7" target="_blank">blend</a>.
+
+My <a href="https://openreview.net/forum?id=BJelsDvo84" style="color:navy" target="_blank">paper</a> on data augmentation NLP was accepted to EMNLP-IJCNLP!
 
 <!-- I am a 2019 <a href="https://news.dartmouth.edu/news/2019/05/three-undergraduates-win-national-scholarships" style="color:navy" target="_blank">Barry Goldwater Scholar</a>!  -->
 

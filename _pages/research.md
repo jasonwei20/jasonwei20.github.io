@@ -26,7 +26,7 @@ Papers
 
 **Pathologist-level Classification of Histologic Patterns on Resected Lung Cancer Slides with Deep Neural Networks**  
 **Jason Wei**, Laura Tafe, Yevgeniy Linnik, Louis Vaickus, Naofumi Tomita, Saeed Hassanpour  
-*Nature Scientific Reports 2019*   
+*Scientific Reports (Nature) 2019*   
 <a href="https://www.nature.com/articles/s41598-019-40041-7" style="color:navy" target="_blank">[paper]</a> 
 <a href="https://medium.com/health-data-science/classification-of-histopathology-images-with-deep-learning-a-practical-guide-2e3ffd6d59c5" style="color:navy" target="_blank">[blog post]</a>
 <a href="https://github.com/BMIRDS/deepslide" style="color:navy" target="_blank">[Github]</a> 

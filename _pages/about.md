@@ -6,19 +6,16 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-  - /research
+  - /research/
 ---
 
 Hi. My name is Jason. I'm a fourth-year computer science major at Dartmouth College, interested in deep learning. 
 
 I'm currently a software engineering intern at <a href="https://blend.com/" style="color:#357EC7" target="_blank">blend</a>.
 
-My <a href="https://openreview.net/forum?id=BJelsDvo84" style="color:navy" target="_blank">paper</a> on data augmentation in NLP was accepted to EMNLP-IJCNLP 2019.
-
 ------
 
-Papers
-------
+# Papers
 
 **EDA: Easy Data Augmentation Techniques for Boosting Performance on Text Classification Tasks**  
 **Jason Wei**, Kai Zou  
@@ -37,7 +34,7 @@ Papers
 <img height="16" src="https://img.shields.io/github/stars/BMIRDS/deepslide.svg?logo=github&logoColor=white&colorA=navy&link=https://github.com/BMIRDS/deepslide&link=https://github.com/BMIRDS/deepslide">
 
 ------
-My <a href="oracle.pdf" style="color:navy" target="_blank">[talk]</a> on deep learning and internet intelligence at Oracle. 
+<!-- My <a href="oracle.pdf" style="color:navy" target="_blank">[talk]</a> on deep learning and internet intelligence at Oracle.  -->
 
 Some <a href="https://jasonwei20.github.io/writing_tips/" style="color:navy" target="_blank">[tips]</a> for writing papers that I compiled. 
 

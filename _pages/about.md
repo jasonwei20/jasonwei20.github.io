@@ -14,6 +14,16 @@ I'm currently a software engineering intern at <a href="https://blend.com/" styl
 
 My <a href="https://openreview.net/forum?id=BJelsDvo84" style="color:navy" target="_blank">paper</a> on data augmentation in NLP was accepted to EMNLP-IJCNLP 2019.
 
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-146397444-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-146397444-1');
+</script>
+
 <!-- My advisor is <a href="https://www.hassanpourlab.com/" style="color:navy" target="_blank">Saeed Hassanpour</a>. 
  -->
 <!-- Since June 2017, I have been working part-time at Protago Labs, an artificial intelligence start-up based in Tysons Corner, Virginia.  -->

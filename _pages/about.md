@@ -15,7 +15,7 @@ I'm currently a software engineering intern at <a href="https://blend.com/" styl
 
 ------
 
-# Papers
+## Papers
 
 **EDA: Easy Data Augmentation Techniques for Boosting Performance on Text Classification Tasks**  
 **Jason Wei**, Kai Zou  

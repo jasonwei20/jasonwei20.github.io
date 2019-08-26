@@ -15,7 +15,7 @@ I'm currently a software engineering intern at <a href="https://blend.com/" styl
 
 ------
 
-## Papers
+# Papers
 
 **EDA: Easy Data Augmentation Techniques for Boosting Performance on Text Classification Tasks**  
 **Jason Wei**, Kai Zou  
@@ -33,11 +33,14 @@ I'm currently a software engineering intern at <a href="https://blend.com/" styl
 <a href="https://github.com/BMIRDS/deepslide" style="color:navy" target="_blank">[Github]</a> 
 <img height="16" src="https://img.shields.io/github/stars/BMIRDS/deepslide.svg?logo=github&logoColor=white&colorA=navy&link=https://github.com/BMIRDS/deepslide&link=https://github.com/BMIRDS/deepslide">
 
+**Automating the Paris System for Urine Cytopathology: A Hybrid Deep Learning and Morphometric Approach**  
+Louis Vaickus, Arief Suriawinata, **Jason Wei**, Xiaoying Liu  
+*Cancer Cytopathology 2019*  
+<a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/cncy.22099" style="color:navy" target="_blank">[paper]</a>
+
 ------
-<!-- My <a href="oracle.pdf" style="color:navy" target="_blank">[talk]</a> on deep learning and internet intelligence at Oracle.  -->
 
 Some <a href="https://jasonwei20.github.io/writing_tips/" style="color:navy" target="_blank">[tips]</a> for writing papers that I compiled. 
-
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-146397444-1"></script>
@@ -50,20 +53,16 @@ Some <a href="https://jasonwei20.github.io/writing_tips/" style="color:navy" tar
 </script>
 
 
-<!-- My research is in deep learning for medical image analysis, advised by <a href="https://www.hassanpourlab.com/" style="color:navy" target="_blank">Saeed Hassanpour</a>. More specifically, I work on visual analysis of histopathology images and enjoy solving problems using small data. I occasionally do natural language processing. -->
-
-------
-
-
-<!-- **Automating the Paris System for Urine Cytopathology: A Hybrid Deep Learning and Morphometric Approach**  
-Louis Vaickus, Arief Suriawinata, **Jason Wei**, Xiaoying Liu  
-*Cancer Cytopathology 2019*  
-<a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/cncy.22099" style="color:navy" target="_blank">[paper]</a>
-
-**Automated Detection of Celiac Disease on Duodenal Biopsy Slides: A Deep Learning Approach**  
+<!-- **Automated Detection of Celiac Disease on Duodenal Biopsy Slides: A Deep Learning Approach**  
 **Jason Wei**, Jerry Wei, Christopher Jackson, Bing Ren, Arief Suriawinata, Saeed Hassanpour  
 *Journal of Pathology Informatics 2019*   
 <a href="http://www.jpathinformatics.org/article.asp?issn=2153-3539;year=2019;volume=10;issue=1;spage=7;epage=7;aulast=Wei" style="color:navy" target="_blank">[paper]</a> -->
+
+<!-- My <a href="oracle.pdf" style="color:navy" target="_blank">[talk]</a> on deep learning and internet intelligence at Oracle.  -->
+
+<!-- My research is in deep learning for medical image analysis, advised by <a href="https://www.hassanpourlab.com/" style="color:navy" target="_blank">Saeed Hassanpour</a>. More specifically, I work on visual analysis of histopathology images and enjoy solving problems using small data. I occasionally do natural language processing. -->
+
+------
 
 <!-- **Finding a Needle in the Haystack: Attention-Based Classification of High Resolution Microscopy Images**  
 Naofumi Tomita, Behnaz Abdollahi, **Jason Wei**, Bing Ren, Arief Suriawinata, Saeed Hassanpour  

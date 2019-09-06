@@ -62,7 +62,6 @@ Some <a href="https://jasonwei20.github.io/writing_tips/" style="color:navy" tar
 
 <!-- My research is in deep learning for medical image analysis, advised by <a href="https://www.hassanpourlab.com/" style="color:navy" target="_blank">Saeed Hassanpour</a>. More specifically, I work on visual analysis of histopathology images and enjoy solving problems using small data. I occasionally do natural language processing. -->
 
-------
 
 <!-- **Finding a Needle in the Haystack: Attention-Based Classification of High Resolution Microscopy Images**  
 Naofumi Tomita, Behnaz Abdollahi, **Jason Wei**, Bing Ren, Arief Suriawinata, Saeed Hassanpour  
@@ -77,8 +76,6 @@ Naofumi Tomita, Behnaz Abdollahi, **Jason Wei**, Bing Ren, Arief Suriawinata, Sa
 <!-- I am a 2019 <a href="https://news.dartmouth.edu/news/2019/05/three-undergraduates-win-national-scholarships" style="color:navy" target="_blank">Barry Goldwater Scholar</a>!  -->
 
 <!-- I recently published a paper in <a href="https://www.nature.com/articles/s41598-019-40041-7?fbclid=IwAR2_A-a6I5q-01xjDzme1gPmynB5KtWvdMMqILhoLE1vTmx8cXDuIhniht4" style="color:navy" target="_blank">Nature Scientific Reports</a> called *Pathologist-level classification of histologic patterns on resected lung adenocarcinoma slides with deep neural networks*. -->
-
-------
 
 <!-- 
 My timeline: 

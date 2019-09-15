@@ -16,7 +16,7 @@ General writing tips:
 
 - The first sentence in a paragraph should tell me what that paragraph is about.
 - X, so Y. -> X, *and so* Y. 
-- The worst place to use *however* is at the beginning of a sentence. (<a href="https://www.cs.dartmouth.edu/~thc/Cormen-rules.pdf" style="color:navy" target="_blank"Cormen</a>, 20).
+- The worst place to use *however* is at the beginning of a sentence (Tom Cormen).
 - Use active voice.
 - You can use the word *shall* to sound fancy.
 - Don't use *while* when you mean *although*.

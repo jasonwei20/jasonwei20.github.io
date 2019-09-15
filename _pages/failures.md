@@ -8,9 +8,9 @@ author_profile: true
 {% include base_path %}
 
 2019
-* Paper rejected from JAMA
+* Paper rejected from JAMA, Nature Medicine
 * Paper rejected from ACL
-* Paper rejected from NAACL, ACL
+* Paper rejected from NAACL, ACL, EMNLP-IJCNLP
 * Paper rejected from CVPR
 * Applied to 46 internships and received 1 offer
 

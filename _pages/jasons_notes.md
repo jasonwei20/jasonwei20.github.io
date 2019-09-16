@@ -6,6 +6,11 @@ author_profile: true
 ---
 
 Papers:
+* AlexNet
+* ResNet
+* Transformers
+* Elmo
+* BERT
 
 
 Basic Machine Learning:

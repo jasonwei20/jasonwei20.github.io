@@ -11,7 +11,7 @@ author_profile: true
 * **Aug 17:** Tubing at Lake Tahoe
 * **Jul 20:** Hitch-hiking at Yosemite
 * **May 5-9:** Attending my first machine learning conference (ICLR)
-* **Mar 4:** Publishing a good research paper
+* **Mar 4:** Publishing my first research paper
 
 2018
 * **Dec 21:** Feeling insignificant at the Grand Canyon

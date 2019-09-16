@@ -20,3 +20,5 @@ author_profile: true
 
 2016
 * Rejected from Caltech
+
+I'm not specifying paper titles because other co-authors might not want their rejections listed.

@@ -11,7 +11,7 @@ redirect_from:
 
 Hi. My name is Jason. I'm a fourth-year computer science major at Dartmouth College. 
 
-I'm currently a software engineering intern at <a href="https://blend.com/" style="color:#357EC7" target="_blank">blend</a>.
+I'm currently a software engineering intern at <a href="https://www.doordash.com/" style="color:#FF4500" target="_blank">DoorDash</a>. I previously interned at <a href="https://blend.com/" style="color:#357EC7" target="_blank">Blend</a>.
 
 ------
 

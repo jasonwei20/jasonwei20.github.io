@@ -9,7 +9,7 @@ redirect_from:
   - /research/
 ---
 
-Hi. My name is Jason. I'm a fourth-year computer science major at Dartmouth College, interested in deep learning. 
+Hi. My name is Jason. I'm a fourth-year computer science major at Dartmouth College. 
 
 I'm currently a software engineering intern at <a href="https://blend.com/" style="color:#357EC7" target="_blank">blend</a>.
 
@@ -21,6 +21,10 @@ I'm currently a software engineering intern at <a href="https://blend.com/" styl
 **Jason Wei**, Kai Zou  
 *EMNLP-IJCNLP 2019* <a href="https://github.com/jasonwei20/eda_nlp" style="color:navy" target="_blank">[Github]</a>
 <img height="16" src="https://img.shields.io/github/stars/jasonwei20/eda_nlp.svg?logo=github&logoColor=white&colorA=navy&link=https://github.com/jasonwei20/eda_nlp&link=https://github.com/jasonwei20/eda_nlp">
+
+<b>Generative Image Translation for Data Augmentation in Colorectal Polyp</b>
+Jerry Wei, Arief Suriawinata, Louis Vaickus, Bing Ren, Carol Liu, **Jason Wei**, Saeed Hassanpour
+*NeurIPS ML4H Workshop 2019*
 
 <a href="https://www.nature.com/articles/s41598-019-40041-7" style="color:#5656a2" target="_blank"><b>Pathologist-level Classification of Histologic Patterns on Resected Lung Cancer Slides with Deep Neural Networks</b></a> <br>
 **Jason Wei**, Laura Tafe, Yevgeniy Linnik, Louis Vaickus, Naofumi Tomita, Saeed Hassanpour  

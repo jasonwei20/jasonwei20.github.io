@@ -42,7 +42,7 @@ Louis Vaickus, Arief Suriawinata, **Jason Wei**, Xiaoying Liu
 ------
 
 <a href="https://arxiv.org/abs/1909.12959" style="color:#5656a2" target="_blank"><b>Deep neural networks for automated classification of colorectal polyps on histopathology slides: A multi-institutional evaluation</b></a> <br>
-Jason Wei, Arief Suriawinata, Louis Vaickus, Bing Ren, Xiaoying Liu, Mikhail Lisovsky, Naofumi Tomita, Behnaz Abdollahi, Adam Kim, Dale Snover, John Baron, Elizabeth Barry, Saeed Hassanpour
+**Jason Wei**, Arief Suriawinata, Louis Vaickus, Bing Ren, Xiaoying Liu, Mikhail Lisovsky, Naofumi Tomita, Behnaz Abdollahi, Adam Kim, Dale Snover, John Baron, Elizabeth Barry, Saeed Hassanpour
 
 ------
 

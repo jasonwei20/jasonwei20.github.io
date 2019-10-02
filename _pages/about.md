@@ -9,7 +9,7 @@ redirect_from:
   - /research/
 ---
 
-Hi. My name is Jason. I'm a fourth-year computer science major at Dartmouth College. 
+Hi. My name is Jason. I'm a fourth-year computer science major at <a href="https://home.dartmouth.edu/" style="color:#006400" target="_blank">Dartmouth College</a>. 
 
 I'm currently a software engineering intern at <a href="https://www.doordash.com/" style="color:#FF4500" target="_blank">DoorDash</a>. I previously interned at <a href="https://blend.com/" style="color:#357EC7" target="_blank">Blend</a>.
 
@@ -41,7 +41,7 @@ Louis Vaickus, Arief Suriawinata, **Jason Wei**, Xiaoying Liu
 
 ------
 
-<a href="https://arxiv.org/abs/1909.12959" style="color:#5656a2" target="_blank"><b>Deep neural networks for automated classification of colorectal polyps on histopathology slides: A multi-institutional evaluation</b></a> <br>
+<a href="https://arxiv.org/abs/1909.12959" style="color:#5656a2" target="_blank"><b>Deep Neural Networks for Automated Classification of Colorectal Polyps on Histopathology Slides: A Multi-Institutional Evaluation</b></a> <br>
 **Jason Wei**, Arief Suriawinata, Louis Vaickus, Bing Ren, Xiaoying Liu, Mikhail Lisovsky, Naofumi Tomita, Behnaz Abdollahi, Adam Kim, Dale Snover, John Baron, Elizabeth Barry, Saeed Hassanpour
 
 ------

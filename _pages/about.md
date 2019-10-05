@@ -24,7 +24,7 @@ I'm currently a software engineering intern at <a href="https://www.doordash.com
 
 <b>Generative Image Translation for Data Augmentation in Colorectal Histopathology Images</b><br>
 Jerry Wei, Arief Suriawinata, Louis Vaickus, Bing Ren, Xiaoying Liu, **Jason Wei**, Saeed Hassanpour<br>
-*NeurIPS ML4H Workshop 2019*
+*NeurIPS ML4H Workshop 2019* (acceptance rate: 19/111 = 17%)
 
 <a href="https://www.nature.com/articles/s41598-019-40041-7" style="color:#5656a2" target="_blank"><b>Pathologist-level Classification of Histologic Patterns on Resected Lung Cancer Slides with Deep Neural Networks</b></a> <br>
 **Jason Wei**, Laura Tafe, Yevgeniy Linnik, Louis Vaickus, Naofumi Tomita, Saeed Hassanpour  

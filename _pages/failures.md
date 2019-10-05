@@ -8,7 +8,9 @@ author_profile: true
 {% include base_path %}
 
 2019
-* Paper rejected from JAMA, Nature Medicine
+* Rejected from Benchling and Figma after phone interviews
+* Rejected from Neeva, Coda, and Robinhood after onsite interviews
+* Paper rejected from JAMA, Nature Medicine, Nature Communications
 * Paper rejected from ACL
 * Paper rejected from NAACL, ACL, EMNLP-IJCNLP
 * Paper rejected from CVPR
@@ -19,6 +21,8 @@ author_profile: true
 * Paper rejected from Gut
 
 2016
+* Rejected from 6 acapella groups
+* Rejected from Dartmouth Club Tennis
 * Rejected from Caltech
 
 I'm not specifying paper titles because other co-authors might not want their rejections listed.

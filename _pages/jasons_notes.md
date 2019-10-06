@@ -31,4 +31,7 @@ Recommendation Systems Papers
 * [Recommendation systems](/files/IMG_3585.JPG) [(Book)](http://infolab.stanford.edu/~ullman/mmds/ch9.pdf)
 * [Factorization machines](/files/IMG_3584.JPG) [(Paper)](https://www.csie.ntu.edu.tw/~b97053/paper/Rendle2010FM.pdf)
 * [Recs for mobile apps with HITS algorithm with association rules](/files/IMG_3584.JPG) [(Paper)](https://ieeexplore.ieee.org/document/8779623?denied=)
-
+* [SimRank](/files/IMG_3589.JPG) [(Paper)](http://ilpubs.stanford.edu:8090/508/1/2001-41.pdf)
+* [Statistical methods for recommender systems](/files/IMG_3590.JPG) [(Book)](https://www.amazon.com/Statistical-Methods-Recommender-Systems-Agarwal/dp/1107036070)
+* [Item-to-item collaborative filtering](/files/IMG_3591.JPG) [(Paper)](https://www.cs.umd.edu/~samir/498/Amazon-Recommendations.pdf)
+* [Node2Vec](/files/IMG_3592.JPG) [(Paper)](https://cs.stanford.edu/~jure/pubs/node2vec-kdd16.pdf)

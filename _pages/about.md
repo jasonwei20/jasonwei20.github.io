@@ -19,33 +19,33 @@ I'm currently a software engineering intern at <a href="https://www.doordash.com
 
 <a href="http://arxiv.org/abs/1901.11196" style="color:#5656a2" target="_blank"><b>EDA: Easy Data Augmentation Techniques for Boosting Performance on Text Classification Tasks</b></a> <br>
 **Jason Wei**, Kai Zou  
-*EMNLP-IJCNLP 2019* 
-<a href="https://github.com/jasonwei20/eda_nlp" style="color:#5656a2" target="_blank"><b>[Github]</b></a>
+*EMNLP-IJCNLP 2019* <br>
+<a href="https://github.com/jasonwei20/eda_nlp" style="color:#5656a2" target="_blank">Github</a>
 <img height="16" src="https://img.shields.io/github/stars/jasonwei20/eda_nlp.svg?logo=github&logoColor=white&colorA=navy&link=https://github.com/jasonwei20/eda_nlp&link=https://github.com/jasonwei20/eda_nlp">
 
-<a href="https://arxiv.org/abs/1910.05827" style="color:#29014B" target="_blank"><b>Generative Image Translation for Data Augmentation in Colorectal Histopathology Images</b></a> <br>
+<a href="https://arxiv.org/abs/1910.05827" style="color:navy" target="_blank"><b>Generative Image Translation for Data Augmentation in Colorectal Histopathology Images</b></a> <br>
 Jerry Wei, Arief Suriawinata, Louis Vaickus, Bing Ren, Xiaoying Liu, **Jason Wei**, Saeed Hassanpour<br>
 *NeurIPS ML4H Workshop 2019* (acceptance rate: 19/111 = 17%) <br>
-<a href="https://github.com/BMIRDS/HistoGAN" style="color:#29014B" target="_blank"><b>[Github]</b></a>
+<a href="https://github.com/BMIRDS/HistoGAN" style="color:navy" target="_blank">[Github]</a>
 <img height="16" src="https://img.shields.io/github/stars/BMIRDS/HistoGAN.svg?logo=github&logoColor=white&colorA=navy&link=https://github.com/BMIRDS/HistoGAN&link=https://github.com/BMIRDS/HistoGAN">
 
-<a href="https://www.nature.com/articles/s41598-019-40041-7" style="color:#29014B" target="_blank"><b>Pathologist-level Classification of Histologic Patterns on Resected Lung Cancer Slides with Deep Neural Networks</b></a> <br>
+<a href="https://www.nature.com/articles/s41598-019-40041-7" style="color:navy" target="_blank"><b>Pathologist-level Classification of Histologic Patterns on Resected Lung Cancer Slides with Deep Neural Networks</b></a> <br>
 **Jason Wei**, Laura Tafe, Yevgeniy Linnik, Louis Vaickus, Naofumi Tomita, Saeed Hassanpour  
-*Scientific Reports (Nature) 2019* 
-<a href="https://github.com/BMIRDS/deepslide" style="color:#29014B" target="_blank"><b>[Github]</b></a> 
+*Scientific Reports (Nature) 2019* <br>
+<a href="https://github.com/BMIRDS/deepslide" style="color:navy" target="_blank">[Github]</a> 
 <img height="16" src="https://img.shields.io/github/stars/BMIRDS/deepslide.svg?logo=github&logoColor=white&colorA=navy&link=https://github.com/BMIRDS/deepslide&link=https://github.com/BMIRDS/deepslide">
 
-<a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/cncy.22099" style="color:#29014B" target="_blank"><b>Automating the Paris System for Urine Cytopathology: A Hybrid Deep Learning and Morphometric Approach</b></a> <br>
+<a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/cncy.22099" style="color:navy" target="_blank"><b>Automating the Paris System for Urine Cytopathology: A Hybrid Deep Learning and Morphometric Approach</b></a> <br>
 Louis Vaickus, Arief Suriawinata, **Jason Wei**, Xiaoying Liu  
 *Cancer Cytopathology 2019*  
 
-<a href="http://www.jpathinformatics.org/article.asp?issn=2153-3539;year=2019;volume=10;issue=1;spage=7;epage=7;aulast=Wei" style="color:#29014B" target="_blank"><b>Automated Detection of Celiac Disease on Duodenal Biopsy Slides: A Deep Learning Approach</b></a> <br>
+<a href="http://www.jpathinformatics.org/article.asp?issn=2153-3539;year=2019;volume=10;issue=1;spage=7;epage=7;aulast=Wei" style="color:navy" target="_blank"><b>Automated Detection of Celiac Disease on Duodenal Biopsy Slides: A Deep Learning Approach</b></a> <br>
 **Jason Wei**, Jerry Wei, Christopher Jackson, Bing Ren, Arief Suriawinata, Saeed Hassanpour  
 *Journal of Pathology Informatics 2019*
 
 ------
 
-<a href="https://arxiv.org/abs/1909.12959" style="color:#29014B" target="_blank"><b>Deep Neural Networks for Automated Classification of Colorectal Polyps on Histopathology Slides: A Multi-Institutional Evaluation</b></a> <br>
+<a href="https://arxiv.org/abs/1909.12959" style="color:navy" target="_blank"><b>Deep Neural Networks for Automated Classification of Colorectal Polyps on Histopathology Slides: A Multi-Institutional Evaluation</b></a> <br>
 **Jason Wei**, Arief Suriawinata, Louis Vaickus, Bing Ren, Xiaoying Liu, Mikhail Lisovsky, Naofumi Tomita, Behnaz Abdollahi, Adam Kim, Dale Snover, John Baron, Elizabeth Barry, Saeed Hassanpour
 
 ------

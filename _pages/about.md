@@ -22,7 +22,7 @@ I'm currently a software engineering intern at <a href="https://www.doordash.com
 *EMNLP-IJCNLP 2019* <a href="https://github.com/jasonwei20/eda_nlp" style="color:navy" target="_blank">[Github]</a>
 <img height="16" src="https://img.shields.io/github/stars/jasonwei20/eda_nlp.svg?logo=github&logoColor=white&colorA=navy&link=https://github.com/jasonwei20/eda_nlp&link=https://github.com/jasonwei20/eda_nlp">
 
-<b>Generative Image Translation for Data Augmentation in Colorectal Histopathology Images</b><br>
+<a href="https://arxiv.org/abs/1910.05827" style="color:#5656a2" target="_blank"><b>Generative Image Translation for Data Augmentation in Colorectal Histopathology Images</b></a> <br>
 Jerry Wei, Arief Suriawinata, Louis Vaickus, Bing Ren, Xiaoying Liu, **Jason Wei**, Saeed Hassanpour<br>
 *NeurIPS ML4H Workshop 2019* (acceptance rate: 19/111 = 17%)
 

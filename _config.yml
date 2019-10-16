@@ -81,9 +81,9 @@ author:
   name             : "Jason Wei"
   avatar           : "me.jpg"
   bio              : "Student at Dartmouth College"
-  location         : "Hanover, NH"
-  employer         :
-  googlescholar    : 
+  location         : 
+  employer         : "DoorDash"
+  googlescholar    : "https://scholar.google.com/citations?user=wA5TK_0AAAAJ&hl=en"
   email            : "jason.weng.wei@gmail.com"
   uri              :
   bitbucket        :

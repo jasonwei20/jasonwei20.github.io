@@ -15,7 +15,7 @@
 
   @include breakpoint($large) {
     @include span(2 of 12);
-    opacity: 0.95;
+    opacity: 0.995;
     -webkit-transition: opacity 0.01s ease-in-out;
             transition: opacity 0.01s ease-in-out;
 

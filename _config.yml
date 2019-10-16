@@ -82,7 +82,7 @@ author:
   avatar           : "me.jpg"
   bio              : "Student at Dartmouth College"
   location         : 
-  employer         : "DoorDash"
+  employer         : 
   googlescholar    : "https://scholar.google.com/citations?user=wA5TK_0AAAAJ&hl=en"
   email            : "jason.weng.wei@gmail.com"
   uri              :
@@ -92,7 +92,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "jasonwei20"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :

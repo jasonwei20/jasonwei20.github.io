@@ -31,13 +31,13 @@ Jerry Wei, Arief Suriawinata, Louis Vaickus, Bing Ren, Xiaoying Liu, **Jason Wei
 
 <a href="https://www.nature.com/articles/s41598-019-40041-7" style="color:#2C2CA8" target="_blank"><b>Pathologist-level Classification of Histologic Patterns on Resected Lung Cancer Slides with Deep Neural Networks</b></a> <br>
 **Jason Wei**, Laura Tafe, Yevgeniy Linnik, Louis Vaickus, Naofumi Tomita, Saeed Hassanpour  
-*Scientific Reports (Nature) 2019* <br>
+*Scientific Reports 2019* <br>
 <a href="https://github.com/BMIRDS/deepslide" style="color:#2C2CA8" target="_blank">[Github]</a> 
 <img height="16" src="https://img.shields.io/github/stars/BMIRDS/deepslide.svg?logo=github&logoColor=white&colorA=navy&link=https://github.com/BMIRDS/deepslide&link=https://github.com/BMIRDS/deepslide">
 
 <a href="https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2753982" style="color:#2C2CA8" target="_blank"><b>Attention-Based Deep Neural Networks for Detection of Cancerous and Precancerous Esophagus Tissue on Histopathological Slides</b></a> <br>
 Naofumi Tomita, Behnaz Abdollahi, **Jason Wei**, Bing Ren, Arief Suriawinata, Saeed Hassanpour
-*JAMA Network Open*
+*JAMA Network Open 2019*
 
 
 <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/cncy.22099" style="color:#2C2CA8" target="_blank"><b>Automating the Paris System for Urine Cytopathology: A Hybrid Deep Learning and Morphometric Approach</b></a> <br>
@@ -69,27 +69,6 @@ Some <a href="https://jasonwei20.github.io/writing_tips/" style="color:navy" tar
   gtag('config', 'UA-146397444-1');
 </script>
 
-
-   
-
-<!-- My <a href="oracle.pdf" style="color:navy" target="_blank">[talk]</a> on deep learning and internet intelligence at Oracle.  -->
-
-<!-- My research is in deep learning for medical image analysis, advised by <a href="https://www.hassanpourlab.com/" style="color:navy" target="_blank">Saeed Hassanpour</a>. More specifically, I work on visual analysis of histopathology images and enjoy solving problems using small data. I occasionally do natural language processing. -->
-
-
-<!-- **Finding a Needle in the Haystack: Attention-Based Classification of High Resolution Microscopy Images**  
-Naofumi Tomita, Behnaz Abdollahi, **Jason Wei**, Bing Ren, Arief Suriawinata, Saeed Hassanpour  
-<a href="https://arxiv.org/abs/1811.08513" style="color:navy" target="_blank">[paper]</a>
- -->
-
-
-<!-- My advisor is <a href="https://www.hassanpourlab.com/" style="color:navy" target="_blank">Saeed Hassanpour</a>. 
- -->
-<!-- Since June 2017, I have been working part-time at Protago Labs, an artificial intelligence start-up based in Tysons Corner, Virginia.  -->
-
-<!-- I am a 2019 <a href="https://news.dartmouth.edu/news/2019/05/three-undergraduates-win-national-scholarships" style="color:navy" target="_blank">Barry Goldwater Scholar</a>!  -->
-
-<!-- I recently published a paper in <a href="https://www.nature.com/articles/s41598-019-40041-7?fbclid=IwAR2_A-a6I5q-01xjDzme1gPmynB5KtWvdMMqILhoLE1vTmx8cXDuIhniht4" style="color:navy" target="_blank">Nature Scientific Reports</a> called *Pathologist-level classification of histologic patterns on resected lung adenocarcinoma slides with deep neural networks*. -->
 
 <!-- 
 My timeline: 

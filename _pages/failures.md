@@ -9,12 +9,12 @@ author_profile: true
 
 2019
 * Rejected from Benchling and Figma after phone interviews
-* Rejected from Neeva, Coda, and Robinhood after onsite interviews
-* Paper rejected from JAMA, Nature Medicine, Nature Communications
+* Rejected from Neeva, Coda, Robinhood, Affirm after onsite interviews
+* Paper rejected from JAMA, Nature Medicine, Nature Communications, npj Digital Medicine
 * Paper rejected from ACL
 * Paper rejected from NAACL, ACL, EMNLP-IJCNLP
-* Paper rejected from CVPR
-* Applied to 46 internships and received 1 offer
+* Paper rejected from CVPR, JAMIA
+* Applied to 46 internships and received only one offer
 
 2018
 * Paper rejected from Modern Pathology, Cancer Research, Lancet Oncology, Lancet Respiratory Systems, Journal of Thoracic Oncology

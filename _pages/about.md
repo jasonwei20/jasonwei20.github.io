@@ -20,14 +20,13 @@ I'm currently a software engineering intern at <a href="https://www.doordash.com
 <a href="https://www.aclweb.org/anthology/D19-1670.pdf" style="color:#5656a2" target="_blank"><b>EDA: Easy Data Augmentation Techniques for Boosting Performance on Text Classification Tasks</b></a> <br>
 **Jason Wei**, Kai Zou  
 *EMNLP-IJCNLP 2019* <br>
+*ICLR LLD Workshop 2019* <br>
 <a href="https://github.com/jasonwei20/eda_nlp" style="color:#5656a2" target="_blank">[Github]</a>
 <img height="16" src="https://img.shields.io/github/stars/jasonwei20/eda_nlp.svg?logo=github&logoColor=white&colorA=navy&link=https://github.com/jasonwei20/eda_nlp&link=https://github.com/jasonwei20/eda_nlp">
 
 <a href="https://arxiv.org/abs/1910.05827" style="color:#2C2CA8" target="_blank"><b>Generative Image Translation for Data Augmentation in Colorectal Histopathology Images</b></a> <br>
-Jerry Wei, Arief Suriawinata, Louis Vaickus, Bing Ren, Xiaoying Liu, **Jason Wei**, Saeed Hassanpour<br>
-*NeurIPS ML4H Workshop 2019* (acceptance rate: 19/111 = 17%) <br>
-<a href="https://github.com/BMIRDS/HistoGAN" style="color:#2C2CA8" target="_blank">[Github]</a>
-<img height="16" src="https://img.shields.io/github/stars/BMIRDS/HistoGAN.svg?logo=github&logoColor=white&colorA=navy&link=https://github.com/BMIRDS/HistoGAN&link=https://github.com/BMIRDS/HistoGAN">
+Jerry Wei, Arief Suriawinata, Louis Vaickus, Bing Ren, Xiaoying Liu, **Jason Wei**, Saeed Hassanpour  
+*NeurIPS ML4H Workshop 2019*
 
 <a href="https://www.nature.com/articles/s41598-019-40041-7" style="color:#2C2CA8" target="_blank"><b>Pathologist-level Classification of Histologic Patterns on Resected Lung Cancer Slides with Deep Neural Networks</b></a> <br>
 **Jason Wei**, Laura Tafe, Yevgeniy Linnik, Louis Vaickus, Naofumi Tomita, Saeed Hassanpour  
@@ -36,9 +35,8 @@ Jerry Wei, Arief Suriawinata, Louis Vaickus, Bing Ren, Xiaoying Liu, **Jason Wei
 <img height="16" src="https://img.shields.io/github/stars/BMIRDS/deepslide.svg?logo=github&logoColor=white&colorA=navy&link=https://github.com/BMIRDS/deepslide&link=https://github.com/BMIRDS/deepslide">
 
 <a href="https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2753982" style="color:#2C2CA8" target="_blank"><b>Attention-Based Deep Neural Networks for Detection of Cancerous and Precancerous Esophagus Tissue on Histopathological Slides</b></a> <br>
-Naofumi Tomita, Behnaz Abdollahi, **Jason Wei**, Bing Ren, Arief Suriawinata, Saeed Hassanpour
+Naofumi Tomita, Behnaz Abdollahi, **Jason Wei**, Bing Ren, Arief Suriawinata, Saeed Hassanpour  
 *JAMA Network Open 2019*
-
 
 <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/cncy.22099" style="color:#2C2CA8" target="_blank"><b>Automating the Paris System for Urine Cytopathology: A Hybrid Deep Learning and Morphometric Approach</b></a> <br>
 Louis Vaickus, Arief Suriawinata, **Jason Wei**, Xiaoying Liu  
@@ -51,7 +49,7 @@ Louis Vaickus, Arief Suriawinata, **Jason Wei**, Xiaoying Liu
 ------
 
 <a href="https://arxiv.org/abs/1909.12959" style="color:#2C2CA8" target="_blank"><b>Deep Neural Networks for Automated Classification of Colorectal Polyps on Histopathology Slides: A Multi-Institutional Evaluation</b></a> <br>
-**Jason Wei**, Arief Suriawinata, Louis Vaickus, Bing Ren, Xiaoying Liu, Mikhail Lisovsky, Naofumi Tomita, Behnaz Abdollahi, Adam Kim, Dale Snover, John Baron, Elizabeth Barry, Saeed Hassanpour
+**Jason Wei**, Arief Suriawinata, Louis Vaickus, Bing Ren, Xiaoying Liu, Mikhail Lisovsky, Naofumi Tomita, Behnaz Abdollahi, Adam Kim, Dale Snover, John Baron, Elizabeth Barry, Saeed Hassanpour  
 
 ------
 

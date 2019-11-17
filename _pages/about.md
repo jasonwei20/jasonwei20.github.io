@@ -20,7 +20,6 @@ I'm currently a software engineering intern at <a href="https://www.doordash.com
 <a href="https://www.aclweb.org/anthology/D19-1670.pdf" style="color:#5656a2" target="_blank"><b>EDA: Easy Data Augmentation Techniques for Boosting Performance on Text Classification Tasks</b></a> <br>
 **Jason Wei**, Kai Zou  
 *EMNLP-IJCNLP 2019* <br>
-*ICLR LLD Workshop 2019* <br>
 <a href="https://github.com/jasonwei20/eda_nlp" style="color:#5656a2" target="_blank">[Github]</a>
 <img height="16" src="https://img.shields.io/github/stars/jasonwei20/eda_nlp.svg?logo=github&logoColor=white&colorA=navy&link=https://github.com/jasonwei20/eda_nlp&link=https://github.com/jasonwei20/eda_nlp">
 

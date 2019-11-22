@@ -80,7 +80,8 @@ analytics:
 author:
   name             : "Jason Wei"
   avatar           : "me.jpg"
-  bio              : "jason.20@dartmouth.edu"
+  bio              : "Dartmouth College"
+  textemail        : "jason.20@dartmouth.edu"
   location         : 
   employer         : 
   googlescholar    : "https://scholar.google.com/citations?user=wA5TK_0AAAAJ&hl=en"

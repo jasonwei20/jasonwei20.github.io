@@ -7,6 +7,9 @@ author_profile: true
 
 {% include base_path %}
 
+*   Hong Kong (Nov 3-8)
+    *   K9 mall, Victoria Peak (Nov 4)
+    *   Tian Tan Buddha, Disneyland (Nov 6)
 *   Seattle (Sep 18-19)
     *   Bellevue
 *   San Francisco (Jun 23 - Sep 15, 2019)

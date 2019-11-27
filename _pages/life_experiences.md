@@ -8,6 +8,7 @@ author_profile: true
 {% include base_path %}
 
 2019
+* **Nov 4:** Exploring Hong Kong
 * **Aug 17:** Tubing at Lake Tahoe
 * **Jul 20:** Hitch-hiking at Yosemite
 * **May 5-9:** Attending my first machine learning conference (ICLR)

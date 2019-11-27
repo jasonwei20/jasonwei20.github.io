@@ -32,7 +32,7 @@ Youtube
 * [Alpha M](https://www.youtube.com/user/AlphaMconsulting)
 
 Music
-* Queen
+* [Queen](https://www.youtube.com/watch?v=aA2IRoPFIn0)
 * [Lady Gaga](https://www.youtube.com/watch?v=etjiqgU0_lI)
 
 Quotes

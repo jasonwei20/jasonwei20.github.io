@@ -27,7 +27,7 @@ I'm currently a software engineering intern at <a href="https://www.doordash.com
 Jerry Wei, Arief Suriawinata, Louis Vaickus, Bing Ren, Xiaoying Liu, **Jason Wei**, Saeed Hassanpour  
 *NeurIPS ML4H Workshop 2019*
 
-<a href="https://www.nature.com/articles/s41598-019-40041-7" style="color:#2C2CA8" target="_blank"><b>Pathologist-level Classification of Histologic Patterns on Resected Lung Cancer Slides with Deep Neural Networks</b></a> <br>
+<a href="https://www.nature.com/articles/s41598-019-40041-7" style="color:#2C2CA8" target="_blank"><b>Pathologist-level Classification of Histologic Patterns on Resected Lung Adenocarcinoma Slides with Deep Neural Networks</b></a> <br>
 **Jason Wei**, Laura Tafe, Yevgeniy Linnik, Louis Vaickus, Naofumi Tomita, Saeed Hassanpour  
 *Scientific Reports 2019* <br>
 <a href="https://github.com/BMIRDS/deepslide" style="color:#2C2CA8" target="_blank">[Github]</a> 

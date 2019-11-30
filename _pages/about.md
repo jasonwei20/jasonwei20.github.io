@@ -15,7 +15,7 @@ I'm currently a software engineering intern at <a href="https://www.doordash.com
 
 ------
 
-# Papers
+# Selected Papers
 
 <a href="https://www.aclweb.org/anthology/D19-1670.pdf" style="color:#5656a2" target="_blank"><b>EDA: Easy Data Augmentation Techniques for Boosting Performance on Text Classification Tasks</b></a> <br>
 **Jason Wei**, Kai Zou  
@@ -23,15 +23,23 @@ I'm currently a software engineering intern at <a href="https://www.doordash.com
 <a href="https://github.com/jasonwei20/eda_nlp" style="color:#5656a2" target="_blank">[Github]</a>
 <img height="16" src="https://img.shields.io/github/stars/jasonwei20/eda_nlp.svg?logo=github&logoColor=white&colorA=navy&link=https://github.com/jasonwei20/eda_nlp&link=https://github.com/jasonwei20/eda_nlp">
 
-<a href="https://arxiv.org/abs/1910.05827" style="color:#2C2CA8" target="_blank"><b>Generative Image Translation for Data Augmentation in Colorectal Histopathology Images</b></a> <br>
-Jerry Wei, Arief Suriawinata, Louis Vaickus, Bing Ren, Xiaoying Liu, **Jason Wei**, Saeed Hassanpour  
-*NeurIPS ML4H Workshop 2019*
-
 <a href="https://www.nature.com/articles/s41598-019-40041-7" style="color:#2C2CA8" target="_blank"><b>Pathologist-level Classification of Histologic Patterns on Resected Lung Adenocarcinoma Slides with Deep Neural Networks</b></a> <br>
 **Jason Wei**, Laura Tafe, Yevgeniy Linnik, Louis Vaickus, Naofumi Tomita, Saeed Hassanpour  
 *Scientific Reports 2019* <br>
 <a href="https://github.com/BMIRDS/deepslide" style="color:#2C2CA8" target="_blank">[Github]</a> 
 <img height="16" src="https://img.shields.io/github/stars/BMIRDS/deepslide.svg?logo=github&logoColor=white&colorA=navy&link=https://github.com/BMIRDS/deepslide&link=https://github.com/BMIRDS/deepslide">
+
+# 2020
+
+<a href="https://arxiv.org/abs/1911.07368" style="color:#2C2CA8" target="_blank"><b>Predicting Colorectal Polyp Recurrence using Time-to-Event Analysis of Medical Records</b></a> <br>
+Lia Harrington, **Jason Wei**, Arief Suriawinata, Todd Mackensie, Saeed Hassanpour  
+*AMIA Informatics Summit 2020*
+
+# 2019
+
+<a href="https://arxiv.org/abs/1910.05827" style="color:#2C2CA8" target="_blank"><b>Generative Image Translation for Data Augmentation in Colorectal Histopathology Images</b></a> <br>
+Jerry Wei, Arief Suriawinata, Louis Vaickus, Bing Ren, Xiaoying Liu, **Jason Wei**, Saeed Hassanpour  
+*NeurIPS ML4H Workshop 2019*
 
 <a href="https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2753982" style="color:#2C2CA8" target="_blank"><b>Attention-Based Deep Neural Networks for Detection of Cancerous and Precancerous Esophagus Tissue on Histopathological Slides</b></a> <br>
 Naofumi Tomita, Behnaz Abdollahi, **Jason Wei**, Bing Ren, Arief Suriawinata, Saeed Hassanpour  

@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 *   Hong Kong (Nov 3-8)
-    *   K9 mall, Victoria Peak (Nov 4)
+    *   K11 mall, Victoria Peak (Nov 4)
     *   Tian Tan Buddha, Disneyland (Nov 6)
 *   Seattle (Sep 18-19)
     *   Bellevue

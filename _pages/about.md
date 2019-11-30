@@ -15,7 +15,7 @@ I'm currently a software engineering intern at <a href="https://www.doordash.com
 
 ------
 
-# Selected Papers
+## Selected Papers
 
 <a href="https://www.aclweb.org/anthology/D19-1670.pdf" style="color:#5656a2" target="_blank"><b>EDA: Easy Data Augmentation Techniques for Boosting Performance on Text Classification Tasks</b></a> <br>
 **Jason Wei**, Kai Zou  
@@ -29,13 +29,15 @@ I'm currently a software engineering intern at <a href="https://www.doordash.com
 <a href="https://github.com/BMIRDS/deepslide" style="color:#2C2CA8" target="_blank">[Github]</a> 
 <img height="16" src="https://img.shields.io/github/stars/BMIRDS/deepslide.svg?logo=github&logoColor=white&colorA=navy&link=https://github.com/BMIRDS/deepslide&link=https://github.com/BMIRDS/deepslide">
 
-# 2020
+------
+
+## 2020
 
 <a href="https://arxiv.org/abs/1911.07368" style="color:#2C2CA8" target="_blank"><b>Predicting Colorectal Polyp Recurrence using Time-to-Event Analysis of Medical Records</b></a> <br>
 Lia Harrington, **Jason Wei**, Arief Suriawinata, Todd Mackensie, Saeed Hassanpour  
 *AMIA Informatics Summit 2020*
 
-# 2019
+## 2019
 
 <a href="https://arxiv.org/abs/1910.05827" style="color:#2C2CA8" target="_blank"><b>Generative Image Translation for Data Augmentation in Colorectal Histopathology Images</b></a> <br>
 Jerry Wei, Arief Suriawinata, Louis Vaickus, Bing Ren, Xiaoying Liu, **Jason Wei**, Saeed Hassanpour  

@@ -7,21 +7,23 @@ author_profile: true
 
 {% include base_path %}
 
-*   Hong Kong (Nov 3-8)
+*   Canada (Dec 12-14, 2019)
+    *   Vancouver
+*   Hong Kong (Nov 3-8, 2019)
     *   K11 mall, Victoria Peak (Nov 4)
     *   Tian Tan Buddha, Disneyland (Nov 6)
-*   Seattle (Sep 18-19)
+*   Seattle (Sep 18-19, 2019)
     *   Bellevue
-*   San Francisco (Jun 23 - Sep 15, 2019)
+*   San Francisco (Jun 23 - Sep 15, Sep 30 - Dec 21, 2019)
     *   **Yosemite National Park** (July 20)
     *   Marin (July 15)
     *   Fisherman's Wharf (July 4)
     *   Muir Woods (June 29)
     *   Kabuki Springs and Spa (June 28)
 *   Louisiana (May 5-9, 2019)
-    *   New Orleans (May 5-9)
+    *   New Orleans
 *   Canada (Apr 26-28, 2019)
-    *   Montreal (Apr 26-28)
+    *   Montreal
 *   Arizona (Dec 20-25, 2018)
     *   Vermillion Cliffs (Dec 24)
     *   Antelope Canyon (Dec 23)

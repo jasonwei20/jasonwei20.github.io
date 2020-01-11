@@ -9,7 +9,7 @@ redirect_from:
   - /research/
 ---
 
-Hi. My name is Jason. I'm a fourth-year computer science major at <a href="https://home.dartmouth.edu/" style="color:#006400" target="_blank">Dartmouth College</a>. 
+Hi. My name is Jason. I'm a fourth-year computer science major at <a href="https://home.dartmouth.edu/" style="color:#006400" target="_blank">Dartmouth College</a>. I am currently doing a senior thesis with <a href="https://www.cs.dartmouth.edu/~lorenzo/home.html" style="color:#006400" target="_blank">Lorenzo Torresani</a>.
 
 I previously interned at <a href="https://www.doordash.com/" style="color:#FF4500" target="_blank">DoorDash</a> and <a href="https://blend.com/" style="color:#357EC7" target="_blank">Blend</a>.
 

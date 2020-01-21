@@ -30,6 +30,9 @@ I previously interned at <a href="https://www.doordash.com/" style="color:#FF450
 <img height="16" src="https://img.shields.io/github/stars/BMIRDS/deepslide.svg?logo=github&logoColor=white&colorA=navy&link=https://github.com/BMIRDS/deepslide&link=https://github.com/BMIRDS/deepslide">
 
 # 2020
+<a style="color:#5656a2" target="_blank"><b>Narrative Origin Classification of Israeli-Palestinian Conflict Texts</b></a> <br>
+**Jason Wei**, Eugene Santos Jr.
+*FLAIRS 2019*
 
 <a href="https://arxiv.org/abs/1911.07368" style="color:#2C2CA8" target="_blank"><b>Predicting Colorectal Polyp Recurrence using Time-to-Event Analysis of Medical Records</b></a> <br>
 Lia Harrington, **Jason Wei**, Arief Suriawinata, Todd Mackensie, Saeed Hassanpour  

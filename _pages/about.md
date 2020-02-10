@@ -23,7 +23,7 @@ I previously interned at <a href="https://www.doordash.com/" style="color:#FF450
 <a href="https://github.com/jasonwei20/eda_nlp" style="color:#5656a2" target="_blank">[Github]</a>
 <img height="16" src="https://img.shields.io/github/stars/jasonwei20/eda_nlp.svg?logo=github&logoColor=white&colorA=navy&link=https://github.com/jasonwei20/eda_nlp&link=https://github.com/jasonwei20/eda_nlp">
 
-<a href="https://www.nature.com/articles/s41598-019-40041-7" style="color:#2C2CA8" target="_blank"><b>Pathologist-level Classification of Histologic Patterns on Resected Lung Adenocarcinoma Slides with Deep Neural Networks</b></a>  
+<a href="https://www.nature.com/articles/s41598-019-40041-7" style="color:#2C2CA8" target="_blank"><b>Pathologist-Level Classification of Histologic Patterns on Resected Lung Adenocarcinoma Slides with Deep Neural Networks</b></a>  
 **Jason Wei**, Laura Tafe, Yevgeniy Linnik, Louis Vaickus, Naofumi Tomita, Saeed Hassanpour  
 *Scientific Reports 2019*  
 <a href="https://github.com/BMIRDS/deepslide" style="color:#2C2CA8" target="_blank">[Github]</a> 

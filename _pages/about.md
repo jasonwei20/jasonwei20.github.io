@@ -36,7 +36,7 @@ Jerry Wei, Arief Suriawinata, Louis Vaickus, Bing Ren, Xiaoying Liu, **Jason Wei
 # 2020
 <a style="color:#5656a2" target="_blank"><b>Narrative Origin Classification of Israeli-Palestinian Conflict Texts</b></a>  
 **Jason Wei**, <a href="http://di2ag.thayer.dartmouth.edu/~eugene/" style="color:#5656a2" target="_blank">Eugene Santos Jr.</a>  
-*FLAIRS 2020 (oral)*
+*FLAIRS 2020 (Oral)*
 
 <a href="https://arxiv.org/abs/1911.07368" style="color:#2C2CA8" target="_blank"><b>Predicting Colorectal Polyp Recurrence using Time-to-Event Analysis of Medical Records</b></a>  
 Lia Harrington, **Jason Wei**, Arief Suriawinata, Todd Mackensie, Saeed Hassanpour  

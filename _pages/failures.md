@@ -7,9 +7,12 @@ author_profile: true
 
 {% include base_path %}
 
+2020
+* Rejected from PhD programs at Princeton, University of Washington, Stanford, MIT, CMU
+
 2019
 * Rejected from Benchling and Figma after phone interviews
-* Rejected from Neeva, Coda, Robinhood, Affirm after onsite interviews
+* Rejected from Neeva, Coda, Robinhood, Affirm, Palantir after onsite interviews
 * Paper rejected from JAMA, Nature Medicine, Nature Communications, npj Digital Medicine
 * Paper rejected from ACL
 * Paper rejected from NAACL, ACL, EMNLP-IJCNLP
@@ -21,7 +24,7 @@ author_profile: true
 * Paper rejected from Gut
 
 2016
-* Rejected from 6 acapella groups
+* Rejected from all acapella groups
 * Rejected from Dartmouth Club Tennis
 * Rejected from Caltech
 

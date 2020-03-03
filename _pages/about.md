@@ -29,20 +29,16 @@ I previously interned at <a href="https://www.doordash.com/" style="color:#FF450
 <a href="https://github.com/BMIRDS/deepslide" style="color:#2C2CA8" target="_blank">[Github]</a> 
 <img height="16" src="https://img.shields.io/github/stars/BMIRDS/deepslide.svg?logo=github&logoColor=white&colorA=navy&link=https://github.com/BMIRDS/deepslide&link=https://github.com/BMIRDS/deepslide">
 
-<a href="https://arxiv.org/abs/1910.05827" style="color:#2C2CA8" target="_blank"><b>Generative Image Translation for Data Augmentation in Colorectal Histopathology Images</b></a>  
-Jerry Wei, Arief Suriawinata, Louis Vaickus, Bing Ren, Xiaoying Liu, **Jason Wei**, Saeed Hassanpour  
-*NeurIPS ML4H Workshop 2019* <a href="https://slideslive.com/38921879/machine-learning-for-health-ml4h-what-makes-machine-learning-in-medicine-different-2?t=3360s" style="color:#357EC7" target="_blank"><b>[Oral]</b></a>
-
 # 2020
 <a style="color:#5656a2" target="_blank"><b>Narrative Origin Classification of Israeli-Palestinian Conflict Texts</b></a>  
 **Jason Wei**, <a href="http://di2ag.thayer.dartmouth.edu/~eugene/" style="color:#5656a2" target="_blank">Eugene Santos Jr.</a>  
 *FLAIRS 2020 (Oral)*
 
-<a href="https://arxiv.org/abs/1911.07368" style="color:#2C2CA8" target="_blank"><b>Predicting Colorectal Polyp Recurrence using Time-to-Event Analysis of Medical Records</b></a>  
-Lia Harrington, **Jason Wei**, Arief Suriawinata, Todd Mackensie, Saeed Hassanpour  
-*AMIA Informatics Summit 2020*
-
 # 2019
+
+<a href="https://arxiv.org/abs/1910.05827" style="color:#2C2CA8" target="_blank"><b>Generative Image Translation for Data Augmentation in Colorectal Histopathology Images</b></a>  
+Jerry Wei, Arief Suriawinata, Louis Vaickus, Bing Ren, Xiaoying Liu, **Jason Wei**, Saeed Hassanpour  
+*NeurIPS ML4H Workshop 2019* <a href="https://slideslive.com/38921879/machine-learning-for-health-ml4h-what-makes-machine-learning-in-medicine-different-2?t=3360s" style="color:#357EC7" target="_blank"><b>[Oral]</b></a>
 
 <a href="https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2753982" style="color:#2C2CA8" target="_blank"><b>Attention-Based Deep Neural Networks for Detection of Cancerous and Precancerous Esophagus Tissue on Histopathological Slides</b></a>  
 Naofumi Tomita, Behnaz Abdollahi, **Jason Wei**, Bing Ren, Arief Suriawinata, Saeed Hassanpour  

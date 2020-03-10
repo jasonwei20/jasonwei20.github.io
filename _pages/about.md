@@ -38,7 +38,7 @@ I previously interned at <a href="https://www.doordash.com/" style="color:#FF450
 
 <a href="https://arxiv.org/abs/1910.05827" style="color:#2C2CA8" target="_blank"><b>Generative Image Translation for Data Augmentation in Colorectal Histopathology Images</b></a>  
 Jerry Wei, Arief Suriawinata, Louis Vaickus, Bing Ren, Xiaoying Liu, **Jason Wei**, Saeed Hassanpour  
-*NeurIPS ML4H Workshop 2019* <a href="https://slideslive.com/38921879/machine-learning-for-health-ml4h-what-makes-machine-learning-in-medicine-different-2?t=3360s" style="color:#357EC7" target="_blank"><b>[Oral]</b></a>
+*NeurIPS ML4H Workshop 2019* <a href="https://slideslive.com/38923239/spotlight-paper-talks?t=1095" style="color:#357EC7" target="_blank"><b>[Oral]</b></a>
 
 <a href="https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2753982" style="color:#2C2CA8" target="_blank"><b>Attention-Based Deep Neural Networks for Detection of Cancerous and Precancerous Esophagus Tissue on Histopathological Slides</b></a>  
 Naofumi Tomita, Behnaz Abdollahi, **Jason Wei**, Bing Ren, Arief Suriawinata, Saeed Hassanpour  

@@ -7,11 +7,17 @@ author_profile: true
 
 {% include base_path %}
 
+*   Los Angeles (Mar 4-6, 2020)
+    *   University of Southern California, Santa Monica Pier (March 5)
+    *   Venice Beach, Information Sciences Institute, Institute for Creative Technologies (March 6)
+*   Pittsburgh (Feb 25-28, 2020)
+    *   Carnegie Mellon University Language Technologies Institute
 *   Canada (Dec 12-14, 2019)
     *   Vancouver
 *   Hong Kong (Nov 3-8, 2019)
     *   K11 mall, Victoria Peak (Nov 4)
     *   Tian Tan Buddha, Disneyland (Nov 6)
+    *   Citygate, **Paradise Dynasty Restaurant** (Nov 7) 
 *   Seattle (Sep 18-19, 2019)
     *   Bellevue
 *   San Francisco (Jun 23 - Sep 15, Sep 30 - Dec 21, 2019)
@@ -53,3 +59,7 @@ author_profile: true
     *   **Gullfoss**, Northern Lights at **Laugarvatn Fontana Geothermal Baths** (Dec 4)
     *   Þingvellir National Park, Bruarfoss (Dec 3)
     *   Reykjavik, **Blue Lagoon** (Dec 2)
+
+*   Places I've Called Home
+    * Hanover, New Hampshire, 1 Webster Avenue (Sep 2016 - Jun 2020)
+    * Herndon, Virginia (? - Sep 2016)

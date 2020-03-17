@@ -8,6 +8,7 @@ author_profile: true
 {% include base_path %}
 
 2019
+* **Dec 13:** Seeing my brother give a talk at a NeurIPS workshop
 * **Nov 4:** Exploring Hong Kong
 * **Aug 17:** Tubing at Lake Tahoe
 * **Jul 20:** Hitch-hiking at Yosemite

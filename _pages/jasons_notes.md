@@ -14,8 +14,8 @@ Papers:
 
 
 Basic Machine Learning:
-
-
+* [Logistic Regression](/files/logistic_regression_notes.pdf)
+* [Gradient Descent for Logistic Regression](/files/IMG_3902.JPG)
 
 Computer Science
 * [Algorithms](/files/algo_notes.pdf)

@@ -12,10 +12,10 @@ Papers:
 * Elmo
 * BERT
 
-
-Basic Machine Learning:
-* [Logistic Regression](/files/logistic_regression_notes.pdf)
-* [Gradient Descent for Logistic Regression](/files/IMG_3902.JPG)
+Deep Learning Concepts:
+* [Logistic regression](/files/logistic_regression_notes.pdf)
+* [Gradient descent for logistic regression](/files/IMG_3902.JPG)
+* [Regularization, activation functions, initialization, optimization, batch norm](/files/improving_neural_nets_notes.pdf)
 
 Computer Science
 * [Algorithms](/files/algo_notes.pdf)

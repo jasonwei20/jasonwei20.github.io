@@ -1,8 +1,7 @@
 # I wrote this from scratch, so there's no guarantee that this is right. -Jason, March 2020
 
-import random
-random.seed(42)
 import numpy as np
+np.random.seed(42)
 
 def sigmoid(x):
     return 1/(1+np.exp(-x))

@@ -10,10 +10,12 @@ Deep Learning
 2. [Backprop for logistic regression](/files/IMG_3902.JPG)
 3. [Backprop for a two-layer neural net](/files/IMG_3903.JPG)
 4. [Regularization, activation functions, initialization, optimization, batch norm](/files/improving_neural_nets_notes.pdf)
+5. [Convolutional neural nets](/files/convnet_notes.pdf)
 
 Machine Learning
-1. [Decision Trees and Random Forests](/files/IMG_3905.JPG)
-2. [Support Vector Machines and Kernels](/files/IMG_3904.JPG)
+1. [Decision trees and random forests](/files/IMG_3905.JPG)
+2. [Support vector machines and kernels](/files/IMG_3904.JPG)
+3. [K-means](/files/kmeans.pdf)
 
 Computer Science
 * [Algorithms](/files/algo_notes.pdf)

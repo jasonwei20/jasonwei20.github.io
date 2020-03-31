@@ -20,6 +20,8 @@ Machine Learning
 Computer Science
 * [Algorithms](/files/algo_notes.pdf)
 
+Most of my ML/DL notes are from Andrew Ng's *Deep Learning* and *Machine Learning* Coursera courses. I also really liked *Hands-On Machine Learning with Scikit-Learn and Tensorflow* by Aurelien Geron.
+
 <!-- Vision Papers
 * [Cooperative learning of audio and visual models](/files/IMG_3579.JPG) [(Paper)](http://vlg.cs.dartmouth.edu/projects/avts/)
 * [Self-supervised feature learning for sematic segementation of overhead imagery](/files/IMG_3580.JPG) [(Paper)](http://bmvc2018.org/contents/papers/0345.pdf)

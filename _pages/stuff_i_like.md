@@ -37,9 +37,24 @@ Music
 * [Queen](https://www.youtube.com/watch?v=aA2IRoPFIn0)
 * [Lady Gaga](https://www.youtube.com/watch?v=etjiqgU0_lI)
 
+Food
+* Breakfast: oatmeal, egg white, avocado, protein shake
+* Protein: salmon, chicken, pork tenderloin, ground turkey, ground beef
+* Vegetables: broccoli, spinach, tomato, brussel sprouts, asparagus, carrots
+* Carbs: rice, potatoes, yams
+* Fruit: banana, berries, clementines, greek yogurt, peanut butter, almonds
+* Supplements: whey protein, creatine, BCAA, caffeine pill, melatonin
+
 Quotes
 * *"We can do better."* - [The Good Doctor Season 3 Episode 2](https://tvmoviefix.com/the-good-doctor-season-3-episode-2-debts-recap-review-spoilers/)
 * *"If something is nonsense, you say it and say it loud. You will be harmed a little but will be antifragile — in the long run people who need to trust you will trust you."* -[Nassim Taleb](https://medium.com/@nntaleb/commencement-address-american-university-in-beirut-2016-a5c6d57984b).
 * *"Step off the treadmill that has been put before you."* -[Andrej Karpathy](http://karpathy.github.io/2016/09/07/phd/)
 * *"Rather than love, than money, than fame, give me truth."* -Henry David Thoreau
+* *"Don't just work hard at your job. Work hard at everything."* -Jake Tapper
 
+Tennis Players
+* Nick Kyrgios
+* Novak Djokovic
+
+Jason's Timeless Slang
+* Scrub, chump, bugger, rats, kid, unsung hero, acquired taste, I suppose

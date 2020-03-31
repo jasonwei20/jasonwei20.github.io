@@ -9,7 +9,8 @@ Deep Learning
 1. [Logistic regression](/files/logistic_regression_notes.pdf)
 2. [Backprop for logistic regression](/files/IMG_3902.JPG)
 3. [Backprop for a two-layer neural net](/files/IMG_3903.JPG)
-4. [Deriving Backprop](/files/deriving_backprop.pdf)
+4. [Deriving backprop](/files/deriving_backprop.pdf)
+5. [A pure numpy neural net in less than 200 lines (code)](https://github.com/jasonwei20/jasonwei20.github.io/blob/master/code/numpy_neural_net.py)
 5. [Regularization, activation functions, initialization, optimization, batch norm](/files/improving_neural_nets_notes.pdf)
 6. [Convolutional neural nets](/files/convnet_notes.pdf)
 

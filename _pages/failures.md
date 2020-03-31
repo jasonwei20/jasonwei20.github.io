@@ -1,11 +1,13 @@
 ---
 layout: archive
-title: "Embrace Failure"
+title: "Embrace Behind-Events"
 permalink: /failures/
 author_profile: true
 ---
 
 {% include base_path %}
+
+This page used to be called "Embrace Failure," but instead, we can call them [*ahead* and *behind* events](https://www.youtube.com/watch?v=cocbJtGk9s8). 
 
 2020
 * Rejected from PhD programs at Princeton, University of Washington, Stanford, MIT, CMU
@@ -17,7 +19,7 @@ author_profile: true
 * Paper rejected from ACL
 * Paper rejected from NAACL, ACL, EMNLP-IJCNLP
 * Paper rejected from CVPR, JAMIA
-* Applied to 46 internships and received only one offer
+* Rejected or no response from 46 summer internship applications
 
 2018
 * Paper rejected from Modern Pathology, Cancer Research, Lancet Oncology, Lancet Respiratory Systems, Journal of Thoracic Oncology
@@ -29,3 +31,11 @@ author_profile: true
 * Rejected from Caltech
 
 I'm not specifying paper titles because other co-authors might not want their rejections listed.
+
+My list of successes is much shorter:
+* 2020: Got an AI residency offer at Google
+* 2020: PhD offer from USC, Master's offers from CMU, Cambridge, Oxford
+* 2019: First paper accepted to EMNLP
+* 2019: Got an internship offer at Blend
+* 2016: Got in Dartmouth and UChicago
+* 2014: Got an SAT score my parents were OK with

@@ -8,19 +8,21 @@ author_profile: true
 {% include base_path %}
 
 Books
-* *The Subtle Art of Not Giving a F\*ck* by Mark Manson
-* *Deep Work* by Cal Newport
-* *Man's Search for Meaning* by Viktor Frankl
-* *When Breathe Becomes Air* by Paul Kalanithi
-* *The Catcher in the Rye* by JD Salinger
+* Sam Harris: *Waking Up*
+* Mark Manson: *The Subtle Art of Not Giving a F\*ck*
+* Cal Newport: *Deep Work*
+* Viktor Frankl: *Man's Search for Meaning* 
+* Paul Kalanithi: *When Breathe Becomes Air* 
+* JD Salinger: *The Catcher in the Rye*
 
 Movies
-* Fast and Furious Franchise
+* The Fast and Furious Franchise
 * The Imitation Game
 * Titanic
 
 TV Shows
 * Sherlock
+* Killing Eve
 * The Good Doctor
 * Grey's Anatomy
 

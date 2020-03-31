@@ -70,7 +70,7 @@ def init_layers(nn_architecture, seed=1):
 def forward(A_prev, W_curr, b_curr, activation):
 
 	activation_func = get_activation(activation)
-	Z_curr = np.dot(W_curr, A_prev) * b_curr
+	Z_curr = np.dot(W_curr, A_prev) + b_curr
 	A_curr = activation_func(Z_curr)
 
 	return A_curr, Z_curr
@@ -97,10 +97,11 @@ def network_forward(X, params_values, nn_architecture):
 def backprop(dA_curr, W_curr, b_curr, Z_curr, A_prev, activation):
 	m = A_prev.shape[1]
 
+	# this will use the chain rule: dZ = dA * g'(Z)
 	backward_activation_func = get_activation(activation)
 
-	# how much the output should change (dZ_curr) 
-	# is the product of:
+	# how much the outputs should change (dZ_curr) 
+	# is the product of
 	# (1) how much the activated output should change (dA_curr) 
 	# (2) (the derivative of the activation function) applied to Z_curr
 	dZ_curr = backward_activation_func(dA_curr, Z_curr)

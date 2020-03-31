@@ -25,8 +25,7 @@ def backward(a0, a1, a2, y, z1):
     dw2 = np.dot(a1.T, dz2)         # (4, 1) * (1, 2) = (4, 2)
     db2 = dz2                       # (1, 2)
 
-    da1 = np.dot(dz2, w2.T)         # (1, 2) * (2, 4) = (1, 4)
-    dz1 = da1 * sigmoid_deriv(z1)   # (1, 4)
+    da1 = np.dot(dz2, w2.T)         # (1, 2) * (2, 4) = (1, 4)                                                                                                                                                                                                                                                                                                                                                                                                                           = da1 * sigmoid_deriv(z1)   # (1, 4)
     dw1 = np.dot(a0.T, dz1)         # (3, 1) * (1, 4) = (3, 4)
     db1 = dz1                       # (1, 4)
 

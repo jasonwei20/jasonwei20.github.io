@@ -9,8 +9,9 @@ Deep Learning
 1. [Logistic regression](/files/logistic_regression_notes.pdf)
 2. [Backprop for logistic regression](/files/IMG_3902.JPG)
 3. [Backprop for a two-layer neural net](/files/IMG_3903.JPG)
-4. [Regularization, activation functions, initialization, optimization, batch norm](/files/improving_neural_nets_notes.pdf)
-5. [Convolutional neural nets](/files/convnet_notes.pdf)
+4. [Deriving Backprop](/files/deriving_backprop.pdf)
+5. [Regularization, activation functions, initialization, optimization, batch norm](/files/improving_neural_nets_notes.pdf)
+6. [Convolutional neural nets](/files/convnet_notes.pdf)
 
 Machine Learning
 1. [Decision trees and random forests](/files/IMG_3905.JPG)
@@ -20,7 +21,7 @@ Machine Learning
 Computer Science
 * [Algorithms](/files/algo_notes.pdf)
 
-Most of my ML/DL notes are from Andrew Ng's *Deep Learning* and *Machine Learning* Coursera courses. I also really liked *Hands-On Machine Learning with Scikit-Learn and Tensorflow* by Aurelien Geron.
+Most of my ML/DL notes are from Andrew Ng's *Deep Learning* and *Machine Learning* Coursera courses. I also really liked *Hands-On Machine Learning with Scikit-Learn and Tensorflow* by Aurélien Géron.
 
 <!-- Vision Papers
 * [Cooperative learning of audio and visual models](/files/IMG_3579.JPG) [(Paper)](http://vlg.cs.dartmouth.edu/projects/avts/)

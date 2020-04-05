@@ -56,8 +56,8 @@ Louis Vaickus, Arief Suriawinata, **Jason Wei**, Xiaoying Liu
 
 ------
 
-Some <a href="https://jasonwei20.github.io/writing_tips/" style="color:navy">[tips]</a> for writing papers that I compiled.  
-My <a href="https://jasonwei20.github.io/notes/" style="color:navy">[notes]</a> on papers I've read. 
+Some <a href="https://jasonwei20.github.io/writing_tips/" style="color:navy">tips</a> for writing papers that I compiled.  
+My <a href="https://jasonwei20.github.io/notes/" style="color:navy">notes</a> on papers I've read. 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-146397444-1"></script>

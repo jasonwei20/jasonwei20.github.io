@@ -16,10 +16,9 @@ I previously interned at <a href="https://www.doordash.com/" style="color:#FF450
 ------
 
 # Selected Papers
-
 <a href="https://www.aclweb.org/anthology/D19-1670.pdf" style="color:#5656a2" target="_blank"><b>EDA: Easy Data Augmentation Techniques for Boosting Performance on Text Classification Tasks</b></a>  
 **Jason Wei**, Kai Zou  
-*EMNLP-IJCNLP 2019* <br>
+*Conference on Empirical Methods in Natural Language Processing (EMNLP-IJCNLP) 2019* <br>
 <a href="https://github.com/jasonwei20/eda_nlp" style="color:#5656a2" target="_blank">[Github]</a>
 <img height="16" src="https://img.shields.io/github/stars/jasonwei20/eda_nlp.svg?logo=github&logoColor=white&colorA=navy&link=https://github.com/jasonwei20/eda_nlp&link=https://github.com/jasonwei20/eda_nlp">
 
@@ -30,14 +29,12 @@ I previously interned at <a href="https://www.doordash.com/" style="color:#FF450
 <img height="16" src="https://img.shields.io/github/stars/BMIRDS/deepslide.svg?logo=github&logoColor=white&colorA=navy&link=https://github.com/BMIRDS/deepslide&link=https://github.com/BMIRDS/deepslide">  
 <a href="https://www.nature.com/collections/ghegcgfbdi" style="color:#357EC7" target="_blank"><i>#3 most downloaded of 1024 cancer papers in Scientific Reports in 2019</i></a> 
 
-
 # 2020
 <a style="color:#5656a2" target="_blank"><b>Narrative Origin Classification of Israeli-Palestinian Conflict Texts</b></a>  
 **Jason Wei**, <a href="http://di2ag.thayer.dartmouth.edu/~eugene/" style="color:#5656a2" target="_blank">Eugene Santos Jr.</a>  
-*FLAIRS 2020*
+*Florida Artifical Intelligence Research Society Conference (FLAIRS) 2020*
 
 # 2019
-
 <a href="https://arxiv.org/abs/1910.05827" style="color:#2C2CA8" target="_blank"><b>Generative Image Translation for Data Augmentation in Colorectal Histopathology Images</b></a>  
 Jerry Wei, Arief Suriawinata, Louis Vaickus, Bing Ren, Xiaoying Liu, **Jason Wei**, Saeed Hassanpour  
 *NeurIPS ML4H Workshop 2019* <a href="https://slideslive.com/38923239/spotlight-paper-talks?t=1095" style="color:#357EC7" target="_blank"><b>[Spotlight]</b></a>

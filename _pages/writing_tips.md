@@ -10,6 +10,9 @@ author_profile: true
 I like Andrej Karpathy's, Tom Cormen's, and Sam Greydanus's writing.
 These are some guidelines that I compiled, mostly from other people.
 
+Well-written papers:
+- [Sam Greydanus](https://arxiv.org/pdf/1906.01563.pdf)
+- [Ryan Cotterell](https://arxiv.org/abs/1705.01684.pdf)
 
 
 General writing tips:

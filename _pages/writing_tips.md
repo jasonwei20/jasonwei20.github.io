@@ -13,6 +13,7 @@ These are some guidelines that I compiled, mostly from other people.
 Well-written papers:
 - [Sam Greydanus](https://arxiv.org/pdf/1906.01563.pdf)
 - [Ryan Cotterell](https://arxiv.org/abs/1705.01684.pdf)
+- [Justine Zhang](https://tisjune.github.io/research/)
 
 
 General writing tips:

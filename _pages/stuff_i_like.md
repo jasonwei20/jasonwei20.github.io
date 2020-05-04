@@ -32,6 +32,7 @@ Youtube
 * [ice1cube](https://www.youtube.com/user/ice1cubed)
 * [Bart Kwan](https://www.youtube.com/user/bartkwan)
 * [Alpha M](https://www.youtube.com/user/AlphaMconsulting)
+* [Thomas阿福](https://www.youtube.com/channel/UC689uDf0ryZniKpuSK9ESTw)
 
 Music
 * [Queen](https://www.youtube.com/watch?v=aA2IRoPFIn0)

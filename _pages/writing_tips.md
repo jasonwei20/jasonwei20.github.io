@@ -26,6 +26,7 @@ General writing tips:
 - Don't use *while* when you mean *although*.
 - Use verbs instead of gerunds when possible (the inclusion of -> including)
 - Feel free to be creative, even in academic writing (my own opinion).
+- Calculate -> compute (unless you're using a calculator)
 
 
 
@@ -77,7 +78,7 @@ Easiest reasons for a reviewer to reject you:
 
 
 Need more inspiration?:
-
+- Tom Cormen's <a href="https://www.cs.dartmouth.edu/~cs191/" style="color:navy" target="_blank">writing class</a>.
 - Tom Cormen's <a href="https://www.cs.dartmouth.edu/~thc/Cormen-rules.pdf" style="color:navy" target="_blank">usage rules</a>.
 - Andrej Karpathy's <a href="http://karpathy.github.io/2016/09/07/phd/" style="color:navy" target="_blank">post</a> on PhD tips.
 - <a href="https://greydanus.github.io/about.html" style="color:navy" target="_blank">Sam Greydanus</a>.

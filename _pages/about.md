@@ -34,7 +34,7 @@ I previously interned at <a href="https://www.doordash.com/" style="color:#FF450
 **Jason Wei**, Arief Suriawinata, Louis Vaickus, Bing Ren, Xiaoying Liu, Mikhail Lisovsky, Naofumi Tomita, Behnaz Abdollahi, Adam Kim, Dale Snover, John Baron, Elizabeth Barry, Saeed Hassanpour    
 *JAMA Network Open 2020*  
 
-<a style="color:#7d49ab" target="_blank"><b>Narrative Origin Classification of Israeli-Palestinian Conflict Texts</b></a>  
+<a href="https://www.aaai.org/ocs/index.php/FLAIRS/FLAIRS20/paper/view/18443" style="color:#7d49ab" target="_blank"><b>Narrative Origin Classification of Israeli-Palestinian Conflict Texts</b></a>  
 **Jason Wei**, <a href="http://di2ag.thayer.dartmouth.edu/~eugene/" style="color:#7d49ab" target="_blank">Eugene Santos Jr.</a>  
 *Florida Artifical Intelligence Research Society Conference (FLAIRS) 2020*
 

@@ -4,7 +4,7 @@ permalink: /personal/
 author_profile: true
 ---
 
-As an undergraduate at Dartmouth, I joined the <a href="https://en.wikipedia.org/wiki/Kappa_Kappa_Kappa" style="color:navy" target="_blank">Tri-Kap</a> fraternity. In Fall 2018, I studied abroad in <a href="https://jasonwei20.github.io/posts/2018/12/blog-post-7/" style="color:navy" target="_blank">Denmark</a>.
+As an undergraduate at Dartmouth, I joined the <a href="https://en.wikipedia.org/wiki/Kappa_Kappa_Kappa" style="color:navy" target="_blank">Tri-Kap</a> fraternity. In Fall 2018, I studied abroad at the Technical University of <a href="https://jasonwei20.github.io/posts/2018/12/blog-post-7/" style="color:navy" target="_blank">Denmark</a>.
 
 I was also on the club fencing team at Dartmouth. We won <a href="http://www.thedartmouth.com/article/2018/04/dartmouth-fencing-club" style="color:navy" target="_blank">first</a> at club nationals at Knoxville, TN in 2018 and second at club nationals at Lansing, MI in 2017.
 

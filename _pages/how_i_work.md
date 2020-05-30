@@ -37,3 +37,12 @@ Looking at online profiles/twitter accounts of other researchers
 Looking at previous stuff that I wrote because it has cool formatting or I like the sound of my own writing
 Applying to jobs/positions that you aren't super interested in
 Close tabs that you aren't looking at
+
+# Principles of research
+Creativity
+First-principles thinking
+Intensity
+Simplicity
+Honesty
+Depth of analysis
+Long-term vision: Play the long game

@@ -19,6 +19,14 @@ Machine Learning
 2. [Support vector machines and kernels](/files/IMG_3904.JPG)
 3. [K-means](/files/kmeans.pdf)
 
+To do
+1. Word embeddings
+2. LSTM
+3. Attention
+4. Transformers
+5. BERT
+6. XLNet
+
 Computer Science
 * [Algorithms](/files/algo_notes.pdf)
 

@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "My Favorite Recipies"
-permalink: /recipies/
+permalink: /recipes/
 author_profile: true
 ---
 

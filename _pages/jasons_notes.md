@@ -15,24 +15,24 @@ Deep Learning
 6. [Convolutional neural nets](/files/cnns.pdf)
 7. [Recurrent neural nets](/files/rnns.pdf)
 
-Machine Learning
-1. [Decision trees and random forests](/files/IMG_3905.JPG)
-2. [Support vector machines and kernels](/files/IMG_3904.JPG)
-3. [K-means](/files/k-means.pdf)
-
 NLP
 1. [Word embeddings](/files/word_embeddings.pdf)
 2. [Attention](/files/attention.pdf)
 3. [Transformers](/files/transformers.pdf)
 4. [BERT](/files/bert.pdf)
 
+Machine Learning
+1. [Decision trees and random forests](/files/IMG_3905.JPG)
+2. [Support vector machines and kernels](/files/IMG_3904.JPG)
+3. [*k*-means](/files/k-means.pdf)
+
+Computer Science
+* [Algorithms](/files/algo_notes.pdf)
+
 To do
 1. XLNet
 2. BART
 3. SimCLR
-
-Computer Science
-* [Algorithms](/files/algo_notes.pdf)
 
 Most of my ML/DL notes are from Andrew Ng's *Deep Learning* and *Machine Learning* Coursera courses. I also really liked *Hands-On Machine Learning with Scikit-Learn and Tensorflow* by Aurélien Géron.
 

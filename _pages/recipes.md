@@ -7,10 +7,10 @@ author_profile: true
 
 {% include base_path %}
 
-Tomato and Egg Pork Meatball Soup
+Mom's Tomato Pork Meatball Soup
 1. Cook rice
-2. Mix pork meatballs with salt, ginger powder, green onion, cooking wine, corn starch, and egg white
-3. Cook tomatoes with a touch of olive oil and salt
+2. Mix pork meatballs with garlic salt, ginger powder, green onion, cooking wine, corn starch, and egg white
+3. Cook tomatoes with a touch of olive oil and garlic salt
 4. Once cooked, add water and boil
 5. Add in pork meatballs
 6. Add in broccoli
@@ -26,4 +26,6 @@ Jason's deluxe sandwich
 * Arugula
 * Mayo and Sriracha Sauce
 
-鱼香肉丝
+To do:
+* 鱼香肉丝
+

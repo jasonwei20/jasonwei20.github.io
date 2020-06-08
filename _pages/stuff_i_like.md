@@ -38,7 +38,7 @@ Music
 * [Queen](https://www.youtube.com/watch?v=aA2IRoPFIn0)
 * [Lady Gaga](https://www.youtube.com/watch?v=etjiqgU0_lI)
 
-Food
+Food [my favorite recipes](https://jasonwei20.github.io/recipes/)
 * Breakfast: oatmeal, egg white, avocado, protein shake
 * Protein: salmon, chicken, pork tenderloin, ground turkey, ground beef
 * Vegetables: broccoli, spinach, tomato, brussel sprouts, asparagus, carrots

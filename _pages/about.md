@@ -17,9 +17,9 @@ I previously interned at <a href="https://www.doordash.com/" style="color:#FF450
 
 # Selected Papers
 
-<a href="https://jasonwei20.github.io/files/undergrad_thesis.pdf" style="color:#7d49ab" target="_blank"><b>Label Noise Reduction Without Assumptions</b></a>  
+<a href="https://www.cs.dartmouth.edu/~trdata/reports/TR2020-899.pdf" style="color:#7d49ab" target="_blank"><b>Label Noise Reduction Without Assumptions</b></a>  
 **Jason Wei**  
-*Dartmouth Undergraduate Thesis* (Advisor: <a href="https://www.cs.dartmouth.edu/~lorenzo/home.html" style="color:#7d49ab" target="_blank">Lorenzo Torresani</a>) <br>
+*Dartmouth Undergraduate Thesis 2020* (Advisor: <a href="https://www.cs.dartmouth.edu/~lorenzo/home.html" style="color:#7d49ab" target="_blank">Lorenzo Torresani</a>) <br>
 
 <a href="https://www.aclweb.org/anthology/D19-1670.pdf" style="color:#7d49ab" target="_blank"><b>EDA: Easy Data Augmentation Techniques for Boosting Performance on Text Classification Tasks</b></a>  
 **Jason Wei**, Kai Zou  

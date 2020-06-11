@@ -19,6 +19,6 @@ Moreover, in the highlight of my career so far, an admitted student I met at the
 I have talked to scores of people about these techniques at conferences, interviews, and open house days, and yet I still do not know why no one tried them before me (that I know of). 
 (If anyone knows, please send me a message.)
 Hopefully they can be useful for your research.
-If not, I hope this paper can at least be helpful to the struggling researcher in a different way, perhaps best explained by Stephen King's bestseller on creative writing, *On Writing* (apologies for his crudeness).
+If not, I hope this paper can at least be helpful to the aspiring researcher in a different way, perhaps best explained by Stephen King in his bestseller on creative writing, *On Writing* (apologies for his crudeness).
 
  > "Almost everyone can remember losing his or her virginity, and most writers can remember the first book he/she put down thinking: *I can do better than this. Hell, I am doing better than this.* What could be more encouraging to the struggling writer than to realize his/her work is unquestionably better than that of someone who actually got paid for his/her stuff?"

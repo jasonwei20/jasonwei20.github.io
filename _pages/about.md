@@ -40,6 +40,7 @@ I previously interned at <a href="https://www.doordash.com/" style="color:#FF450
 <a href="https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2764906" style="color:#0300c4" target="_blank"><b>Evaluation of a Deep Neural Network for Automated Classification of Colorectal Polyps on Histopathologic Slides</b></a>  
 **Jason Wei**, Arief Suriawinata, Louis Vaickus, Bing Ren, Xiaoying Liu, Mikhail Lisovsky, Naofumi Tomita, Behnaz Abdollahi, Adam Kim, Dale Snover, John Baron, Elizabeth Barry, Saeed Hassanpour    
 *JAMA Network Open 2020*  
+<a href="https://neukom.dartmouth.edu/research/neukom-research-prizes/2020-neukom-research-prize-winners" style="color:#357EC7" target="_blank"><i>Neukom Prize for Outstanding Undergraduate Research, 3rd place</i></a> 
 
 <a href="https://www.aaai.org/ocs/index.php/FLAIRS/FLAIRS20/paper/view/18443" style="color:#7d49ab" target="_blank"><b>Narrative Origin Classification of Israeli-Palestinian Conflict Texts</b></a>  
 **Jason Wei**, <a href="http://di2ag.thayer.dartmouth.edu/~eugene/" style="color:#7d49ab" target="_blank">Eugene Santos Jr.</a>  

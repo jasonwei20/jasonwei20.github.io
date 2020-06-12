@@ -13,7 +13,7 @@ I did this paper from start to finish in about five weeks.
 I was only 20 at the time&mdash;not even old enough to have a beer in the US&mdash;and frankly, I had not a clue how a transformer worked.
 
 But by most metrics, this paper is pretty good. 
-It was accepted to EMNLP 2019 with three positive reviews, and at the time that I write this addendum, it has more than 50 citations and 600+ stars on Github.
+It was accepted to EMNLP with three positive reviews, and at the time that I write this addendum, it has more than 50 citations and 600+ stars on Github.
 Moreover, in the highlight of my career so far, an admitted student I met at the MLT Open House at CMU this spring asked if I wrote "the EDA paper" and if I went to "Brown (or was it UPenn?)," and then proceeded to call my work "kind-of a famous paper."
 
 I have talked to scores of people about these techniques at conferences, interviews, and open house days, and yet I still do not know why no one tried them before me (that I know of). 

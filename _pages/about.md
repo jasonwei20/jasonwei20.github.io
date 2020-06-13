@@ -36,35 +36,9 @@ I previously interned at <a href="https://www.doordash.com/" style="color:#FF450
 <img height="16" src="https://img.shields.io/github/stars/BMIRDS/deepslide.svg?logo=github&logoColor=white&colorA=navy&link=https://github.com/BMIRDS/deepslide&link=https://github.com/BMIRDS/deepslide">  
 <a href="https://www.nature.com/collections/ghegcgfbdi" style="color:#357EC7" target="_blank"><i>#3 most downloaded of 1024 cancer papers in Scientific Reports in 2019</i></a> 
 
-# 2020
-<a href="https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2764906" style="color:#0300c4" target="_blank"><b>Evaluation of a Deep Neural Network for Automated Classification of Colorectal Polyps on Histopathologic Slides</b></a>  
-**Jason Wei**, Arief Suriawinata, Louis Vaickus, Bing Ren, Xiaoying Liu, Mikhail Lisovsky, Naofumi Tomita, Behnaz Abdollahi, Adam Kim, Dale Snover, John Baron, Elizabeth Barry, Saeed Hassanpour    
-*JAMA Network Open 2020*  
-<a href="https://neukom.dartmouth.edu/research/neukom-research-prizes/2020-neukom-research-prize-winners" style="color:#357EC7" target="_blank"><i>Neukom Prize for Outstanding Undergraduate Research, 3rd place</i></a> 
-
-<a href="https://www.aaai.org/ocs/index.php/FLAIRS/FLAIRS20/paper/view/18443" style="color:#7d49ab" target="_blank"><b>Narrative Origin Classification of Israeli-Palestinian Conflict Texts</b></a>  
-**Jason Wei**, <a href="http://di2ag.thayer.dartmouth.edu/~eugene/" style="color:#7d49ab" target="_blank">Eugene Santos Jr.</a>  
-*Florida Artifical Intelligence Research Society Conference (FLAIRS) 2020*
-
-# 2019
-<a href="https://arxiv.org/abs/1910.05827" style="color:#0300c4" target="_blank"><b>Generative Image Translation for Data Augmentation in Colorectal Histopathology Images</b></a>  
-Jerry Wei, Arief Suriawinata, Louis Vaickus, Bing Ren, Xiaoying Liu, **Jason Wei**, Saeed Hassanpour  
-*Machine Learning for Health Workshop at NeurIPS (ML4H) 2019* <a href="https://slideslive.com/38923239/spotlight-paper-talks?t=1095" style="color:#357EC7" target="_blank"><b>[Spotlight]</b></a>
-
-<a href="https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2753982" style="color:#0300c4" target="_blank"><b>Attention-Based Deep Neural Networks for Detection of Cancerous and Precancerous Esophagus Tissue on Histopathological Slides</b></a>  
-Naofumi Tomita, Behnaz Abdollahi, **Jason Wei**, Bing Ren, Arief Suriawinata, Saeed Hassanpour  
-*JAMA Network Open 2019*
-
-<a href="http://www.jpathinformatics.org/article.asp?issn=2153-3539;year=2019;volume=10;issue=1;spage=7;epage=7;aulast=Wei" style="color:#0300c4" target="_blank"><b>Automated Detection of Celiac Disease on Duodenal Biopsy Slides: A Deep Learning Approach</b></a>  
-**Jason Wei**, Jerry Wei, Christopher Jackson, Bing Ren, Arief Suriawinata, Saeed Hassanpour  
-*Journal of Pathology Informatics 2019*
-
-<a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/cncy.22099" style="color:#0300c4" target="_blank"><b>Automating the Paris System for Urine Cytopathology: A Hybrid Deep Learning and Morphometric Approach</b></a>  
-Louis Vaickus, Arief Suriawinata, **Jason Wei**, Xiaoying Liu  
-*Cancer Cytopathology 2019*  
-
 ------
 
+My <a href="https://jasonwei20.github.io/papers/" style="color:navy">All papers</a>.  
 Some <a href="https://jasonwei20.github.io/writing_tips/" style="color:navy">tips</a> for writing papers that I compiled.  
 My <a href="https://jasonwei20.github.io/notes/" style="color:navy">notes</a> on papers I've read. 
 

@@ -32,6 +32,7 @@ General paper tips
 - You should make your code and data available, if possible.
 - All your references should have links. (Otherwise, how am I supposed to find it? -Tom Cormen)
 - After you finish your first draft, go through the entire paper and delete any unncessary words. Also check all the prepositions to make sure they're correct.
+- I suggest listing your specific contribution(s) in the introduction of the paper. It doesn't seem like a big deal when it is there, but if a reviewer has a hard time following your paper and figuring out what the main contribution is, that's a big problem.
 
 Figures and tables
 - Include a pull figure on the first page to give the reader an idea of what the paper will be about.

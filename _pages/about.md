@@ -9,9 +9,9 @@ redirect_from:
   - /research/
 ---
 
-Hi. My name is Jason. I'm a fourth-year computer science major at Dartmouth College. I am currently doing a senior thesis with <a href="https://www.cs.dartmouth.edu/~lorenzo/home.html" style="color:#006400" target="_blank">Lorenzo Torresani</a>.
+My name is Jason Wei. I mostly work on machine learning and NLP nowadays, but I still can't resist the occasional medical image analysis project. 
 
-I previously interned at <a href="https://www.doordash.com/" style="color:#FF4500" target="_blank">DoorDash</a> and <a href="https://blend.com/" style="color:#357EC7" target="_blank">Blend</a>.
+I graduated from Dartmouth College in 2020 with the AB in Computer Science. Starting Fall 2020, I will be an [AI Resident](https://research.google/careers/ai-residency/) at the Google NLU group in New York. 
 
 ------
 
@@ -26,8 +26,7 @@ I previously interned at <a href="https://www.doordash.com/" style="color:#FF450
 *Conference on Empirical Methods in Natural Language Processing (EMNLP-IJCNLP) 2019* <br>
 <a href="https://jasonwei20.github.io/addendum_eda/" style="color:#7d49ab" target="_blank">[Addendum]</a>
 <a href="https://github.com/jasonwei20/eda_nlp" style="color:#7d49ab" target="_blank">[Github]</a>
-<img height="16" src="https://img.shields.io/github/stars/jasonwei20/eda_nlp.svg?logo=github&logoColor=white&colorA=navy&link=https://github.com/jasonwei20/eda_nlp&link=https://github.com/jasonwei20/eda_nlp">
-
+<img height="16" src="https://img.shields.io/github/stars/jasonwei20/eda_nlp.svg?logo=github&logoColor=white&colorA=navy&link=https://github.com/jasonwei20/eda_nlp&link=https://github.com/jasonwei20/eda_nlp">  
 
 <a href="https://www.nature.com/articles/s41598-019-40041-7" style="color:#7d49ab" target="_blank"><b>Pathologist-Level Classification of Histologic Patterns on Resected Lung Adenocarcinoma Slides with Deep Neural Networks</b></a>  
 **Jason Wei**, Laura Tafe, Yevgeniy Linnik, Louis Vaickus, Naofumi Tomita, <a href="https://www.hassanpourlab.com/" style="color:#7d49ab" target="_blank">Saeed Hassanpour</a>    
@@ -52,6 +51,7 @@ My <a href="https://jasonwei20.github.io/notes/" style="color:navy">notes</a> on
   gtag('config', 'UA-146397444-1');
 </script>
 
+<!-- I previously interned at <a href="https://www.doordash.com/" style="color:#FF4500" target="_blank">DoorDash</a> and <a href="https://blend.com/" style="color:#357EC7" target="_blank">Blend</a>. -->
 
 <!-- 
 My timeline: 

@@ -9,9 +9,9 @@ redirect_from:
   - /research/
 ---
 
-My name is Jason Wei. I mostly work on machine learning and NLP nowadays, but I still can't resist the occasional medical image analysis project. 
+My name is Jason Wei. I mostly work on machine learning and NLP nowadays, but I can't resist the occasional medical image analysis project. 
 
-I graduated from Dartmouth College in 2020 with the AB in Computer Science. Starting Fall 2020, I will be an [AI Resident](https://research.google/careers/ai-residency/) at the Google NLU group in New York. 
+I graduated from Dartmouth College in 2020 with the AB in Computer Science. Starting Fall 2020, I will be an <a href="https://research.google/careers/ai-residency/" style="color:#7d49ab" target="_blank">AI Resident</a> at the Google NLU group in New York. 
 
 ------
 
@@ -37,7 +37,7 @@ I graduated from Dartmouth College in 2020 with the AB in Computer Science. Star
 
 ------
 
-<a href="https://jasonwei20.github.io/papers/" style="color:navy">All papers</a>.  
+<a href="https://jasonwei20.github.io/papers/" style="color:navy">List</a> of all papers.  
 Some <a href="https://jasonwei20.github.io/writing_tips/" style="color:navy">tips</a> for writing papers that I compiled.  
 My <a href="https://jasonwei20.github.io/notes/" style="color:navy">notes</a> on papers I've read. 
 

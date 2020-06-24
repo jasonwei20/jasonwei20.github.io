@@ -5,8 +5,6 @@ permalink: /stuff_i_like/
 author_profile: true
 ---
 
-{% include base_path %}
-
 Books
 * *On Writing* by Steven King
 * *Waking Up* by Sam Harris

@@ -5,8 +5,6 @@ permalink: /writing_tips/
 author_profile: true
 ---
 
-{% include base_path %}
-
 These are some guidelines that I compiled, mostly lifted from Tom Cormen's <a href="https://www.cs.dartmouth.edu/~cs191/" style="color:navy" target="_blank">Technical Writing in CS class</a>.
 
 General writing tips

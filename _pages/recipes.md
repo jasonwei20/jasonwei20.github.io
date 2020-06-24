@@ -5,16 +5,14 @@ permalink: /recipes/
 author_profile: true
 ---
 
-{% include base_path %}
-
 Mom's Tomato Pork Meatball Soup
-1. Cook rice
-2. Mix pork meatballs with garlic salt, ginger powder, green onion, cooking wine, corn starch, and egg white
-3. Cook tomatoes with a touch of olive oil and garlic salt
-4. Once cooked, add water and boil
-5. Add in pork meatballs
-6. Add in broccoli
-7. Add in eggs
+* Cook rice
+* Mix pork meatballs with garlic salt, ginger powder, green onion, cooking wine, corn starch, and egg white
+* Cook tomatoes with a touch of olive oil and garlic salt
+* Once cooked, add water and boil
+* Add in pork meatballs
+* Add in broccoli
+* Add in eggs
 
 Jason's deluxe sandwich
 * Sourdough bread, toasted
@@ -25,6 +23,10 @@ Jason's deluxe sandwich
 * Onions cooked with Red Fresno Pepper
 * Arugula
 * Mayo and Sriracha Sauce
+
+Salmon
+* Add garlic salt, steak seasoning, olive oil, and a hint of rosemary
+* Air fry for about 17 minutes
 
 To do:
 * 鱼香肉丝

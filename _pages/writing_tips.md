@@ -20,6 +20,7 @@ General writing tips
 - Use verbs instead of gerunds when possible (the inclusion of -> including).
 - Feel free to be creative, even in academic writing (my own opinion).
 - Use *compute* instead of *calculate*. 
+- New information should come later in the sentence (or table). 
 
 General paper tips
 - Take elements from top conference papers that you like and try to incorporate them into your own paper, if applicable.
@@ -45,6 +46,8 @@ Jason's list of nicely used words (but use them correctly)
 - I had used all the tricks in my "how to look like an adult" *arsenal* -Jerry Wei
 - He could not *marshall* any evidence to support his argument. -Sam Harris
 - One can easily be *seduced* into thinking that CGT can immediately deliver similar breakthroughs. -George Cybenko
+- Augmented examples *dominate* the training distribution. -Me
+- Accepting that original and augmented distributions might differ *liberates* us to apply stronger levels of data augmentation. -Me
 <!-- - Beauty -->
 
 Tips specific to applied ML/DL papers in medical journals

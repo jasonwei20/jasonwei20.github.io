@@ -37,6 +37,7 @@ Looking at online profiles/twitter accounts of other researchers
 Looking at previous stuff that I wrote because it has cool formatting or I like the sound of my own writing
 Applying to jobs/positions that you aren't super interested in
 Close tabs that you aren't looking at
+Admiring your LaTeX stuff
 
 # Principles of research
 Creativity

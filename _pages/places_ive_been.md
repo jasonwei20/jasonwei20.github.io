@@ -1,5 +1,4 @@
 ---
-layout: archive
 title: "Places I've Been To"
 permalink: /places_ive_been/
 author_profile: true

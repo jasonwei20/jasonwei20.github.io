@@ -1,5 +1,4 @@
 ---
-layout: archive
 title: "Jason's Notes"
 permalink: /notes/
 author_profile: true

@@ -1,5 +1,4 @@
 ---
-layout: archive
 title: "My Research Values"
 permalink: /research_values/
 author_profile: true

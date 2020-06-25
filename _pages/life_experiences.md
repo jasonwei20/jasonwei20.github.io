@@ -1,11 +1,8 @@
 ---
-layout: archive
 title: "Experiences that were transformative, memorable, or just really, really fun"
 permalink: /life_experiences/
 author_profile: true
 ---
-
-{% include base_path %}
 
 2019
 * **Dec 13:** Seeing my brother give a talk at a NeurIPS workshop

@@ -1,5 +1,4 @@
 ---
-layout: archive
 title: "Stuff that I like"
 permalink: /stuff_i_like/
 author_profile: true

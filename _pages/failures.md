@@ -1,5 +1,4 @@
 ---
-layout: archive
 title: "Embrace Behind-Events"
 permalink: /failures/
 author_profile: true

@@ -1,5 +1,4 @@
 ---
-layout: archive
 title: "My Favorite Recipies"
 permalink: /recipes/
 author_profile: true

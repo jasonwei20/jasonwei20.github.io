@@ -1,5 +1,4 @@
 ---
-layout: archive
 title: "Addendum on EDA: Easy Data Augmentation Techniques for Boosting Performance on Text Classification"
 permalink: /addendum_eda/
 author_profile: true

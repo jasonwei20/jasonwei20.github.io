@@ -1,5 +1,4 @@
 ---
-layout: archive
 title: "Writing Tips"
 permalink: /writing_tips/
 author_profile: true

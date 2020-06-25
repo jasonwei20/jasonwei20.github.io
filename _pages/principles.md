@@ -1,5 +1,4 @@
 ---
-layout: archive
 title: "Principles of Time"
 permalink: /principles/
 author_profile: true

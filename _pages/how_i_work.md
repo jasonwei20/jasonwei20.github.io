@@ -1,5 +1,4 @@
 ---
-layout: archive
 title: "How I Work"
 permalink: /how_i_work/
 author_profile: true

@@ -30,8 +30,8 @@ Food [(my favorite recipes)](https://jasonwei20.github.io/recipes/)
 * **Supplements**: whey protein, creatine, BCAA, caffeine pill, melatonin
 
 Quotes
-* *"You’re the average of the five people spend the most time with."* - Jim Rohn
-* *"We can do better."* - [The Good Doctor Season 3 Episode 2](https://tvmoviefix.com/the-good-doctor-season-3-episode-2-debts-recap-review-spoilers/)
+* *"You’re the average of the five people spend the most time with."* -Jim Rohn
+* *"We can do better."* -[The Good Doctor Season 3 Episode 2](https://tvmoviefix.com/the-good-doctor-season-3-episode-2-debts-recap-review-spoilers/)
 * *"If something is nonsense, you say it and say it loud. You will be harmed a little but will be antifragile — in the long run people who need to trust you will trust you."* -[Nassim Taleb](https://medium.com/@nntaleb/commencement-address-american-university-in-beirut-2016-a5c6d57984b)
 * *"Step off the treadmill that has been put before you."* -[Andrej Karpathy](http://karpathy.github.io/2016/09/07/phd/)
 * *"Rather than love, than money, than fame, give me truth."* -Henry David Thoreau

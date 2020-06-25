@@ -7,10 +7,10 @@ author_profile: true
 1. Honesty
 1. First-principles thinking
 1. Creativity
-1. High-risk
+1. Risk taking
 1. Intensity
 1. Simplicity
 1. Depth of analysis
-1. Long-term vision: play the long game
+1. Sustainability
 
-Updated June 24, 2020.
+Updated June 25, 2020.

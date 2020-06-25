@@ -39,7 +39,8 @@ I graduated from Dartmouth College in 2020 with the AB in Computer Science. Star
 
 <a href="https://jasonwei20.github.io/papers/" style="color:navy">List</a> of all papers.  
 <a href="https://jasonwei20.github.io/writing_tips/" style="color:navy">Tips</a> for writing papers.  
-<a href="https://jasonwei20.github.io/notes/" style="color:navy">Notes</a> on papers I've read. 
+<a href="https://jasonwei20.github.io/notes/" style="color:navy">Notes</a> on papers I've read.   
+My research <a href="https://jasonwei20.github.io/research_values/" style="color:navy">values</a>. 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-146397444-1"></script>

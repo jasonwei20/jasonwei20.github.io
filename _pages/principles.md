@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Principles of Time"
-permalink: /principles_of_time/
+permalink: /principles/
 author_profile: true
 --
 

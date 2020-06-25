@@ -3,7 +3,7 @@ layout: archive
 title: "Principles of Time"
 permalink: /principles/
 author_profile: true
---
+---
 
 *Time* is the only commodity that matters [(Randy Pausch)](https://youtu.be/oTugjssqOT0). So how do we best use it?
 

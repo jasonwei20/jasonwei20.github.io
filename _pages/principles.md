@@ -7,7 +7,7 @@ author_profile: true
 *Time* is the only commodity that matters [(Randy Pausch)](https://youtu.be/oTugjssqOT0). So how do we best use it?
 
 **Working on the right thing.**
-1. You must be passionate about what you're working on. Not sure if you're passionate about it? [Use the F\*ck yes or no rule](https://markmanson.net/fuck-yes). If you haven't found what you're passionate about yet, keep looking (Steve Jobs).
+1. You must be passionate about what you're working on. Not sure if you're passionate about it? Use the [F\*ck yes or no rule](https://markmanson.net/fuck-yes). If you haven't found what you're passionate about yet, keep looking (Steve Jobs).
 1. There are several benefits here:
 	- If you enjoy it, it's no longer work. It's play. Don't you want to play?
 	- When you're not passionate, you'll take the easy way out. But when you love what you're doing, the ideas pour out of your head, you'll actively seek ways to improve, and you just can't stop thinking about it. Passion can be difference between mediocre and exceptional work. 
@@ -45,14 +45,14 @@ author_profile: true
 1. Avoid activities that could get you sick or injure you. Both are bad not only because they take up time but because of their negative effects on attitude and mental health.
 
 **Mental models.**
-1. **Compounding effects.** 
+1. Compounding effects
 	- Small improvements compound over time. 
 	- Play the long game.
-1. **Poker.** 
+1. Poker
 	- Making the best decision based on expected value over the long run. 
 	- You can do everything right but end up losing.
 	- Even if you put a lot of money in the pot, sometimes you have to let it go before you lose more.
-1. **Thinking about opportunity cost.**
+1. Thinking about opportunity cost.
 	- Before spending time on something, think about what you could have been doing instead.
 
 **General advice from others.**
@@ -61,16 +61,25 @@ author_profile: true
 	- Don’t complain, just work harder.
 1. Cal Newport
 	- Fixed schedule productivity: imposing an arbitrary time constraint could force you to adapt within the limits.
-1. The TechLead
+1. [The TechLead](https://www.youtube.com/watch?v=uVqoU2FzBiA)
 	- You are the CEO of your own life. Take ownership. You have nobody to blame but yourself.
 	- Make sure what you do in the evening aligns with the goals that you have.
-	- Success is a lonely road, while failure is a crowded highway.
+	- Success is a lonely road, whereas failure is a crowded highway.
 1. Mark Manson
 	- Bad values: pleasure, material success, being liked by everybody, not being alone. 
 	- Good values: honesty, innovation, vulnerability, curiosity, creativity.
 1. Paul Graham
 	- Meetings kill an entire day of work. (Maker's vs manager's schedule.)
+	- School teaches us to hack bad tests. [Don't hack the system](http://paulgraham.com/lesson.html)---focus on doing good research.
 1. Simon Sinek
 	- Success in the long run is achieved by continuous improvement, measured against oneself.
 1. Jean Liu
 	- Life is supposed to be hard.
+
+**PhD-specific advice from others.**
+1. [A Survival Guide to a PhD](https://karpathy.github.io/2016/09/07/phd/) by Andrej Karpathy.
+1. [10 Tips for Research and a PhD](https://ruder.io/10-tips-for-research-and-a-phd/) by Sebastian Ruder.
+1. [How to Pick Your Grad School](https://timdettmers.com/2020/03/10/how-to-pick-your-grad-school/) by Tim Dettmers. 
+1. [Questions to Ask a Prospective PhD Advisor](https://blog.ml.cmu.edu/2020/03/02/questions-to-ask-a-prospective-ph-d-advisor-on-visit-day-with-thorough-and-forthright-explanations/) by Andrew Kuznetsov. 
+1. [How to be a Successful PhD Student](http://www.cs.jhu.edu/~mdredze/publications/HowtoBeaSuccessfulPhDStudent.1_1.pdf) by Mark Drezde.
+1. [Advice page](http://lunadong.com/advice.htm) by Luna Dong.

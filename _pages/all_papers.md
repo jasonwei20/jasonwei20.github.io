@@ -8,7 +8,8 @@ author_profile: true
 
 <a href="https://www.cs.dartmouth.edu/~trdata/reports/TR2020-899.pdf" style="color:#7d49ab" target="_blank"><b>Label Noise Reduction Without Assumptions</b></a>  
 **Jason Wei**  
-*Dartmouth Undergraduate Thesis 2020* (Advisor: <a href="https://www.cs.dartmouth.edu/~lorenzo/home.html" style="color:#7d49ab" target="_blank">Lorenzo Torresani</a>) <br>  
+*Dartmouth Undergraduate Thesis 2020*  
+Advisor: <a href="https://www.cs.dartmouth.edu/~lorenzo/home.html" style="color:#7d49ab" target="_blank">Lorenzo Torresani</a> <br>  
 
 <a href="https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2764906" style="color:#357EC7" target="_blank"><b>Evaluation of a Deep Neural Network for Automated Classification of Colorectal Polyps on Histopathologic Slides</b></a>  
 **Jason Wei**, Arief Suriawinata, Louis Vaickus, Bing Ren, Xiaoying Liu, Mikhail Lisovsky, Naofumi Tomita, Behnaz Abdollahi, Adam Kim, Dale Snover, John Baron, Elizabeth Barry, <a href="https://www.hassanpourlab.com/" style="color:#357EC7" target="_blank">Saeed Hassanpour</a>    

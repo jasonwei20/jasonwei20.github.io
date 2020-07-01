@@ -6,8 +6,8 @@ author_profile: true
 
 # 2020
 
-<a href="https://arxiv.org/abs/2004.12535" style="color:#357EC7" target="_blank"><b>Difficulty Translation in Colorectal Histopathology Images</b></a>  
-Jerry Wei, Arief Suriawinata, Xiaoying Liu, Bing Ren, Mustafa Nasir-Moin, Naofumi Tomita, **Jason Wei**, Saeed Hassanpour  
+<a href="https://arxiv.org/abs/2004.12535" style="color:#357EC7" target="_blank"><b>Difficulty Translation in Histopathology Images</b></a>  
+Jerry Wei, Arief Suriawinata, Xiaoying Liu, Bing Ren, Mustafa Nasir-Moin, Naofumi Tomita, **Jason Wei**, <a href="https://www.hassanpourlab.com/" style="color:#357EC7" target="_blank">Saeed Hassanpour</a>   
 *International Conference on Artificial Intelligence in Medicine (AIME) 2020* <a style="color:#357EC7" target="_blank"><b>[Oral]</b></a>  
 
 <a href="https://www.cs.dartmouth.edu/~trdata/reports/TR2020-899.pdf" style="color:#7d49ab" target="_blank"><b>Label Noise Reduction Without Assumptions</b></a>  
@@ -16,7 +16,7 @@ Jerry Wei, Arief Suriawinata, Xiaoying Liu, Bing Ren, Mustafa Nasir-Moin, Naofum
 Advisor: <a href="https://www.cs.dartmouth.edu/~lorenzo/home.html" style="color:#7d49ab" target="_blank">Lorenzo Torresani</a> <br>  
 
 <a href="https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2764906" style="color:#357EC7" target="_blank"><b>Evaluation of a Deep Neural Network for Automated Classification of Colorectal Polyps on Histopathologic Slides</b></a>  
-**Jason Wei**, Arief Suriawinata, Louis Vaickus, Bing Ren, Xiaoying Liu, Mikhail Lisovsky, Naofumi Tomita, Behnaz Abdollahi, Adam Kim, Dale Snover, John Baron, Elizabeth Barry, <a href="https://www.hassanpourlab.com/" style="color:#357EC7" target="_blank">Saeed Hassanpour</a>    
+**Jason Wei**, Arief Suriawinata, Louis Vaickus, Bing Ren, Xiaoying Liu, Mikhail Lisovsky, Naofumi Tomita, Behnaz Abdollahi, Adam Kim, Dale Snover, John Baron, Elizabeth Barry, Saeed Hassanpour  
 *JAMA Network Open 2020*  
 <a href="https://neukom.dartmouth.edu/research/neukom-research-prizes/2020-neukom-research-prize-winners" style="color:#357EC7" target="_blank"><i>Neukom Prize for Outstanding Undergraduate Research, 3rd place</i></a>  
 

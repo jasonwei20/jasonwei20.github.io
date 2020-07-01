@@ -28,7 +28,9 @@ Salmon
 * Air fry for about 17 minutes
 
 Jason's Pasta
-* Pasta, onion, tomato, spinach, garlic; meat (sausage, beef meatballs)
+* Pasta cooked for 10 minutes
+* Sauce: Onion, tomato, spinach, garlic with a knob of butter
+* Ground beef with onion, garlic, ginger, chili powder, garlic salt, pepper
 
 To do:
 * 鱼香肉丝

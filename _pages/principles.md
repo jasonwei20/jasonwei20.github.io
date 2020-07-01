@@ -78,6 +78,9 @@ author_profile: true
 1. Captain Sinbad
 	- Break down goals into *five big moves*.
 	- Cultivate what the *ideal you* would do. 
+	- Figure out your life's key result areas and craft a routine around them.
+1. Eddy Chen
+	- Focus on your cicle of influence.
 
 **PhD-specific advice from others.**
 1. [A Survival Guide to a PhD](https://karpathy.github.io/2016/09/07/phd/) by Andrej Karpathy.

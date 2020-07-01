@@ -75,6 +75,9 @@ author_profile: true
 	- Success in the long run is achieved by continuous improvement, measured against oneself.
 1. Jean Liu
 	- Life is supposed to be hard.
+1. Captain Sinbad
+	- Break down goals into *five big moves*.
+	- Cultivate what the *ideal you* would do. 
 
 **PhD-specific advice from others.**
 1. [A Survival Guide to a PhD](https://karpathy.github.io/2016/09/07/phd/) by Andrej Karpathy.

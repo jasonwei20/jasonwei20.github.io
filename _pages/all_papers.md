@@ -8,7 +8,7 @@ author_profile: true
 
 <a href="https://arxiv.org/abs/2004.12535" style="color:#357EC7" target="_blank"><b>Difficulty Translation in Histopathology Images</b></a>  
 Jerry Wei, Arief Suriawinata, Xiaoying Liu, Bing Ren, Mustafa Nasir-Moin, Naofumi Tomita, **Jason Wei**, <a href="https://www.hassanpourlab.com/" style="color:#357EC7" target="_blank">Saeed Hassanpour</a>   
-*International Conference on Artificial Intelligence in Medicine (AIME) 2020* <a style="color:#357EC7" target="_blank"><b>[Oral]</b></a>  
+*Conference on Artificial Intelligence in Medicine (AIME) 2020* <a style="color:#357EC7" target="_blank"><b>[Oral]</b></a>  
 
 <a href="https://www.cs.dartmouth.edu/~trdata/reports/TR2020-899.pdf" style="color:#7d49ab" target="_blank"><b>Label Noise Reduction Without Assumptions</b></a>  
 **Jason Wei**  

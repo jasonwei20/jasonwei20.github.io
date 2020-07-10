@@ -76,7 +76,7 @@ author_profile: true
 1. Jean Liu
 	- Life is supposed to be hard.
 1. Captain Sinbad
-	- Break down goals into *five big moves*.
+	- Break down goals into *five big moves*. My five big moves: work with the best people, ask creative questions, design rigorous studies, code efficiently, and communicate my work clearly, 
 	- Cultivate what the *ideal you* would do. 
 	- Figure out your life's key result areas and craft a routine around them.
 1. Eddy Chen

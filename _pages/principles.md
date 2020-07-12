@@ -55,7 +55,7 @@ author_profile: true
 1. Thinking about opportunity cost.
 	- Before spending time on something, think about what you could have been doing instead.
 
-**General advice from others.**
+**General life advice from others.**
 1. Randy Pausch
 	- Be the *first penguin*. Take big risks.
 	- Don’t complain, just work harder.
@@ -65,6 +65,7 @@ author_profile: true
 	- You are the CEO of your own life. Take ownership. You have nobody to blame but yourself.
 	- Make sure what you do in the evening aligns with the goals that you have.
 	- Success is a lonely road, whereas failure is a crowded highway.
+	- Four core assets: time, health, energy, money. 
 1. Mark Manson
 	- Bad values: pleasure, material success, being liked by everybody, not being alone. 
 	- Good values: honesty, innovation, vulnerability, curiosity, creativity.
@@ -73,16 +74,19 @@ author_profile: true
 	- School teaches us to hack bad tests. [Don't hack the system](http://paulgraham.com/lesson.html)---focus on doing good research.
 1. Simon Sinek
 	- Success in the long run is achieved by continuous improvement, measured against oneself.
-1. Jean Liu
-	- Life is supposed to be hard.
 1. Captain Sinbad
 	- Break down goals into *five big moves*.
 	- Cultivate what the *ideal you* would do. 
 	- Figure out your life's key result areas and craft a routine around them.
+1. [Andrew Kirby](https://www.youtube.com/watch?v=q_xm5Weu3nE)
+	- Think about death. Your life could end at anytime. Are you going to waste a day?
+	- Imagine a *dark* you, a shadow which represents your potential. When you're doing work and want to check your phone, dark you isn't doing that, he's getting ahead on work. When you don't want to go to the gym, dark you goes. 
+1. Jean Liu
+	- Life is supposed to be hard.
 1. Eddy Chen
 	- Focus on your cicle of influence.
 
-**PhD-specific advice from others.**
+**PhD/research advice from others.**
 1. [A Survival Guide to a PhD](https://karpathy.github.io/2016/09/07/phd/) by Andrej Karpathy.
 1. [10 Tips for Research and a PhD](https://ruder.io/10-tips-for-research-and-a-phd/) by Sebastian Ruder.
 1. [How to Pick Your Grad School](https://timdettmers.com/2020/03/10/how-to-pick-your-grad-school/) by Tim Dettmers. 

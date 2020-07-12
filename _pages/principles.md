@@ -75,7 +75,7 @@ author_profile: true
 1. Simon Sinek
 	- Success in the long run is achieved by continuous improvement, measured against oneself.
 1. Captain Sinbad
-	- Break down goals into *five big moves*.
+	- Break down goals into *five big moves*. My five big moves: work with the best people, ask creative questions, design rigorous studies, code efficiently, and communicate my work clearly, 
 	- Cultivate what the *ideal you* would do. 
 	- Figure out your life's key result areas and craft a routine around them.
 1. [Andrew Kirby](https://www.youtube.com/watch?v=q_xm5Weu3nE)

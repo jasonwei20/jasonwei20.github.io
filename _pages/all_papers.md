@@ -25,7 +25,7 @@ Advisor: <a href="https://www.cs.dartmouth.edu/~lorenzo/home.html" style="color:
 *Florida Artifical Intelligence Research Society Conference (FLAIRS) 2020*   
 
 <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7233054/" style="color:#357EC7" target="_blank"><b>Predicting Colorectal Polyp Recurrence Using Time-to-event Analysis of Medical Records</b></a>     
-Lia Harrington, Jason Wei, Arief Suriawinata, Todd Mackenzie, and Saeed Hassanpour    
+Lia Harrington, **Jason Wei**, Arief Suriawinata, Todd Mackenzie, and Saeed Hassanpour    
 *AMIA Informatics Summit 2020*   
 
 # 2019

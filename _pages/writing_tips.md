@@ -39,12 +39,13 @@ Figures and tables
 - Should some tables be represented as graphs?
 - For a multivariate function *z = f(x, y)*, consider using a heatmap. They look colorful.
 
-Jason's list of nicely used words (but use them correctly)
-- I had used all the tricks in my "how to look like an adult" *arsenal* -Jerry Wei
-- He could not *marshall* any evidence to support his argument. -Sam Harris
-- One can easily be *seduced* into thinking that CGT can immediately deliver similar breakthroughs. -George Cybenko
-- Augmented examples *dominate* the training distribution. -Me
-- Accepting that original and augmented distributions might differ *liberates* us to apply stronger levels of data augmentation. -Me
+Jason's list of nicely used words
+- I had used all the tricks in my "how to look like an adult" ***arsenal***. -My brother
+- He could not ***marshall*** any evidence to support his argument. -Sam Harris
+- One can easily be ***seduced*** into thinking that CGT can immediately deliver similar breakthroughs. -George Cybenko
+- It has nothing to do with model complexity and appears ***orthogonal*** to the goal of a probe. -Maudslay et al.
+- Augmented examples ***dominate*** the training distribution. -Me
+- Accepting that original and augmented distributions might differ ***liberates*** us to apply stronger levels of data augmentation. -Me
 <!-- - Beauty -->
 
 Tips specific to applied ML/DL papers in medical journals

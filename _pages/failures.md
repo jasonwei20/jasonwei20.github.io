@@ -37,5 +37,5 @@ As expected, my list of successes is much shorter:
 * 2020: Got an AI residency offer at Google and contractor offer at Facebook
 * 2020: PhD offer from USC, Master's offers from CMU, Cambridge, Oxford
 * 2019: First paper accepted to EMNLP
-* 2016: Got in Dartmouth and UChicago
+* 2015: Got in Dartmouth and UChicago
 * 2014: Got an SAT score my parents were OK with

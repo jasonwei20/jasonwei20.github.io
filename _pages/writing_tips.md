@@ -4,22 +4,21 @@ permalink: /writing_tips/
 author_profile: true
 ---
 
-These are some guidelines that I compiled, mostly lifted from Tom Cormen's <a href="https://www.cs.dartmouth.edu/~cs191/" style="color:navy" target="_blank">Technical Writing in CS class</a>.
+These are some guidelines that I compiled, mostly lifted from Tom Cormen's <a href="https://www.cs.dartmouth.edu/~cs191/" style="color:navy" target="_blank">Technical Writing in CS class</a> and compiled from mistakes that I previously made.
 
-General writing tips
-
+## General writing tips
 - The first sentence in a paragraph should tell me what that paragraph is about.
-- Consider replacing *so* with *and so*. -Tom Cormen
-- The worst place to use *however* is at the beginning of a sentence. -Tom Cormen
-- Use active voice.
-- You can use the word *shall* to sound fancy.
-- Don't use *while* when you mean *although* or *whereas*.
 - Use verbs instead of gerunds when possible (the inclusion of -> including).
-- Feel free to be creative, even in academic writing (my own opinion).
-- Use *compute* instead of *calculate*. 
+- Use active voice.
 - New information should come later in the sentence (or table). 
+- Feel free to be creative, even in academic writing (my own opinion).
+- The worst place to use ***however*** is at the beginning of a sentence. -Tom Cormen
+- Don't use ***while*** when you mean ***although*** or ***whereas***.
+- Use ***compute*** instead of ***calculate***. 
+- You can use the word ***shall*** to sound fancy.
+- Consider replacing ***so*** with ***and so***. -Tom Cormen
 
-General paper tips
+## General paper tips
 - Take elements from top conference papers that you like and try to incorporate them into your own paper, if applicable.
 - Absolutely do not overstate the novelty of your paper. Good reviewers will notice.
 - Try a creative title. I should not get tired when I read it. Tom Cormen suggests titles like 'Algol 68 with Fewer Tears', 'ViC*: Running out-of-memory instead of running out of memory", '50 shades of grey codes'.
@@ -32,23 +31,29 @@ General paper tips
 - After you finish your first draft, go through the entire paper and delete any unncessary words. Also check all the prepositions to make sure they're correct.
 - I suggest listing your specific contribution(s) in the introduction of the paper. It doesn't seem like a big deal when it is there, but if a reviewer has a hard time following your paper and figuring out what the main contribution is, that's a big problem.
 
-Figures and tables
+## Figures and tables
 - Include a pull figure on the first page to give the reader an idea of what the paper will be about.
 - Your font is too small.
 - Your tables should not have more lines (e.g., borders), than necessary.
 - Should some tables be represented as graphs?
 - For a multivariate function *z = f(x, y)*, consider using a heatmap. They look colorful.
 
-Jason's list of nicely used words
+## Jason's list of nicely used words
 - I had used all the tricks in my "how to look like an adult" ***arsenal***. -My brother
 - He could not ***marshall*** any evidence to support his argument. -Sam Harris
 - One can easily be ***seduced*** into thinking that CGT can immediately deliver similar breakthroughs. -George Cybenko
-- It has nothing to do with model complexity and appears ***orthogonal*** to the goal of a probe. -Maudslay et al.
 - Augmented examples ***dominate*** the training distribution. -Me
 - Accepting that original and augmented distributions might differ ***liberates*** us to apply stronger levels of data augmentation. -Me
+- From [A Tale of a Probe and a Parser](https://arxiv.org/abs/2005.01641)
+	- This ***begs*** the question:
+	- It has nothing to do with model complexity and appears ***orthogonal*** to the goal of a probe.
+	- We ***contend*** that..., we ***advocate*** for the position that
+	- Justifying metric choice is of ***central*** importance for probing, ***lest*** we muddy the waters with a preponderance of ill-understood metrics.
+	- This process ***ought*** not to be ***conflated*** with the analysis of a particular model.
+	- The line between what constitues a probe or a model is ***awfully*** thin. 
 <!-- - Beauty -->
 
-Tips specific to applied ML/DL papers in medical journals
+## Tips specific to applied ML/DL papers in medical journals
 - It is good to have baseline approaches for comparison, even if the point of your paper isn't the methods. This came up a lot in reviewer comments for me when I didn't include it.
 - For methods papers, you should have a table comparing your results with other those from papers for a given benchmark task. You should also validate on multiple datasets.
 - If your test set is small, are you overfitting?
@@ -62,12 +67,12 @@ Tips specific to applied ML/DL papers in medical journals
 - Include ROC and AUC if applicable, and show the point on the curve that the model is performing at.
 - Some reviewers will suggest rejection if there is no methodological innovation.
 
-Well-written papers
+## Well-written papers
 - [Sam Greydanus](https://arxiv.org/pdf/1906.01563.pdf)
 - [Ryan Cotterell](https://arxiv.org/abs/1705.01684.pdf)
 - [Justine Zhang](https://tisjune.github.io/research/)
 
-Need more inspiration?
+## Need more inspiration?
 - Tom Cormen's <a href="https://www.cs.dartmouth.edu/~thc/Cormen-rules.pdf" style="color:navy" target="_blank">usage rules</a>.
 - Andrej Karpathy's <a href="http://karpathy.github.io/2016/09/07/phd/" style="color:navy" target="_blank">post</a> on PhD tips.
 - Read <a href="http://yosinski.com/" style="color:navy" target="_blank">Jason Yosinki</a>.

@@ -41,6 +41,7 @@ These are some guidelines that I compiled, mostly lifted from Tom Cormen's <a hr
 ## Jason's list of nicely used words
 - I had used all the tricks in my "how to look like an adult" ***arsenal***. -My brother
 - He could not ***marshall*** any evidence to support his argument. -Sam Harris
+- That is not a ***surrogate*** to the wise use of government resources.
 - One can easily be ***seduced*** into thinking that CGT can immediately deliver similar breakthroughs. -George Cybenko
 - Augmented examples ***dominate*** the training distribution. -Me
 - Accepting that original and augmented distributions might differ ***liberates*** us to apply stronger levels of data augmentation. -Me

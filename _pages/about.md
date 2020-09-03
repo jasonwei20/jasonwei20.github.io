@@ -26,8 +26,9 @@ Advisor: <a href="https://www.cs.dartmouth.edu/~lorenzo/home.html" style="color:
 **Jason Wei**, Kai Zou  
 *Conference on Empirical Methods in Natural Language Processing (EMNLP-IJCNLP) 2019* <br>
 <a href="https://jasonwei20.github.io/addendum_eda/" style="color:#7d49ab" target="_blank">[Addendum]</a>
-<a href="https://github.com/jasonwei20/eda_nlp" style="color:#7d49ab" target="_blank">[Github]</a>
-<img height="16" src="https://img.shields.io/github/stars/jasonwei20/eda_nlp.svg?logo=github&logoColor=white&colorA=navy&link=https://github.com/jasonwei20/eda_nlp&link=https://github.com/jasonwei20/eda_nlp">  
+<a href="https://github.com/jasonwei20/eda_nlp" style="color:#7d49ab" target="_blank">[Github (English)]</a>
+<img height="16" src="https://img.shields.io/github/stars/jasonwei20/eda_nlp.svg?logo=github&logoColor=white&colorA=navy&link=https://github.com/jasonwei20/eda_nlp&link=https://github.com/jasonwei20/eda_nlp"> 
+<a href="https://github.com/zhanlaoban/EDA_NLP_for_Chinese" style="color:#7d49ab" target="_blank">[Github (Chinese)]</a>
 
 <a href="https://www.nature.com/articles/s41598-019-40041-7" style="color:#7d49ab" target="_blank"><b>Pathologist-Level Classification of Histologic Patterns on Resected Lung Adenocarcinoma Slides with Deep Neural Networks</b></a>  
 **Jason Wei**, Laura Tafe, Yevgeniy Linnik, Louis Vaickus, Naofumi Tomita, <a href="https://www.hassanpourlab.com/" style="color:#7d49ab" target="_blank">Saeed Hassanpour</a>    

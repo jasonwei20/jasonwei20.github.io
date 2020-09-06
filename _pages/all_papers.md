@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 I am currently working on [<span style="color:#fa8072">*Foray into NLP (2019-Present)*</span>](#foray).
-At Dartmouth College, I published [<span style="color:#7d49ab"> *Computational Pathology & Colorectal Polyps (2019-2020)*</span>](#cp2).
+At Dartmouth College, I published [<span style="color:#7d49ab"> *CP<sup>2</sup>: Computational Pathology & Colorectal Polyps (2019-2020)*</span>](#cp2).
 
 ### <a name="foray"></a> <span style="color:#fa8072"> *Foray into NLP (2019-Present)* </span>  
 
@@ -22,7 +22,7 @@ At Dartmouth College, I published [<span style="color:#7d49ab"> *Computational P
 
 ------
 
-### <a name="cp2"></a> <span style="color:#7d49ab"> *Computational Pathology & Colorectal Polyps (2019-2020)* </span>  
+### <a name="cp2"></a> <span style="color:#7d49ab"> *CP<sup>2</sup>: Computational Pathology & Colorectal Polyps (2019-2020)* </span>  
 
 <span style="color:#7d49ab">Neural networks for histopathology image analysis, with a focus on colorectal polyps.</span>
 

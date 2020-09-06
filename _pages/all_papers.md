@@ -4,9 +4,10 @@ permalink: /papers/
 author_profile: true
 ---
 
-I am currently working on 
+I am currently working on <span style="color:#fa8072"> *Foray into NLP (2019-Present)* </span>.
+At Dartmouth College, I published [<span style="color:#7d49ab"> *Computational Pathology & Colorectal Polyps (2019-2020)* </span>](#cp2).
 
-### <span style="color:#fa8072"> *Foray into NLP (2019-Present)* </span>  
+### <a name="foray"></a> <span style="color:#fa8072"> __*Foray into NLP (2019-Present)*__ </span>  
 
 1. <img height="16" width="16" src="/images/glowing-star.png"> <a href="https://www.aclweb.org/anthology/D19-1670.pdf" style="color:#fa8072" target="_blank"><b>EDA: Easy Data Augmentation Techniques for Boosting Performance on Text Classification Tasks</b></a>  
 **Jason Wei**, Kai Zou  
@@ -21,7 +22,9 @@ I am currently working on
 
 ------
 
-### <span style="color:#7d49ab"> *Computational Pathology & Colorectal Polyps (2019-2020)* </span>  
+### <a name="cp2"></a> <span style="color:#7d49ab"> __*Computational Pathology & Colorectal Polyps (2019-2020)*__ </span>  
+
+Neural networks for histopathology image analysis, with a focus on colorectal polyps.
 
 1. <img height="16" width="16" src="/images/glowing-star.png"> <a href="https://www.nature.com/articles/s41598-019-40041-7" style="color:#7d49ab" target="_blank"><b>Pathologist-Level Classification of Histologic Patterns on Resected Lung Adenocarcinoma Slides with Deep Neural Networks</b></a>  
 **Jason Wei**, Laura Tafe, Yevgeniy Linnik, Louis Vaickus, Naofumi Tomita, Saeed Hassanpour    
@@ -61,7 +64,7 @@ Jerry Wei, Arief Suriawinata, Xiaoying Liu, Bing Ren, Mustafa Nasir-Moin, Naofum
 
 ------
 
-### <span style="color:#004E30"> *Singles* </span> 
+### <span style="color:#004E30"> __*Singles*__ </span> 
 
 1. <a href="https://www.cs.dartmouth.edu/~trdata/reports/TR2020-899.pdf" style="color:#004E30" target="_blank"><b>Label Noise Reduction Without Assumptions</b></a>  
 **Jason Wei**  

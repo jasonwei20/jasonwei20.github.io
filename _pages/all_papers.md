@@ -4,9 +4,9 @@ permalink: /papers/
 author_profile: true
 ---
 
-## <span style="color:#fa8072"> *Foray into NLP (2019-Present)* </span>  
+### <span style="color:#fa8072"> *Foray into NLP (2019-Present)* </span>  
 
-1. <a href="https://www.aclweb.org/anthology/D19-1670.pdf" style="color:#fa8072" target="_blank"><b>EDA: Easy Data Augmentation Techniques for Boosting Performance on Text Classification Tasks</b></a>  
+1. :star: <a href="https://www.aclweb.org/anthology/D19-1670.pdf" style="color:#fa8072" target="_blank"><b>EDA: Easy Data Augmentation Techniques for Boosting Performance on Text Classification Tasks</b></a>  
 **Jason Wei**, Kai Zou  
 *Conference on Empirical Methods in Natural Language Processing (EMNLP-IJCNLP) 2019* <br>
 <a href="https://jasonwei20.github.io/addendum_eda/" target="_blank">[Addendum]</a>
@@ -19,9 +19,9 @@ author_profile: true
 
 ------
 
-## <span style="color:#7d49ab"> *Computational Pathology & Colorectal Polyps (2019-2020)* </span>  
+### <span style="color:#7d49ab"> *Computational Pathology & Colorectal Polyps (2019-2020)* </span>  
 
-1. <a href="https://www.nature.com/articles/s41598-019-40041-7" style="color:#7d49ab" target="_blank"><b>Pathologist-Level Classification of Histologic Patterns on Resected Lung Adenocarcinoma Slides with Deep Neural Networks</b></a>  
+1. :star: <a href="https://www.nature.com/articles/s41598-019-40041-7" style="color:#7d49ab" target="_blank"><b>Pathologist-Level Classification of Histologic Patterns on Resected Lung Adenocarcinoma Slides with Deep Neural Networks</b></a>  
 **Jason Wei**, Laura Tafe, Yevgeniy Linnik, Louis Vaickus, Naofumi Tomita, Saeed Hassanpour    
 *Scientific Reports 2019*  
 <a href="https://github.com/BMIRDS/deepslide" target="_blank">[Github]</a> 
@@ -40,7 +40,7 @@ Louis Vaickus, Arief Suriawinata, **Jason Wei**, Xiaoying Liu
 Naofumi Tomita, Behnaz Abdollahi, **Jason Wei**, Bing Ren, Arief Suriawinata, Saeed Hassanpour  
 *JAMA Network Open 2019*   
 
-5. <a href="https://arxiv.org/abs/1910.05827" style="color:#7d49ab" target="_blank"><b>Generative Image Translation for Data Augmentation in Colorectal Histopathology Images</b></a>  
+5. :star: <a href="https://arxiv.org/abs/1910.05827" style="color:#7d49ab" target="_blank"><b>Generative Image Translation for Data Augmentation in Colorectal Histopathology Images</b></a>  
 Jerry Wei, Arief Suriawinata, Louis Vaickus, Bing Ren, Xiaoying Liu, **Jason Wei**, Saeed Hassanpour  
 *Machine Learning for Health Workshop at NeurIPS (ML4H) 2019* <a href="https://slideslive.com/38923239/spotlight-paper-talks?t=1095" target="_blank"><b>[Spotlight]</b></a>  
 
@@ -48,7 +48,7 @@ Jerry Wei, Arief Suriawinata, Louis Vaickus, Bing Ren, Xiaoying Liu, **Jason Wei
 Lia Harrington, **Jason Wei**, Arief Suriawinata, Todd Mackenzie, Saeed Hassanpour    
 *AMIA Informatics Summit 2020*   
 
-7. <a href="https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2764906" style="color:#7d49ab" target="_blank"><b>Evaluation of a Deep Neural Network for Automated Classification of Colorectal Polyps on Histopathologic Slides</b></a>  
+7. :star: <a href="https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2764906" style="color:#7d49ab" target="_blank"><b>Evaluation of a Deep Neural Network for Automated Classification of Colorectal Polyps on Histopathologic Slides</b></a>  
 **Jason Wei**, Arief Suriawinata, Louis Vaickus, Bing Ren, Xiaoying Liu, Mikhail Lisovsky, Naofumi Tomita, Behnaz Abdollahi, Adam Kim, Dale Snover, John Baron, Elizabeth Barry, Saeed Hassanpour  
 *JAMA Network Open 2020*  
 <a href="https://neukom.dartmouth.edu/research/neukom-research-prizes/2020-neukom-research-prize-winners" target="_blank"><i>Neukom Prize for Outstanding Undergraduate Research, 3rd place</i></a>  
@@ -59,7 +59,7 @@ Jerry Wei, Arief Suriawinata, Xiaoying Liu, Bing Ren, Mustafa Nasir-Moin, Naofum
 
 ------
 
-## <span style="color:#004E30"> *Singles* </span> 
+### <span style="color:#004E30"> *Singles* </span> 
 
 1. <a href="https://www.cs.dartmouth.edu/~trdata/reports/TR2020-899.pdf" style="color:#004E30" target="_blank"><b>Label Noise Reduction Without Assumptions</b></a>  
 **Jason Wei**  

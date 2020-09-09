@@ -4,8 +4,11 @@ permalink: /papers/
 author_profile: true
 ---
 
+Similar to how musicians compose albums as a collection of songs, I write *medleys*: collections of research papers joined by a common theme. 
+
 I am currently working on [<span style="color:#fa8072">*Foray into NLP (2019-Present)*</span>](#foray).
-At Dartmouth College, I published [<span style="color:#7d49ab"> *CP<sup>2</sup>: Computational Pathology & Colorectal Polyps (2019-2020)*</span>](#cp2).
+
+As an undergraduate at Dartmouth College, I wrote [<span style="color:#7d49ab"> *CP<sup>2</sup>: Computational Pathology & Colorectal Polyps (8 papers, 2019-2020)*</span>](#cp2), a series of papers on neural networks for histopathology image analysis.
 
 ### <a name="foray"></a> <span style="color:#fa8072"> *Foray into NLP (2019-Present)* </span>  
 

@@ -25,7 +25,7 @@ As an undergraduate at Dartmouth College, I wrote [<span style="color:#7d49ab"> 
 
 ------
 
-### <a name="cp2"></a> <span style="color:#7d49ab"> *CP<sup>2</sup>: Computational Pathology & Colorectal Polyps (2019-2020)* </span>  
+### <a name="cp2"></a> <span style="color:#7d49ab"> *CP<sup>2</sup>: Computational Pathology & Colorectal Polyps (8 papers, 2019-2020)* </span>  
 
 <span style="color:#7d49ab">Neural networks for histopathology image analysis, with a focus on colorectal polyps.</span>
 

@@ -9,9 +9,7 @@ redirect_from:
   - /research/
 ---
 
-My name is Jason Wei. I am currently an <a href="https://research.google/careers/ai-residency/" style="color:#7d49ab" target="_blank">AI Resident</a> at Google New York, working on machine learning and NLP. 
-
-I graduated from Dartmouth College in 2020 with the AB in Computer Science. 
+My name is Jason Wei. I am currently an <a href="https://research.google/careers/ai-residency/" style="color:#7d49ab" target="_blank">AI Resident</a> at Google New York, working on machine learning and NLP. I graduated from Dartmouth College in 2020 with the AB in Computer Science. 
 
 ------
 

@@ -38,4 +38,4 @@ Quotes
 * *"Don't just work hard at your job. Work hard at everything."* -Jake Tapper
 
 Jason's Timeless Slang
-* Scrub, chump, bugger, rats, kid, unsung hero, acquired taste, I suppose
+* Scrub, chump, bugger, rats, kid, unsung hero, acquired taste, I suppose, cheesedog

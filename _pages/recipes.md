@@ -23,11 +23,17 @@ Jason's Deluxe Sandwich
 * Arugula
 * Mayo and Sriracha Sauce
 
-Salmon
-* Add garlic salt, steak seasoning, olive oil, and a hint of rosemary
-* Air fry for about 17 minutes
+Jason's Special Smoothie
+* 2 bananas
+* Yogurt and milk
+* Some frozen dragonfruit cubes
+* Touch of almonds
 
-Jason's Pasta
+Salmon
+* Add garlic salt, steak seasoning, and rosemary
+* Air fry
+
+Jason's Simple Pasta
 * Pasta cooked for 10 minutes
 * Sauce: Onion, tomato, spinach, garlic with a knob of butter
 * Ground beef with onion, garlic, ginger, chili powder, garlic salt, pepper

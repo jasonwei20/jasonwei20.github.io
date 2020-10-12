@@ -9,9 +9,9 @@ redirect_from:
   - /research/
 ---
 
-My name is Jason Wei. I mostly work on machine learning and NLP nowadays, but I can't resist the occasional medical image analysis project. 
+My name is Jason Wei. I am currently an <a href="https://research.google/careers/ai-residency/" style="color:#7d49ab" target="_blank">AI Resident</a> at Google New York, working on machine learning and NLP. 
 
-I graduated from Dartmouth College in 2020 with the AB in Computer Science. Starting Fall 2020, I will be an <a href="https://research.google/careers/ai-residency/" style="color:#7d49ab" target="_blank">AI Resident</a> at the Google NLU group in New York. 
+I graduated from Dartmouth College in 2020 with the AB in Computer Science. 
 
 ------
 

@@ -4,11 +4,11 @@ permalink: /papers/
 author_profile: true
 ---
 
-Similar to how musicians compose albums as a collection of songs, I write *medleys*: collections of research papers joined by a common theme. 
+Similar to how musicians compose albums as a collection of songs, I write *medleys* - collections of research papers joined by a common theme. 
 
 I am currently working on [<span style="color:#fa8072">*Foray into NLP (2019-Present)*</span>](#foray).
 
-As an undergraduate at Dartmouth College, I wrote [<span style="color:#7d49ab"> *CP<sup>2</sup>: Computational Pathology & Colorectal Polyps (8 papers, 2019-2020)*</span>](#cp2), a series of papers on neural networks for histopathology image analysis.
+As an undergraduate at Dartmouth College, I wrote [<span style="color:#7d49ab"> *CP<sup>2</sup>: Computational Pathology & Colorectal Polyps (8 papers, 2019-2020)*</span>](#cp2), a series of papers that moves the needle on neural networks for histopathology image analysis.
 
 ### <a name="foray"></a> <span style="color:#fa8072"> *Foray into NLP (2019-Present)* </span>  
 
@@ -22,6 +22,10 @@ As an undergraduate at Dartmouth College, I wrote [<span style="color:#7d49ab"> 
 2. <a href="https://www.aaai.org/ocs/index.php/FLAIRS/FLAIRS20/paper/view/18443" style="color:#fa8072" target="_blank"><b>Narrative Origin Classification of Israeli-Palestinian Conflict Texts</b></a>  
 **Jason Wei**, Eugene Santos Jr.  
 *Florida Artifical Intelligence Research Society Conference (FLAIRS) 2020*   
+
+3. <a href="https://arxiv.org/abs/2005.12522" style="color:#fa8072" target="_blank"><b>What Are People Asking About COVID-19? A Question Classification Dataset</b></a>  
+Jerry Wei, Chengyu Huang, Soroush Vosoughi, **Jason Wei**  
+*Workshop on NLP for COVID-19 at ACL 2020*   
 
 ------
 

@@ -1,6 +1,6 @@
 ---
 title: "Negative Results"
-permalink: /failures/
+permalink: /negative_results/
 author_profile: true
 ---
 

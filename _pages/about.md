@@ -15,7 +15,7 @@ I graduated from Dartmouth College in 2020 with the AB in Computer Science. Star
 
 ------
 
-# Selected Papers
+# Selected Papers <a href="https://jasonwei20.github.io/papers/" style="color:navy">(All)</a>
 
 <a href="https://www.aclweb.org/anthology/D19-1670.pdf" style="color:#7d49ab" target="_blank"><b>EDA: Easy Data Augmentation Techniques for Boosting Performance on Text Classification Tasks</b></a>  
 **Jason Wei**, Kai Zou  
@@ -34,7 +34,6 @@ I graduated from Dartmouth College in 2020 with the AB in Computer Science. Star
 
 ------
 
-<a href="https://jasonwei20.github.io/papers/" style="color:navy">List</a> of all papers.  
 <a href="https://jasonwei20.github.io/writing_tips/" style="color:navy">Tips</a> for writing papers.  
 <a href="https://jasonwei20.github.io/notes/" style="color:navy">Notes</a> on papers I've read.   
 My research <a href="https://jasonwei20.github.io/research_values/" style="color:navy">values</a>. 

@@ -13,7 +13,7 @@ My name is Jason Wei. I am currently an <a href="https://research.google/careers
 
 ------
 
-# Selected Papers <a href="https://jasonwei20.github.io/papers/" style="color:navy">(All)</a>
+### Selected Papers <a href="https://jasonwei20.github.io/papers/" style="color:navy">(All)</a>
 
 <a href="https://www.aclweb.org/anthology/D19-1670.pdf" style="color:#7d49ab" target="_blank"><b>EDA: Easy Data Augmentation Techniques for Boosting Performance on Text Classification Tasks</b></a>  
 **Jason Wei**, Kai Zou  
@@ -29,12 +29,6 @@ My name is Jason Wei. I am currently an <a href="https://research.google/careers
 <a href="https://github.com/BMIRDS/deepslide" style="color:#7d49ab" target="_blank">[Github]</a> 
 <img height="16" src="https://img.shields.io/github/stars/BMIRDS/deepslide.svg?logo=github&logoColor=white&colorA=navy&link=https://github.com/BMIRDS/deepslide&link=https://github.com/BMIRDS/deepslide">  
 <a href="https://www.nature.com/collections/ghegcgfbdi" style="color:#357EC7" target="_blank"><i>#3 most downloaded of 1024 cancer papers in Scientific Reports in 2019</i></a> 
-
-------
-
-<a href="https://jasonwei20.github.io/writing_tips/" style="color:navy">Tips</a> for writing papers.  
-<a href="https://jasonwei20.github.io/notes/" style="color:navy">Notes</a> on papers I've read.   
-My research <a href="https://jasonwei20.github.io/research_values/" style="color:navy">values</a>. 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-146397444-1"></script>

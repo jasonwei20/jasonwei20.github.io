@@ -23,7 +23,7 @@ As an undergraduate at Dartmouth College, I wrote [<span style="color:#7d49ab"> 
 **Jason Wei**, Eugene Santos Jr.  
 *Florida Artifical Intelligence Research Society Conference (FLAIRS) 2020*   
 
-3. <a href="https://arxiv.org/abs/2005.12522" style="color:#fa8072" target="_blank"><b>What Are People Asking About COVID-19? A Question Classification Dataset</b></a>  
+3. <a href="https://openreview.net/forum?id=qd51R0JNLl" style="color:#fa8072" target="_blank"><b>What Are People Asking About COVID-19? A Question Classification Dataset</b></a>  
 Jerry Wei, Chengyu Huang, Soroush Vosoughi, **Jason Wei**  
 *Workshop on NLP for COVID-19 (NLP-COVID) at ACL 2020 (To appear)*   
 

@@ -8,7 +8,9 @@ Similar to how musicians compose albums as a collection of songs, I write *medle
 
 I am currently working on [<span style="color:#fa8072">*Foray into NLP (2019-Present)*</span>](#foray).
 
-As an undergraduate at Dartmouth College, I wrote [<span style="color:#7d49ab"> *CP<sup>2</sup>: Computational Pathology & Colorectal Polyps (8 papers, 2019-2020)*</span>](#cp2), a series of papers that moves the needle on neural networks for histopathology image analysis.
+As an undergraduate at Dartmouth College, I wrote [<span style="color:#7d49ab"> *CP<sup>2</sup>: Computational Pathology & Colorectal Polyps (8 papers, 2019-2020)*</span>](#cp2), a series of papers that moves the needle on neural networks for histopathology image analysis. 
+
+------
 
 ### <a name="foray"></a> <span style="color:#fa8072"> *Foray into NLP (2019-Present)* </span>  
 
@@ -77,3 +79,10 @@ Jerry Wei, Arief Suriawinata, Xiaoying Liu, Bing Ren, Mustafa Nasir-Moin, Naofum
 **Jason Wei**  
 *Dartmouth Undergraduate Thesis 2020*  
 Advisor: <a href="https://www.cs.dartmouth.edu/~lorenzo/home.html" style="color:#004E30" target="_blank">Lorenzo Torresani</a> <br>  
+
+
+------
+
+<a href="https://jasonwei20.github.io/writing_tips/" style="color:navy">Tips</a> for writing papers.  
+<a href="https://jasonwei20.github.io/notes/" style="color:navy">Notes</a> on papers I've read.   
+My research <a href="https://jasonwei20.github.io/research_values/" style="color:navy">values</a>. 

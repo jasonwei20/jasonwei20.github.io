@@ -9,32 +9,25 @@ redirect_from:
   - /research/
 ---
 
-My name is Jason Wei. I am currently an <a href="https://research.google/careers/ai-residency/" style="color:#7d49ab" target="_blank">AI Resident</a> at Google New York, working on machine learning and NLP. I graduated from Dartmouth College in 2020 with the AB in Computer Science. 
+My name is Jason Wei. I am currently an <a href="https://research.google/careers/ai-residency/" style="color:#7d49ab" target="_blank">AI Resident</a> at Google New York, working on machine learning and NLP. I graduated from Dartmouth College in 2020. 
 
 ------
 
-# Selected Papers <a href="https://jasonwei20.github.io/papers/" style="color:navy">(All)</a>
+### Selected Papers <a href="https://jasonwei20.github.io/papers/" style="color:navy">(All)</a>
 
-<a href="https://www.aclweb.org/anthology/D19-1670.pdf" style="color:#7d49ab" target="_blank"><b>EDA: Easy Data Augmentation Techniques for Boosting Performance on Text Classification Tasks</b></a>  
+1. <a href="https://www.aclweb.org/anthology/D19-1670.pdf" style="color:#7d49ab" target="_blank"><b>EDA: Easy Data Augmentation Techniques for Boosting Performance on Text Classification Tasks</b></a>  
 **Jason Wei**, Kai Zou  
 *Conference on Empirical Methods in Natural Language Processing (EMNLP-IJCNLP) 2019* <br>
 <a href="https://jasonwei20.github.io/addendum_eda/" style="color:#7d49ab" target="_blank">[Addendum]</a>
-<a href="https://github.com/jasonwei20/eda_nlp" style="color:#7d49ab" target="_blank">[Github (English)]</a>
-<img height="16" src="https://img.shields.io/github/stars/jasonwei20/eda_nlp.svg?logo=github&logoColor=white&colorA=navy&link=https://github.com/jasonwei20/eda_nlp&link=https://github.com/jasonwei20/eda_nlp"> 
-<a href="https://github.com/zhanlaoban/EDA_NLP_for_Chinese" style="color:#7d49ab" target="_blank">[Github (Chinese)]</a>
+<a href="https://github.com/jasonwei20/eda_nlp" style="color:#7d49ab" target="_blank">[Github]</a>
+<img height="16" src="https://img.shields.io/github/stars/jasonwei20/eda_nlp.svg?logo=github&logoColor=white&colorA=navy&link=https://github.com/jasonwei20/eda_nlp&link=https://github.com/jasonwei20/eda_nlp">  
 
-<a href="https://www.nature.com/articles/s41598-019-40041-7" style="color:#7d49ab" target="_blank"><b>Pathologist-Level Classification of Histologic Patterns on Resected Lung Adenocarcinoma Slides with Deep Neural Networks</b></a>  
-**Jason Wei**, Laura Tafe, Yevgeniy Linnik, Louis Vaickus, Naofumi Tomita, <a href="https://www.hassanpourlab.com/" style="color:#7d49ab" target="_blank">Saeed Hassanpour</a>    
+1. <a href="https://www.nature.com/articles/s41598-019-40041-7" style="color:#7d49ab" target="_blank"><b>Pathologist-Level Classification of Histologic Patterns on Resected Lung Adenocarcinoma Slides with Deep Neural Networks</b></a>  
+**Jason Wei**, Laura Tafe, Yevgeniy Linnik, Louis Vaickus, Naofumi Tomita, Saeed Hassanpour    
 *Scientific Reports 2019*  
 <a href="https://github.com/BMIRDS/deepslide" style="color:#7d49ab" target="_blank">[Github]</a> 
 <img height="16" src="https://img.shields.io/github/stars/BMIRDS/deepslide.svg?logo=github&logoColor=white&colorA=navy&link=https://github.com/BMIRDS/deepslide&link=https://github.com/BMIRDS/deepslide">  
 <a href="https://www.nature.com/collections/ghegcgfbdi" style="color:#357EC7" target="_blank"><i>#3 most downloaded of 1024 cancer papers in Scientific Reports in 2019</i></a> 
-
-------
-
-<a href="https://jasonwei20.github.io/writing_tips/" style="color:navy">Tips</a> for writing papers.  
-<a href="https://jasonwei20.github.io/notes/" style="color:navy">Notes</a> on papers I've read.   
-My research <a href="https://jasonwei20.github.io/research_values/" style="color:navy">values</a>. 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-146397444-1"></script>

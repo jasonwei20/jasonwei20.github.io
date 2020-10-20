@@ -36,3 +36,11 @@ To do
 Most of my ML/DL notes are from Andrew Ng's *Deep Learning* and *Machine Learning* Coursera courses. I also really liked *Hands-On Machine Learning with Scikit-Learn and Tensorflow* by Aurélien Géron.
 
 My NLP notes are based on content from Andrew Ng, Graham Neubig, papers, and YouTube explanations.
+
+People to follow
+1. Anything written by Sam Greydanus
+1. Nanyun Peng's work on creative language generation
+1. Work from Ryan Cotterell's lab
+1. Tim Althoff's work on mental health
+1. Jacob Andreas
+1. Robin Jia

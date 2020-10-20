@@ -8,7 +8,7 @@ Similar to how musicians compose albums as a collection of songs, I write *medle
 
 I am currently working on [<span style="color:#fa8072">*Foray into NLP (2019-Present)*</span>](#foray).
 
-As an undergraduate at Dartmouth College, I wrote [<span style="color:#7d49ab"> *CP<sup>2</sup>: Computational Pathology & Colorectal Polyps (8 papers, 2019-2020)*</span>](#cp2), a series of papers that moves the needle on neural networks for histopathology image analysis. 
+As an undergraduate at Dartmouth College, I wrote [<span style="color:#7d49ab"> *CP<sup>2</sup>: Computational Pathology & Colorectal Polyps (2019-2020)*</span>](#cp2), a series of papers that explore neural networks for histopathology image analysis. 
 
 ------
 
@@ -27,11 +27,11 @@ As an undergraduate at Dartmouth College, I wrote [<span style="color:#7d49ab"> 
 
 3. <a href="https://openreview.net/forum?id=qd51R0JNLl" style="color:#fa8072" target="_blank"><b>What Are People Asking About COVID-19? A Question Classification Dataset</b></a>  
 Jerry Wei, Chengyu Huang, Soroush Vosoughi, **Jason Wei**  
-*Workshop on NLP for COVID-19 (NLP-COVID) at ACL 2020 (To appear)*   
+*Workshop on NLP for COVID-19 at ACL (NLP-COVID) 2020*   
 
 ------
 
-### <a name="cp2"></a> <span style="color:#7d49ab"> *CP<sup>2</sup>: Computational Pathology & Colorectal Polyps (8 papers, 2019-2020)* </span>  
+### <a name="cp2"></a> <span style="color:#7d49ab"> *CP<sup>2</sup>: Computational Pathology & Colorectal Polyps (2019-2020)* </span>  
 
 <span style="color:#7d49ab">Neural networks for histopathology image analysis, with a focus on colorectal polyps.</span>
 

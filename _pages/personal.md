@@ -19,5 +19,5 @@ Quarterly <a href="https://jasonwei20.github.io/blog_posts/" style="color:navy">
 <a href="https://jasonwei20.github.io/places_ive_been/" style="color:navy">Places</a> that I've been to.  
 <a href="https://jasonwei20.github.io/stuff_i_like/" style="color:navy">Stuff</a> that I like.  
 A <a href="https://jasonwei20.github.io/life_experiences/" style="color:navy">list</a> of my most transformative, memorable, or fun experiences.  
-<a href="https://jasonwei20.github.io/principles/" style="color:navy">Notes</a> on time and productivity.
+<a href="https://jasonwei20.github.io/principles/" style="color:navy">Notes</a> on time and productivity.  
 All views my own. 

@@ -9,7 +9,9 @@ author_profile: true
 This page used to be called "Embrace Failure," but instead, we can call them [*ahead* and *behind* events](https://www.youtube.com/watch?v=cocbJtGk9s8). 
 
 2020
-* Rejected from Salesforce internship
+* Paper rejected from AACL, COLING
+* Paper rejected from AACL, COLING
+* Rejected from Salesforce and Alibaba internships
 * Rejected from NSF Fellowship
 * Rejected from PhD programs at Princeton, University of Washington, Stanford, MIT, CMU
 
@@ -18,7 +20,7 @@ This page used to be called "Embrace Failure," but instead, we can call them [*a
 * Rejected from Neeva, Coda, Robinhood, Affirm, Palantir after onsite interviews
 * Paper rejected from JAMA, Nature Medicine, Nature Communications, npj Digital Medicine
 * Paper rejected from ACL
-* Paper rejected from NAACL, ACL, EMNLP-IJCNLP
+* Paper rejected from NAACL, ACL, EMNLP
 * Paper rejected from CVPR, JAMIA
 * Rejected or no response from 46 summer internship applications
 

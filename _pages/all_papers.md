@@ -29,6 +29,10 @@ As an undergraduate at Dartmouth College, I wrote [<span style="color:#7d49ab"> 
 Jerry Wei, Chengyu Huang, Soroush Vosoughi, **Jason Wei**  
 *Workshop on NLP for COVID-19 at ACL (NLP-COVID) 2020*   
 
+3. <a href="http://noisy-text.github.io/2020/pdf/2020.d200-1.27.pdf" style="color:#fa8072" target="_blank"><b>An Empirical Survey of Unsupervised Text Representation Methods on Twitter Data</b></a>  
+Lili Wang, Chongyang Gao, **Jason Wei**, Weicheng Ma, Ruibo Liu and Soroush Vosoughi    
+*Workshop on Noisy User-generated Text at EMNLP (W-NUT) 2020*   
+
 ------
 
 ### <a name="cp2"></a> <span style="color:#7d49ab"> *CP<sup>2</sup>: Computational Pathology & Colorectal Polyps (2019-2020)* </span>  

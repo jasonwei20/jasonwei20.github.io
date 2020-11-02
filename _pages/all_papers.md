@@ -8,7 +8,7 @@ Similar to how musicians compose albums as a collection of songs, I write *medle
 
 I am currently working on [<span style="color:#fa8072">*Foray into NLP (2019-Present)*</span>](#foray).
 
-As an undergraduate at Dartmouth College, I wrote [<span style="color:#7d49ab"> *CP<sup>2</sup>: Computational Pathology & Colorectal Polyps (2019-2020)*</span>](#cp2), a series of papers that explore neural networks for histopathology image analysis. 
+As an undergraduate at Dartmouth College, I wrote [<span style="color:#7d49ab"> *CP<sup>2</sup>: Computational Pathology & Colorectal Polyps (2019-2020)*</span>](#cp2), which explores neural networks for histopathology image analysis. 
 
 ------
 
@@ -71,6 +71,9 @@ Lia Harrington, **Jason Wei**, Arief Suriawinata, Todd Mackenzie, Saeed Hassanpo
 Jerry Wei, Arief Suriawinata, Xiaoying Liu, Bing Ren, Mustafa Nasir-Moin, Naofumi Tomita, **Jason Wei**, Saeed Hassanpour   
 *Conference on Artificial Intelligence in Medicine (AIME) 2020* <a target="_blank"><b>[Oral]</b></a>  
 
+9. <a href="https://arxiv.org/abs/2009.13698" style="color:#7d49ab" target="_blank"><b>Learn like a Pathologist: Curriculum Learning by Annotator Agreement for Histopathology Image Classification</b></a>  
+Jerry Wei, Arief Suriawinata, Bing Ren, Xiaoying Liu, Mikhail Lisovsky, Louis Vaickus, Charles Brown, Michael Baker, Mustafa Nasir-Moin, Naofumi Tomita, Lorenzo Torresani, Jason Wei, Saeed Hassanpour   
+*Winter Conference on Applications of Computer Vision (WACV) 2021* 
 ------
 
 ### <span style="color:#004E30"> *Singles* </span> 

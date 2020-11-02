@@ -72,8 +72,10 @@ Jerry Wei, Arief Suriawinata, Xiaoying Liu, Bing Ren, Mustafa Nasir-Moin, Naofum
 *Conference on Artificial Intelligence in Medicine (AIME) 2020* <a target="_blank"><b>[Oral]</b></a>  
 
 9. <a href="https://arxiv.org/abs/2009.13698" style="color:#7d49ab" target="_blank"><b>Learn like a Pathologist: Curriculum Learning by Annotator Agreement for Histopathology Image Classification</b></a>  
-Jerry Wei, Arief Suriawinata, Bing Ren, Xiaoying Liu, Mikhail Lisovsky, Louis Vaickus, Charles Brown, Michael Baker, Mustafa Nasir-Moin, Naofumi Tomita, Lorenzo Torresani, Jason Wei, Saeed Hassanpour   
+Jerry Wei, Arief Suriawinata, Bing Ren, Xiaoying Liu, Mikhail Lisovsky, Louis Vaickus, Charles Brown, Michael Baker, Mustafa Nasir-Moin, Naofumi Tomita, Lorenzo Torresani, **Jason Wei**, Saeed Hassanpour   
 *Winter Conference on Applications of Computer Vision (WACV) 2021* 
+
+
 ------
 
 ### <span style="color:#004E30"> *Singles* </span> 

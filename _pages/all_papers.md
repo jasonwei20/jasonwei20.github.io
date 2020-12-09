@@ -6,30 +6,30 @@ author_profile: true
 
 Similar to how musicians compose albums as a collection of songs, I write *medleys* - collections of research papers joined by a common theme. 
 
-I am currently working on [<span style="color:#fa8072">*Foray into NLP (2019-Present)*</span>](#foray).
-
-As an undergraduate at Dartmouth College, I wrote [<span style="color:#7d49ab"> *CP<sup>2</sup>: Computational Pathology & Colorectal Polyps (2019-2020)*</span>](#cp2), which explores neural networks for histopathology image analysis. 
+At Dartmouth, I wrote [<span style="color:#004E30">*Foray into NLP (2019-2020)*</span>](#foray) and [<span style="color:#7d49ab"> *CP<sup>2</sup>: Computational Pathology & Colorectal Polyps (2019-2020)*</span>](#cp2). 
 
 ------
 
-### <a name="foray"></a> <span style="color:#fa8072"> *Foray into NLP (2019-Present)* </span>  
+### <a name="foray"></a> <span style="color:#004E30"> *Foray into NLP (2019-2020)* </span>  
 
-1. <img height="16" width="16" src="/images/glowing-star.png"> <a href="https://www.aclweb.org/anthology/D19-1670.pdf" style="color:#fa8072" target="_blank"><b>EDA: Easy Data Augmentation Techniques for Boosting Performance on Text Classification Tasks</b></a>  
+<span style="color:#004E30">Text classification, data augmentation, and NLP for social science.</span>
+
+1. <img height="16" width="16" src="/images/glowing-star.png"> <a href="https://www.aclweb.org/anthology/D19-1670.pdf" style="color:#004E30" target="_blank"><b>EDA: Easy Data Augmentation Techniques for Boosting Performance on Text Classification Tasks</b></a>  
 **Jason Wei**, Kai Zou  
 *Conference on Empirical Methods in Natural Language Processing (EMNLP-IJCNLP) 2019* <br>
 <a href="https://jasonwei20.github.io/addendum_eda/" target="_blank">[Addendum]</a>
 <a href="https://github.com/jasonwei20/eda_nlp" target="_blank">[Github]</a>
 <img height="16" src="https://img.shields.io/github/stars/jasonwei20/eda_nlp.svg?logo=github&logoColor=white&colorA=navy&link=https://github.com/jasonwei20/eda_nlp&link=https://github.com/jasonwei20/eda_nlp">  
 
-2. <a href="https://www.aaai.org/ocs/index.php/FLAIRS/FLAIRS20/paper/view/18443" style="color:#fa8072" target="_blank"><b>Narrative Origin Classification of Israeli-Palestinian Conflict Texts</b></a>  
+2. <a href="https://www.aaai.org/ocs/index.php/FLAIRS/FLAIRS20/paper/view/18443" style="color:#004E30" target="_blank"><b>Narrative Origin Classification of Israeli-Palestinian Conflict Texts</b></a>  
 **Jason Wei**, Eugene Santos Jr.  
 *Florida Artifical Intelligence Research Society Conference (FLAIRS) 2020*   
 
-3. <a href="https://www.aclweb.org/anthology/2020.nlpcovid19-acl.8" style="color:#fa8072" target="_blank"><b>What Are People Asking About COVID-19? A Question Classification Dataset</b></a>  
+3. <a href="https://www.aclweb.org/anthology/2020.nlpcovid19-acl.8" style="color:#004E30" target="_blank"><b>What Are People Asking About COVID-19? A Question Classification Dataset</b></a>  
 Jerry Wei, Chengyu Huang, Soroush Vosoughi, **Jason Wei**  
 *Workshop on NLP for COVID-19 at ACL (NLP-COVID) 2020*   
 
-3. <a href="http://noisy-text.github.io/2020/pdf/2020.d200-1.27.pdf" style="color:#fa8072" target="_blank"><b>An Empirical Survey of Unsupervised Text Representation Methods on Twitter Data</b></a>  
+4. <a href="http://noisy-text.github.io/2020/pdf/2020.d200-1.27.pdf" style="color:#004E30" target="_blank"><b>An Empirical Survey of Unsupervised Text Representation Methods on Twitter Data</b></a>  
 Lili Wang, Chongyang Gao, **Jason Wei**, Weicheng Ma, Ruibo Liu and Soroush Vosoughi    
 *Workshop on Noisy User-generated Text at EMNLP (W-NUT) 2020*   
 
@@ -82,12 +82,12 @@ Jerry Wei, Arief Suriawinata, Bing Ren, Xiaoying Liu, Mikhail Lisovsky, Louis Va
 
 ------
 
-### <span style="color:#004E30"> *Singles* </span> 
+### <span style="color:#fa8072"> *Singles* </span> 
 
-1. <a href="https://www.cs.dartmouth.edu/~trdata/reports/TR2020-899.pdf" style="color:#004E30" target="_blank"><b>Label Noise Reduction Without Assumptions</b></a>  
+1. <a href="https://www.cs.dartmouth.edu/~trdata/reports/TR2020-899.pdf" style="color:#fa8072" target="_blank"><b>Label Noise Reduction Without Assumptions</b></a>  
 **Jason Wei**  
-*Dartmouth Undergraduate Thesis 2020*  
-Advisor: <a href="https://www.cs.dartmouth.edu/~lorenzo/home.html" style="color:#004E30" target="_blank">Lorenzo Torresani</a> <br>  
+*Undergraduate Thesis 2020*  
+Advisor: <a href="https://www.cs.dartmouth.edu/~lorenzo/home.html" style="color:#fa8072" target="_blank">Lorenzo Torresani</a> <br>  
 
 
 ------

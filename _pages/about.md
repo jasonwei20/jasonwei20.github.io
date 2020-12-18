@@ -32,7 +32,7 @@ I graduated with the AB from Dartmouth College in 2020.
 <a href="https://www.nature.com/collections/ghegcgfbdi" style="color:#357EC7" target="_blank"><i>#3 most downloaded of 1024 cancer papers in Scientific Reports in 2019</i></a> 
 
 ------
-<a href="https://jasonwei20.github.io/papers/" style="color:navy">All</a> papers.  
+<a href="https://jasonwei20.github.io/papers/" style="color:#7d49ab">All</a> papers.  
 Personal <a href="https://jasonwei20.github.io/personal/" style="color:#7d49ab" target="_blank">webpage</a>.     
 
 

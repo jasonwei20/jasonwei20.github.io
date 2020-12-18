@@ -15,7 +15,7 @@ I grew up in Fairfax County, Virginia. When visiting home, I enjoy playing <a hr
 <img src="/images/personal_3.jpg" width="22%">
 <img src="/images/personal_4.jpg" width="22%">
 
-Quarterly <a href="https://jasonwei20.github.io/blog_posts/" style="color:navy">blog posts</a> about my life.  
+My quarterly <a href="https://jasonwei20.github.io/blog_posts/" style="color:navy">personal blog</a>.  
 <a href="https://jasonwei20.github.io/places_ive_been/" style="color:navy">Places</a> that I've been to.  
 <a href="https://jasonwei20.github.io/stuff_i_like/" style="color:navy">Stuff</a> that I like.  
 A <a href="https://jasonwei20.github.io/life_experiences/" style="color:navy">list</a> of my most transformative, memorable, or fun experiences.  

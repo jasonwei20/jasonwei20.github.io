@@ -33,7 +33,7 @@ I graduated with the AB from Dartmouth College in 2020.
 
 ------
 <a href="https://jasonwei20.github.io/papers/" style="color:#7d49ab">All</a> papers.  
-Personal <a href="https://jasonwei20.github.io/personal/" style="color:#7d49ab" target="_blank">webpage</a>.     
+Personal <a href="https://jasonwei20.github.io/personal/" style="color:#7d49ab">webpage</a>.     
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

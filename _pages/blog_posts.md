@@ -1,5 +1,5 @@
 ---
-title: "Personal blog"
+title: "Personal Blog"
 permalink: /blog_posts/
 author_profile: true
 ---

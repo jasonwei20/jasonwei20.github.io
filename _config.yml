@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Home"
+title                    : "Jason Wei"
 title_separator          : "-"
 name                     : &name "Jason Wei"
 description              : &description "Student at Dartmouth College"

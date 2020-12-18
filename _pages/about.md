@@ -15,7 +15,7 @@ I graduated with the AB from Dartmouth College in 2020.
 
 ------
 
-### Selected Papers <a href="https://jasonwei20.github.io/papers/" style="color:navy">(All)</a>
+### Selected Papers 
 
 1. <a href="https://www.aclweb.org/anthology/D19-1670.pdf" style="color:#7d49ab" target="_blank"><b>EDA: Easy Data Augmentation Techniques for Boosting Performance on Text Classification Tasks</b></a>  
 **Jason Wei**, Kai Zou  
@@ -32,6 +32,7 @@ I graduated with the AB from Dartmouth College in 2020.
 <a href="https://www.nature.com/collections/ghegcgfbdi" style="color:#357EC7" target="_blank"><i>#3 most downloaded of 1024 cancer papers in Scientific Reports in 2019</i></a> 
 
 ------
+<a href="https://jasonwei20.github.io/papers/" style="color:navy">All</a> papers.  
 Personal <a href="https://jasonwei20.github.io/personal/" style="color:#7d49ab" target="_blank">webpage</a>.     
 
 

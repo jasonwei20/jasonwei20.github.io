@@ -1,5 +1,5 @@
 ---
-title: "Blog Posts"
+title: "Personal blog"
 permalink: /blog_posts/
 author_profile: true
 ---
@@ -8,7 +8,7 @@ Blog posts about my life, partially inspired by John Watson's blog from the Sher
 
 * 2020
 	1. <a href="https://jasonwei20.github.io/posts/2020/9/blog-post-14/" style="color:navy" target="_blank">Summer after college</a>
-	1. <a href="https://jasonwei20.github.io/posts/2020/6/blog-post-13/" style="color:navy" target="_blank">Spring 2020</a>
+	1. <a href="https://jasonwei20.github.io/posts/2020/6/blog-post-13/" style="color:navy" target="_blank">Spring 2020: home</a>
 	1. <a href="https://jasonwei20.github.io/posts/2020/3/blog-post-12/" style="color:navy" target="_blank">Starting the new decade</a>
 * 2019
 	1. <a href="https://jasonwei20.github.io/posts/2019/12/blog-post-10/" style="color:navy" target="_blank">Fall 2019</a>
@@ -24,6 +24,8 @@ Blog posts about my life, partially inspired by John Watson's blog from the Sher
 * 2017
 	1. <a href="https://jasonwei20.github.io/posts/2018/1/blog-post-2/" style="color:navy" target="_blank">Fall: a review</a>
 	1. <a href="https://jasonwei20.github.io/posts/2017/12/blog-post-1/" style="color:navy" target="_blank">Travels in Iceland</a>
+
+------
 
 <img src="/images/grand_canyon.jpg" width="29%">
 <img src="/images/antelope_canyon.jpg" width="29%">

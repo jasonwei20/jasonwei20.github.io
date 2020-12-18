@@ -1,5 +1,5 @@
 # main links links
-main:
+# main:
   #- title: "Publications"
   #  url: /publications/
 #
@@ -7,6 +7,6 @@ main:
  #  url: /talks/    
 # 
 
-  - title: "Personal"
-    url: /personal/
+  # - title: "Personal"
+  #   url: /personal/
 

@@ -29,9 +29,9 @@ At Dartmouth, I wrote [<span style="color:#004E30">*Foray into NLP (2019-2020)*<
 Jerry Wei, Chengyu Huang, Soroush Vosoughi, **Jason Wei**  
 *Workshop on NLP for COVID-19 at ACL (NLP-COVID) 2020*   
 
-4. <a href="http://noisy-text.github.io/2020/pdf/2020.d200-1.27.pdf" style="color:#004E30" target="_blank"><b>An Empirical Survey of Unsupervised Text Representation Methods on Twitter Data</b></a>  
-Lili Wang, Chongyang Gao, **Jason Wei**, Weicheng Ma, Ruibo Liu and Soroush Vosoughi    
-*Workshop on Noisy User-generated Text at EMNLP (W-NUT) 2020*   
+4. <a style="color:#004E30"><b>Mitigating Political Bias in Language Models through Reinforced Calibration</b></a>  
+Ruibo Liu, Chenyan Jia, **Jason Wei**, Guangxuan Xu, Lili Wang, Soroush Vosoughi  
+*AAAI Conference on Artificial Intelligence (AAAI) 2021*
 
 ------
 
@@ -62,20 +62,16 @@ Naofumi Tomita, Behnaz Abdollahi, **Jason Wei**, Bing Ren, Arief Suriawinata, Sa
 Jerry Wei, Arief Suriawinata, Louis Vaickus, Bing Ren, Xiaoying Liu, **Jason Wei**, Saeed Hassanpour  
 *Machine Learning for Health Workshop at NeurIPS (ML4H) 2019* <a href="https://slideslive.com/38923239/spotlight-paper-talks?t=1095" target="_blank"><b>[Spotlight]</b></a>  
 
-6. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7233054/" style="color:#7d49ab" target="_blank"><b>Predicting Colorectal Polyp Recurrence Using Time-to-event Analysis of Medical Records</b></a>     
-Lia Harrington, **Jason Wei**, Arief Suriawinata, Todd Mackenzie, Saeed Hassanpour    
-*AMIA Informatics Summit 2020*   
-
-7. <img height="16" width="16" src="/images/glowing-star.png"> <a href="https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2764906" style="color:#7d49ab" target="_blank"><b>Evaluation of a Deep Neural Network for Automated Classification of Colorectal Polyps on Histopathologic Slides</b></a>  
+6. <img height="16" width="16" src="/images/glowing-star.png"> <a href="https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2764906" style="color:#7d49ab" target="_blank"><b>Evaluation of a Deep Neural Network for Automated Classification of Colorectal Polyps on Histopathologic Slides</b></a>  
 **Jason Wei**, Arief Suriawinata, Louis Vaickus, Bing Ren, Xiaoying Liu, Mikhail Lisovsky, Naofumi Tomita, Behnaz Abdollahi, Adam Kim, Dale Snover, John Baron, Elizabeth Barry, Saeed Hassanpour  
 *JAMA Network Open 2020*  
 <a href="https://neukom.dartmouth.edu/research/neukom-research-prizes/2020-neukom-research-prize-winners" target="_blank"><i>Neukom Prize for Outstanding Undergraduate Research, 3rd place</i></a>  
 
-8. <a href="https://arxiv.org/abs/2004.12535" style="color:#7d49ab" target="_blank"><b>Difficulty Translation in Histopathology Images</b></a>  
+7. <a href="https://arxiv.org/abs/2004.12535" style="color:#7d49ab" target="_blank"><b>Difficulty Translation in Histopathology Images</b></a>  
 Jerry Wei, Arief Suriawinata, Xiaoying Liu, Bing Ren, Mustafa Nasir-Moin, Naofumi Tomita, **Jason Wei**, Saeed Hassanpour   
-*Conference on Artificial Intelligence in Medicine (AIME) 2020* <a target="_blank"><b>[Oral]</b></a>  
+*Conference on Artificial Intelligence in Medicine (AIME) 2020*   
 
-9. <a href="https://arxiv.org/abs/2009.13698" style="color:#7d49ab" target="_blank"><b>Learn like a Pathologist: Curriculum Learning by Annotator Agreement for Histopathology Image Classification</b></a>  
+8. <a href="https://arxiv.org/abs/2009.13698" style="color:#7d49ab" target="_blank"><b>Learn like a Pathologist: Curriculum Learning by Annotator Agreement for Histopathology Image Classification</b></a>  
 Jerry Wei, Arief Suriawinata, Bing Ren, Xiaoying Liu, Mikhail Lisovsky, Louis Vaickus, Charles Brown, Michael Baker, Mustafa Nasir-Moin, Naofumi Tomita, Lorenzo Torresani, **Jason Wei**, Saeed Hassanpour   
 *Winter Conference on Applications of Computer Vision (WACV) 2021* 
 
@@ -95,3 +91,13 @@ Advisor: <a href="https://www.cs.dartmouth.edu/~lorenzo/home.html" style="color:
 <a href="https://jasonwei20.github.io/writing_tips/" style="color:navy">Tips</a> for writing papers.  
 <a href="https://jasonwei20.github.io/notes/" style="color:navy">Notes</a> on papers I've read.   
 My research <a href="https://jasonwei20.github.io/research_values/" style="color:navy">values</a>. 
+
+
+<!-- 6. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7233054/" style="color:#7d49ab" target="_blank"><b>Predicting Colorectal Polyp Recurrence Using Time-to-event Analysis of Medical Records</b></a>     
+Lia Harrington, **Jason Wei**, Arief Suriawinata, Todd Mackenzie, Saeed Hassanpour    
+*AMIA Informatics Summit 2020*    -->
+
+<!-- 
+4. <a href="http://noisy-text.github.io/2020/pdf/2020.d200-1.27.pdf" style="color:#004E30" target="_blank"><b>An Empirical Survey of Unsupervised Text Representation Methods on Twitter Data</b></a>  
+Lili Wang, Chongyang Gao, **Jason Wei**, Weicheng Ma, Ruibo Liu and Soroush Vosoughi    
+*Workshop on Noisy User-generated Text at EMNLP (W-NUT) 2020*    -->

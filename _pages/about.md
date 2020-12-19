@@ -15,7 +15,7 @@ I graduated with the AB from Dartmouth College in 2020.
 
 ------
 
-### Selected Papers 
+### Papers
 
 1. <a href="https://www.aclweb.org/anthology/D19-1670.pdf" style="color:navy" target="_blank"><b>EDA: Easy Data Augmentation Techniques for Boosting Performance on Text Classification Tasks</b></a>  
 **Jason Wei**, Kai Zou  

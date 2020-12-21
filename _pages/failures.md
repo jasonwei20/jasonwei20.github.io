@@ -9,11 +9,13 @@ author_profile: true
 This page used to be called "Embrace Failure," but instead, we can call them [*ahead* and *behind* events](https://www.youtube.com/watch?v=cocbJtGk9s8). 
 
 2020
-* Paper rejected from AACL, COLING
+* Paper rejected from EACL (technically withdrawn)
+* Paper rejected from AACL, COLING, and EACL (technically withdrawn)
 * Paper rejected from AACL, COLING
 * Rejected from Salesforce and Alibaba internships
 * Rejected from NSF Fellowship
 * Rejected from PhD programs at Princeton, University of Washington, Stanford, MIT, CMU
+* Doordash doesn't ask me to return after a fall internship
 
 2019
 * Rejected from Benchling and Figma after phone interviews

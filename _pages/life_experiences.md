@@ -4,6 +4,9 @@ permalink: /life_experiences/
 author_profile: true
 ---
 
+2020
+* **February/March:** Dartmouth winter carnival and various events Tri-Kap
+
 2019
 * **Dec 13:** Seeing my brother give a talk at a NeurIPS workshop
 * **Nov 4:** Exploring Hong Kong

@@ -40,12 +40,52 @@ Ruibo Liu, Chenyan Jia, **Jason Wei**, Guangxuan Xu, Lili Wang, Soroush Vosoughi
 <span style="color:#7d49ab">Neural networks for histopathology image analysis, with a focus on colorectal polyps.</span>
 
 First-authored papers
-<ol reversed>
-  <li><a href="https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2764906" style="color:#7d49ab" target="_blank"><b>Evaluation of a Deep Neural Network for Automated Classification of Colorectal Polyps on Histopathologic Slides</b></a> (JAMA Network Open 2020)</li>
-  <li><a href="https://www.nature.com/articles/s41598-019-40041-7" style="color:#7d49ab" target="_blank"><b>Pathologist-Level Classification of Histologic Patterns on Resected Lung Adenocarcinoma Slides with Deep Neural Networks</b></a> (Scientific Reports 2019) <img height="16" src="https://img.shields.io/github/stars/BMIRDS/deepslide.svg?logo=github&logoColor=white&colorA=navy&link=https://github.com/BMIRDS/deepslide&link=https://github.com/BMIRDS/deepslide"> <br/>
-  (<a href="https://www.nature.com/collections/ghegcgfbdi" target="_blank"><i>#3 most downloaded of 1024 cancer papers in Scientific Reports in 2019</i></a>) <a href="https://github.com/BMIRDS/deepslide" target="_blank">[Github]</a></li> 
-  <li><a href="http://www.jpathinformatics.org/article.asp?issn=2153-3539;year=2019;volume=10;issue=1;spage=7;epage=7;aulast=Wei" style="color:#7d49ab" target="_blank"><b>Automated Detection of Celiac Disease on Duodenal Biopsy Slides: A Deep Learning Approach</b></a> (Journal of Pathology Informatics 2019)</li>
-</ol>
+
+* <a href="https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2764906" style="color:#7d49ab" target="_blank"><b>Evaluation of a Deep Neural Network for Automated Classification of Colorectal Polyps on Histopathologic Slides</b></a>, 
+*JAMA Network Open 2020*
+
+* <a href="https://www.nature.com/articles/s41598-019-40041-7" style="color:#7d49ab" target="_blank"><b>Pathologist-Level Classification of Histologic Patterns on Resected Lung Adenocarcinoma Slides with Deep Neural Networks</b></a>, 
+*Scientific Reports 2019*  
+<a href="https://www.nature.com/collections/ghegcgfbdi" target="_blank"><i>#3 most downloaded of 1024 cancer papers in Scientific Reports in 2019</i></a><a href="https://github.com/BMIRDS/deepslide" target="_blank">[Github]</a> <img height="16" src="https://img.shields.io/github/stars/BMIRDS/deepslide.svg?logo=github&logoColor=white&colorA=navy&link=https://github.com/BMIRDS/deepslide&link=https://github.com/BMIRDS/deepslide"> 
+
+* <a href="http://www.jpathinformatics.org/article.asp?issn=2153-3539;year=2019;volume=10;issue=1;spage=7;epage=7;aulast=Wei" style="color:#7d49ab" target="_blank"><b>Automated Detection of Celiac Disease on Duodenal Biopsy Slides: A Deep Learning Approach</b></a>, 
+*Journal of Pathology Informatics 2019*
+
+Co-authored papers
+
+* <a href="https://arxiv.org/abs/2009.13698" style="color:#7d49ab" target="_blank"><b>Learn like a Pathologist: Curriculum Learning by Annotator Agreement for Histopathology Image Classification</b></a>, 
+*Winter Conference on Applications of Computer Vision (WACV) 2021*
+
+* <a href="https://arxiv.org/abs/2004.12535" style="color:#7d49ab" target="_blank"><b>Difficulty Translation in Histopathology Images</b></a>, 
+*Conference on Artificial Intelligence in Medicine (AIME) 2020*
+
+* <a href="https://arxiv.org/abs/1910.05827" style="color:#7d49ab" target="_blank"><b>Generative Image Translation for Data Augmentation in Colorectal Histopathology Images</b></a>, 
+*Machine Learning for Health Workshop at NeurIPS (ML4H) 2019* <a href="https://slideslive.com/38923239/spotlight-paper-talks?t=1095" target="_blank"><b>[Spotlight]</b></a>
+
+* <a href="https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2753982" style="color:#7d49ab" target="_blank"><b>Attention-Based Deep Neural Networks for Detection of Cancerous and Precancerous Esophagus Tissue on Histopathological Slides</b></a>, 
+*JAMA Network Open 2019*
+
+* <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/cncy.22099" style="color:#7d49ab" target="_blank"><b>Automating the Paris System for Urine Cytopathology: A Hybrid Deep Learning and Morphometric Approach</b></a>, 
+*Cancer Cytopathology 2019*
+
+------
+
+### <span style="color:#fa8072"> *Singles* </span> 
+
+1. <a href="https://www.cs.dartmouth.edu/~trdata/reports/TR2020-899.pdf" style="color:#fa8072" target="_blank"><b>Label Noise Reduction Without Assumptions</b></a>  
+**Jason Wei**  
+*Undergraduate Thesis 2020*  
+Advisor: <a href="https://www.cs.dartmouth.edu/~lorenzo/home.html" style="color:#fa8072" target="_blank">Lorenzo Torresani</a> <br>  
+
+
+------
+
+<a href="https://jasonwei20.github.io/writing_tips/" style="color:navy">Tips</a> for writing papers.  
+<a href="https://jasonwei20.github.io/notes/" style="color:navy">Notes</a> on papers I've read.   
+My research <a href="https://jasonwei20.github.io/research_values/" style="color:navy">values</a>. 
+
+
+
 <!-- 
 1. <img height="16" width="16" src="/images/glowing-star.png"> <a href="https://www.nature.com/articles/s41598-019-40041-7" style="color:#7d49ab" target="_blank"><b>Pathologist-Level Classification of Histologic Patterns on Resected Lung Adenocarcinoma Slides with Deep Neural Networks</b></a>  
 **Jason Wei**, Laura Tafe, Yevgeniy Linnik, Louis Vaickus, Naofumi Tomita, Saeed Hassanpour    
@@ -57,7 +97,7 @@ First-authored papers
 2. <a href="http://www.jpathinformatics.org/article.asp?issn=2153-3539;year=2019;volume=10;issue=1;spage=7;epage=7;aulast=Wei" style="color:#7d49ab" target="_blank"><b>Automated Detection of Celiac Disease on Duodenal Biopsy Slides: A Deep Learning Approach</b></a>  
 **Jason Wei**, Jerry Wei, Christopher Jackson, Bing Ren, Arief Suriawinata, Saeed Hassanpour  
 *Journal of Pathology Informatics 2019*    -->
-
+<!-- 
 3. <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/cncy.22099" style="color:#7d49ab" target="_blank"><b>Automating the Paris System for Urine Cytopathology: A Hybrid Deep Learning and Morphometric Approach</b></a>  
 Louis Vaickus, Arief Suriawinata, **Jason Wei**, Xiaoying Liu  
 *Cancer Cytopathology 2019*  
@@ -81,25 +121,7 @@ Jerry Wei, Arief Suriawinata, Xiaoying Liu, Bing Ren, Mustafa Nasir-Moin, Naofum
 
 8. <a href="https://arxiv.org/abs/2009.13698" style="color:#7d49ab" target="_blank"><b>Learn like a Pathologist: Curriculum Learning by Annotator Agreement for Histopathology Image Classification</b></a>  
 Jerry Wei, Arief Suriawinata, Bing Ren, Xiaoying Liu, Mikhail Lisovsky, Louis Vaickus, Charles Brown, Michael Baker, Mustafa Nasir-Moin, Naofumi Tomita, Lorenzo Torresani, **Jason Wei**, Saeed Hassanpour   
-*Winter Conference on Applications of Computer Vision (WACV) 2021* 
-
-
-------
-
-### <span style="color:#fa8072"> *Singles* </span> 
-
-1. <a href="https://www.cs.dartmouth.edu/~trdata/reports/TR2020-899.pdf" style="color:#fa8072" target="_blank"><b>Label Noise Reduction Without Assumptions</b></a>  
-**Jason Wei**  
-*Undergraduate Thesis 2020*  
-Advisor: <a href="https://www.cs.dartmouth.edu/~lorenzo/home.html" style="color:#fa8072" target="_blank">Lorenzo Torresani</a> <br>  
-
-
-------
-
-<a href="https://jasonwei20.github.io/writing_tips/" style="color:navy">Tips</a> for writing papers.  
-<a href="https://jasonwei20.github.io/notes/" style="color:navy">Notes</a> on papers I've read.   
-My research <a href="https://jasonwei20.github.io/research_values/" style="color:navy">values</a>. 
-
+*Winter Conference on Applications of Computer Vision (WACV) 2021*  -->
 
 <!-- 6. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7233054/" style="color:#7d49ab" target="_blank"><b>Predicting Colorectal Polyp Recurrence Using Time-to-event Analysis of Medical Records</b></a>     
 Lia Harrington, **Jason Wei**, Arief Suriawinata, Todd Mackenzie, Saeed Hassanpour    

@@ -4,6 +4,8 @@ permalink: /papers/
 author_profile: true
 ---
 
+{% include base_path %}
+
 Similar to how a musician would compose an album as a collection of songs, I organize my research into *medleys* - collections of papers joined by a common theme. 
 
 At Dartmouth, I wrote [<span style="color:#004E30">*Foray into NLP (2019-2020)*</span>](#foray) and [<span style="color:#7d49ab"> *CP<sup>2</sup>: Computational Pathology & Colorectal Polyps (2019-2020)*</span>](#cp2). 
@@ -44,7 +46,7 @@ First-authored papers
 * <a href="https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2764906" style="color:#7d49ab" target="_blank"><b>Evaluation of a Deep Neural Network for Automated Classification of Colorectal Polyps on Histopathologic Slides</b></a>, 
 *JAMA Network Open 2020*
 * <a href="https://www.nature.com/articles/s41598-019-40041-7" style="color:#7d49ab" target="_blank"><b>Pathologist-Level Classification of Histologic Patterns on Resected Lung Adenocarcinoma Slides with Deep Neural Networks</b></a>, 
-*Scientific Reports 2019* <a href="https://github.com/BMIRDS/deepslide" target="_blank">[Github]</a> <img height="16" src="https://img.shields.io/github/stars/BMIRDS/deepslide.svg?logo=github&logoColor=white&colorA=navy&link=https://github.com/BMIRDS/deepslide&link=https://github.com/BMIRDS/deepslide">
+*Scientific Reports 2019* <a href="https://github.com/BMIRDS/deepslide" target="_blank">[Github]</a> <img height="16" src="https://img.shields.io/github/stars/BMIRDS/deepslide.svg?logo=github&logoColor=white&colorA=navy&link=https://github.com/BMIRDS/deepslide&link=https://github.com/BMIRDS/deepslide">  
 <a href="https://www.nature.com/collections/ghegcgfbdi" target="_blank"><i>#3 most downloaded of 1024 cancer papers in Scientific Reports in 2019</i></a> 
 * <a href="http://www.jpathinformatics.org/article.asp?issn=2153-3539;year=2019;volume=10;issue=1;spage=7;epage=7;aulast=Wei" style="color:#7d49ab" target="_blank"><b>Automated Detection of Celiac Disease on Duodenal Biopsy Slides: A Deep Learning Approach</b></a>, 
 *Journal of Pathology Informatics 2019*

@@ -39,6 +39,14 @@ Ruibo Liu, Chenyan Jia, **Jason Wei**, Guangxuan Xu, Lili Wang, Soroush Vosoughi
 
 <span style="color:#7d49ab">Neural networks for histopathology image analysis, with a focus on colorectal polyps.</span>
 
+First-authored papers
+<ol reversed>
+  <li><a href="https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2764906" style="color:#7d49ab" target="_blank"><b>Evaluation of a Deep Neural Network for Automated Classification of Colorectal Polyps on Histopathologic Slides</b></a> (JAMA Network Open 2020)</li>
+  <li><a href="https://www.nature.com/articles/s41598-019-40041-7" style="color:#7d49ab" target="_blank"><b>Pathologist-Level Classification of Histologic Patterns on Resected Lung Adenocarcinoma Slides with Deep Neural Networks</b></a> (Scientific Reports 2019) <img height="16" src="https://img.shields.io/github/stars/BMIRDS/deepslide.svg?logo=github&logoColor=white&colorA=navy&link=https://github.com/BMIRDS/deepslide&link=https://github.com/BMIRDS/deepslide"> <br/>
+  (<a href="https://www.nature.com/collections/ghegcgfbdi" target="_blank"><i>#3 most downloaded of 1024 cancer papers in Scientific Reports in 2019</i></a>) <a href="https://github.com/BMIRDS/deepslide" target="_blank">[Github]</a></li> 
+  <li><a href="http://www.jpathinformatics.org/article.asp?issn=2153-3539;year=2019;volume=10;issue=1;spage=7;epage=7;aulast=Wei" style="color:#7d49ab" target="_blank"><b>Automated Detection of Celiac Disease on Duodenal Biopsy Slides: A Deep Learning Approach</b></a> (Journal of Pathology Informatics 2019)</li>
+</ol>
+<!-- 
 1. <img height="16" width="16" src="/images/glowing-star.png"> <a href="https://www.nature.com/articles/s41598-019-40041-7" style="color:#7d49ab" target="_blank"><b>Pathologist-Level Classification of Histologic Patterns on Resected Lung Adenocarcinoma Slides with Deep Neural Networks</b></a>  
 **Jason Wei**, Laura Tafe, Yevgeniy Linnik, Louis Vaickus, Naofumi Tomita, Saeed Hassanpour    
 *Scientific Reports 2019*  
@@ -48,7 +56,7 @@ Ruibo Liu, Chenyan Jia, **Jason Wei**, Guangxuan Xu, Lili Wang, Soroush Vosoughi
 
 2. <a href="http://www.jpathinformatics.org/article.asp?issn=2153-3539;year=2019;volume=10;issue=1;spage=7;epage=7;aulast=Wei" style="color:#7d49ab" target="_blank"><b>Automated Detection of Celiac Disease on Duodenal Biopsy Slides: A Deep Learning Approach</b></a>  
 **Jason Wei**, Jerry Wei, Christopher Jackson, Bing Ren, Arief Suriawinata, Saeed Hassanpour  
-*Journal of Pathology Informatics 2019*   
+*Journal of Pathology Informatics 2019*    -->
 
 3. <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/cncy.22099" style="color:#7d49ab" target="_blank"><b>Automating the Paris System for Urine Cytopathology: A Hybrid Deep Learning and Morphometric Approach</b></a>  
 Louis Vaickus, Arief Suriawinata, **Jason Wei**, Xiaoying Liu  

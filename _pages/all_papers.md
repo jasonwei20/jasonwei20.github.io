@@ -43,11 +43,9 @@ First-authored papers
 
 * <a href="https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2764906" style="color:#7d49ab" target="_blank"><b>Evaluation of a Deep Neural Network for Automated Classification of Colorectal Polyps on Histopathologic Slides</b></a>, 
 *JAMA Network Open 2020*
-
 * <a href="https://www.nature.com/articles/s41598-019-40041-7" style="color:#7d49ab" target="_blank"><b>Pathologist-Level Classification of Histologic Patterns on Resected Lung Adenocarcinoma Slides with Deep Neural Networks</b></a>, 
-*Scientific Reports 2019*  
-<a href="https://www.nature.com/collections/ghegcgfbdi" target="_blank"><i>#3 most downloaded of 1024 cancer papers in Scientific Reports in 2019</i></a><a href="https://github.com/BMIRDS/deepslide" target="_blank">[Github]</a> <img height="16" src="https://img.shields.io/github/stars/BMIRDS/deepslide.svg?logo=github&logoColor=white&colorA=navy&link=https://github.com/BMIRDS/deepslide&link=https://github.com/BMIRDS/deepslide"> 
-
+*Scientific Reports 2019* <a href="https://github.com/BMIRDS/deepslide" target="_blank">[Github]</a> <img height="16" src="https://img.shields.io/github/stars/BMIRDS/deepslide.svg?logo=github&logoColor=white&colorA=navy&link=https://github.com/BMIRDS/deepslide&link=https://github.com/BMIRDS/deepslide">
+<a href="https://www.nature.com/collections/ghegcgfbdi" target="_blank"><i>#3 most downloaded of 1024 cancer papers in Scientific Reports in 2019</i></a> 
 * <a href="http://www.jpathinformatics.org/article.asp?issn=2153-3539;year=2019;volume=10;issue=1;spage=7;epage=7;aulast=Wei" style="color:#7d49ab" target="_blank"><b>Automated Detection of Celiac Disease on Duodenal Biopsy Slides: A Deep Learning Approach</b></a>, 
 *Journal of Pathology Informatics 2019*
 
@@ -55,16 +53,12 @@ Co-authored papers
 
 * <a href="https://arxiv.org/abs/2009.13698" style="color:#7d49ab" target="_blank"><b>Learn like a Pathologist: Curriculum Learning by Annotator Agreement for Histopathology Image Classification</b></a>, 
 *Winter Conference on Applications of Computer Vision (WACV) 2021*
-
 * <a href="https://arxiv.org/abs/2004.12535" style="color:#7d49ab" target="_blank"><b>Difficulty Translation in Histopathology Images</b></a>, 
 *Conference on Artificial Intelligence in Medicine (AIME) 2020*
-
 * <a href="https://arxiv.org/abs/1910.05827" style="color:#7d49ab" target="_blank"><b>Generative Image Translation for Data Augmentation in Colorectal Histopathology Images</b></a>, 
 *Machine Learning for Health Workshop at NeurIPS (ML4H) 2019* <a href="https://slideslive.com/38923239/spotlight-paper-talks?t=1095" target="_blank"><b>[Spotlight]</b></a>
-
 * <a href="https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2753982" style="color:#7d49ab" target="_blank"><b>Attention-Based Deep Neural Networks for Detection of Cancerous and Precancerous Esophagus Tissue on Histopathological Slides</b></a>, 
 *JAMA Network Open 2019*
-
 * <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/cncy.22099" style="color:#7d49ab" target="_blank"><b>Automating the Paris System for Urine Cytopathology: A Hybrid Deep Learning and Morphometric Approach</b></a>, 
 *Cancer Cytopathology 2019*
 

@@ -46,8 +46,7 @@ Ruibo Liu, Chenyan Jia, **Jason Wei**, Guangxuan Xu, Lili Wang, Soroush Vosoughi
 	*JAMA Network Open 2020*  
 	<a href="https://neukom.dartmouth.edu/research/neukom-research-prizes/2020-neukom-research-prize-winners" target="_blank"><i>Neukom Prize for Outstanding Undergraduate Research</i></a> 
 	* <a href="https://www.nature.com/articles/s41598-019-40041-7" style="color:#7d49ab" target="_blank"><b>Pathologist-Level Classification of Histologic Patterns on Resected Lung Adenocarcinoma Slides with Deep Neural Networks</b></a>, 
-	*Scientific Reports 2019*  
-	<a href="https://github.com/BMIRDS/deepslide" target="_blank">[Github]</a> <img height="16" src="https://img.shields.io/github/stars/BMIRDS/deepslide.svg?logo=github&logoColor=white&colorA=navy&link=https://github.com/BMIRDS/deepslide&link=https://github.com/BMIRDS/deepslide">  
+	*Scientific Reports 2019* <a href="https://github.com/BMIRDS/deepslide" target="_blank">[Github]</a> <img height="16" src="https://img.shields.io/github/stars/BMIRDS/deepslide.svg?logo=github&logoColor=white&colorA=navy&link=https://github.com/BMIRDS/deepslide&link=https://github.com/BMIRDS/deepslide">  
 	<a href="https://www.nature.com/collections/ghegcgfbdi" target="_blank"><i>#3 most downloaded of 1024 cancer papers in Scientific Reports in 2019</i></a> 
 	* <a href="http://www.jpathinformatics.org/article.asp?issn=2153-3539;year=2019;volume=10;issue=1;spage=7;epage=7;aulast=Wei" style="color:#7d49ab" target="_blank"><b>Automated Detection of Celiac Disease on Duodenal Biopsy Slides: A Deep Learning Approach</b></a>, 
 	*Journal of Pathology Informatics 2019*

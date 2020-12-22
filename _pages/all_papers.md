@@ -42,11 +42,12 @@ Ruibo Liu, Chenyan Jia, **Jason Wei**, Guangxuan Xu, Lili Wang, Soroush Vosoughi
 <span style="color:#7d49ab">Neural networks for histopathology image analysis, with a focus on colorectal polyps.</span>
 
 * First-authored papers
-	* <img height="16" width="16" src="/images/glowing-star.png"> <a href="https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2764906" style="color:#7d49ab" target="_blank">Evaluation of a Deep Neural Network for Automated Classification of Colorectal Polyps on Histopathologic Slides</a>, 
+	* <a href="https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2764906" style="color:#7d49ab" target="_blank">Evaluation of a Deep Neural Network for Automated Classification of Colorectal Polyps on Histopathologic Slides</a>, 
 	*JAMA Network Open 2020*  
 	<a href="https://neukom.dartmouth.edu/research/neukom-research-prizes/2020-neukom-research-prize-winners" target="_blank"><i>Neukom Prize for Outstanding Undergraduate Research</i></a> 
-	* <img height="16" width="16" src="/images/glowing-star.png"> <a href="https://www.nature.com/articles/s41598-019-40041-7" style="color:#7d49ab" target="_blank">Pathologist-Level Classification of Histologic Patterns on Resected Lung Adenocarcinoma Slides with Deep Neural Networks</a>, 
-	*Scientific Reports 2019* <a href="https://github.com/BMIRDS/deepslide" target="_blank">[Github]</a> <img height="16" src="https://img.shields.io/github/stars/BMIRDS/deepslide.svg?logo=github&logoColor=white&colorA=navy&link=https://github.com/BMIRDS/deepslide&link=https://github.com/BMIRDS/deepslide">  
+	* <a href="https://www.nature.com/articles/s41598-019-40041-7" style="color:#7d49ab" target="_blank">Pathologist-Level Classification of Histologic Patterns on Resected Lung Adenocarcinoma Slides with Deep Neural Networks</a>, 
+	*Scientific Reports 2019*  
+	<a href="https://github.com/BMIRDS/deepslide" target="_blank">[Github]</a> <img height="16" src="https://img.shields.io/github/stars/BMIRDS/deepslide.svg?logo=github&logoColor=white&colorA=navy&link=https://github.com/BMIRDS/deepslide&link=https://github.com/BMIRDS/deepslide">  
 	<a href="https://www.nature.com/collections/ghegcgfbdi" target="_blank"><i>#3 most downloaded of 1024 cancer papers in Scientific Reports in 2019</i></a> 
 	* <a href="http://www.jpathinformatics.org/article.asp?issn=2153-3539;year=2019;volume=10;issue=1;spage=7;epage=7;aulast=Wei" style="color:#7d49ab" target="_blank">Automated Detection of Celiac Disease on Duodenal Biopsy Slides: A Deep Learning Approach</a>, 
 	*Journal of Pathology Informatics 2019*
@@ -56,7 +57,7 @@ Ruibo Liu, Chenyan Jia, **Jason Wei**, Guangxuan Xu, Lili Wang, Soroush Vosoughi
 	*Winter Conference on Applications of Computer Vision (WACV) 2021*
 	* <a href="https://arxiv.org/abs/2004.12535" style="color:#7d49ab" target="_blank">Difficulty Translation in Histopathology Images</a>, 
 	*Conference on Artificial Intelligence in Medicine (AIME) 2020*
-	* <img height="16" width="16" src="/images/glowing-star.png"> <a href="https://arxiv.org/abs/1910.05827" style="color:#7d49ab" target="_blank">Generative Image Translation for Data Augmentation in Colorectal Histopathology Images</a>, 
+	* <a href="https://arxiv.org/abs/1910.05827" style="color:#7d49ab" target="_blank">Generative Image Translation for Data Augmentation in Colorectal Histopathology Images</a>, 
 	*Machine Learning for Health Workshop at NeurIPS (ML4H) 2019* <a href="https://slideslive.com/38923239/spotlight-paper-talks?t=1095" target="_blank"><b>[Spotlight]</b></a>
 	* <a href="https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2753982" style="color:#7d49ab" target="_blank">Attention-Based Deep Neural Networks for Detection of Cancerous and Precancerous Esophagus Tissue on Histopathological Slides</a>, 
 	*JAMA Network Open 2019*

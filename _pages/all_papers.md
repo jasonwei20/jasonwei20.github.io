@@ -6,7 +6,7 @@ author_profile: true
 
 {% include base_path %}
 
-Similar to how a musician would compose an album as a collection of songs, I organize my research into *medleys* - collections of papers joined by a common theme. 
+Similar to how musicians compose albums as collections of songs, I organize my research into *medleys* — collections of papers joined by a common theme. 
 
 At Dartmouth, I wrote [<span style="color:#004E30">*Foray into NLP (2019-2020)*</span>](#foray) and [<span style="color:#7d49ab"> *CP<sup>2</sup>: Computational Pathology & Colorectal Polyps (2019-2020)*</span>](#cp2). 
 

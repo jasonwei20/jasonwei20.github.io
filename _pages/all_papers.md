@@ -8,7 +8,10 @@ author_profile: true
 
 Similar to how musicians compose albums as collections of songs, I organize my research into *medleys* — collections of papers joined by a common theme. 
 
-At Dartmouth, I wrote [<span style="color:#004E30">*Foray into NLP (2019-2020)*</span>](#foray) and [<span style="color:#7d49ab"> *CP<sup>2</sup>: Computational Pathology & Colorectal Polyps (2019-2020)*</span>](#cp2). 
+At Dartmouth, I worked on two medleys.
+[<span style="color:#004E30">*Foray into NLP (2019-2020)*</span>](#foray) has my first NLP papers.
+Before that, I wrote [<span style="color:#7d49ab"> *CP<sup>2</sup>: Computational Pathology & Colorectal Polyps (2019-2020)*</span>](#cp2), a body of work on neural networks for histopathology image analysis.
+I also did an undergraduate thesis, <a href="https://digitalcommons.dartmouth.edu/senior_theses/164/" target="_blank"><b>Label Noise Reduction Without Assumptions</b></a>, advised by <a href="https://www.cs.dartmouth.edu/~lorenzo/home.html" target="_blank">Lorenzo Torresani</a> <br>.
 
 ------
 
@@ -62,16 +65,6 @@ Ruibo Liu, Chenyan Jia, **Jason Wei**, Guangxuan Xu, Lili Wang, Soroush Vosoughi
 	*JAMA Network Open 2019*
 	* <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/cncy.22099" style="color:#7d49ab" target="_blank"><b>Automating the Paris System for Urine Cytopathology: A Hybrid Deep Learning and Morphometric Approach</b></a>, 
 	*Cancer Cytopathology 2019*
-
-------
-
-### <span style="color:#fa8072"> *Singles* </span> 
-
-1. <a href="https://www.cs.dartmouth.edu/~trdata/reports/TR2020-899.pdf" style="color:#fa8072" target="_blank"><b>Label Noise Reduction Without Assumptions</b></a>  
-**Jason Wei**  
-*Undergraduate Thesis 2020*  
-Advisor: <a href="https://www.cs.dartmouth.edu/~lorenzo/home.html" style="color:#fa8072" target="_blank">Lorenzo Torresani</a> <br>  
-
 
 ------
 

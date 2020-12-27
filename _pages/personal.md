@@ -9,7 +9,7 @@ I was also on Dartmouth's club fencing team — we won <a href="http://www.theda
 
 In Fall 2018, I studied abroad in <a href="https://jasonwei20.github.io/posts/2018/12/blog-post-7/" style="color:navy" target="_blank">Denmark</a>.
 
-I grew up in Fairfax County, Virginia. When visiting home, I enjoy playing <a href="https://youtu.be/Di1FUcJFEbY?t=775" style="color:navy" target="_blank">tennis</a> and <a href="https://www.youtube.com/watch?v=mPmcU8u8MEc" style="color:navy" target="_blank">poker</a> with my childhood friends. I went to Thomas Jefferson High School for Science and Technology (TJ) in Alexandria, Virginia. 
+I grew up in Fairfax County, Virginia. When visiting home, I enjoy playing <a href="https://www.youtube.com/watch?v=1bdd9MJip20" style="color:navy" target="_blank">tennis</a> and <a href="https://www.youtube.com/watch?v=mPmcU8u8MEc" style="color:navy" target="_blank">poker</a> with my childhood friends. I went to Thomas Jefferson High School for Science and Technology (TJ) in Alexandria, Virginia. 
 
 <img src="/images/personal_1.jpg" width="22%">
 <img src="/images/personal_2.jpg" width="22%">

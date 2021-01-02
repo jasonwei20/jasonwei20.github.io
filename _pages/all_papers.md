@@ -10,7 +10,7 @@ Similar to how musicians compose albums as collections of songs, I organize my r
 
 At Dartmouth, I worked on two medleys.
 [<span style="color:#004E30">*Foray into NLP*</span>](#foray) has my first NLP papers.
-Before that, I wrote [<span style="color:#7d49ab"> *CP<sup>2</sup>: Computational Pathology & Colorectal Polyps*</span>](#cp2), a body of work on neural networks for histopathology image analysis.
+Before that, I studied neural networks for histopathology image analysis in [<span style="color:#7d49ab"> *CP<sup>2</sup>: Computational Pathology & Colorectal Polyps*</span>](#cp2).
 I also did an undergraduate thesis, <a href="https://digitalcommons.dartmouth.edu/senior_theses/164/" target="_blank">*Label Noise Reduction Without Assumptions*</a>, advised by <a href="https://www.cs.dartmouth.edu/~lorenzo/home.html" target="_blank">Lorenzo Torresani</a>.
 
 ------

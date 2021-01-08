@@ -19,7 +19,7 @@ I graduated with the AB from Dartmouth College in 2020.
 
 1. <a href="https://www.aclweb.org/anthology/D19-1670.pdf" style="color:navy" target="_blank"><b>EDA: Easy Data Augmentation Techniques for Boosting Performance on Text Classification Tasks</b></a>  
 **Jason Wei**, Kai Zou  
-*EMNLP-IJCNLP 2019*  
+*EMNLP 2019*  
 
 1. <a href="https://www.nature.com/articles/s41598-019-40041-7" style="color:navy" target="_blank"><b>Pathologist-Level Classification of Histologic Patterns on Resected Lung Adenocarcinoma Slides with Deep Neural Networks</b></a>  
 **Jason Wei**, Laura Tafe, Yevgeniy Linnik, Louis Vaickus, Naofumi Tomita, Saeed Hassanpour    

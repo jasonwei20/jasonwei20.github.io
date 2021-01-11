@@ -17,13 +17,13 @@ I graduated with the AB from Dartmouth College in 2020.
 
 ### Papers
 
+1. <a style="color:navy" target="_blank"><b>Text Data Augmentation in a Multi-Task View</b></a>  
+**Jason Wei**, Chengyu Huang, Shiqi Xu, Soroush Vosoughi  
+*EACL 2021*  
+
 1. <a href="https://www.aclweb.org/anthology/D19-1670.pdf" style="color:navy" target="_blank"><b>EDA: Easy Data Augmentation Techniques for Boosting Performance on Text Classification Tasks</b></a>  
 **Jason Wei**, Kai Zou  
 *EMNLP 2019*  
-
-1. <a href="https://www.nature.com/articles/s41598-019-40041-7" style="color:navy" target="_blank"><b>Pathologist-Level Classification of Histologic Patterns on Resected Lung Adenocarcinoma Slides with Deep Neural Networks</b></a>  
-**Jason Wei**, Laura Tafe, Yevgeniy Linnik, Louis Vaickus, Naofumi Tomita, Saeed Hassanpour    
-*Scientific Reports 2019*   
 
 ------
 <a href="https://jasonwei20.github.io/papers/" style="color:navy">All</a> papers.  
@@ -39,6 +39,12 @@ Personal <a href="https://jasonwei20.github.io/personal/" style="color:navy">web
 
   gtag('config', 'UA-146397444-1');
 </script>
+
+
+
+<!-- 1. <a href="https://www.nature.com/articles/s41598-019-40041-7" style="color:navy" target="_blank"><b>Pathologist-Level Classification of Histologic Patterns on Resected Lung Adenocarcinoma Slides with Deep Neural Networks</b></a>  
+**Jason Wei**, Laura Tafe, Yevgeniy Linnik, Louis Vaickus, Naofumi Tomita, Saeed Hassanpour    
+*Scientific Reports 2019*    -->
 
 <!-- I previously interned at <a href="https://www.doordash.com/" style="color:#FF4500" target="_blank">DoorDash</a> and <a href="https://blend.com/" style="color:#357EC7" target="_blank">Blend</a>. -->
 

@@ -36,7 +36,11 @@ Jerry Wei, Chengyu Huang, Soroush Vosoughi, **Jason Wei**
 
 4. <a style="color:#004E30"><b>Mitigating Political Bias in Language Models through Reinforced Calibration</b></a>  
 Ruibo Liu, Chenyan Jia, **Jason Wei**, Guangxuan Xu, Lili Wang, Soroush Vosoughi  
-*AAAI Conference on Artificial Intelligence (AAAI) 2021*
+*AAAI Conference on Artificial Intelligence (AAAI) 2021*     
+
+5. <a style="color:#004E30" target="_blank"><b>Text Augmentation in a Multi-Task View</b></a>  
+**Jason Wei**, Chengyu Huang, Shiqi Xu, Soroush Vosoughi  
+*EACL 2021*  
 
 ------
 

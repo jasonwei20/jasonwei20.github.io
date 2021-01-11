@@ -17,7 +17,7 @@ I graduated with the AB from Dartmouth College in 2020.
 
 ### Papers
 
-1. <a style="color:navy" target="_blank"><b>Text Data Augmentation in a Multi-Task View</b></a>  
+1. <a style="color:navy" target="_blank"><b>Text Augmentation in a Multi-Task View</b></a>  
 **Jason Wei**, Chengyu Huang, Shiqi Xu, Soroush Vosoughi  
 *EACL 2021*  
 

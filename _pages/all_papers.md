@@ -40,7 +40,7 @@ Ruibo Liu, Chenyan Jia, **Jason Wei**, Guangxuan Xu, Lili Wang, Soroush Vosoughi
 
 5. <a style="color:#004E30" target="_blank"><b>Text Augmentation in a Multi-Task View</b></a>  
 **Jason Wei**, Chengyu Huang, Shiqi Xu, Soroush Vosoughi  
-*EACL 2021*  
+*Conference of the European Chapter of the Association for Computational Linguistics (EACL) 2021*  
 
 ------
 

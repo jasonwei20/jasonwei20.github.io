@@ -11,23 +11,20 @@ redirect_from:
 
 I am currently an <a href="https://research.google/careers/ai-residency/" style="color:navy" target="_blank">AI Resident</a> at Google New York, working on natural language processing. 
 
-I graduated with the AB from Dartmouth College in 2020. 
-
 ------
 
 ### Papers
 
-1. <a href="https://arxiv.org/abs/2101.05469" style="color:navy" target="_blank"><b>Text Augmentation in a Multi-Task View</b></a>  
-**Jason Wei**, Chengyu Huang, Shiqi Xu, Soroush Vosoughi  
-*EACL 2021*  
-
-1. <a href="https://www.aclweb.org/anthology/D19-1670.pdf" style="color:navy" target="_blank"><b>EDA: Easy Data Augmentation Techniques for Boosting Performance on Text Classification Tasks</b></a>  
-**Jason Wei**, Kai Zou  
-*EMNLP 2019*  
+- <a href="https://arxiv.org/abs/2101.05469" style="color:navy" target="_blank"><i>Text augmentation in a multi-task view.</i></a>  
+**Jason Wei**, Chengyu Huang, Shiqi Xu, and Soroush Vosoughi. EACL 2021.  
+- <a href="https://www.aclweb.org/anthology/D19-1670.pdf" style="color:navy" target="_blank"><i>EDA: Easy Data Augmentation techniques for boosting performance on text classification tasks.</i></a>  
+**Jason Wei** and Kai Zou. EMNLP 2019.  
 
 ------
-<a href="https://jasonwei20.github.io/papers/" style="color:navy">All</a> papers.  
-Personal <a href="https://jasonwei20.github.io/personal/" style="color:navy">webpage</a>.     
+
+<a href="https://jasonwei20.github.io/papers/" style="color:navy">[All papers]</a> <a href="https://jasonwei20.github.io/personal/" style="color:navy">[personal webpage]</a>.  
+ 
+   
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

@@ -4,6 +4,8 @@ permalink: /personal/
 author_profile: true
 ---
 
+I graduated from Dartmouth College in 2020 with an AB in Computer Science. 
+
 At Dartmouth, I joined the <a href="https://en.wikipedia.org/wiki/Kappa_Kappa_Kappa" style="color:navy" target="_blank">Tri-Kap</a> fraternity.
 I was also on the club fencing team — we won <a href="http://www.thedartmouth.com/article/2018/04/dartmouth-fencing-club" style="color:navy" target="_blank">first</a> at club nationals in Knoxville, TN in 2018 and second at club nationals in Lansing, MI in 2017.
 

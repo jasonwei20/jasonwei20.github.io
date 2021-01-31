@@ -4,8 +4,11 @@ permalink: /life_experiences/
 author_profile: true
 ---
 
+2021
+* **Jan 29:** Watching James Cameron's "Avatar" in the bathtub
+
 2020
-* **February/March:** Dartmouth winter carnival and various events Tri-Kap
+* **February/March:** Dartmouth winter carnival and various events at Tri-Kap
 
 2019
 * **Dec 13:** Seeing my brother give a talk at a NeurIPS workshop

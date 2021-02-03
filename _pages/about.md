@@ -9,6 +9,10 @@ redirect_from:
   - /research/
 ---
 
+# Jason Wei
+
+`jason.weng.wei@gmail.com` / <a href="https://jasonwei20.github.io/personal/" style="color:navy">personal webpage</a> / <a href="https://scholar.google.com/citations?user=wA5TK_0AAAAJ&hl=en" style="color:navy">google scholar</a>
+
 I am currently an <a href="https://research.google/careers/ai-residency/" style="color:navy" target="_blank">AI Resident</a> at Google New York, working on natural language processing. 
 
 I graduated with the AB from Dartmouth College in 2020. 
@@ -25,7 +29,7 @@ Jason Wei and Kai Zou. EMNLP 2019.
 ------
 
 <a href="https://jasonwei20.github.io/papers/" style="color:navy">All</a> papers.  
-Personal <a href="https://jasonwei20.github.io/personal/" style="color:navy">webpage</a>.  
+.  
  
    
 

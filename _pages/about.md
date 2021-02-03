@@ -12,8 +12,7 @@ redirect_from:
 # Jason Wei
 
 <a href="mailto:jason.weng.wei@gmail.com" style="color:navy">jason.weng.wei@gmail.com</a>  
-<a href="https://scholar.google.com/citations?user=wA5TK_0AAAAJ&hl=en" style="color:navy">Google scholar</a>  
-<a href="https://jasonwei20.github.io/personal/" style="color:navy">Personal webpage</a>  
+<a href="https://scholar.google.com/citations?user=wA5TK_0AAAAJ&hl=en" style="color:navy">Google Scholar</a> / <a href="https://jasonwei20.github.io/personal/" style="color:navy">Personal Page</a>  
 
 I am currently an <a href="https://research.google/careers/ai-residency/" style="color:navy" target="_blank">AI Resident</a> at Google New York, working on natural language processing. 
 
@@ -27,8 +26,6 @@ I graduated with the AB from Dartmouth College in 2020.
 Jason Wei, Chengyu Huang, Shiqi Xu, and Soroush Vosoughi. EACL 2021.  
 - <a href="https://www.aclweb.org/anthology/D19-1670.pdf" style="color:navy" target="_blank"><i>EDA: Easy Data Augmentation techniques for boosting performance on text classification tasks.</i></a>  
 Jason Wei and Kai Zou. EMNLP 2019.  
-
-------
 
 <!-- <a href="https://jasonwei20.github.io/papers/" style="color:navy">All</a> papers.   -->
  

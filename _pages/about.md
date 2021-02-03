@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "Jason Wei"
 excerpt: "About Me"
 author_profile: true
 redirect_from: 
@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
   - /research/
 ---
-
-# Jason Wei
 
 <a href="mailto:jason.weng.wei@gmail.com" style="color:navy">jason.weng.wei@gmail.com</a>  
 <a href="https://scholar.google.com/citations?user=wA5TK_0AAAAJ&hl=en" style="color:navy" target="_blank">Google Scholar</a> / <a href="https://jasonwei20.github.io/personal/" style="color:navy" target="_blank">Personal Page</a>  

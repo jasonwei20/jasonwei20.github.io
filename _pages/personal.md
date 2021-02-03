@@ -1,5 +1,5 @@
 ---
-title: "Jason's Personal Page"
+title: "Personal"
 permalink: /personal/
 author_profile: true
 ---

@@ -16,8 +16,6 @@ redirect_from:
 
 I am currently an <a href="https://research.google/careers/ai-residency/" style="color:navy" target="_blank">AI Resident</a> at Google New York, working on natural language processing. 
 
-I graduated with the AB from Dartmouth College in 2020. 
-
 ------
 
 ### Selected Publications

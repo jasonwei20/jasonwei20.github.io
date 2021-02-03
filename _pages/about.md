@@ -20,7 +20,7 @@ I graduated with the AB from Dartmouth College in 2020.
 
 ------
 
-### *Selected Publications*
+### Selected Publications
 
 - <a href="https://arxiv.org/abs/2101.05469" style="color:navy" target="_blank"><i>Text augmentation in a multi-task view.</i></a>  
 Jason Wei, Chengyu Huang, Shiqi Xu, and Soroush Vosoughi. EACL 2021.  

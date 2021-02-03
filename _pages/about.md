@@ -11,7 +11,9 @@ redirect_from:
 
 # Jason Wei
 
-`jason.weng.wei@gmail.com` / <a href="https://jasonwei20.github.io/personal/" style="color:navy">personal webpage</a> / <a href="https://scholar.google.com/citations?user=wA5TK_0AAAAJ&hl=en" style="color:navy">google scholar</a>
+<a href="mailto:jason.weng.wei@gmail.com" style="color:navy">jason.weng.wei@gmail.com</a>  
+<a href="https://scholar.google.com/citations?user=wA5TK_0AAAAJ&hl=en" style="color:navy">Google scholar</a>  
+<a href="https://jasonwei20.github.io/personal/" style="color:navy">Personal webpage</a>  
 
 I am currently an <a href="https://research.google/careers/ai-residency/" style="color:navy" target="_blank">AI Resident</a> at Google New York, working on natural language processing. 
 
@@ -19,7 +21,7 @@ I graduated with the AB from Dartmouth College in 2020.
 
 ------
 
-### Papers
+### *Selected Publications*
 
 - <a href="https://arxiv.org/abs/2101.05469" style="color:navy" target="_blank"><i>Text augmentation in a multi-task view.</i></a>  
 Jason Wei, Chengyu Huang, Shiqi Xu, and Soroush Vosoughi. EACL 2021.  
@@ -28,8 +30,7 @@ Jason Wei and Kai Zou. EMNLP 2019.
 
 ------
 
-<a href="https://jasonwei20.github.io/papers/" style="color:navy">All</a> papers.  
-.  
+<!-- <a href="https://jasonwei20.github.io/papers/" style="color:navy">All</a> papers.   -->
  
    
 

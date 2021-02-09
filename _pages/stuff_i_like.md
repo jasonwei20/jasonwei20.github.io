@@ -5,6 +5,7 @@ author_profile: true
 ---
 
 Books
+* *High Performance Habits* by Brendan Burchard
 * *On Writing* by Steven King
 * *Waking Up* by Sam Harris
 * *The Subtle Art of Not Giving a F\*ck* by Mark Manson
@@ -16,7 +17,7 @@ Books
 Entertainment
 * **Movies**: The Fast and Furious Franchise, The Imitation Game, Don Jon, Titanic, Rush Hour
 * **TV Shows**: Sherlock, Killing Eve, The Good Doctor, Grey's Anatomy
-* **Youtube**: [The TechLead](https://www.youtube.com/watch?v=fssFXlNk6vw&t=468s), [Doug Polk](https://www.youtube.com/channel/UCyI7FNTudkyALBh9N7hwI9Q), [ice1cube](https://www.youtube.com/user/ice1cubed), [Bart Kwan](https://www.youtube.com/user/bartkwan), [Alpha M](https://www.youtube.com/user/AlphaMconsulting), [Thomas阿福](https://www.youtube.com/channel/UC689uDf0ryZniKpuSK9ESTw), [PPPeter](https://www.youtube.com/c/PPPeter1)
+* **Youtube**: [Doug Polk](https://www.youtube.com/channel/UCyI7FNTudkyALBh9N7hwI9Q), [ice1cube](https://www.youtube.com/user/ice1cubed), [Bart Kwan](https://www.youtube.com/user/bartkwan), [Alpha M](https://www.youtube.com/user/AlphaMconsulting), [Thomas阿福](https://www.youtube.com/channel/UC689uDf0ryZniKpuSK9ESTw), [PPPeter](https://www.youtube.com/c/PPPeter1), [Bald and Bankrupt](https://www.youtube.com/channel/UCxDZs_ltFFvn0FDHT6kmoXA)
 * **Music**: [Lady Gaga](https://www.youtube.com/watch?v=etjiqgU0_lI), [The Killers](https://www.youtube.com/watch?v=DL5hTUNoljQ), [Eden](https://www.youtube.com/user/EdenProjectOfficial), [Vampire Weekend](https://www.youtube.com/watch?v=FwkrrU2WYKg), [Queen](https://www.youtube.com/watch?v=aA2IRoPFIn0), Dua Lipa
 * **Tennis players**: Nick Kyrgios, Novak Djokovic, Dominic Thiem
 * **Public figures**: Elon Musk, Sam Harris, Simon Sinek, Conan O'Brien

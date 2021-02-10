@@ -20,6 +20,7 @@ I am currently an <a href="https://research.google/careers/ai-residency/" style=
 
 - <a href="https://arxiv.org/abs/2101.05469" style="color:navy" target="_blank"><i>Text augmentation in a multi-task view.</i></a>  
 Jason Wei, Chengyu Huang, Shiqi Xu, and Soroush Vosoughi. EACL 2021.  
+
 - <a href="http://34.94.61.102/paper_AISI-8076.html" style="color:navy" target="_blank"><i>Mitigating political bias in language models through reinforced calibration.</i></a>  
 Ruibo Liu, Chenyan Jia, Jason Wei, Guangxuan Xu, Lili Wang, and Soroush Vosoughi. AAAI 2021 (Best Paper Award, AI for Social Impact Track).  
 

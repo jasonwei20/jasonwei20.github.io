@@ -22,9 +22,6 @@ I am currently an <a href="https://research.google/careers/ai-residency/" style=
 Jason Wei, Chengyu Huang, Shiqi Xu, and Soroush Vosoughi. EACL 2021.  
 - <a href="https://www.aaai.org/AAAI21Papers/AISI-8076.LiuR.pdf" style="color:navy" target="_blank"><i>Mitigating political bias in language models through reinforced calibration.</i></a> (Best Paper!)  
 Ruibo Liu, Chenyan Jia, Jason Wei, Guangxuan Xu, Lili Wang, and Soroush Vosoughi. AAAI 2021.  
-- <a href="http://34.94.61.102/paper_AISI-8076.html" style="color:navy" target="_blank"><i>Mitigating political bias in language models through reinforced calibration.</i></a>  
-Ruibo Liu, Chenyan Jia, Jason Wei, Guangxuan Xu, Lili Wang, and Soroush Vosoughi. AAAI 2021 (Best Paper Award, AI for Social Impact Track).  
->>>>>>> 54e46ced29a020876136ca47acb62871356538c9
 - <a href="https://www.aclweb.org/anthology/D19-1670.pdf" style="color:navy" target="_blank"><i>EDA: Easy Data Augmentation techniques for boosting performance on text classification tasks.</i></a>  
 Jason Wei and Kai Zou. EMNLP 2019.  
 

@@ -12,21 +12,17 @@ redirect_from:
 <a href="mailto:jason.weng.wei@gmail.com" style="color:navy">jason.weng.wei@gmail.com</a>  
 <a href="https://jasonwei20.github.io/files/current-jason-wei-cv.pdf" style="color:navy" target="_blank">Vitæ</a> | <a href="https://scholar.google.com/citations?user=wA5TK_0AAAAJ&hl=en" style="color:navy" target="_blank">Google Scholar</a> | <a href="https://jasonwei20.github.io/personal/" style="color:navy" target="_blank">Personal Page</a>  
 
-I am an <a href="https://research.google/careers/ai-residency/" style="color:navy" target="_blank">AI Resident</a> at Google New York, where I do natural language processing research. 
+I am an <a href="https://research.google/careers/ai-residency/" style="color:navy" target="_blank">AI Resident</a> at Google, where I do natural language processing research. 
 Since getting serious about my craft, I have published several papers on efficient NLP, and more recently, psycholinguistics. They are:
 
 - <a style="color:navy" target="_blank"><i>Linguistic complexity loss in text-based therapy.</i></a>  
-Jason Wei, Kelly Finn, Emma Templeton, Thalia Wheatley, and Soroush Vosoughi.  
-NAACL 2021.  
+Jason Wei, Kelly Finn, Emma Templeton, Thalia Wheatley, and Soroush Vosoughi. *NAACL 2021*.  
 - <a href="" style="color:navy" target="_blank"><i>Few-shot text classification with triplet networks, data augmentation, and curriculum learning.</i></a>  
-Jason Wei, Chengyu Huang, Soroush Vosoughi, Yu Cheng, and Shiqi Xu.  
-NAACL 2021.  
+Jason Wei, Chengyu Huang, Soroush Vosoughi, Yu Cheng, and Shiqi Xu. *NAACL 2021*.  
 - <a href="https://arxiv.org/abs/2101.05469" style="color:navy" target="_blank"><i>Text augmentation in a multi-task view.</i></a>  
-Jason Wei, Chengyu Huang, Shiqi Xu, and Soroush Vosoughi.  
-EACL 2021.  
+Jason Wei, Chengyu Huang, Shiqi Xu, and Soroush Vosoughi. *EACL 2021*.  
 - <a href="https://www.aclweb.org/anthology/D19-1670.pdf" style="color:navy" target="_blank"><i>EDA: Easy Data Augmentation techniques for boosting performance on text classification tasks.</i></a>  
-Jason Wei and Kai Zou.  
-EMNLP 2019.  
+Jason Wei and Kai Zou. *EMNLP 2019*.  
 
 <!-- - <a href="https://www.aaai.org/AAAI21Papers/AISI-8076.LiuR.pdf" style="color:navy" target="_blank"><i>Mitigating political bias in language models through reinforced calibration.</i></a>    
 Ruibo Liu, Chenyan Jia, Jason Wei, Guangxuan Xu, Lili Wang, and Soroush Vosoughi.  

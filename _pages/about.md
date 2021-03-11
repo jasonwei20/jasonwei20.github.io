@@ -12,8 +12,8 @@ redirect_from:
 <a href="mailto:jason.weng.wei@gmail.com" style="color:navy">jason.weng.wei@gmail.com</a>  
 <a href="https://jasonwei20.github.io/files/current-jason-wei-cv.pdf" style="color:navy" target="_blank">Vitæ</a> | <a href="https://jasonwei20.github.io/personal/" style="color:navy" target="_blank">Personal</a> | <a href="https://scholar.google.com/citations?user=wA5TK_0AAAAJ&hl=en" style="color:navy" target="_blank">Google Scholar</a> 
 
-I am an <a href="https://research.google/careers/ai-residency/" style="color:navy" target="_blank">AI Resident</a> at Google, where I do natural language processing research. 
-Since getting serious about my craft, I have written several papers on efficient NLP and psycholinguistics. They are:
+I am an <a href="https://research.google/careers/ai-residency/" style="color:navy" target="_blank">AI Resident</a> at Google New York, where I do natural language processing research. 
+Since getting serious about my craft, I have written several papers on efficient NLP and, more recently, psycholinguistics. They are:
 
 - <a style="color:navy" target="_blank"><i>Linguistic complexity loss in text-based therapy.</i></a>  
 Jason Wei, Kelly Finn, Emma Templeton, Thalia Wheatley, and Soroush Vosoughi. NAACL 2021.  

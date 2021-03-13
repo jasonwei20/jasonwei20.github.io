@@ -25,6 +25,11 @@ Blog posts about my life, partially inspired by John Watson's blog from the Sher
 	1. <a href="https://jasonwei20.github.io/posts/2018/1/blog-post-2/" style="color:navy" target="_blank">Fall: a review</a>
 	1. <a href="https://jasonwei20.github.io/posts/2017/12/blog-post-1/" style="color:navy" target="_blank">Travels in Iceland</a>
 
+A <a href="https://jasonwei20.github.io/life_experiences/" style="color:navy">list</a> of my most transformative, memorable, or fun experiences.  
+<a href="https://jasonwei20.github.io/places_ive_been/" style="color:navy">Places</a> that I've been to.  
+<a href="https://jasonwei20.github.io/stuff_i_like/" style="color:navy">Stuff</a> that I like.  
+<a href="https://jasonwei20.github.io/principles/" style="color:navy">Notes</a> on time and productivity.  
+
 ------
 
 <img src="/images/grand_canyon.jpg" width="29%">
@@ -39,3 +44,4 @@ Blog posts about my life, partially inspired by John Watson's blog from the Sher
 <img src="/images/personal_iceland_1.jpg" width="29%">
 <img src="/images/personal_iceland_2.jpg" width="29%">
 <img src="/images/personal_iceland_3.jpg" width="29%">
+

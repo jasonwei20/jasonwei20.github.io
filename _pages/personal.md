@@ -10,14 +10,12 @@ I grew up in Fairfax County, Virginia. When visiting home, I enjoy playing <a hr
 
 In Fall 2018, I studied abroad in <a href="https://jasonwei20.github.io/posts/2018/12/blog-post-7/" style="color:navy" target="_blank">Denmark</a>.
 
+My quarterly <a href="https://jasonwei20.github.io/blog_posts/" style="color:navy">personal blog</a>.
+
 <img src="/images/personal_1.jpg" width="22%">
 <img src="/images/personal_2.jpg" width="22%">
 <img src="/images/personal_3.jpg" width="22%">
 <img src="/images/personal_4.jpg" width="22%">
-
-My quarterly <a href="https://jasonwei20.github.io/blog_posts/" style="color:navy">personal blog</a>.  
-
-(All views my own.)
 
 
 <!-- I was also on the club fencing team—we won <a href="http://www.thedartmouth.com/article/2018/04/dartmouth-fencing-club" style="color:navy" target="_blank">first</a> at club nationals in Knoxville, TN in 2018 and second at club nationals in Lansing, MI in 2017. -->

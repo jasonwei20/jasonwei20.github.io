@@ -13,7 +13,7 @@ redirect_from:
 <a href="https://jasonwei20.github.io/files/current-jason-wei-cv.pdf" style="color:navy" target="_blank">Vitæ</a> | <a href="https://jasonwei20.github.io/personal/" style="color:navy" target="_blank">Personal</a> | <a href="https://scholar.google.com/citations?user=wA5TK_0AAAAJ&hl=en" style="color:navy" target="_blank">Google Scholar</a> 
 
 I am an <a href="https://research.google/careers/ai-residency/" style="color:navy" target="_blank">AI Resident</a> at Google New York, where I do natural language processing research. 
-Since getting serious about my craft, I have written papers in the areas of efficient NLP, natural langauge generation, and computational psycholinguistics. They are:
+Since getting serious about my craft, I have written papers on efficient NLP, natural language generation, and computational psycholinguistics. They are:
 
 - <a style="color:navy" target="_blank"><i>A cognitive regularizer for language modeling.</i></a>  
 Jason Wei, Clara Meister, and Ryan Cotterell. ACL 2021.  

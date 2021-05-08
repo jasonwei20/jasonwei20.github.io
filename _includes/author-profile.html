@@ -16,7 +16,7 @@
 
   <div class="author__content">
     <h3 class="author__name">{{ author.name }}</h3>
-    <!-- {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %} -->
+    {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
     {% if author.textemail %}<p class="author__bio">{{ author.textemail }}</p>{% endif %}
   </div>
 
@@ -102,7 +102,7 @@
         <li><a href="https://vine.co/u/{{ author.vine }}"><i class="fa fa-fw fa-vine" aria-hidden="true"></i> Vine</a></li>
       {% endif %}
       {% if author.googlescholar %}
-        <li><a href="{{ author.googlescholar }}"><i class="ai ai-google-scholar-square ai-fw"></i> Google Scholar</a></li>
+        <li><a href="{{ author.googlescholar }}"><i class="ai ai-google-scholar ai-fw"></i> Google Scholar</a></li>
       {% endif %}
       {% if author.orcid %}
         <li><a href="{{ author.orcid }}"><i class="ai ai-orcid-square ai-fw"></i> ORCID</a></li>

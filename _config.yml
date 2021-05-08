@@ -78,13 +78,13 @@ analytics:
 
 # Site Author
 author:
-  name             : #"Jason Wei"
+  name             : "Jason Wei"
   avatar           : "me.jpg"
   bio              : 
-  textemail        : #"jason.weng.wei@gmail.com"
+  textemail        : "jason.weng.wei@gmail.com"
   location         : 
   employer         : 
-  googlescholar    : #"https://scholar.google.com/citations?user=wA5TK_0AAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?user=wA5TK_0AAAAJ&hl=en"
   email            :
   uri              :
   bitbucket        :

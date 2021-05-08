@@ -20,7 +20,7 @@ Jason Wei, Clara Meister, and Ryan Cotterell. ACL 2021.
 - <a style="color:navy" target="_blank"><i>Language model augmented relevance score.</i></a>  
 Ruibo Liu, Jason Wei, and Soroush Vosoughi. ACL 2021.  
 - <a style="color:navy" target="_blank"><i>A survey of data augmentation approaches in NLP.</i></a>  
-Steven Feng, Varun Gangal, Jason Wei, Sarath Chandar, Soroush Vosoughi, Teruko Mitamura, and Eduard Hovy. ACL 2021 (Findings).  
+Steven Feng, Varun Gangal, Jason Wei, Sarath Chandar, Soroush Vosoughi, Teruko Mitamura, and Eduard Hovy. ACL Findings 2021.  
 - <a style="color:navy" target="_blank"><i>Linguistic complexity loss in text-based therapy.</i></a>  
 Jason Wei, Kelly Finn, Emma Templeton, Thalia Wheatley, and Soroush Vosoughi. NAACL 2021.  
 - <a href="https://arxiv.org/abs/2103.07552" style="color:navy" target="_blank"><i>Few-shot text classification with triplet networks, data augmentation, and curriculum learning.</i></a>  

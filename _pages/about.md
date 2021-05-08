@@ -13,14 +13,14 @@ redirect_from:
 <a href="https://jasonwei20.github.io/files/current-jason-wei-cv.pdf" style="color:navy" target="_blank">Vitæ</a> | <a href="https://jasonwei20.github.io/personal/" style="color:navy" target="_blank">Personal</a> | <a href="https://scholar.google.com/citations?user=wA5TK_0AAAAJ&hl=en" style="color:navy" target="_blank">Google Scholar</a> 
 
 I am an <a href="https://research.google/careers/ai-residency/" style="color:navy" target="_blank">AI Resident</a> at Google New York, where I do natural language processing research. 
-Since getting serious about my craft, I have written papers in the areas of efficient NLP and, more recently, psycholinguistics. They are:
+Since getting serious about my craft, I have written papers in the areas of efficient NLP, natural langauge generation, and computational psycholinguistics. They are:
 
 - <a style="color:navy" target="_blank"><i>A cognitive regularizer for language modeling.</i></a>  
 Jason Wei, Clara Meister, and Ryan Cotterell. ACL 2021.  
 - <a style="color:navy" target="_blank"><i>Language model augmented relevance score.</i></a>  
 Ruibo Liu, Jason Wei, and Soroush Vosoughi. ACL 2021.  
 - <a style="color:navy" target="_blank"><i>A survey of data augmentation approaches in NLP.</i></a>  
-Steven Feng, Varun Gangal, Jason Wei, Sarath Chandar, Soroush Vosoughi, Teruko Mitamura, and Eduard Hovy. ACL Findings 2021.  
+{Steven Feng, Varun Gangal}, Jason Wei, Sarath Chandar, Soroush Vosoughi, Teruko Mitamura, and Eduard Hovy. ACL Findings 2021.  
 - <a style="color:navy" target="_blank"><i>Linguistic complexity loss in text-based therapy.</i></a>  
 Jason Wei, Kelly Finn, Emma Templeton, Thalia Wheatley, and Soroush Vosoughi. NAACL 2021.  
 - <a href="https://arxiv.org/abs/2103.07552" style="color:navy" target="_blank"><i>Few-shot text classification with triplet networks, data augmentation, and curriculum learning.</i></a>  

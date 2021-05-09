@@ -84,8 +84,8 @@ author:
   textemail        : #"jason.weng.wei@gmail.com"
   location         : 
   employer         : 
-  googlescholar    : "https://scholar.google.com/citations?user=wA5TK_0AAAAJ&hl=en"
-  personal         : "yes"
+  googlescholar    : #"https://scholar.google.com/citations?user=wA5TK_0AAAAJ&hl=en"
+  personal         : #"yes"
   email            :
   uri              :
   bitbucket        :
@@ -106,7 +106,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : #"_jasonwei"
   vine             :
   weibo            :
   xing             :

@@ -9,28 +9,28 @@ redirect_from:
   - /research/
 ---
 
-<a href="mailto:jason.weng.wei@gmail.com" style="color:navy">jason.weng.wei@gmail.com</a>  
-<a href="https://jasonwei20.github.io/files/current-jason-wei-cv.pdf" style="color:navy" target="_blank">Vitæ</a> | <a href="https://jasonwei20.github.io/personal/" style="color:navy" target="_blank">Personal</a> | <a href="https://scholar.google.com/citations?user=wA5TK_0AAAAJ&hl=en" style="color:navy" target="_blank">Google Scholar</a> 
+<a href="mailto:jason.weng.wei@gmail.com" style="color:#191970">jason.weng.wei@gmail.com</a>  
+<a href="https://jasonwei20.github.io/files/current-jason-wei-cv.pdf" style="color:#191970" target="_blank">Vitæ</a> | <a href="https://jasonwei20.github.io/personal/" style="color:#191970" target="_blank">Personal</a> | <a href="https://scholar.google.com/citations?user=wA5TK_0AAAAJ&hl=en" style="color:#191970" target="_blank">Google Scholar</a> 
 
-I am an <a href="https://research.google/careers/ai-residency/" style="color:navy" target="_blank">AI Resident</a> at Google New York, where I do natural language processing research. 
+I am an <a href="https://research.google/careers/ai-residency/" style="color:#191970" target="_blank">AI Resident</a> at Google New York, where I do natural language processing research. 
 Since getting serious about my craft, I have written papers on efficient NLP, natural language generation, and computational psycholinguistics. They are:
 
-- <a style="color:navy" target="_blank"><i>A cognitive regularizer for language modeling.</i></a>  
-Jason Wei, Clara Meister, and Ryan Cotterell. ACL 2021.  
-- <a style="color:navy" target="_blank"><i>Language model augmented relevance score.</i></a>  
-Ruibo Liu, Jason Wei, and Soroush Vosoughi. ACL 2021.  
-- <a style="color:navy" target="_blank"><i>A survey of data augmentation approaches in NLP.</i></a>  
-{Steven Feng, Varun Gangal}, Jason Wei, Sarath Chandar, Soroush Vosoughi, Teruko Mitamura, and Eduard Hovy. ACL Findings 2021.  
-- <a style="color:navy" target="_blank"><i>Linguistic complexity loss in text-based therapy.</i></a>  
-Jason Wei, Kelly Finn, Emma Templeton, Thalia Wheatley, and Soroush Vosoughi. NAACL 2021.  
-- <a href="https://arxiv.org/abs/2103.07552" style="color:navy" target="_blank"><i>Few-shot text classification with triplet networks, data augmentation, and curriculum learning.</i></a>  
-Jason Wei, Chengyu Huang, Soroush Vosoughi, Yu Cheng, and Shiqi Xu. NAACL 2021.  
-- <a href="https://www.aclweb.org/anthology/2021.eacl-main.252/" style="color:navy" target="_blank"><i>Text augmentation in a multi-task view.</i></a>  
-Jason Wei, Chengyu Huang, Shiqi Xu, and Soroush Vosoughi. EACL 2021.  
-- <a href="https://www.aaai.org/AAAI21Papers/AISI-8076.LiuR.pdf" style="color:navy" target="_blank"><i>Mitigating political bias in language models through reinforced calibration.</i></a>    
-Ruibo Liu, Chenyan Jia, Jason Wei, Guangxuan Xu, Lili Wang, and Soroush Vosoughi. AAAI 2021 (<a href="https://aaai.org/Awards/paper.php" style="color:navy" target="_blank">outstanding paper</a>). 
-- <a href="http://dx.doi.org/10.18653/v1/D19-1670" style="color:navy" target="_blank"><i>EDA: Easy Data Augmentation techniques for boosting performance on text classification tasks.</i></a>  
-Jason Wei and Kai Zou. EMNLP 2019.   
+- <a style="color:#191970" target="_blank"><i>A cognitive regularizer for language modeling.</i></a>  
+Jason Wei, Clara Meister, and Ryan Cotterell. <p style="color:#73264d">ACL 2021.</p>  
+- <a style="color:#191970" target="_blank"><i>Language model augmented relevance score.</i></a>  
+Ruibo Liu, Jason Wei, and Soroush Vosoughi. <p style="color:#73264d">ACL 2021.</p>  
+- <a style="color:#191970" target="_blank"><i>A survey of data augmentation approaches in NLP.</i></a>  
+{Steven Feng, Varun Gangal}, Jason Wei, Sarath Chandar, Soroush Vosoughi, Teruko Mitamura, and Eduard Hovy. <p style="color:#73264d">ACL Findings 2021.</p>  
+- <a style="color:#191970" target="_blank"><i>Linguistic complexity loss in text-based therapy.</i></a>  
+Jason Wei, Kelly Finn, Emma Templeton, Thalia Wheatley, and Soroush Vosoughi. <p style="color:#73264d">NAACL 2021.</p>  
+- <a href="https://arxiv.org/abs/2103.07552" style="color:#191970" target="_blank"><i>Few-shot text classification with triplet networks, data augmentation, and curriculum learning.</i></a>  
+Jason Wei, Chengyu Huang, Soroush Vosoughi, Yu Cheng, and Shiqi Xu. <p style="color:#73264d">NAACL 2021.</p>  
+- <a href="https://www.aclweb.org/anthology/2021.eacl-main.252/" style="color:#191970" target="_blank"><i>Text augmentation in a multi-task view.</i></a>  
+Jason Wei, Chengyu Huang, Shiqi Xu, and Soroush Vosoughi. <p style="color:#73264d">EACL 2021.</p>  
+- <a href="https://www.aaai.org/AAAI21Papers/AISI-8076.LiuR.pdf" style="color:#191970" target="_blank"><i>Mitigating political bias in language models through reinforced calibration.</i></a>    
+Ruibo Liu, Chenyan Jia, Jason Wei, Guangxuan Xu, Lili Wang, and Soroush Vosoughi. <p style="color:#73264d">AAAI 2021</p> (<a href="https://aaai.org/Awards/paper.php" style="color:#191970" target="_blank">outstanding paper</a>). 
+- <a href="http://dx.doi.org/10.18653/v1/D19-1670" style="color:#191970" target="_blank"><i>EDA: Easy Data Augmentation techniques for boosting performance on text classification tasks.</i></a>  
+Jason Wei and Kai Zou. <p style="color:#73264d">EMNLP 2019.</p>   
  
    
 
@@ -47,7 +47,7 @@ Jason Wei and Kai Zou. EMNLP 2019.
 
 
 
-<!-- 1. <a href="https://www.nature.com/articles/s41598-019-40041-7" style="color:navy" target="_blank"><b>Pathologist-Level Classification of Histologic Patterns on Resected Lung Adenocarcinoma Slides with Deep Neural Networks</b></a>  
+<!-- 1. <a href="https://www.nature.com/articles/s41598-019-40041-7" style="color:#191970" target="_blank"><b>Pathologist-Level Classification of Histologic Patterns on Resected Lung Adenocarcinoma Slides with Deep Neural Networks</b></a>  
 **Jason Wei**, Laura Tafe, Yevgeniy Linnik, Louis Vaickus, Naofumi Tomita, Saeed Hassanpour    
 *Scientific Reports 2019*    -->
 

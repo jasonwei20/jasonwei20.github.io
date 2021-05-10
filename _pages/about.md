@@ -19,7 +19,7 @@ Since getting serious about my craft, I have written papers on efficient NLP, na
 Jason Wei, Clara Meister, and Ryan Cotterell. <a style="color:#73264d">ACL 2021.</a>  
 - <a style="color:#191970" target="_blank"><i>Language model augmented relevance score.</i></a>  
 Ruibo Liu, Jason Wei, and Soroush Vosoughi. <a style="color:#73264d">ACL 2021.</a>  
-- <a style="color:#191970" target="_blank"><i>A survey of data augmentation approaches in NLP.</i></a>  
+- <a href="http://arxiv.org/abs/2105.03075" style="color:#191970" target="_blank"><i>A survey of data augmentation approaches in NLP.</i></a>  
 {Steven Feng, Varun Gangal}, Jason Wei, Sarath Chandar, Soroush Vosoughi, Teruko Mitamura, and Eduard Hovy. <a style="color:#73264d">ACL Findings 2021.</a>  
 - <a style="color:#191970" target="_blank"><i>Linguistic complexity loss in text-based therapy.</i></a>  
 Jason Wei, Kelly Finn, Emma Templeton, Thalia Wheatley, and Soroush Vosoughi. <a style="color:#73264d">NAACL 2021.</a>  

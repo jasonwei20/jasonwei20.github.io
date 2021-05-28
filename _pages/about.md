@@ -13,17 +13,18 @@ redirect_from:
 <a href="https://jasonwei20.github.io/files/current-jason-wei-cv.pdf" style="color:#191970" target="_blank">Vitæ</a> | <a href="https://jasonwei20.github.io/personal/" style="color:#191970" target="_blank">Personal</a> | <a href="https://scholar.google.com/citations?user=wA5TK_0AAAAJ&hl=en" style="color:#191970" target="_blank">Google Scholar</a> 
 
 I am an <a href="https://research.google/careers/ai-residency/" style="color:#191970" target="_blank">AI Resident</a> at Google New York, where I do natural language processing research. 
-Since getting serious about my craft, I have written papers on efficient NLP, natural language generation, and computational psycholinguistics. They are:
 
-- <a style="color:#191970" target="_blank"><i>A cognitive regularizer for language modeling.</i></a>  
+I have written papers on efficient NLP, natural language generation, and computational psycholinguistics. They are:
+
+- <a href="https://arxiv.org/pdf/2105.07144" style="color:#191970" target="_blank"><i>A cognitive regularizer for language modeling.</i></a>  
 Jason Wei, Clara Meister, and Ryan Cotterell. <a style="color:#73264d">ACL 2021.</a>  
 - <a style="color:#191970" target="_blank"><i>Language model augmented relevance score.</i></a>  
 Ruibo Liu, Jason Wei, and Soroush Vosoughi. <a style="color:#73264d">ACL 2021.</a>  
-- <a style="color:#191970" target="_blank"><i>A survey of data augmentation approaches in NLP.</i></a>  
+- <a href="https://arxiv.org/abs/2105.03075" style="color:#191970" target="_blank"><i>A survey of data augmentation approaches in NLP.</i></a>  
 {Steven Feng, Varun Gangal}, Jason Wei, Sarath Chandar, Soroush Vosoughi, Teruko Mitamura, and Eduard Hovy. <a style="color:#73264d">ACL Findings 2021.</a>  
-- <a style="color:#191970" target="_blank"><i>Linguistic complexity loss in text-based therapy.</i></a>  
+- <a href="https://www.aclweb.org/anthology/2021.naacl-main.352/" style="color:#191970" target="_blank"><i>Linguistic complexity loss in text-based therapy.</i></a>  
 Jason Wei, Kelly Finn, Emma Templeton, Thalia Wheatley, and Soroush Vosoughi. <a style="color:#73264d">NAACL 2021.</a>  
-- <a href="https://arxiv.org/abs/2103.07552" style="color:#191970" target="_blank"><i>Few-shot text classification with triplet networks, data augmentation, and curriculum learning.</i></a>  
+- <a href="https://www.aclweb.org/anthology/2021.naacl-main.434/" style="color:#191970" target="_blank"><i>Few-shot text classification with triplet networks, data augmentation, and curriculum learning.</i></a>  
 Jason Wei, Chengyu Huang, Soroush Vosoughi, Yu Cheng, and Shiqi Xu. <a style="color:#73264d">NAACL 2021.</a>  
 - <a href="https://www.aclweb.org/anthology/2021.eacl-main.252/" style="color:#191970" target="_blank"><i>Text augmentation in a multi-task view.</i></a>  
 Jason Wei, Chengyu Huang, Shiqi Xu, and Soroush Vosoughi. <a style="color:#73264d">EACL 2021.</a>  

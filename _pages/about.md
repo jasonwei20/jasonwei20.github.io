@@ -12,9 +12,7 @@ redirect_from:
 <a href="mailto:jason.weng.wei@gmail.com" style="color:#191970">jason.weng.wei@gmail.com</a>  
 <a href="https://jasonwei20.github.io/files/current-jason-wei-cv.pdf" style="color:#191970" target="_blank">Vitæ</a> | <a href="https://jasonwei20.github.io/personal/" style="color:#191970" target="_blank">Personal</a> | <a href="https://scholar.google.com/citations?user=wA5TK_0AAAAJ&hl=en" style="color:#191970" target="_blank">Google Scholar</a> 
 
-I am an <a href="https://research.google/careers/ai-residency/" style="color:#191970" target="_blank">AI Resident</a> at Google New York, where I do natural language processing research. 
-
-I have written papers on efficient NLP, natural language generation, and computational psycholinguistics. They are:
+I am an <a href="https://research.google/careers/ai-residency/" style="color:#191970" target="_blank">AI Resident</a> at Google New York, where I do natural language processing research. I have written papers on efficient NLP, natural language generation, and computational psycholinguistics. They are:
 
 - <a href="https://arxiv.org/pdf/2105.07144" style="color:#191970" target="_blank"><i>A cognitive regularizer for language modeling.</i></a>  
 Jason Wei, Clara Meister, and Ryan Cotterell. <a style="color:#73264d">ACL 2021.</a>  

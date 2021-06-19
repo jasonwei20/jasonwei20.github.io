@@ -15,7 +15,7 @@ redirect_from:
 I am an <a href="https://research.google/careers/ai-residency/" style="color:#191970" target="_blank">AI Resident</a> at Google New York, where I do natural language processing research. I have written papers on efficient NLP, natural language generation, and computational psycholinguistics. They are:
 
 - <a href="https://arxiv.org/pdf/2105.07144" style="color:#191970" target="_blank"><i>A cognitive regularizer for language modeling.</i></a>  
-<font size="3">Jason Wei, Clara Meister, and Ryan Cotterell. <a style="color:#73264d">ACL 2021.</a></font>   
+<span style="font-size:2em;">Jason Wei, Clara Meister, and Ryan Cotterell. <a style="color:#73264d">ACL 2021.</a> </span>  
 - <a style="color:#191970" target="_blank"><i>Language model augmented relevance score.</i></a>  
 Ruibo Liu, Jason Wei, and Soroush Vosoughi. <a style="color:#73264d">ACL 2021.</a>  
 - <a href="https://arxiv.org/abs/2105.03075" style="color:#191970" target="_blank"><i>A survey of data augmentation approaches in NLP.</i></a>  

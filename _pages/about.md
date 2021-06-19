@@ -28,7 +28,7 @@ I am an <a href="https://research.google/careers/ai-residency/" style="color:#19
 <span style="font-size:0.93em;">Jason Wei, Chengyu Huang, Shiqi Xu, and Soroush Vosoughi. <a style="color:#925575">**EACL 2021**.</a></span>    
 - <a href="https://arxiv.org/pdf/2104.14795.pdf" style="color:#191970" target="_blank"><i>Mitigating political bias in language models through reinforced calibration.</i></a>    
 <span style="font-size:0.93em;">R. Liu, C. Jia, J. Wei, G. Xu, L. Wang, and S. Vosoughi. <a style="color:#925575">**AAAI 2021**</a> (<a href="https://aaai.org/Awards/paper.php" style="color:#191970" target="_blank">outstanding paper</a>).</span>   
-- <a href="http://dx.doi.org/10.18653/v1/D19-1670" style="color:#191970" target="_blank"><i>EDA: Easy Data Augmentation techniques for boosting performance on text classification tasks.</i></a>  
+- <a href="http://dx.doi.org/10.18653/v1/D19-1670" style="color:#191970" target="_blank"><i>Easy data augmentation techniques for boosting performance on text classification tasks.</i></a>  
 <span style="font-size:0.93em;">Jason Wei and Kai Zou. <a style="color:#925575">**EMNLP 2019.**</a></span>     
  
    

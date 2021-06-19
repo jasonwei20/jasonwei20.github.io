@@ -20,13 +20,13 @@ I am an <a href="https://research.google/careers/ai-residency/" style="color:#19
 <span style="font-size:0.93em;">Ruibo Liu, Jason Wei, and Soroush Vosoughi. <a style="color:#903061">**ACL 2021**.</a></span>    
 - <a href="https://arxiv.org/abs/2105.03075" style="color:#191970" target="_blank"><i>A survey of data augmentation approaches in NLP.</i></a>  
 <span style="font-size:0.93em;">{S. Feng, V. Gangal}, J. Wei, S. Chandar, S. Vosoughi, T. Mitamura, and E. Hovy. <a style="color:#903061">**ACL Findings 2021**.</a></span>    
-- <a href="https://www.aclweb.org/anthology/2021.naacl-main.352/" style="color:#191970" target="_blank"><i>Linguistic complexity loss in text-based therapy.</i></a>  
+- <a href="http://dx.doi.org/10.18653/v1/2021.naacl-main.352" style="color:#191970" target="_blank"><i>Linguistic complexity loss in text-based therapy.</i></a>  
 <span style="font-size:0.93em;">Jason Wei, Kelly Finn, Emma Templeton, Thalia Wheatley, and Soroush Vosoughi. <a style="color:#903061">**NAACL 2021**.</a></span>    
-- <a href="https://www.aclweb.org/anthology/2021.naacl-main.434/" style="color:#191970" target="_blank"><i>Few-shot text classification with triplet networks, data augmentation, and curriculum learning.</i></a>  
+- <a href="http://dx.doi.org/10.18653/v1/2021.naacl-main.434" style="color:#191970" target="_blank"><i>Few-shot text classification with triplet networks, data augmentation, and curriculum learning.</i></a>  
 <span style="font-size:0.93em;">Jason Wei, Chengyu Huang, Soroush Vosoughi, Yu Cheng, and Shiqi Xu. <a style="color:#903061">**NAACL 2021**.</a></span>    
 - <a href="https://www.aclweb.org/anthology/2021.eacl-main.252/" style="color:#191970" target="_blank"><i>Text augmentation in a multi-task view.</i></a>  
 <span style="font-size:0.93em;">Jason Wei, Chengyu Huang, Shiqi Xu, and Soroush Vosoughi. <a style="color:#903061">**EACL 2021**.</a></span>    
-- <a href="https://www.aaai.org/AAAI21Papers/AISI-8076.LiuR.pdf" style="color:#191970" target="_blank"><i>Mitigating political bias in language models through reinforced calibration.</i></a>    
+- <a href="https://arxiv.org/pdf/2104.14795.pdf" style="color:#191970" target="_blank"><i>Mitigating political bias in language models through reinforced calibration.</i></a>    
 <span style="font-size:0.93em;">R. Liu, C. Jia, J. Wei, G. Xu, L. Wang, and S. Vosoughi. <a style="color:#903061">**AAAI 2021**</a> (<a href="https://aaai.org/Awards/paper.php" style="color:#191970" target="_blank">outstanding paper</a>).</span>   
 - <a href="http://dx.doi.org/10.18653/v1/D19-1670" style="color:#191970" target="_blank"><i>EDA: Easy Data Augmentation techniques for boosting performance on text classification tasks.</i></a>  
 <span style="font-size:0.93em;">Jason Wei and Kai Zou. <a style="color:#903061">**EMNLP 2019.**</a></span>     

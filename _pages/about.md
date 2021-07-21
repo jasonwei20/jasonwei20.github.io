@@ -14,7 +14,7 @@ I am an <a href="https://research.google/careers/ai-residency/" style="color:#19
 | <a href="https://scholar.google.com/citations?user=wA5TK_0AAAAJ&hl=en" style="color:#191970" target="_blank">Google Scholar</a> 
 | <a href="https://jasonwei20.github.io/personal/" style="color:#191970" target="_blank">Personal</a>
 
-<span style="font-size:0.1.3em;">**Publications**</span>
+<span style="font-size:1.3em;">Publications</span>
 - <a href="https://arxiv.org/pdf/2105.07144" style="color:#191970" target="_blank"><i>A cognitive regularizer for language modeling.</i></a>  
 <span style="font-size:0.93em;">**Jason Wei**, Clara Meister, and Ryan Cotterell. <a style="color:#925575">**ACL 2021.**</a> </span>  
 - <a style="color:#191970" target="_blank"><i>Language model augmented relevance score.</i></a>  

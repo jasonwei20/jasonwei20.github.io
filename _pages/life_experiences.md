@@ -59,3 +59,17 @@ author_profile: true
 
 2012
 * **Jun:** Touring China with a tour group
+
+Life bucket list:
+* Watch Federer, Djokovic, Thiem, and Kyrgios live
+* Watch the olympics
+* Attend burning man
+* Work on an organic farm in Denmark
+* See conan in person
+* See lady gaga perform
+* Heroic dose
+* Albuquerque International Balloon Fiesta
+
+Life goals:
+* Have a wikipedia page
+* Be on the Lex Fridman podcast

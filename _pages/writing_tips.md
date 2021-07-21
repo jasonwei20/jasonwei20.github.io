@@ -44,6 +44,7 @@ These are some guidelines that I compiled, mostly lifted from Tom Cormen's <a hr
 - One can easily be ***seduced*** into thinking that CGT can immediately deliver similar breakthroughs. -George Cybenko
 - Augmented examples ***dominate*** the training distribution. -Me
 - Accepting that original and augmented distributions might differ ***liberates*** us to apply stronger levels of data augmentation. -Me
+- Mindful of accusations that I planned to use the crisis as an excuse for an **orgy** of liberal *boondoggles* -Barack Obama
 - From Sam Harris: 
 	- He could not ***marshall*** any evidence to support his argument. -Sam Harris
 	- Nobody has a ***monopoly*** on self-deception. -Sam Harris

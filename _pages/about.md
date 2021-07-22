@@ -32,7 +32,7 @@ ACL 2021.</span>
 </p>
 <p style="margin-bottom: 0.5em; line-height: 1.33">
 <a href="https://arxiv.org/abs/2105.03075" style="color:#191970" target="_blank"><i>A survey of data augmentation approaches for NLP.</i></a><br>
-<span style="font-size:0.93em;">S. Feng, Varun Gangal, <b>J. Wei</b>, S. Chandar, S. Vosoughi, T. Mitamura, and E. Hovy.<br>
+<span style="font-size:0.93em;">{S. Feng, V. Gangal}, <b>J. Wei</b>, S. Chandar, S. Vosoughi, T. Mitamura, and E. Hovy.<br>
 ACL Findings 2021.</span>
 </p>
 <p style="margin-bottom: 0.5em; line-height: 1.33">

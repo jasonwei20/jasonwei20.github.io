@@ -21,12 +21,12 @@ I am an <a href="https://research.google/careers/ai-residency/" style="color:#19
 p {margin-bottom: -0.6em}
 </style>
 
-<p>
+<p style="margin-bottom: -0.6em">
 <span style="font-size:1.3em;">Publications</span><br>
 <a href="https://arxiv.org/pdf/2105.07144" style="color:#191970" target="_blank"><i>A cognitive regularizer for language modeling.</i></a><br>
 <span style="font-size:0.93em;">**Jason Wei**, Clara Meister, and Ryan Cotterell. <a style="color:#925575">**ACL 2021.**</a> </span>
 </p>
-<p>
+<p style="margin-bottom: -0.6em">
 <a href="https://arxiv.org/pdf/2105.07144" style="color:#191970" target="_blank"><i>A cognitive regularizer for language modeling.</i></a><br>
 <span style="font-size:0.93em;">**Jason Wei**, Clara Meister, and Ryan Cotterell. <a style="color:#925575">**ACL 2021.**</a> </span>
 </p>

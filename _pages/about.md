@@ -17,38 +17,46 @@ I am an <a href="https://research.google/careers/ai-residency/" style="color:#19
 <html>
 <body>
 
-<p style="margin-bottom: 0.65em; line-height: 1.35">
-<span style="font-size:1.3em;">Publications</span><br>
+<p style="margin-bottom: 0.35em; line-height: 1.4">
+<span style="font-size:1.24em;">Publications</span><br>
 <a href="https://arxiv.org/pdf/2105.07144" style="color:#191970" target="_blank"><i>A cognitive regularizer for language modeling.</i></a><br>
-<span style="font-size:0.93em;"><b>Jason Wei</b>, Clara Meister, and Ryan Cotterell. <a style="color:#925575"><b>ACL 2021.</b></a> </span>
+<span style="font-size:0.93em;"><b>Jason Wei</b>, Clara Meister, and Ryan Cotterell.<br>
+ACL 2021.</span>
 </p>
-<p style="margin-bottom: 0.4em; line-height: 1.35">
+<p style="margin-bottom: 0.35em; line-height: 1.4">
 <a style="color:#191970" target="_blank"><i>Language model augmented relevance score.</i></a><br>
-<span style="font-size:0.93em;"><b>Jason Wei</b>, Clara Meister, and Ryan Cotterell. <a style="color:#925575"><b>ACL 2021.</b></a> </span>
+<span style="font-size:0.93em;"><b>Ruibo Liu, <b>Jason Wei</b>, and Soroush Vosoughi.<br>
+<a style="color:#925575"><b>ACL 2021.</b></a> </span>
 </p>
-<p style="margin-bottom: 0.4em; line-height: 1.35">
+<p style="margin-bottom: 0.35em; line-height: 1.4">
 <a href="https://arxiv.org/abs/2105.03075" style="color:#191970" target="_blank"><i>A survey of data augmentation approaches for NLP.</i></a><br>
-<span style="font-size:0.93em;">Ruibo Liu, <b>Jason Wei</b>, Soroush Vosoughi. <a style="color:#925575"><b>ACL Findings 2021.</b></a> </span>
+<span style="font-size:0.93em;">Steven Feng, Varun Gangal, <b>Jason Wei</b>, Sarath Chandar, Soroush Vosoughi, Teruko Mitamura, and Eduard Hovy.<br>
+<a style="color:#925575"><b>ACL Findings 2021.</b></a> </span>
 </p>
-<p style="margin-bottom: 0.4em; line-height: 1.35">
+<p style="margin-bottom: 0.35em; line-height: 1.4">
 <a href="http://dx.doi.org/10.18653/v1/2021.naacl-main.352" style="color:#191970" target="_blank"><i>Linguistic complexity loss in text-based therapy.</i></a><br>
-<span style="font-size:0.93em;"><b>Jason Wei</b>, Kelly Finn, Emma Templeton, Thalia Wheatley, and Soroush Vosoughi. <a style="color:#925575"><b>NAACL 2021.</b></a> </span>
+<span style="font-size:0.93em;"><b>Jason Wei</b>, Kelly Finn, Emma Templeton, Thalia Wheatley, and Soroush Vosoughi.<br>
+<a style="color:#925575"><b>NAACL 2021.</b></a> </span>
 </p>
-<p style="margin-bottom: 0.4em; line-height: 1.35">
+<p style="margin-bottom: 0.35em; line-height: 1.4">
 <a href="http://dx.doi.org/10.18653/v1/2021.naacl-main.434" style="color:#191970" target="_blank"><i>Few-shot text classification with triplet networks, data augmentation, and curriculum learning.</i></a><br>
-<span style="font-size:0.93em;"><b>Jason Wei</b>, Chengyu Huang, Soroush Vosoughi, Yu Cheng, and Shiqi Xu. <a style="color:#925575"><b>NAACL 2021.</b></a> </span>
+<span style="font-size:0.93em;"><b>Jason Wei</b>, Chengyu Huang, Soroush Vosoughi, Yu Cheng, and Shiqi Xu.<br>
+<a style="color:#925575"><b>NAACL 2021.</b></a> </span>
 </p>
-<p style="margin-bottom: 0.4em; line-height: 1.35">
+<p style="margin-bottom: 0.35em; line-height: 1.4">
 <a href="https://www.aclweb.org/anthology/2021.eacl-main.252/" style="color:#191970" target="_blank"><i>Text augmentation in a multi-task view.</i></a><br>
-<span style="font-size:0.93em;"><b>Jason Wei</b>, Chengyu Huang, Shiqi Xu, and Soroush Vosoughi. <a style="color:#925575"><b>EACL 2021.</b></a> </span>
+<span style="font-size:0.93em;"><b>Jason Wei</b>, Chengyu Huang, Shiqi Xu, and Soroush Vosoughi.<br>
+<a style="color:#925575"><b>EACL 2021.</b></a> </span>
 </p>
-<p style="margin-bottom: 0.4em; line-height: 1.35">
+<p style="margin-bottom: 0.35em; line-height: 1.4">
 <a href="https://arxiv.org/pdf/2104.14795.pdf" style="color:#191970" target="_blank"><i>Mitigating political bias in language models through reinforced calibration.</i></a><br>
-<span style="font-size:0.93em;">R. Liu, C. Jia, <b>J. Wei</b>, G. Xu, L. Wang, and S. Vosoughi. <a style="color:#925575"><b>AAAI 2021.(<a href="https://aaai.org/Awards/paper.php" style="color:#191970" target="_blank">outstanding paper</a>)</b></a> </span>
+<span style="font-size:0.93em;">R. Liu, C. Jia, <b>J. Wei</b>, G. Xu, L. Wang, and S. Vosoughi.<br>
+<a style="color:#925575"><b>AAAI 2021</b> (<a href="https://aaai.org/Awards/paper.php" style="color:#191970" target="_blank">outstanding paper</a>).</a> </span>
 </p>
-<p style="margin-bottom: 0.4em; line-height: 1.35">
+<p style="margin-bottom: 0.35em; line-height: 1.4">
 <a href="http://dx.doi.org/10.18653/v1/D19-1670" style="color:#191970" target="_blank"><i>Easy data augmentation techniques for boosting performance on text classification tasks.</i></a><br>
-<span style="font-size:0.93em;"><b>Jason Wei</b> and Kai Zou. <a style="color:#925575"><b>EMNLP 2019.</b></a> </span>
+<span style="font-size:0.93em;"><b>Jason Wei</b> and Kai Zou.<br>
+<a style="color:#925575"><b>EMNLP 2019.</b></a> </span>
 </p>
 
 </body>

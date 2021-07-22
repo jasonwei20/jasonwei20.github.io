@@ -20,7 +20,7 @@ I am an <a href="https://research.google/careers/ai-residency/" style="color:#19
 | <a href="https://jasonwei20.github.io/personal/" style="color:#191970" target="_blank">Personal</a>
 </p>
 
-<p style="margin-bottom: 0.1em; line-height: 1.4">
+<p style="margin-bottom: 0.25em; line-height: 1.4">
 <span style="font-size:1.27em;">Publications</span><br>
 </p>
 <p style="margin-bottom: 0.5em; line-height: 1.33">

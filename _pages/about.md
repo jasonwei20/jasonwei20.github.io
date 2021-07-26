@@ -24,17 +24,17 @@ I am an <a href="https://research.google/careers/ai-residency/" style="color:#19
 <span style="font-size:1.27em;">Publications</span><br>
 </p>
 <p style="margin-bottom: 0.5em; line-height: 1.33">
-<a href="https://arxiv.org/pdf/2105.07144" style="color:#191970" target="_blank"><i>A cognitive regularizer for language modeling.</i></a><br>
+<a href="https://aclanthology.org/2021.acl-long.404/" style="color:#191970" target="_blank"><i>A cognitive regularizer for language modeling.</i></a><br>
 <span style="font-size:0.93em;"><b>Jason Wei</b>, Clara Meister, and Ryan Cotterell.<br>
 ACL 2021.</span>
 </p>
 <p style="margin-bottom: 0.5em; line-height: 1.33">
-<a style="color:#191970" target="_blank"><i>Language model augmented relevance score.</i></a><br>
+<a href="https://aclanthology.org/2021.acl-long.521/" style="color:#191970" target="_blank"><i>Language model augmented relevance score.</i></a><br>
 <span style="font-size:0.93em;">Ruibo Liu, <b>Jason Wei</b>, and Soroush Vosoughi.<br>
 ACL 2021.</span>
 </p>
 <p style="margin-bottom: 0.5em; line-height: 1.33">
-<a href="https://arxiv.org/abs/2105.03075" style="color:#191970" target="_blank"><i>A survey of data augmentation approaches for NLP.</i></a><br>
+<a href="https://aclanthology.org/2021.findings-acl.84/" style="color:#191970" target="_blank"><i>A survey of data augmentation approaches for NLP.</i></a><br>
 <span style="font-size:0.93em;">{S. Feng, V. Gangal}, <b>J. Wei</b>, S. Chandar, S. Vosoughi, T. Mitamura, and E. Hovy.<br>
 ACL Findings 2021.</span>
 </p>

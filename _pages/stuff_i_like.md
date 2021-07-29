@@ -15,12 +15,8 @@ Books
 * *The Catcher in the Rye* by JD Salinger
 
 Entertainment
-* **Movies**: The Fast and Furious Franchise, The Imitation Game, Don Jon, Titanic, Rush Hour
-* **TV Shows**: Sherlock, Killing Eve, The Good Doctor, Grey's Anatomy
-* **Youtube**: [Doug Polk](https://www.youtube.com/channel/UCyI7FNTudkyALBh9N7hwI9Q), [ice1cube](https://www.youtube.com/user/ice1cubed), [Bart Kwan](https://www.youtube.com/user/bartkwan), [Alpha M](https://www.youtube.com/user/AlphaMconsulting), [Thomas阿福](https://www.youtube.com/channel/UC689uDf0ryZniKpuSK9ESTw), [PPPeter](https://www.youtube.com/c/PPPeter1), [Bald and Bankrupt](https://www.youtube.com/channel/UCxDZs_ltFFvn0FDHT6kmoXA)
 * **Music**: [Lady Gaga](https://www.youtube.com/watch?v=etjiqgU0_lI), [The Killers](https://www.youtube.com/watch?v=DL5hTUNoljQ), [Eden](https://www.youtube.com/user/EdenProjectOfficial), [Vampire Weekend](https://www.youtube.com/watch?v=FwkrrU2WYKg), [Queen](https://www.youtube.com/watch?v=aA2IRoPFIn0), Dua Lipa
 * **Tennis players**: Nick Kyrgios, Novak Djokovic, Dominic Thiem
-* **Public figures**: Elon Musk, Sam Harris, Simon Sinek, Conan O'Brien
 
 Food [(my favorite recipes)](https://jasonwei20.github.io/recipes/)
 * **Breakfast**: oatmeal, egg white, avocado, protein shake
@@ -40,3 +36,30 @@ Quotes
 
 Jason's Timeless Slang
 * Scrub, chump, bugger, rats, kid, unsung hero, acquired taste, I suppose, cheesedog, what the, f\*cking ay
+
+Influences
+- TV/Movies
+	- **Sherlock** (and The Imitation Game): logic, critical thinking, intelligence, nuance
+	- **Killing Eve**: humor, smoothness, European culture
+	- **Counterpart**: thinking big, being on the world stage
+	- **The Great Gatsby Movies**: live an exciting life, old school America
+- Public figures
+	- **Elon Musk**: first-principles thinking, long-term thinking, dreaming big
+	- **Sam Harris**: consciousness, death, honesty
+	- **Conan**: humor, high-energy, wit, intelligence, sociability, quick-thinking
+	- **Lady Gaga**: creativity, love
+	- **David Goggins**: motivation, hard work, taking things to the extreme
+- Youtube:
+	- **Bald and Bankrupt**: open-mindedness, worldliness
+	- **Thomas Afu**: Chinese and European culture, open-mindedness
+	- **Andrew Kirby**: productivity, thinking in terms of time
+- Writers:
+	- **Steven King**: beautiful writing, high standard of prose, dedication to one's craft
+	- **Cal Newport**: productivity, meta-career skills
+	- **Mark Manson**: being a desirable person
+	- **Anchee Min**: vulnerability, honesty
+	- **Brendan Burchard**: the lifestyle described in *High Performance Habits*
+- Academics:
+	- **Randy Pausch**: time, meta-habits
+	- **Henry Lee Smith**: old-school thinking, genuine passion for linguistics
+	- **Ryan Cotterell**: linguistics, creativity, "thinking like a scientist", love of learning

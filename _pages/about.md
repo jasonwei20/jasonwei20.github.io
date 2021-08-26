@@ -24,6 +24,16 @@ I am an <a href="https://research.google/careers/ai-residency/" style="color:#19
 <span style="font-size:1.27em;">Publications</span><br>
 </p>
 <p style="margin-bottom: 0.5em; line-height: 1.33">
+<a style="color:#191970" target="_blank"><i>Frequency effects on syntactic rule learning in transformers.</i></a><br>
+<span style="font-size:0.93em;"><b>Jason Wei</b>, Dan Garrette, Tal Linzen, and Ellie Pavlick.<br>
+EMNLP 2021.</span>
+</p>
+<p style="margin-bottom: 0.5em; line-height: 1.33">
+<a style="color:#191970" target="_blank"><i>Good-enough example extrapolation.</i></a><br>
+<span style="font-size:0.93em;"><b>Jason Wei</b>.<br>
+EMNLP 2021.</span>
+</p>
+<p style="margin-bottom: 0.5em; line-height: 1.33">
 <a href="https://aclanthology.org/2021.acl-long.404/" style="color:#191970" target="_blank"><i>A cognitive regularizer for language modeling.</i></a><br>
 <span style="font-size:0.93em;"><b>Jason Wei</b>, Clara Meister, and Ryan Cotterell.<br>
 ACL 2021.</span>

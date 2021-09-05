@@ -5,6 +5,7 @@ author_profile: true
 ---
 
 2021
+* **Aug 30/Sep 4:** Watching Djokovic and Kyrgios at the US Open
 * **Jan 29:** Watching James Cameron's "Avatar" in the bathtub
 
 2020

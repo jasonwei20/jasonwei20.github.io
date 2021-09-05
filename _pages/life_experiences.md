@@ -62,7 +62,7 @@ author_profile: true
 * **Jun:** Touring China with a tour group
 
 Life bucket list:
-* Watch Federer, Djokovic, Thiem, and Kyrgios live
+* Watch Federer and Thiem live
 * Watch the olympics
 * Attend burning man
 * Work on an organic farm in Denmark

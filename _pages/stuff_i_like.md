@@ -36,6 +36,7 @@ Quotes
 
 Jason's Timeless Slang
 * Scrub, chump, bugger, rats, kid, unsung hero, acquired taste, I suppose, cheesedog, what the, f\*cking ay
+* Some other words I like: supper, general store, 
 
 Influences
 - TV/Movies

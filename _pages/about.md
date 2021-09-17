@@ -24,12 +24,22 @@ I am an <a href="https://research.google/careers/ai-residency/" style="color:#19
 <span style="font-size:1.27em;">Publications</span><br>
 </p>
 <p style="margin-bottom: 0.5em; line-height: 1.33">
-<a style="color:#191970" target="_blank"><i>Frequency effects on syntactic rule learning in transformers.</i></a><br>
+<a href="https://arxiv.org/pdf/2109.01652" style="color:#191970" target="_blank"><i>Finetuned language models are zero-shot learners.</i></a><br>
+<span style="font-size:0.93em;">{<b>Jason Wei</b>, Maarten Bosma, Vincent Y. Zhao, Kelvin Guu}, Adams Wei Yu, Brian Lester, Nan Du, Andrew M. Dai, and Quoc V. Le.<br>
+Preprint.</span>
+</p>
+<p style="margin-bottom: 0.5em; line-height: 1.33">
+<a href="https://arxiv.org/pdf/2109.03910" style="color:#191970" target="_blank"><i>A recipe for arbitrary text style transfer with large language models.</i></a><br>
+<span style="font-size:0.93em;">{Emily Reif, Daphne Ippolito}, Ann Yuan, Andy Coenen, Chris Callison-Burch, and <b>Jason Wei</b>.<br>
+Preprint.</span>
+</p>
+<p style="margin-bottom: 0.5em; line-height: 1.33">
+<a href="https://arxiv.org/pdf/2109.07020" style="color:#191970" target="_blank"><i>Frequency effects on syntactic rule learning in transformers.</i></a><br>
 <span style="font-size:0.93em;"><b>Jason Wei</b>, Dan Garrette, Tal Linzen, and Ellie Pavlick.<br>
 EMNLP 2021.</span>
 </p>
 <p style="margin-bottom: 0.5em; line-height: 1.33">
-<a style="color:#191970" target="_blank"><i>Good-enough example extrapolation.</i></a><br>
+<a href="https://arxiv.org/pdf/2109.05602" style="color:#191970" target="_blank"><i>Good-enough example extrapolation.</i></a><br>
 <span style="font-size:0.93em;"><b>Jason Wei</b>.<br>
 EMNLP 2021.</span>
 </p>

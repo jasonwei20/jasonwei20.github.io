@@ -4,7 +4,6 @@ permalink: /sandbox/
 author_profile: true
 ---
 
-<!DOCTYPE html>
 <html>
 <style>
 table, th, td {
@@ -14,6 +13,7 @@ table, th, td {
   font-size: 0.9em;
 }
 </style>
+  
 <body>
 
 <table style="width:100%">
@@ -72,6 +72,15 @@ table, th, td {
   </tr>
   
   <tr>
+    <td style="width:100px; text-align:right; padding-right:10px; font-size:0.8em">ACL '21 <p style="font-size:0.5em">(Findings)</p> </td>
+    <td><a href="https://aclanthology.org/2021.findings-acl.84/" style="color:#191970" target="_blank"><i>A survey of data augmentation approaches for NLP.</i></a></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td style="padding-bottom:3px">{S. Feng, V. Gangal}, <b>J. Wei</b>, S. Chandar, S. Vosoughi, T. Mitamura, and E. Hovy.</td>
+  </tr>
+  
+  <tr>
     <td style="width:100px; text-align:right; padding-right:10px; font-size:0.8em">NAACL '21</td>
     <td><a href="http://dx.doi.org/10.18653/v1/2021.naacl-main.352" style="color:#191970" target="_blank"><i>Linguistic complexity loss in text-based therapy.</i></a></td>
   </tr>
@@ -86,7 +95,7 @@ table, th, td {
   </tr>
   <tr>
     <td></td>
-    <td style="padding-bottom:3px"><b>Jason Wei</b>.</td>
+    <td style="padding-bottom:3px"><b>Jason Wei</b>, Chengyu Huang, Soroush Vosoughi, Yu Cheng, and Shiqi Xu.</td>
   </tr>
   
   <tr>
@@ -104,11 +113,11 @@ table, th, td {
   </tr>
   <tr>
     <td></td>
-    <td style="padding-bottom:3px">Ruibo Liu, Chenyan Jia, <b>Jason Wei</b>, Guangxuan Xu, Lili Wang, and Soroush Vosoughi.</td>
+    <td style="padding-bottom:3px">R. Liu, C. Jia, <b>J. Wei</b>, G. Xu, L. Wang, and S. Vosoughi. <a href="https://aaai.org/Awards/paper.php" style="color:#191970" target="_blank">Outstanding paper!</a></td>
   </tr>
   
   <tr>
-    <td style="width:100px; text-align:right; padding-right:10px; font-size:0.8em">EMNLP '21</td>
+    <td style="width:100px; text-align:right; padding-right:10px; font-size:0.8em">EMNLP '19</td>
     <td><a href="http://dx.doi.org/10.18653/v1/D19-1670" style="color:#191970" target="_blank"><i>Easy data augmentation techniques for boosting performance on text classification tasks.</i></a></td>
   </tr>
   <tr>

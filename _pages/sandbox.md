@@ -3,6 +3,7 @@ title: "sandbox"
 permalink: /sandbox/
 author_profile: true
 ---
+
 <html>
 <style>
 table, th, td {
@@ -21,7 +22,7 @@ table, th, td {
   </tr>
   <tr>
     <td></td>
-    <td>{<b>J. Wei</b>, M. Bosma, V. Zhao, K. Guu}, A. Yu, B. Lester, N. Du, A. Dai, and Q. Le.</td>
+    <td style="padding-bottom:3px">{<b>J. Wei</b>, M. Bosma, V. Zhao, K. Guu}, A. Yu, B. Lester, N. Du, A. Dai, and Q. Le.</td>
   </tr>
 
   <tr>
@@ -93,7 +94,7 @@ table, th, td {
   </tr>
   <tr>
     <td></td>
-    <td><b>Jason Wei</b>.</td>
+    <td><b>Jason Wei</b>, Chengyu Huang, Shiqi Xu, and Soroush Vosoughi.</td>
   </tr>
   
   <tr>

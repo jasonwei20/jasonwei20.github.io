@@ -122,6 +122,7 @@ I am an <a href="https://research.google/careers/ai-residency/" style="color:#19
     <td></td>
     <td style="padding-bottom:3px"><b>Jason Wei</b> and Kai Zou.</td>
   </tr>
+</table>
 
 </body>
 </html>

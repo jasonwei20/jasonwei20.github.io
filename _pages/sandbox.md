@@ -72,15 +72,6 @@ table, th, td {
   </tr>
   
   <tr>
-    <td style="width:100px; text-align:right; padding-right:10px; font-size:0.8em">ACL '21 <p style="font-size:0.5em">(Findings)</p> </td>
-    <td><a href="https://aclanthology.org/2021.findings-acl.84/" style="color:#191970" target="_blank"><i>A survey of data augmentation approaches for NLP.</i></a></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td style="padding-bottom:3px">{S. Feng, V. Gangal}, <b>J. Wei</b>, S. Chandar, S. Vosoughi, T. Mitamura, and E. Hovy.</td>
-  </tr>
-  
-  <tr>
     <td style="width:100px; text-align:right; padding-right:10px; font-size:0.8em">NAACL '21</td>
     <td><a href="http://dx.doi.org/10.18653/v1/2021.naacl-main.352" style="color:#191970" target="_blank"><i>Linguistic complexity loss in text-based therapy.</i></a></td>
   </tr>

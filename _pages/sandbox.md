@@ -4,6 +4,7 @@ permalink: /sandbox/
 author_profile: true
 ---
 
+<!DOCTYPE html>
 <html>
 <style>
 table, th, td {
@@ -31,7 +32,7 @@ table, th, td {
   </tr>
   <tr>
     <td></td>
-    <td>{Emily Reif, Daphne Ippolito}, Ann Yuan, Andy Coenen, Chris Callison-Burch, and <b>Jason Wei</b>.</td>
+    <td style="padding-bottom:3px">{Emily Reif, Daphne Ippolito}, Ann Yuan, Andy Coenen, Chris Callison-Burch, and <b>Jason Wei</b>.</td>
   </tr>
 
   <tr>
@@ -40,7 +41,7 @@ table, th, td {
   </tr>
   <tr>
     <td></td>
-    <td><b>Jason Wei</b>, Dan Garrette, Tal Linzen, and Ellie Pavlick.</td>
+    <td style="padding-bottom:3px"><b>Jason Wei</b>, Dan Garrette, Tal Linzen, and Ellie Pavlick.</td>
   </tr>
   
   <tr>
@@ -49,7 +50,7 @@ table, th, td {
   </tr>
   <tr>
     <td></td>
-    <td><b>Jason Wei</b>.</td>
+    <td style="padding-bottom:3px"><b>Jason Wei</b>.</td>
   </tr>
   
   <tr>
@@ -58,7 +59,7 @@ table, th, td {
   </tr>
   <tr>
     <td></td>
-    <td><b>Jason Wei</b>, Clara Meister, and Ryan Cotterell.</td>
+    <td style="padding-bottom:3px"><b>Jason Wei</b>, Clara Meister, and Ryan Cotterell.</td>
   </tr>
   
   <tr>
@@ -67,7 +68,7 @@ table, th, td {
   </tr>
   <tr>
     <td></td>
-    <td>Ruibo Liu, <b>Jason Wei</b>, and Soroush Vosoughi.</td>
+    <td style="padding-bottom:3px">Ruibo Liu, <b>Jason Wei</b>, and Soroush Vosoughi.</td>
   </tr>
   
   <tr>
@@ -76,7 +77,7 @@ table, th, td {
   </tr>
   <tr>
     <td></td>
-    <td><b>Jason Wei</b>, Kelly Finn, Emma Templeton, Thalia Wheatley, and Soroush Vosoughi.</td>
+    <td style="padding-bottom:3px"><b>Jason Wei</b>, Kelly Finn, Emma Templeton, Thalia Wheatley, and Soroush Vosoughi.</td>
   </tr>
   
   <tr>
@@ -85,7 +86,7 @@ table, th, td {
   </tr>
   <tr>
     <td></td>
-    <td><b>Jason Wei</b>.</td>
+    <td style="padding-bottom:3px"><b>Jason Wei</b>.</td>
   </tr>
   
   <tr>
@@ -94,7 +95,7 @@ table, th, td {
   </tr>
   <tr>
     <td></td>
-    <td><b>Jason Wei</b>, Chengyu Huang, Shiqi Xu, and Soroush Vosoughi.</td>
+    <td style="padding-bottom:3px"><b>Jason Wei</b>, Chengyu Huang, Shiqi Xu, and Soroush Vosoughi.</td>
   </tr>
   
   <tr>
@@ -103,7 +104,7 @@ table, th, td {
   </tr>
   <tr>
     <td></td>
-    <td>Ruibo Liu, Chenyan Jia, <b>Jason Wei</b>, Guangxuan Xu, Lili Wang, and Soroush Vosoughi.</td>
+    <td style="padding-bottom:3px">Ruibo Liu, Chenyan Jia, <b>Jason Wei</b>, Guangxuan Xu, Lili Wang, and Soroush Vosoughi.</td>
   </tr>
   
   <tr>
@@ -112,7 +113,7 @@ table, th, td {
   </tr>
   <tr>
     <td></td>
-    <td><b>Jason Wei</b> and Kai Zou.</td>
+    <td style="padding-bottom:3px"><b>Jason Wei</b> and Kai Zou.</td>
   </tr>
 
 </body>

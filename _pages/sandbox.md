@@ -75,11 +75,11 @@ I am an <a href="https://research.google/careers/ai-residency/" style="color:#19
   </tr>
   
   <tr>
-    <td style="width:100px; text-align:right; padding-right:10px; font-size:0.8em">ACL '21 <span style="font-size:0.5em;">(Findings)</span></td>
+    <td style="width:100px; text-align:right; padding-right:10px; font-size:0.8em">ACL '21</td>
     <td><a href="https://aclanthology.org/2021.acl-long.521/" style="color:#191970" target="_blank"><i>Language model augmented relevance score.</i></a></td>
   </tr>
   <tr>
-    <td></td>
+    <td style="vertical-align:top; text-align:right; font-size:0.7em">Findings</td>
     <td style="padding-bottom:3px">Ruibo Liu, <b>Jason Wei</b>, and Soroush Vosoughi.</td>
   </tr>
   

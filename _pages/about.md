@@ -36,7 +36,7 @@ I am an <a href="https://research.google/careers/ai-residency/" style="color:#19
   </tr>
   <tr>
     <td></td>
-    <td style="padding-bottom:3px">{<b>J. Wei</b>, M. Bosma, V. Zhao, K. Guu}, A. Yu, B. Lester, N. Du, A. Dai, and Q. Le.</td>
+    <td style="padding-bottom:4px">{<b>J. Wei</b>, M. Bosma, V. Zhao, K. Guu}, A. Yu, B. Lester, N. Du, A. Dai, and Q. Le.</td>
   </tr>
 
   <tr>
@@ -45,7 +45,7 @@ I am an <a href="https://research.google/careers/ai-residency/" style="color:#19
   </tr>
   <tr>
     <td></td>
-    <td style="padding-bottom:3px">{Emily Reif, Daphne Ippolito}, Ann Yuan, Andy Coenen, Chris Callison-Burch, and <b>Jason Wei</b>.</td>
+    <td style="padding-bottom:4px">{Emily Reif, Daphne Ippolito}, Ann Yuan, Andy Coenen, Chris Callison-Burch, and <b>Jason Wei</b>.</td>
   </tr>
 
   <tr>
@@ -54,7 +54,7 @@ I am an <a href="https://research.google/careers/ai-residency/" style="color:#19
   </tr>
   <tr>
     <td></td>
-    <td style="padding-bottom:3px"><b>Jason Wei</b>, Dan Garrette, Tal Linzen, and Ellie Pavlick.</td>
+    <td style="padding-bottom:4px"><b>Jason Wei</b>, Dan Garrette, Tal Linzen, and Ellie Pavlick.</td>
   </tr>
   
   <tr>
@@ -63,7 +63,7 @@ I am an <a href="https://research.google/careers/ai-residency/" style="color:#19
   </tr>
   <tr>
     <td></td>
-    <td style="padding-bottom:3px"><b>Jason Wei</b>.</td>
+    <td style="padding-bottom:4px"><b>Jason Wei</b>.</td>
   </tr>
   
   <tr>
@@ -72,7 +72,7 @@ I am an <a href="https://research.google/careers/ai-residency/" style="color:#19
   </tr>
   <tr>
     <td></td>
-    <td style="padding-bottom:3px"><b>Jason Wei</b>, Clara Meister, and Ryan Cotterell.</td>
+    <td style="padding-bottom:4px"><b>Jason Wei</b>, Clara Meister, and Ryan Cotterell.</td>
   </tr>
   
   <tr>
@@ -81,7 +81,7 @@ I am an <a href="https://research.google/careers/ai-residency/" style="color:#19
   </tr>
   <tr>
     <td></td>
-    <td style="padding-bottom:3px">Ruibo Liu, <b>Jason Wei</b>, and Soroush Vosoughi.</td>
+    <td style="padding-bottom:4px">Ruibo Liu, <b>Jason Wei</b>, and Soroush Vosoughi.</td>
   </tr>
   
   <tr>
@@ -90,7 +90,7 @@ I am an <a href="https://research.google/careers/ai-residency/" style="color:#19
   </tr>
   <tr>
     <td style="width:80px; text-align:right; padding-right:8px; font-size:0.7em; vertical-align:top">(Findings)</td>
-    <td style="padding-bottom:3px">{S. Feng, V. Gangal}, <b>J. Wei</b>, S. Chandar, S. Vosoughi, T. Mitamura, and E. Hovy.</td>
+    <td style="padding-bottom:4px">{S. Feng, V. Gangal}, <b>J. Wei</b>, S. Chandar, S. Vosoughi, T. Mitamura, and E. Hovy.</td>
   </tr>
   
   <tr>
@@ -99,7 +99,7 @@ I am an <a href="https://research.google/careers/ai-residency/" style="color:#19
   </tr>
   <tr>
     <td></td>
-    <td style="padding-bottom:3px"><b>Jason Wei</b>, Kelly Finn, Emma Templeton, Thalia Wheatley, and Soroush Vosoughi.</td>
+    <td style="padding-bottom:4px"><b>Jason Wei</b>, Kelly Finn, Emma Templeton, Thalia Wheatley, and Soroush Vosoughi.</td>
   </tr>
   
   <tr>
@@ -108,7 +108,7 @@ I am an <a href="https://research.google/careers/ai-residency/" style="color:#19
   </tr>
   <tr>
     <td></td>
-    <td style="padding-bottom:3px"><b>Jason Wei</b>, Chengyu Huang, Soroush Vosoughi, Yu Cheng, and Shiqi Xu.</td>
+    <td style="padding-bottom:4px"><b>Jason Wei</b>, Chengyu Huang, Soroush Vosoughi, Yu Cheng, and Shiqi Xu.</td>
   </tr>
   
   <tr>
@@ -117,7 +117,7 @@ I am an <a href="https://research.google/careers/ai-residency/" style="color:#19
   </tr>
   <tr>
     <td></td>
-    <td style="padding-bottom:3px"><b>Jason Wei</b>, Chengyu Huang, Shiqi Xu, and Soroush Vosoughi.</td>
+    <td style="padding-bottom:4px"><b>Jason Wei</b>, Chengyu Huang, Shiqi Xu, and Soroush Vosoughi.</td>
   </tr>
   
   <tr>
@@ -126,7 +126,7 @@ I am an <a href="https://research.google/careers/ai-residency/" style="color:#19
   </tr>
   <tr>
     <td></td>
-    <td style="padding-bottom:3px">R. Liu, C. Jia, <b>J. Wei</b>, G. Xu, L. Wang, and S. Vosoughi. <a href="https://aaai.org/Awards/paper.php" target="_blank">Outstanding paper!</a></td>
+    <td style="padding-bottom:4px">R. Liu, C. Jia, <b>J. Wei</b>, G. Xu, L. Wang, and S. Vosoughi. <a href="https://aaai.org/Awards/paper.php" target="_blank">Outstanding paper!</a></td>
   </tr>
   
   <tr>

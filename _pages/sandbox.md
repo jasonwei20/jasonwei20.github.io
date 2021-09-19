@@ -116,7 +116,7 @@ I am an <a href="https://research.google/careers/ai-residency/" style="color:#19
   </tr>
   <tr>
     <td></td>
-    <td style="padding-bottom:3px">R. Liu, C. Jia, <b>J. Wei</b>, G. Xu, L. Wang, and S. Vosoughi. <a href="https://aaai.org/Awards/paper.php" style="color:#191970" target="_blank">Outstanding paper!</a></td>
+    <td style="padding-bottom:3px">R. Liu, C. Jia, <b>J. Wei</b>, G. Xu, L. Wang, and S. Vosoughi. <a href="https://aaai.org/Awards/paper.php" target="_blank">Outstanding paper!</a></td>
   </tr>
   
   <tr>

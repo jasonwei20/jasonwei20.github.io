@@ -25,7 +25,6 @@ table, th, td {
 I am an <a href="https://research.google/careers/ai-residency/" style="color:#191970" target="_blank">AI Resident</a> at Google, working on natural language processing.<br>
 <a href="https://jasonwei20.github.io/files/current-jason-wei-cv.pdf" style="color:#191970" target="_blank">Vitæ</a> 
 | <a href="https://scholar.google.com/citations?user=wA5TK_0AAAAJ&hl=en" style="color:#191970" target="_blank">Google Scholar</a> 
-| <a href="https://jasonwei20.github.io/personal/" style="color:#191970" target="_blank">Personal</a>
 </p>
 
 <span style="font-size:1.3em">Publications</span>
@@ -141,6 +140,9 @@ I am an <a href="https://research.google/careers/ai-residency/" style="color:#19
 
 </body>
 </html>
+
+
+<!-- | <a href="https://jasonwei20.github.io/personal/" style="color:#191970" target="_blank">Personal</a> -->
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-146397444-1"></script>

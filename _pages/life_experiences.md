@@ -76,7 +76,8 @@ Life bucket list:
 * Heroic dose
 * Attend the Albuquerque International Balloon Fiesta
 
-Life goals:
+Goals:
+* Get admitted to Stanford, Harvard, or MIT
 * Become internet famous
 * Bench 2 plates
 * Have a wikipedia page

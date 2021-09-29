@@ -63,14 +63,21 @@ author_profile: true
 
 Life bucket list:
 * Watch Federer and Thiem live
-* Watch the olympics
-* Attend burning man
+* See Conan in person
+* See Lady Gaga perform
+* Watch the Olympics in person
+* Attend Burning Man
+* Visit Norway
+* Visit Singapore
+* Travel to the Middle East
+* Backpack across Eastern Europe
+* Backpack across China
 * Work on an organic farm in Denmark
-* See conan in person
-* See lady gaga perform
 * Heroic dose
-* Albuquerque International Balloon Fiesta
+* Attend the Albuquerque International Balloon Fiesta
 
 Life goals:
+* Become internet famous
+* Bench 2 plates
 * Have a wikipedia page
 * Be on the Lex Fridman podcast

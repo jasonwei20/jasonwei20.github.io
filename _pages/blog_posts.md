@@ -21,8 +21,8 @@ Blog posts about my life, partially inspired by John Watson's blog from the Sher
 <body>
 <table style="width:100%">
   <tr>
-    <td style="width:40px; text-align:right; padding-right:10px; font-size:0.8em">2021</td>
-    <td><a href="https://jasonwei20.github.io/posts/2021/10/blog-post-18/" style="color:#191970" target="_blank">Summer</a></td>
+    <td style="width:40px; text-align:right; padding-right:10px; font-size:0.8; padding-top:5px">2021</td>
+    <td style="padding-top:5px"><a href="https://jasonwei20.github.io/posts/2021/10/blog-post-18/" style="color:#191970" target="_blank">Summer</a></td>
   </tr>
   <tr>
     <td style="width:40px; text-align:right; padding-right:10px; font-size:0.8em"> </td>
@@ -33,8 +33,8 @@ Blog posts about my life, partially inspired by John Watson's blog from the Sher
     <td><a href="https://jasonwei20.github.io/posts/2021/4/blog-post-16/" style="color:#191970" target="_blank">Winter</a></td>
   </tr>
   <tr>
-    <td style="width:40px; text-align:right; padding-right:10px; font-size:0.8em">2020</td>
-    <td><a href="https://jasonwei20.github.io/posts/2020/12/blog-post-15/" style="color:#191970" target="_blank">Fall 2020: A new beginning</a></td>
+    <td style="width:40px; text-align:right; padding-right:10px; font-size:0.8em; padding-top:5px">2020</td>
+    <td style="padding-top:5px"><a href="https://jasonwei20.github.io/posts/2020/12/blog-post-15/" style="color:#191970" target="_blank">Fall 2020: A new beginning</a></td>
   </tr>
   <tr>
     <td style="width:40px; text-align:right; padding-right:10px; font-size:0.8em"> </td>
@@ -49,8 +49,8 @@ Blog posts about my life, partially inspired by John Watson's blog from the Sher
     <td><a href="https://jasonwei20.github.io/posts/2020/3/blog-post-12/" style="color:#191970" target="_blank">Starting the new decade</a></td>
   </tr>
   <tr>
-    <td style="width:40px; text-align:right; padding-right:10px; font-size:0.8em">2019</td>
-    <td><a href="https://jasonwei20.github.io/posts/2019/12/blog-post-10/" style="color:#191970" target="_blank">Fall 2019</a></td>
+    <td style="width:40px; text-align:right; padding-right:10px; font-size:0.8em; padding-top:5px">2019</td>
+    <td style="padding-top:5px"><a href="https://jasonwei20.github.io/posts/2019/12/blog-post-10/" style="color:#191970" target="_blank">Fall 2019</a></td>
   </tr>
   <tr>
     <td style="width:40px; text-align:right; padding-right:10px; font-size:0.8em"> </td>
@@ -65,8 +65,8 @@ Blog posts about my life, partially inspired by John Watson's blog from the Sher
     <td><a href="https://jasonwei20.github.io/posts/2019/3/blog-post-8/" style="color:#191970" target="_blank">Winter solace</a></td>
   </tr>
   <tr>
-    <td style="width:40px; text-align:right; padding-right:10px; font-size:0.8em">2018</td>
-    <td><a href="https://jasonwei20.github.io/posts/2018/12/blog-post-7/" style="color:#191970" target="_blank">My term in the land of tall blonde people</a></td>
+    <td style="width:40px; text-align:right; padding-right:10px; font-size:0.8em; padding-top:5px">2018</td>
+    <td style="padding-top:5px"><a href="https://jasonwei20.github.io/posts/2018/12/blog-post-7/" style="color:#191970" target="_blank">My term in the land of tall blonde people</a></td>
   </tr>
   <tr>
     <td style="width:40px; text-align:right; padding-right:10px; font-size:0.8em"> </td>
@@ -85,8 +85,8 @@ Blog posts about my life, partially inspired by John Watson's blog from the Sher
     <td><a href="https://jasonwei20.github.io/posts/2018/2/blog-post-3/" style="color:#191970" target="_blank">Surviving winter</a></td>
   </tr>
   <tr>
-    <td style="width:40px; text-align:right; padding-right:10px; font-size:0.8em">2017</td>
-    <td><a href="https://jasonwei20.github.io/posts/2018/1/blog-post-2/" style="color:#191970" target="_blank">Fall: a review</a></td>
+    <td style="width:40px; text-align:right; padding-right:10px; font-size:0.8em; padding-top:5px">2017</td>
+    <td style="padding-top:5px"><a href="https://jasonwei20.github.io/posts/2018/1/blog-post-2/" style="color:#191970" target="_blank">Fall: a review</a></td>
   </tr>
   <tr>
     <td style="width:40px; text-align:right; padding-right:10px; font-size:0.8em"> </td>

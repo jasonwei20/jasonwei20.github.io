@@ -17,7 +17,7 @@ table, th, td {
 <body>
 <table style="width:100%">
   <tr>
-    <td style="width:40px; text-align:right; padding-right:10px">2021</td>
+    <td style="width:40px; text-align:right; padding-right:10px; padding-top:7px">2021</td>
     <td><b>Aug 30/Sep 4:</b> Watching Djokovic and Kyrgios at the US Open</td>
   </tr>
   <tr>
@@ -25,11 +25,11 @@ table, th, td {
     <td><b>Jan 29:</b> Watching James Cameron's "Avatar" in the bathtub</td>
   </tr>
   <tr>
-    <td style="width:40px; text-align:right; padding-right:10px">2020</td>
+    <td style="width:40px; text-align:right; padding-right:10px; padding-top:7px">2020</td>
     <td><b>Feb/Mar:</b> Dartmouth winter carnival and various events at Tri-Kap</td>
   </tr>
   <tr>
-    <td style="width:40px; text-align:right; padding-right:10px">2019</td>
+    <td style="width:40px; text-align:right; padding-right:10px; padding-top:7px">2019</td>
     <td><b>Dec 13:</b> Seeing my brother give a talk at a NeurIPS workshop</td>
   </tr>
   <tr>
@@ -53,7 +53,7 @@ table, th, td {
     <td><b>Mar 4:</b> Publishing my first research paper</td>
   </tr>
   <tr>
-    <td style="width:40px; text-align:right; padding-right:10px">2018</td>
+    <td style="width:40px; text-align:right; padding-right:10px; padding-top:7px">2018</td>
     <td><b>Dec 21:</b> Feeling insignificant at the Grand Canyon</td>
   </tr>
   <tr>
@@ -93,7 +93,7 @@ table, th, td {
     <td><b>Feb 2-4:</b> Dogsledding in Maine</td>
   </tr>
   <tr>
-    <td style="width:40px; text-align:right; padding-right:10px">2017</td>
+    <td style="width:40px; text-align:right; padding-right:10px; padding-top:7px">2017</td>
     <td><b>Dec 5:</b> Being in a car accident in Iceland</td>
   </tr>
   <tr>
@@ -109,7 +109,7 @@ table, th, td {
     <td><b>Aug:</b> Getting into machine learning</td>
   </tr>
   <tr>
-    <td style="width:40px; text-align:right; padding-right:10px">2016</td>
+    <td style="width:40px; text-align:right; padding-right:10px; padding-top:7px">2016</td>
     <td><b>Jun 26:</b> Watching an outdoor movie in Bryant Park, NYC</td>
   </tr>
   <tr>
@@ -125,7 +125,7 @@ table, th, td {
     <td><b>Feb-Aug:</b> Playing a lot of tennis</td>
   </tr>
   <tr>
-    <td style="width:40px; text-align:right; padding-right:10px">2015</td>
+    <td style="width:40px; text-align:right; padding-right:10px; padding-top:7px">2015</td>
     <td><b>Dec:</b> Cruising on the Oasis of the Seas</td>
   </tr>
   <tr>
@@ -145,7 +145,7 @@ table, th, td {
     <td><b>Jun:</b> Spending 4 days at the US Naval Academy summer seminar</td>
   </tr>
   <tr>
-    <td style="width:40px; text-align:right; padding-right:10px">2014</td>
+    <td style="width:40px; text-align:right; padding-right:10px; padding-top:7px">2014</td>
     <td><b>Sep-Dec:</b> Studying really hard</td>
   </tr>
   <tr>
@@ -153,7 +153,7 @@ table, th, td {
     <td><b>May:</b> Having my first kiss</td>
   </tr>
   <tr>
-    <td style="width:40px; text-align:right; padding-right:10px">2013</td>
+    <td style="width:40px; text-align:right; padding-right:10px; padding-top:7px">2013</td>
     <td><b>May 17:</b> Rowing in the Stotesbury Cup Regatta</td>
   </tr>
   <tr>
@@ -161,7 +161,7 @@ table, th, td {
     <td><b>Jan-Feb:</b> Crew conditioning</td>
   </tr>
   <tr>
-    <td style="width:40px; text-align:right; padding-right:10px">2012</td>
+    <td style="width:40px; text-align:right; padding-right:10px; padding-top:7px">2012</td>
     <td><b>Jun:</b> Touring China with a tour group</td>
   </tr>
 </table>

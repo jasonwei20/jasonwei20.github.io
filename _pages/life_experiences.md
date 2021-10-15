@@ -17,158 +17,157 @@ table, th, td {
 <body>
 <table style="width:100%">
   <tr>
-    <td style="width:40px; text-align:right; padding-right:10px; font-size:0.8em">2021</td>
-    <td><a>**Aug 30/Sep 4:** Watching Djokovic and Kyrgios at the US Open</a></td>
+    <td style="width:40px; text-align:right; padding-right:10px">2021</td>
+    <td><b>Aug 30/Sep 4:</b> Watching Djokovic and Kyrgios at the US Open</td>
   </tr>
   <tr>
-    <td style="width:40px; text-align:right; padding-right:10px; font-size:0.8em"></td>
-    <td><a>**Jan 29:** Watching James Cameron's "Avatar" in the bathtub</a></td>
+    <td style="width:40px; text-align:right; padding-right:10px"></td>
+    <td><b>Jan 29:</b> Watching James Cameron's "Avatar" in the bathtub</td>
   </tr>
   <tr>
-    <td style="width:40px; text-align:right; padding-right:10px; font-size:0.8em">2020</td>
-    <td><a>**Feb/Mar:** Dartmouth winter carnival and various events at Tri-Kap</a></td>
+    <td style="width:40px; text-align:right; padding-right:10px">2020</td>
+    <td><b>Feb/Mar:</b> Dartmouth winter carnival and various events at Tri-Kap</td>
   </tr>
   <tr>
-    <td style="width:40px; text-align:right; padding-right:10px; font-size:0.8em">2019</td>
-    <td><a>**Dec 13:** Seeing my brother give a talk at a NeurIPS workshop</a></td>
+    <td style="width:40px; text-align:right; padding-right:10px">2019</td>
+    <td><b>Dec 13:</b> Seeing my brother give a talk at a NeurIPS workshop</td>
   </tr>
   <tr>
-    <td style="width:40px; text-align:right; padding-right:10px; font-size:0.8em"></td>
-    <td><a>**Nov 4:** Exploring Hong Kong</a></td>
+    <td style="width:40px; text-align:right; padding-right:10px"></td>
+    <td><b>Nov 4:</b> Exploring Hong Kong</td>
   </tr>
   <tr>
-    <td style="width:40px; text-align:right; padding-right:10px; font-size:0.8em"></td>
-    <td><a>**Aug 17:** Tubing at Lake Tahoe</a></td>
+    <td style="width:40px; text-align:right; padding-right:10px"></td>
+    <td><b>Aug 17:</b> Tubing at Lake Tahoe</td>
   </tr>
   <tr>
-    <td style="width:40px; text-align:right; padding-right:10px; font-size:0.8em"></td>
-    <td><a>**Jul 20:** Hitch-hiking at Yosemite</a></td>
+    <td style="width:40px; text-align:right; padding-right:10px"></td>
+    <td><b>Jul 20:</b> Hitch-hiking at Yosemite</td>
   </tr>
   <tr>
-    <td style="width:40px; text-align:right; padding-right:10px; font-size:0.8em"></td>
-    <td><a>**May 5-9:** Attending my first machine learning conference (ICLR)</a></td>
+    <td style="width:40px; text-align:right; padding-right:10px"></td>
+    <td><b>May 5-9:</b> Attending my first machine learning conference (ICLR)</td>
   </tr>
   <tr>
-    <td style="width:40px; text-align:right; padding-right:10px; font-size:0.8em"></td>
-    <td><a>**Mar 4:** Publishing my first research paper</a></td>
+    <td style="width:40px; text-align:right; padding-right:10px"></td>
+    <td><b>Mar 4:</b> Publishing my first research paper</td>
   </tr>
   <tr>
-    <td style="width:40px; text-align:right; padding-right:10px; font-size:0.8em">2018</td>
-    <td><a>**Dec 21:** Feeling insignificant at the Grand Canyon</a></td>
+    <td style="width:40px; text-align:right; padding-right:10px">2018</td>
+    <td><b>Dec 21:</b> Feeling insignificant at the Grand Canyon</td>
   </tr>
   <tr>
-    <td style="width:40px; text-align:right; padding-right:10px; font-size:0.8em"></td>
-    <td><a>**Dec 14:** Strolling through Christmas Markets in Copenhagen</a></td>
+    <td style="width:40px; text-align:right; padding-right:10px"></td>
+    <td><b>Dec 14:</b> Strolling through Christmas Markets in Copenhagen</td>
   </tr>
   <tr>
-    <td style="width:40px; text-align:right; padding-right:10px; font-size:0.8em"></td>
-    <td><a>**Nov 11:** Playing poker with old Frenchmen in Nice</a></td>
+    <td style="width:40px; text-align:right; padding-right:10px"></td>
+    <td><b>Nov 11:</b> Playing poker with old Frenchmen in Nice</td>
   </tr>
   <tr>
-    <td style="width:40px; text-align:right; padding-right:10px; font-size:0.8em"></td>
-    <td><a>**Oct 6:** Getting drunk at Oktoberfest</a></td>
+    <td style="width:40px; text-align:right; padding-right:10px"></td>
+    <td><b>Oct 6:</b> Getting drunk at Oktoberfest</td>
   </tr>
   <tr>
-    <td style="width:40px; text-align:right; padding-right:10px; font-size:0.8em"></td>
-    <td><a>**Aug-Dec:** Studying abroad in Denmark</a></td>
+    <td style="width:40px; text-align:right; padding-right:10px"></td>
+    <td><b>Aug-Dec:</b> Studying abroad in Denmark</td>
   </tr>
   <tr>
-    <td style="width:40px; text-align:right; padding-right:10px; font-size:0.8em"></td>
-    <td><a>**Jun-Aug:** Learning to sail</a></td>
+    <td style="width:40px; text-align:right; padding-right:10px"></td>
+    <td><b>Jun-Aug:</b> Learning to sail</td>
   </tr>
   <tr>
-    <td style="width:40px; text-align:right; padding-right:10px; font-size:0.8em"></td>
-    <td><a>**Jul:** Joining a fraternity</a></td>
+    <td style="width:40px; text-align:right; padding-right:10px"></td>
+    <td><b>Jul:</b> Joining a fraternity</td>
   </tr>
   <tr>
-    <td style="width:40px; text-align:right; padding-right:10px; font-size:0.8em"></td>
-    <td><a>**Jun 15-16:** Jumping from the Sky Tower in Auckland, watching the sunset from Mount Victoria, bathing in the Polynesian Spa</a></td>
+    <td style="width:40px; text-align:right; padding-right:10px"></td>
+    <td><b>Jun 15-16:</b> Jumping from the Sky Tower in Auckland, watching the sunset from Mount Victoria, bathing in the Polynesian Spa</td>
   </tr>
   <tr>
-    <td style="width:40px; text-align:right; padding-right:10px; font-size:0.8em"></td>
-    <td><a>**Jun 11-14:** Visiting the Sydney Opera House, having a drink at Baxter's Inn, seeing the Great Ocean Road and 12 Apostles</a></td>
+    <td style="width:40px; text-align:right; padding-right:10px"></td>
+    <td><b>Jun 11-14:</b> Visiting the Sydney Opera House, having a drink at Baxter's Inn, seeing the Great Ocean Road and 12 Apostles</td>
   </tr>
   <tr>
-    <td style="width:40px; text-align:right; padding-right:10px; font-size:0.8em"></td>
-    <td><a>**Feb 2-4:** Dogsledding in Maine</a></td>
+    <td style="width:40px; text-align:right; padding-right:10px"></td>
+    <td><b>Feb 2-4:</b> Dogsledding in Maine</td>
   </tr>
   <tr>
-    <td style="width:40px; text-align:right; padding-right:10px; font-size:0.8em">2017</td>
-    <td><a>**Dec 5:** Being in a car accident in Iceland</a></td>
+    <td style="width:40px; text-align:right; padding-right:10px">2017</td>
+    <td><b>Dec 5:</b> Being in a car accident in Iceland</td>
   </tr>
   <tr>
-    <td style="width:40px; text-align:right; padding-right:10px; font-size:0.8em"></td>
-    <td><a>**Dec 4:** Seeing the Northern Lights while bathing in the Laugarvatn Fontana Geothermal Baths, Iceland</a></td>
+    <td style="width:40px; text-align:right; padding-right:10px"></td>
+    <td><b>Dec 4:</b> Seeing the Northern Lights while bathing in the Laugarvatn Fontana Geothermal Baths, Iceland</td>
   </tr>
   <tr>
-    <td style="width:40px; text-align:right; padding-right:10px; font-size:0.8em"></td>
-    <td><a>**Nov 2:** Driving a formula racing car</a></td>
+    <td style="width:40px; text-align:right; padding-right:10px"></td>
+    <td><b>Nov 2:</b> Driving a formula racing car</td>
   </tr>
   <tr>
-    <td style="width:40px; text-align:right; padding-right:10px; font-size:0.8em"></td>
-    <td><a>**Aug:** Getting into machine learning</a></td>
+    <td style="width:40px; text-align:right; padding-right:10px"></td>
+    <td><b>Aug:</b> Getting into machine learning</td>
   </tr>
   <tr>
-    <td style="width:40px; text-align:right; padding-right:10px; font-size:0.8em">2016</td>
-    <td><a>**Jun 26:** Watching an outdoor movie in Bryant Park, NYC</a></td>
+    <td style="width:40px; text-align:right; padding-right:10px">2016</td>
+    <td><b>Jun 26:</b> Watching an outdoor movie in Bryant Park, NYC</td>
   </tr>
   <tr>
-    <td style="width:40px; text-align:right; padding-right:10px; font-size:0.8em"></td>
-    <td><a>**Jun 15:** Auditioning for Shark Tank then going to Prom on a boat</a></td>
+    <td style="width:40px; text-align:right; padding-right:10px"></td>
+    <td><b>Jun 15:</b> Auditioning for Shark Tank then going to Prom on a boat</td>
   </tr>
   <tr>
-    <td style="width:40px; text-align:right; padding-right:10px; font-size:0.8em"></td>
-    <td><a>**May:** Winning $1500 at the Virginia Science Fair</a></td>
+    <td style="width:40px; text-align:right; padding-right:10px"></td>
+    <td><b>May:</b> Winning $1500 at the Virginia Science Fair</td>
   </tr>
   <tr>
-    <td style="width:40px; text-align:right; padding-right:10px; font-size:0.8em"></td>
-    <td><a>**Feb-Aug:** Playing a lot of tennis</a></td>
+    <td style="width:40px; text-align:right; padding-right:10px"></td>
+    <td><b>Feb-Aug:</b> Playing a lot of tennis</td>
   </tr>
   <tr>
-    <td style="width:40px; text-align:right; padding-right:10px; font-size:0.8em">2015</td>
-    <td><a>**Dec:** Cruising on the Oasis of the Seas</a></td>
+    <td style="width:40px; text-align:right; padding-right:10px">2015</td>
+    <td><b>Dec:</b> Cruising on the Oasis of the Seas</td>
   </tr>
   <tr>
-    <td style="width:40px; text-align:right; padding-right:10px; font-size:0.8em"></td>
-    <td><a>**Sep-Dec:** Working as a grocery store cashier</a></td>
+    <td style="width:40px; text-align:right; padding-right:10px"></td>
+    <td><b>Sep-Dec:</b> Working as a grocery store cashier</td>
   </tr>
   <tr>
-    <td style="width:40px; text-align:right; padding-right:10px; font-size:0.8em"></td>
-    <td><a>**Oct 25:** Fancy Homecoming at Meadowlark Botanical Gardens and a French restaurant in Georgetown</a></td>
+    <td style="width:40px; text-align:right; padding-right:10px"></td>
+    <td><b>Oct 25:</b> Fancy Homecoming at Meadowlark Botanical Gardens and a French restaurant in Georgetown</td>
   </tr>
   <tr>
-    <td style="width:40px; text-align:right; padding-right:10px; font-size:0.8em"></td>
-    <td><a>**Jun-Dec:** Working in a Chemistry Lab at the Naval Research Laboratory</a></td>
+    <td style="width:40px; text-align:right; padding-right:10px"></td>
+    <td><b>Jun-Dec:</b> Working in a Chemistry Lab at the Naval Research Laboratory</td>
   </tr>
   <tr>
-    <td style="width:40px; text-align:right; padding-right:10px; font-size:0.8em"></td>
-    <td><a>**Jun:** Spending 4 days at the US Naval Academy summer seminar</a></td>
+    <td style="width:40px; text-align:right; padding-right:10px"></td>
+    <td><b>Jun:</b> Spending 4 days at the US Naval Academy summer seminar</td>
   </tr>
   <tr>
-    <td style="width:40px; text-align:right; padding-right:10px; font-size:0.8em">2014</td>
-    <td><a>**Sep-Dec:** Studying really hard</a></td>
+    <td style="width:40px; text-align:right; padding-right:10px">2014</td>
+    <td><b>Sep-Dec:</b> Studying really hard</td>
   </tr>
   <tr>
-    <td style="width:40px; text-align:right; padding-right:10px; font-size:0.8em"></td>
-    <td><a>**May:** Having my first kiss</a></td>
+    <td style="width:40px; text-align:right; padding-right:10px"></td>
+    <td><b>May:</b> Having my first kiss</td>
   </tr>
   <tr>
-    <td style="width:40px; text-align:right; padding-right:10px; font-size:0.8em">2013</td>
-    <td><a>**May 17:** Rowing in the Stotesbury Cup Regatta</a></td>
+    <td style="width:40px; text-align:right; padding-right:10px">2013</td>
+    <td><b>May 17:</b> Rowing in the Stotesbury Cup Regatta</td>
   </tr>
   <tr>
-    <td style="width:40px; text-align:right; padding-right:10px; font-size:0.8em"></td>
-    <td><a>**Jan-Feb:** Crew conditioning</a></td>
+    <td style="width:40px; text-align:right; padding-right:10px"></td>
+    <td><b>Jan-Feb:</b> Crew conditioning</td>
   </tr>
   <tr>
-    <td style="width:40px; text-align:right; padding-right:10px; font-size:0.8em">2012</td>
-    <td><a>**Jun:** Touring China with a tour group</a></td>
-  </tr>
-  <tr>
-    <td style="width:40px; text-align:right; padding-right:10px; font-size:0.8em"></td>
-    <td><a></a></td>
+    <td style="width:40px; text-align:right; padding-right:10px">2012</td>
+    <td><b>Jun:</b> Touring China with a tour group</td>
   </tr>
 </table>
+
+</body>
+</html>
 
 Life bucket list:
 * Watch Federer and Thiem live
@@ -191,9 +190,6 @@ Goals:
 * Bench 2 plates
 * Have a wikipedia page
 * Be on the Lex Fridman podcast
-
-</body>
-</html>
 
 
 

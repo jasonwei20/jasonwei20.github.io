@@ -51,7 +51,7 @@ I am an <a href="https://research.google/careers/ai-residency/" style="color:#19
   </tr>
   <tr>
     <td></td>
-    <td style="padding-bottom:4px"><b>Jason Wei</b>, Dan Garrette, Tal Linzen, and Ellie Pavlick.</td>
+    <td style="padding-bottom:4px"><b>Jason Wei</b>, Dan Garrette, Tal Linzen, and Ellie Pavlick. <a href="https://docs.google.com/presentation/d/18__88K4Gzu15mMmr4GcDRCOnQaJbCW8RyeScLe2VbjM/edit?usp=sharing" style="color:#191970" target="_blank"><i>(slides)</i></a></td>
   </tr>
   <tr>
     <td style="width:80px; text-align:right; padding-right:10px; font-size:0.8em">EMNLP '21</td>

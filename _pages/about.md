@@ -47,7 +47,7 @@ I am an <a href="https://research.google/careers/ai-residency/" style="color:#19
   </tr>
   <tr>
     <td style="width:80px; text-align:right; padding-right:10px; font-size:0.8em">EMNLP '21</td>
-    <td><a href="https://aclanthology.org/2021.emnlp-main.479/" style="color:#191970" target="_blank"><i>Frequency effects on syntactic rule learning in transformers.</i></a></td>
+    <td><a href="https://aclanthology.org/2021.emnlp-main.72/" style="color:#191970" target="_blank"><i>Frequency effects on syntactic rule learning in transformers.</i></a></td>
   </tr>
   <tr>
     <td></td>

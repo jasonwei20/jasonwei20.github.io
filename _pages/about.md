@@ -31,7 +31,7 @@ I am an <a href="https://research.google/careers/ai-residency/" style="color:#19
 <table style="width:100%">
   <tr>
     <td style="width:80px; text-align:right; padding-right:10px; font-size:0.8em"> </td>
-    <td><a href="https://arxiv.org/pdf/2109.01652" style="color:#191970" target="_blank"><i>Finetuned language models are zero-shot learners.</i></a></td>
+    <td><a href="https://openreview.net/forum?id=gEZrGCozdqR" style="color:#191970" target="_blank"><i>Finetuned language models are zero-shot learners.</i></a></td>
   </tr>
   <tr>
     <td></td>
@@ -47,15 +47,15 @@ I am an <a href="https://research.google/careers/ai-residency/" style="color:#19
   </tr>
   <tr>
     <td style="width:80px; text-align:right; padding-right:10px; font-size:0.8em">EMNLP '21</td>
-    <td><a href="https://arxiv.org/pdf/2109.07020" style="color:#191970" target="_blank"><i>Frequency effects on syntactic rule learning in transformers.</i></a></td>
+    <td><a href="https://aclanthology.org/2021.emnlp-main.479/" style="color:#191970" target="_blank"><i>Frequency effects on syntactic rule learning in transformers.</i></a></td>
   </tr>
   <tr>
     <td></td>
-    <td style="padding-bottom:4px"><b>Jason Wei</b>, Dan Garrette, Tal Linzen, and Ellie Pavlick. <a href="https://docs.google.com/presentation/d/18__88K4Gzu15mMmr4GcDRCOnQaJbCW8RyeScLe2VbjM/edit?usp=sharing" style="color:#191970" target="_blank"><i>(slides)</i></a></td>
+    <td style="padding-bottom:4px"><b>Jason Wei</b>, Dan Garrette, Tal Linzen, and Ellie Pavlick. Oral.</td>
   </tr>
   <tr>
     <td style="width:80px; text-align:right; padding-right:10px; font-size:0.8em">EMNLP '21</td>
-    <td><a href="https://arxiv.org/pdf/2109.05602" style="color:#191970" target="_blank"><i>Good-enough example extrapolation.</i></a></td>
+    <td><a href="https://aclanthology.org/2021.emnlp-main.479/" style="color:#191970" target="_blank"><i>Good-enough example extrapolation.</i></a></td>
   </tr>
   <tr>
     <td></td>

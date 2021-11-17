@@ -22,7 +22,7 @@ table, th, td {
 <body>
   
 <p style="margin-bottom: 1.2em; line-height: 1.8">
-I am an <a href="https://research.google/careers/ai-residency/" style="color:#191970" target="_blank">AI Resident</a> at Google, working on natural language processing.<br>
+I am an <a href="https://research.google/careers/ai-residency/" style="color:#191970" target="_blank">AI Resident</a> at Google Brain, working on natural language processing.<br>
 <a href="https://jasonwei20.github.io/files/current-jason-wei-cv.pdf" style="color:#191970" target="_blank">Vitæ</a> 
 | <a href="https://scholar.google.com/citations?user=wA5TK_0AAAAJ&hl=en" style="color:#191970" target="_blank">Google Scholar</a> 
 </p>

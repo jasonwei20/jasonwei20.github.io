@@ -22,7 +22,7 @@ table, th, td {
 <body>
   
 <p style="margin-bottom: 1.2em; line-height: 1.8">
-I am an <a href="https://research.google/careers/ai-residency/" style="color:#191970" target="_blank">AI Resident</a> at Google, working on natural language processing.<br>
+I am an <a href="https://research.google/careers/ai-residency/" style="color:#191970" target="_blank">AI Resident</a> at Google Brain, working on natural language processing.<br>
 <a href="https://jasonwei20.github.io/files/current-jason-wei-cv.pdf" style="color:#191970" target="_blank">Vitæ</a> 
 | <a href="https://scholar.google.com/citations?user=wA5TK_0AAAAJ&hl=en" style="color:#191970" target="_blank">Google Scholar</a> 
 </p>
@@ -31,7 +31,7 @@ I am an <a href="https://research.google/careers/ai-residency/" style="color:#19
 <table style="width:100%">
   <tr>
     <td style="width:80px; text-align:right; padding-right:10px; font-size:0.8em"> </td>
-    <td><a href="https://arxiv.org/pdf/2109.01652" style="color:#191970" target="_blank"><i>Finetuned language models are zero-shot learners.</i></a></td>
+    <td><a href="https://openreview.net/forum?id=gEZrGCozdqR" style="color:#191970" target="_blank"><i>Finetuned language models are zero-shot learners.</i></a></td>
   </tr>
   <tr>
     <td></td>
@@ -47,15 +47,16 @@ I am an <a href="https://research.google/careers/ai-residency/" style="color:#19
   </tr>
   <tr>
     <td style="width:80px; text-align:right; padding-right:10px; font-size:0.8em">EMNLP '21</td>
-    <td><a href="https://arxiv.org/pdf/2109.07020" style="color:#191970" target="_blank"><i>Frequency effects on syntactic rule learning in transformers.</i></a></td>
+    <td><a href="https://aclanthology.org/2021.emnlp-main.72/" style="color:#191970" target="_blank"><i>Frequency effects on syntactic rule learning in transformers.</i></a></td>
   </tr>
   <tr>
     <td></td>
-    <td style="padding-bottom:4px"><b>Jason Wei</b>, Dan Garrette, Tal Linzen, and Ellie Pavlick.</td>
+    <td style="padding-bottom:4px"><b>Jason Wei</b>, Dan Garrette, Tal Linzen, and Ellie Pavlick. <a href="https://screencast-o-matic.com/watch/cr6QnuVXYT1" target="_blank">Oral.</a></td>
+    
   </tr>
   <tr>
     <td style="width:80px; text-align:right; padding-right:10px; font-size:0.8em">EMNLP '21</td>
-    <td><a href="https://arxiv.org/pdf/2109.05602" style="color:#191970" target="_blank"><i>Good-enough example extrapolation.</i></a></td>
+    <td><a href="https://aclanthology.org/2021.emnlp-main.479/" style="color:#191970" target="_blank"><i>Good-enough example extrapolation.</i></a></td>
   </tr>
   <tr>
     <td></td>

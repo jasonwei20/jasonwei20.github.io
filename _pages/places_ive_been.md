@@ -6,6 +6,10 @@ author_profile: true
 
 {% include base_path %}
 
+*   New York City (Nov 12-19, 2021)
+    *   Google NY Office
+*   Dominican Republic (Nov 7-12, 2021)
+    *   Barcelo Barvaro Resort for EMNLP
 *   Los Angeles (Mar 4-6, 2020)
     *   Venice Beach, Information Sciences Institute, Institute for Creative Technologies (March 6)
     *   University of Southern California, Santa Monica Pier (March 5)

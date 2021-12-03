@@ -31,7 +31,7 @@ I am an <a href="https://research.google/careers/ai-residency/" style="color:#19
 <table style="width:100%">
   <tr>
     <td style="width:80px; text-align:right; padding-right:10px; font-size:0.8em"> </td>
-    <td><a href="https://openreview.net/forum?id=gEZrGCozdqR" style="color:#191970" target="_blank"><i>Finetuned language models are zero-shot learners.</i></a></td>
+    <td><a href="https://openreview.net/forum?id=gEZrGCozdqR" style="color:#191970" target="_blank"><i>Finetuned language models are zero-shot learners.</i></a> <a href="https://ai.googleblog.com/2021/10/introducing-flan-more-generalizable.html" target="_blank">(Blog post.)</a></td>
   </tr>
   <tr>
     <td></td>
@@ -47,7 +47,7 @@ I am an <a href="https://research.google/careers/ai-residency/" style="color:#19
   </tr>
   <tr>
     <td style="width:80px; text-align:right; padding-right:10px; font-size:0.8em">EMNLP '21</td>
-    <td><a href="https://aclanthology.org/2021.emnlp-main.72/" style="color:#191970" target="_blank"><i>Frequency effects on syntactic rule learning in transformers.</i></a></td>
+    <td><a href="https://aclanthology.org/2021.emnlp-main.72/" style="color:#191970" target="_blank"><i>Frequency effects on syntactic rule learning in transformers.</i></a> <a href="https://ai.googleblog.com/2021/12/evaluating-syntactic-abilities-of.html" target="_blank">(Blog post.)</a></td>
   </tr>
   <tr>
     <td></td>

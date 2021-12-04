@@ -31,7 +31,7 @@ I am an <a href="https://research.google/careers/ai-residency/" style="color:#19
 <table style="width:100%">
   <tr>
     <td style="width:80px; text-align:right; padding-right:10px; font-size:0.8em"> </td>
-    <td><a href="https://openreview.net/forum?id=gEZrGCozdqR" style="color:#191970" target="_blank"><i>Finetuned language models are zero-shot learners.</i></a> <a href="https://ai.googleblog.com/2021/10/introducing-flan-more-generalizable.html" target="_blank">(Blog post.)</a></td>
+    <td><a href="https://openreview.net/forum?id=gEZrGCozdqR" style="color:#191970" target="_blank">Finetuned language models are zero-shot learners</a> (<a href="https://ai.googleblog.com/2021/10/introducing-flan-more-generalizable.html" target="_blank">blog</a>).</td>
   </tr>
   <tr>
     <td></td>
@@ -39,7 +39,7 @@ I am an <a href="https://research.google/careers/ai-residency/" style="color:#19
   </tr>
   <tr>
     <td style="width:80px; text-align:right; padding-right:10px; font-size:0.8em"> </td>
-    <td><a href="https://arxiv.org/pdf/2109.03910" style="color:#191970" target="_blank"><i>A recipe for arbitrary text style transfer with large language models.</i></a></td>
+    <td><a href="https://arxiv.org/pdf/2109.03910" style="color:#191970" target="_blank">A recipe for arbitrary text style transfer with large language models.</a></td>
   </tr>
   <tr>
     <td></td>
@@ -47,16 +47,16 @@ I am an <a href="https://research.google/careers/ai-residency/" style="color:#19
   </tr>
   <tr>
     <td style="width:80px; text-align:right; padding-right:10px; font-size:0.8em">EMNLP '21</td>
-    <td><a href="https://aclanthology.org/2021.emnlp-main.72/" style="color:#191970" target="_blank"><i>Frequency effects on syntactic rule learning in transformers.</i></a> <a href="https://ai.googleblog.com/2021/12/evaluating-syntactic-abilities-of.html" target="_blank">(Blog post.)</a></td>
+    <td><a href="https://aclanthology.org/2021.emnlp-main.72/" style="color:#191970" target="_blank">Frequency effects on syntactic rule learning in transformers</a> (<a href="https://ai.googleblog.com/2021/12/evaluating-syntactic-abilities-of.html" target="_blank">blog</a>, <a href="https://screencast-o-matic.com/watch/cr6QnuVXYT1" target="_blank">oral</a>).</td>
   </tr>
   <tr>
     <td></td>
-    <td style="padding-bottom:4px"><b>Jason Wei</b>, Dan Garrette, Tal Linzen, and Ellie Pavlick. <a href="https://screencast-o-matic.com/watch/cr6QnuVXYT1" target="_blank">Oral.</a></td>
+    <td style="padding-bottom:4px"><b>Jason Wei</b>, Dan Garrette, Tal Linzen, and Ellie Pavlick. </td>
     
   </tr>
   <tr>
     <td style="width:80px; text-align:right; padding-right:10px; font-size:0.8em">EMNLP '21</td>
-    <td><a href="https://aclanthology.org/2021.emnlp-main.479/" style="color:#191970" target="_blank"><i>Good-enough example extrapolation.</i></a></td>
+    <td><a href="https://aclanthology.org/2021.emnlp-main.479/" style="color:#191970" target="_blank">Good-enough example extrapolation.</a></td>
   </tr>
   <tr>
     <td></td>
@@ -64,7 +64,7 @@ I am an <a href="https://research.google/careers/ai-residency/" style="color:#19
   </tr>
   <tr>
     <td style="width:80px; text-align:right; padding-right:10px; font-size:0.8em">ACL '21</td>
-    <td><a href="https://aclanthology.org/2021.acl-long.404/" style="color:#191970" target="_blank"><i>A cognitive regularizer for language modeling.</i></a></td>
+    <td><a href="https://aclanthology.org/2021.acl-long.404/" style="color:#191970" target="_blank">A cognitive regularizer for language modeling.</a></td>
   </tr>
   <tr>
     <td></td>
@@ -72,7 +72,7 @@ I am an <a href="https://research.google/careers/ai-residency/" style="color:#19
   </tr>
   <tr>
     <td style="width:80px; text-align:right; padding-right:10px; font-size:0.8em">ACL '21</td>
-    <td><a href="https://aclanthology.org/2021.acl-long.521/" style="color:#191970" target="_blank"><i>Language model augmented relevance score.</i></a></td>
+    <td><a href="https://aclanthology.org/2021.acl-long.521/" style="color:#191970" target="_blank">Language model augmented relevance score.</a></td>
   </tr>
   <tr>
     <td></td>
@@ -80,7 +80,7 @@ I am an <a href="https://research.google/careers/ai-residency/" style="color:#19
   </tr>
   <tr>
     <td style="width:80px; text-align:right; padding-right:10px; font-size:0.8em">ACL '21</td>
-    <td><a href="https://aclanthology.org/2021.findings-acl.84/" style="color:#191970" target="_blank"><i>A survey of data augmentation approaches for NLP.</i></a></td>
+    <td><a href="https://aclanthology.org/2021.findings-acl.84/" style="color:#191970" target="_blank">A survey of data augmentation approaches for NLP.</a></td>
   </tr>
   <tr>
     <td style="width:80px; text-align:right; padding-right:8px; font-size:0.7em; vertical-align:top">(Findings)</td>
@@ -88,7 +88,7 @@ I am an <a href="https://research.google/careers/ai-residency/" style="color:#19
   </tr>
   <tr>
     <td style="width:80px; text-align:right; padding-right:10px; font-size:0.8em">NAACL '21</td>
-    <td><a href="http://dx.doi.org/10.18653/v1/2021.naacl-main.352" style="color:#191970" target="_blank"><i>Linguistic complexity loss in text-based therapy.</i></a></td>
+    <td><a href="http://dx.doi.org/10.18653/v1/2021.naacl-main.352" style="color:#191970" target="_blank">Linguistic complexity loss in text-based therapy.</a></td>
   </tr>
   <tr>
     <td></td>
@@ -96,7 +96,7 @@ I am an <a href="https://research.google/careers/ai-residency/" style="color:#19
   </tr>
   <tr>
     <td style="width:80px; text-align:right; padding-right:10px; font-size:0.8em">NAACL '21</td>
-    <td><a href="http://dx.doi.org/10.18653/v1/2021.naacl-main.434" style="color:#191970" target="_blank"><i>Few-shot text classification with triplet networks, data augmentation, and curriculum learning.</i></a></td>
+    <td><a href="http://dx.doi.org/10.18653/v1/2021.naacl-main.434" style="color:#191970" target="_blank">Few-shot text classification with triplet networks, data augmentation, and curriculum learning.</a></td>
   </tr>
   <tr>
     <td></td>
@@ -104,7 +104,7 @@ I am an <a href="https://research.google/careers/ai-residency/" style="color:#19
   </tr>
   <tr>
     <td style="width:80px; text-align:right; padding-right:10px; font-size:0.8em">EACL '21</td>
-    <td><a href="https://www.aclweb.org/anthology/2021.eacl-main.252/" style="color:#191970" target="_blank"><i>Text augmentation in a multi-task view.</i></a></td>
+    <td><a href="https://www.aclweb.org/anthology/2021.eacl-main.252/" style="color:#191970" target="_blank">Text augmentation in a multi-task view.</a></td>
   </tr>
   <tr>
     <td></td>
@@ -112,15 +112,15 @@ I am an <a href="https://research.google/careers/ai-residency/" style="color:#19
   </tr>
   <tr>
     <td style="width:80px; text-align:right; padding-right:10px; font-size:0.8em">AAAI '21</td>
-    <td><a href="https://arxiv.org/pdf/2104.14795.pdf" style="color:#191970" target="_blank"><i>Mitigating political bias in language models through reinforced calibration.</i></a></td>
+    <td><a href="https://arxiv.org/pdf/2104.14795.pdf" style="color:#191970" target="_blank">Mitigating political bias in language models through reinforced calibration</a> (<a href="https://aaai.org/Awards/paper.php" target="_blank">outstanding paper</a>).</td>
   </tr>
   <tr>
     <td></td>
-    <td style="padding-bottom:4px">R. Liu, C. Jia, <b>J. Wei</b>, G. Xu, L. Wang, and S. Vosoughi. <a href="https://aaai.org/Awards/paper.php" target="_blank">Outstanding paper!</a></td>
+    <td style="padding-bottom:4px">Ruibo Liu, Chenyan Jia, <b>Jason Wei</b>, Guangxuan Xu, Lili Wang, and Soroush Vosoughi.</td>
   </tr>
   <tr>
     <td style="width:80px; text-align:right; padding-right:10px; font-size:0.8em">EMNLP '19</td>
-    <td><a href="http://dx.doi.org/10.18653/v1/D19-1670" style="color:#191970" target="_blank"><i>Easy data augmentation techniques for boosting performance on text classification tasks.</i></a></td>
+    <td><a href="http://dx.doi.org/10.18653/v1/D19-1670" style="color:#191970" target="_blank">Easy data augmentation techniques for boosting performance on text classification tasks.</a></td>
   </tr>
   <tr>
     <td></td>

@@ -35,11 +35,7 @@ I am an <a href="https://research.google/careers/ai-residency/" style="color:#19
   </tr>
   <tr>
     <td></td>
-    <td>{<b>Jason Wei</b>, Maarten Bosma, Vincent Zhao, Kelvin Guu}, Adams Wei Yu, Brian Lester, Nan Du,</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td style="padding-bottom:4px">Andrew Dai, and Quoc V. Le.</td>
+    <td style="padding-bottom:4px">{<b>Jason Wei</b>, Maarten Bosma, Vincent Zhao, Kelvin Guu}, Adams Wei Yu, Brian Lester, Nan Du,<br>Andrew Dai, and Quoc V. Le.</td>
   </tr>
   <tr>
     <td style="width:80px; text-align:right; padding-right:10px; font-size:0.8em"> </td>

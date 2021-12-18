@@ -14,7 +14,7 @@ description              : &description "Student at Dartmouth College"
 url                      : https://jasonwei20.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jasonwei20.github.io"
-teaser                   : "horseshoe_bend.jpg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : "my_world.jpg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
@@ -79,7 +79,7 @@ analytics:
 # Site Author
 author:
   name             : #"Jason Wei"
-  avatar           : "horseshoe_bend.jpg"
+  avatar           : "my_world.jpg"
   bio              : 
   textemail        : #"jason.weng.wei@gmail.com"
   location         : 

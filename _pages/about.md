@@ -22,7 +22,7 @@ table, th, td {
 <body>
   
 <p style="margin-bottom: 1.2em; line-height: 1.8">
-I am an <a href="https://research.google/careers/ai-residency/" style="color:#191970" target="_blank">AI Resident</a> at Google Brain, working on natural language processing.<br>
+I work on natural language processing at <a href="https://research.google/teams/brain/" style="color:#191970" target="_blank">Google Brain</a>.<br>
 <a href="https://jasonwei20.github.io/files/current-jason-wei-cv.pdf" style="color:#191970" target="_blank">Vitæ</a> 
 | <a href="https://scholar.google.com/citations?user=wA5TK_0AAAAJ&hl=en" style="color:#191970" target="_blank">Google Scholar</a> 
 </p>
@@ -35,7 +35,7 @@ I am an <a href="https://research.google/careers/ai-residency/" style="color:#19
   </tr>
   <tr>
     <td></td>
-    <td style="padding-bottom:4px">{<b>Jason Wei</b>, Maarten Bosma, Vincent Zhao, Kelvin Guu}, Adams Wei Yu, Brian Lester, Nan Du,<br>Andrew Dai, and Quoc V. Le.</td>
+    <td style="padding-bottom:4px">{<b>Jason Wei</b>, Maarten Bosma, Vincent Zhao, Kelvin Guu}, Adams Wei Yu, Brian Lester, Nan Du,<br>Andrew Dai, and Quoc Le.</td>
   </tr>
   <tr>
     <td style="width:80px; text-align:right; padding-right:10px; font-size:0.8em"> </td>

@@ -23,109 +23,104 @@ table, th, td {
     <td style="padding-top:10px">Sam Harris: consciousness, death, honesty</td>
   </tr>
   <tr>
-    <td style="width:100px; text-align:right; padding-right:10px; padding-top:10px"></td>
-    <td style="padding-top:10px">Elon Musk: first-principles thinking, long-term thinking, dreaming big</td>
+    <td style="width:100px; text-align:right; padding-right:10px"></td>
+    <td>Elon Musk: first-principles thinking, long-term thinking, dreaming big</td>
   </tr>
   <tr>
-    <td style="width:100px; text-align:right; padding-right:10px; padding-top:10px"></td>
-    <td style="padding-top:10px">Conan: humor, high-energy, wit, intelligence, sociability, quick-thinking</td>
+    <td style="width:100px; text-align:right; padding-right:10px"></td>
+    <td>Conan: humor, high-energy, wit, intelligence, sociability, quick-thinking</td>
   </tr>
   <tr>
-    <td style="width:100px; text-align:right; padding-right:10px; padding-top:10px"></td>
-    <td style="padding-top:10px">Lady Gaga: creativity, love</td>
-  </tr>
-  <tr>
-    <td style="width:100px; text-align:right; padding-right:10px; padding-top:10px"></td>
-    <td style="padding-top:10px">David Goggins: motivation, hard work, taking things to the extreme</td>
+    <td style="width:100px; text-align:right; padding-right:10px"></td>
+    <td>David Goggins: motivation, hard work, taking things to the extreme</td>
   </tr>
   <tr>
     <td style="width:100px; text-align:right; padding-right:10px; padding-top:10px">TV/Film</td>
     <td style="padding-top:10px">Sherlock/The Imitation Game: logic, critical thinking, intelligence, nuance</td>
   </tr>
   <tr>
-    <td style="width:100px; text-align:right; padding-right:10px; padding-top:10px"></td>
-    <td style="padding-top:10px">Killing Eve: humor, smoothness, European culture</td>
+    <td style="width:100px; text-align:right; padding-right:10px"></td>
+    <td>Killing Eve: humor, smoothness, European culture</td>
   </tr>
   <tr>
-    <td style="width:100px; text-align:right; padding-right:10px; padding-top:10px"></td>
-    <td style="padding-top:10px">The Great Gatsby Movies: live an exciting life, old school America</td>
+    <td style="width:100px; text-align:right; padding-right:10px"></td>
+    <td>The Great Gatsby Movies: live an exciting life, old school America</td>
   </tr>
   <tr>
-    <td style="width:100px; text-align:right; padding-right:10px; padding-top:10px"></td>
-    <td style="padding-top:10px">Counterpart: thinking big, being on the world stage</td>
+    <td style="width:100px; text-align:right; padding-right:10px"></td>
+    <td>Counterpart: thinking big, being on the world stage</td>
   </tr>
   <tr>
     <td style="width:100px; text-align:right; padding-right:10px; padding-top:10px">Youtube</td>
     <td style="padding-top:10px">Bald and Bankrupt: open-mindedness, worldliness</td>
   </tr>
   <tr>
-    <td style="width:100px; text-align:right; padding-right:10px; padding-top:10px"></td>
-    <td style="padding-top:10px">Andrew Kirby: productivity, thinking in terms of time</td>
+    <td style="width:100px; text-align:right; padding-right:10px"></td>
+    <td>Andrew Kirby: productivity, thinking in terms of time</td>
   </tr>
   <tr>
     <td style="width:100px; text-align:right; padding-right:10px; padding-top:10px">Books</td>
     <td style="padding-top:10px">Steven King: beautiful writing, high standard of prose, dedication to one's craft</td>
   </tr>
   <tr>
-    <td style="width:100px; text-align:right; padding-right:10px; padding-top:10px"></td>
-    <td style="padding-top:10px">Cal Newport: productivity, meta-career skills</td>
+    <td style="width:100px; text-align:right; padding-right:10px"></td>
+    <td>Cal Newport: productivity, meta-career skills</td>
   </tr>
   <tr>
-    <td style="width:100px; text-align:right; padding-right:10px; padding-top:10px"></td>
-    <td style="padding-top:10px">Mark Manson: being a desirable person</td>
+    <td style="width:100px; text-align:right; padding-right:10px"></td>
+    <td>Mark Manson: being a desirable person</td>
   </tr>
   <tr>
-    <td style="width:100px; text-align:right; padding-right:10px; padding-top:10px"></td>
-    <td style="padding-top:10px">Anchee Min: vulnerability, honesty</td>
+    <td style="width:100px; text-align:right; padding-right:10px"></td>
+    <td>Anchee Min: vulnerability, honesty</td>
   </tr>
   <tr>
-    <td style="width:100px; text-align:right; padding-right:10px; padding-top:10px"></td>
-    <td style="padding-top:10px">Brendan Burchard: the lifestyle described in <i>High Performance Habits</i></td>
+    <td style="width:100px; text-align:right; padding-right:10px"></td>
+    <td>Brendan Burchard: the lifestyle described in <i>High Performance Habits</i></td>
   </tr>
   <tr>
     <td style="width:100px; text-align:right; padding-right:10px; padding-top:10px">Academia</td>
     <td style="padding-top:10px">Randy Pausch: time, meta-habits</td>
   </tr>
   <tr>
-    <td style="width:100px; text-align:right; padding-right:10px; padding-top:10px"></td>
-    <td style="padding-top:10px">Henry Lee Smith: old-school thinking, genuine passion for linguistics</td>
+    <td style="width:100px; text-align:right; padding-right:10px"></td>
+    <td>Henry Lee Smith: old-school thinking, genuine passion for linguistics</td>
   </tr>
   <tr>
-    <td style="width:100px; text-align:right; padding-right:10px; padding-top:10px"></td>
-    <td style="padding-top:10px">Ryan Cotterell: linguistics, creativity, "thinking like a scientist", love of learning</td>
+    <td style="width:100px; text-align:right; padding-right:10px"></td>
+    <td>Ryan Cotterell: linguistics, creativity, "thinking like a scientist", love of learning</td>
   </tr>
   <tr>
     <td style="width:100px; text-align:right; padding-right:10px; padding-top:10px">Tennis</td>
     <td style="padding-top:10px">Novak Djokovic: hard work, mastery of craft</td>
   </tr>
   <tr>
-    <td style="width:100px; text-align:right; padding-right:10px; padding-top:10px"></td>
-    <td style="padding-top:10px">Dominic Thiem: courage</td>
+    <td style="width:100px; text-align:right; padding-right:10px"></td>
+    <td>Dominic Thiem: courage</td>
   </tr>
   <tr>
-    <td style="width:100px; text-align:right; padding-right:10px; padding-top:10px"></td>
-    <td style="padding-top:10px">Nick Kyrgios: creativity</td>
+    <td style="width:100px; text-align:right; padding-right:10px"></td>
+    <td>Nick Kyrgios: creativity</td>
   </tr>
   <tr>
     <td style="width:100px; text-align:right; padding-right:10px; padding-top:10px">Music</td>
-    <td style="padding-top:10px"></html>
-<a href="https://www.youtube.com/watch?v=etjiqgU0_lI">Lady Gaga</a></td>
+    <td style="padding-top:10px"><a href="https://www.youtube.com/watch?v=etjiqgU0_lI">Lady Gaga</a>: love, creativity</td>
   </tr>
   <tr>
-    <td style="width:100px; text-align:right; padding-right:10px; padding-top:10px"></td>
-    <td style="padding-top:10px"><a href="https://www.youtube.com/watch?v=DL5hTUNoljQ">The Killers</a></td>
+    <td style="width:100px; text-align:right; padding-right:10px"></td>
+    <td><a href="https://www.youtube.com/watch?v=DL5hTUNoljQ">The Killers</a></td>
   </tr>
   <tr>
-    <td style="width:100px; text-align:right; padding-right:10px; padding-top:10px"></td>
-    <td style="padding-top:10px"><a href="https://www.youtube.com/user/EdenProjectOfficial">Eden</a></td>
+    <td style="width:100px; text-align:right; padding-right:10px"></td>
+    <td><a href="https://www.youtube.com/user/EdenProjectOfficial">Eden</a></td>
   </tr>
   <tr>
-    <td style="width:100px; text-align:right; padding-right:10px; padding-top:10px"></td>
-    <td style="padding-top:10px"><a href="https://www.youtube.com/watch?v=FwkrrU2WYKg">Vampire Weekend</a></td>
+    <td style="width:100px; text-align:right; padding-right:10px"></td>
+    <td><a href="https://www.youtube.com/watch?v=FwkrrU2WYKg">Vampire Weekend</a></td>
   </tr>
   <tr>
-    <td style="width:100px; text-align:right; padding-right:10px; padding-top:10px"></td>
-    <td style="padding-top:10px"><a href="https://www.youtube.com/watch?v=aA2IRoPFIn0">Queen</a></td>
+    <td style="width:100px; text-align:right; padding-right:10px"></td>
+    <td><a href="https://www.youtube.com/watch?v=aA2IRoPFIn0">Queen</a></td>
   </tr>
 </table>
 

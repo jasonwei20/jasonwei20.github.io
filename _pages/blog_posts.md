@@ -97,8 +97,6 @@ Blog posts about my life, partially inspired by John Watson's blog from the Sher
 </body>
 </html>
 
-------
-
 <img src="/images/grand_canyon.jpg" width="29%">
 <img src="/images/antelope_canyon.jpg" width="29%">
 <img src="/images/horseshoe_bend.jpg" width="29%">

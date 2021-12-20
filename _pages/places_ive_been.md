@@ -65,4 +65,4 @@ author_profile: true
 
 *   Places I've Called Home
     * Hanover, New Hampshire, 1 Webster Avenue (Sep 2016 - Jun 2020)
-    * Herndon, Virginia (? - Sep 2016)
+    * Herndon, Virginia (Apr 2006 - Sep 2016)

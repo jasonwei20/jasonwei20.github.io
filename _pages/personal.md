@@ -12,7 +12,11 @@ I grew up in Fairfax County, Virginia. When visiting home, I enjoy playing <a hr
 
 In Fall 2018, I studied abroad in <a href="https://jasonwei20.github.io/posts/2018/12/blog-post-7/" style="color:navy" target="_blank">Denmark</a>.
 
-------
+<img src="/images/personal_1.jpg" width="22%">
+<img src="/images/personal_2.jpg" width="22%">
+<img src="/images/personal_3.jpg" width="22%">
+<img src="/images/personal_4.jpg" width="22%">
+
 
 Like all humans, I will one day die. These pages will give an idea of who I am and what I lived for:
 
@@ -23,11 +27,5 @@ The most significant <a href="https://jasonwei20.github.io/stuff_i_like/" style=
 I have written <a href="https://jasonwei20.github.io/blog_posts/" style="color:navy">quarterly blog posts</a> about my personal life since 2017. <br>
 My research career is a function of these <a href="https://jasonwei20.github.io/thanks/" style="color:navy">people</a> (among others). <br>
 </font>
-
-<img src="/images/personal_1.jpg" width="22%">
-<img src="/images/personal_2.jpg" width="22%">
-<img src="/images/personal_3.jpg" width="22%">
-<img src="/images/personal_4.jpg" width="22%">
-
 
 <!-- I was also on the club fencing team—we won <a href="http://www.thedartmouth.com/article/2018/04/dartmouth-fencing-club" style="color:navy" target="_blank">first</a> at club nationals in Knoxville, TN in 2018 and second at club nationals in Lansing, MI in 2017. -->

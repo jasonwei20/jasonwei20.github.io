@@ -169,7 +169,7 @@ table, th, td {
 </body>
 </html>
 
-Life bucket list:
+<!-- Life bucket list:
 * Watch Federer and Thiem live
 * See Conan in person
 * See Lady Gaga perform
@@ -189,7 +189,7 @@ Goals:
 * Become internet famous
 * Bench 2 plates
 * Have a wikipedia page
-* Be on the Lex Fridman podcast
+* Be on the Lex Fridman podcast -->
 
 
 

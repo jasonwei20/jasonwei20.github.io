@@ -20,87 +20,87 @@ table, th, td {
 <table style="width:100%">
   <tr>
     <td style="width:100px; text-align:right; padding-right:10px; padding-top:10px">People</td>
-    <td style="padding-top:10px">Sam Harris: consciousness, death, honesty</td>
+    <td style="padding-top:10px"><b>Sam Harris:</b> consciousness, death, honesty</td>
   </tr>
   <tr>
     <td style="width:100px; text-align:right; padding-right:10px"></td>
-    <td>Elon Musk: first-principles thinking, long-term thinking, dreaming big</td>
+    <td><b>Elon Musk:</b> first-principles thinking, long-term thinking, dreaming big</td>
   </tr>
   <tr>
     <td style="width:100px; text-align:right; padding-right:10px"></td>
-    <td>Conan: humor, high-energy, wit, intelligence, sociability, quick-thinking</td>
+    <td><b>Conan:</b> humor, high-energy, wit, intelligence, sociability, quick-thinking</td>
   </tr>
   <tr>
     <td style="width:100px; text-align:right; padding-right:10px"></td>
-    <td>David Goggins: motivation, hard work, taking things to the extreme</td>
+    <td><b>David Goggins:</b> motivation, hard work, taking things to the extreme</td>
   </tr>
   <tr>
     <td style="width:100px; text-align:right; padding-right:10px; padding-top:10px">TV/Film</td>
-    <td style="padding-top:10px">Sherlock/The Imitation Game: logic, critical thinking, intelligence, nuance</td>
+    <td style="padding-top:10px"><b>Sherlock/The Imitation Game:</b> logic, critical thinking, intelligence, nuance</td>
   </tr>
   <tr>
     <td style="width:100px; text-align:right; padding-right:10px"></td>
-    <td>Killing Eve: humor, smoothness, European culture</td>
+    <td><b>Killing Eve:</b> humor, smoothness, European culture</td>
   </tr>
   <tr>
     <td style="width:100px; text-align:right; padding-right:10px"></td>
-    <td>The Great Gatsby Movies: live an exciting life, old school America</td>
+    <td><b>The Great Gatsby Movies:</b> live an exciting life, old school America</td>
   </tr>
   <tr>
     <td style="width:100px; text-align:right; padding-right:10px"></td>
-    <td>Counterpart: thinking big, being on the world stage</td>
+    <td><b>Counterpart:</b> thinking big, being on the world stage</td>
   </tr>
   <tr>
     <td style="width:100px; text-align:right; padding-right:10px; padding-top:10px">Youtube</td>
-    <td style="padding-top:10px">Bald and Bankrupt: open-mindedness, worldliness</td>
+    <td style="padding-top:10px"><b>Bald and Bankrupt:</b> open-mindedness, worldliness</td>
   </tr>
   <tr>
     <td style="width:100px; text-align:right; padding-right:10px"></td>
-    <td>Andrew Kirby: productivity, thinking in terms of time</td>
+    <td><b>Andrew Kirby:</b> productivity, thinking in terms of time</td>
   </tr>
   <tr>
     <td style="width:100px; text-align:right; padding-right:10px; padding-top:10px">Books</td>
-    <td style="padding-top:10px">Steven King: beautiful writing, high standard of prose, dedication to one's craft</td>
+    <td style="padding-top:10px"><b>Steven King:</b> beautiful writing, high standard of prose, dedication to one's craft</td>
   </tr>
   <tr>
     <td style="width:100px; text-align:right; padding-right:10px"></td>
-    <td>Cal Newport: productivity, meta-career skills</td>
+    <td><b>Cal Newport:</b> productivity, meta-career skills</td>
   </tr>
   <tr>
     <td style="width:100px; text-align:right; padding-right:10px"></td>
-    <td>Mark Manson: being a desirable person</td>
+    <td><b>Mark Manson:</b> being a desirable person</td>
   </tr>
   <tr>
     <td style="width:100px; text-align:right; padding-right:10px"></td>
-    <td>Anchee Min: vulnerability, honesty</td>
+    <td><b>Anchee Min:</b> vulnerability, honesty</td>
   </tr>
   <tr>
     <td style="width:100px; text-align:right; padding-right:10px"></td>
-    <td>Brendan Burchard: the lifestyle described in <i>High Performance Habits</i></td>
+    <td><b>Brendan Burchard:</b> the lifestyle described in <i>High Performance Habits</i></td>
   </tr>
   <tr>
     <td style="width:100px; text-align:right; padding-right:10px; padding-top:10px">Academia</td>
-    <td style="padding-top:10px">Randy Pausch: time, meta-habits</td>
+    <td style="padding-top:10px"><b>Randy Pausch:</b> time, meta-habits</td>
   </tr>
   <tr>
     <td style="width:100px; text-align:right; padding-right:10px"></td>
-    <td>Henry Lee Smith: old-school thinking, genuine passion for linguistics</td>
+    <td><b>Henry Lee Smith:</b> old-school thinking, genuine passion for linguistics</td>
   </tr>
   <tr>
     <td style="width:100px; text-align:right; padding-right:10px"></td>
-    <td>Ryan Cotterell: linguistics, creativity, "thinking like a scientist", love of learning</td>
+    <td><b>Ryan Cotterell:</b> linguistics, creativity, "thinking like a scientist", love of learning</td>
   </tr>
   <tr>
     <td style="width:100px; text-align:right; padding-right:10px; padding-top:10px">Tennis</td>
-    <td style="padding-top:10px">Novak Djokovic: hard work, mastery of craft</td>
+    <td style="padding-top:10px"><b>Novak Djokovic:</b> hard work, mastery of craft</td>
   </tr>
   <tr>
     <td style="width:100px; text-align:right; padding-right:10px"></td>
-    <td>Dominic Thiem: courage</td>
+    <td><b>Dominic Thiem:</b> courage</td>
   </tr>
   <tr>
     <td style="width:100px; text-align:right; padding-right:10px"></td>
-    <td>Nick Kyrgios: creativity</td>
+    <td><b>Nick Kyrgios:</b> creativity</td>
   </tr>
   <tr>
     <td style="width:100px; text-align:right; padding-right:10px; padding-top:10px">Music</td>

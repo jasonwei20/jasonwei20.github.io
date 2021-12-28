@@ -26,7 +26,7 @@ Blog posts about my life, partially inspired by John Watson's blog from the Sher
   </tr>
   <tr>
     <td style="width:40px; text-align:right; padding-right:10px; font-size:0.8em"> </td>
-    <td style="padding-top:5px"><a href="https://jasonwei20.github.io/posts/2021/10/blog-post-18/" style="color:#191970" target="_blank">Summer</a></td>
+    <td><a href="https://jasonwei20.github.io/posts/2021/10/blog-post-18/" style="color:#191970" target="_blank">Summer</a></td>
   </tr>
   <tr>
     <td style="width:40px; text-align:right; padding-right:10px; font-size:0.8em"> </td>

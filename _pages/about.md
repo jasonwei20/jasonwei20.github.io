@@ -32,19 +32,27 @@ I work on natural language processing at <a href="https://research.google/teams/
 <table style="width:100%">
   <tr>
     <td style="width:80px; text-align:right; padding-right:10px; font-size:0.8em"> </td>
-    <td><a href="https://openreview.net/forum?id=gEZrGCozdqR" style="color:#191970" target="_blank">Finetuned language models are zero-shot learners</a> (<a href="https://ai.googleblog.com/2021/10/introducing-flan-more-generalizable.html" target="_blank">blog</a>).</td>
+    <td><a href="https://arxiv.org/pdf/2109.03910" style="color:#191970" target="_blank">A recipe for arbitrary text style transfer with large language models.</a></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td style="padding-bottom:4px">{Emily Reif, Daphne Ippolito}, Ann Yuan, Andy Coenen, Chris Callison-Burch, and <b>Jason Wei</b>.</td>
+  </tr>
+  <tr>
+    <td style="width:80px; text-align:right; padding-right:10px; font-size:0.8em"> ICLR '22</td>
+    <td><a href="https://openreview.net/forum?id=gEZrGCozdqR" style="color:#191970" target="_blank">Finetuned language models are zero-shot learners</a> (<a href="https://ai.googleblog.com/2021/10/introducing-flan-more-generalizable.html" target="_blank">blog</a>, oral).</td>
   </tr>
   <tr>
     <td></td>
     <td style="padding-bottom:4px">{<b>Jason Wei</b>, Maarten Bosma, Vincent Zhao, Kelvin Guu}, Adams Wei Yu, Brian Lester, Nan Du,<br>Andrew Dai, and Quoc Le.</td>
   </tr>
   <tr>
-    <td style="width:80px; text-align:right; padding-right:10px; font-size:0.8em"> </td>
-    <td><a href="https://arxiv.org/pdf/2109.03910" style="color:#191970" target="_blank">A recipe for arbitrary text style transfer with large language models.</a></td>
+    <td style="width:80px; text-align:right; padding-right:10px; font-size:0.8em"> ICLR '22</td>
+    <td><a href="https://openreview.net/forum?id=gEZrGCozdqR" style="color:#191970" target="_blank">The MultiBERTs: BERT reproductions for robustness analysis</a>.</td>
   </tr>
   <tr>
     <td></td>
-    <td style="padding-bottom:4px">{Emily Reif, Daphne Ippolito}, Ann Yuan, Andy Coenen, Chris Callison-Burch, and <b>Jason Wei</b>.</td>
+    <td style="padding-bottom:4px">{Thibault Sellam, Steve Yadlowsky}, <b>Jason Wei</b>, Naomi Saphra, Alexander D'Amour, Tal Linzen, <br>Jasmijn Bastings, Iulia Turc, Jacob Eisenstein, Dipanjan Das, Ian Tenney, and Ellie Pavlick.</td>
   </tr>
   <tr>
     <td style="width:80px; text-align:right; padding-right:10px; font-size:0.8em">EMNLP '21</td>

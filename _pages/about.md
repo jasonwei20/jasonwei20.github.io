@@ -55,8 +55,8 @@ I work on natural language processing at <a href="https://research.google/teams/
     <td style="padding-bottom:16px">{Thibault Sellam, Steve Yadlowsky}, <b>Jason Wei</b>, Naomi Saphra, Alexander D'Amour, Tal Linzen, <br>Jasmijn Bastings, Iulia Turc, Jacob Eisenstein, Dipanjan Das, Ian Tenney, and Ellie Pavlick.</td>
   </tr>
   <tr>
-    <td style="width:80px; text-align:left; padding-right:10px; font-size:1em"><u><i>2021</i></u></td>
-    <td></td>
+    <td style="width:80px; text-align:left; padding-right:10px; font-size:1em"></td>
+    <td><u><i>2021</i></u></td>
   </tr>
   
   <tr>
@@ -133,8 +133,8 @@ I work on natural language processing at <a href="https://research.google/teams/
   </tr>
   
   <tr>
-    <td style="width:80px; text-align:left; padding-right:10px; font-size:1em"><u><i>2019</i></u></td>
-    <td></td>
+    <td style="width:80px; text-align:left; padding-right:10px; font-size:1em"></td>
+    <td><u><i>2019</i></u></td>
   </tr>
   <tr>
     <td style="width:80px; text-align:right; padding-right:10px; font-size:0.8em">EMNLP '19</td>

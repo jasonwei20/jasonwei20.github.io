@@ -56,7 +56,7 @@ I work on natural language processing at <a href="https://research.google/teams/
   </tr>
   <tr>
     <td style="width:80px; text-align:left; padding-right:10px; font-size:1em"></td>
-    <td style="font-size:1.25em; padding-bottom:5px"><u><i>2021</i></u></td>
+    <td style="font-size:1.18em; padding-bottom:5px"><u><i>2021</i></u></td>
   </tr>
   
   <tr>
@@ -134,7 +134,7 @@ I work on natural language processing at <a href="https://research.google/teams/
   
   <tr>
     <td style="width:80px; text-align:left; padding-right:10px; font-size:1em"></td>
-    <td style="font-size:1.25em; padding-bottom:5px"><u><i>2019</i></u></td>
+    <td style="font-size:1.18em; padding-bottom:5px"><u><i>2019</i></u></td>
   </tr>
   <tr>
     <td style="width:80px; text-align:right; padding-right:10px; font-size:0.8em">EMNLP '19</td>

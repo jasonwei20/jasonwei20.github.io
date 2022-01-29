@@ -52,7 +52,7 @@ I work on natural language processing at <a href="https://research.google/teams/
   </tr>
   <tr>
     <td></td>
-    <td style="padding-bottom:4px">{Thibault Sellam, Steve Yadlowsky}, <b>Jason Wei</b>, Naomi Saphra, Alexander D'Amour, Tal Linzen, <br>Jasmijn Bastings, Iulia Turc, Jacob Eisenstein, Dipanjan Das, Ian Tenney, and Ellie Pavlick.</td>
+    <td style="padding-bottom:10px">{Thibault Sellam, Steve Yadlowsky}, <b>Jason Wei</b>, Naomi Saphra, Alexander D'Amour, Tal Linzen, <br>Jasmijn Bastings, Iulia Turc, Jacob Eisenstein, Dipanjan Das, Ian Tenney, and Ellie Pavlick.</td>
   </tr>
   <tr>
     <td style="width:80px; text-align:right; padding-right:10px; font-size:0.8em">EMNLP '21</td>
@@ -125,7 +125,7 @@ I work on natural language processing at <a href="https://research.google/teams/
   </tr>
   <tr>
     <td></td>
-    <td style="padding-bottom:4px">Ruibo Liu, Chenyan Jia, <b>Jason Wei</b>, Guangxuan Xu, Lili Wang, and Soroush Vosoughi.</td>
+    <td style="padding-bottom:10px">Ruibo Liu, Chenyan Jia, <b>Jason Wei</b>, Guangxuan Xu, Lili Wang, and Soroush Vosoughi.</td>
   </tr>
   <tr>
     <td style="width:80px; text-align:right; padding-right:10px; font-size:0.8em">EMNLP '19</td>

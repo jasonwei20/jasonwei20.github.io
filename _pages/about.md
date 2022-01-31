@@ -28,8 +28,19 @@ I work on natural language processing at <a href="https://research.google/teams/
 | <a href="https://scholar.google.com/citations?user=wA5TK_0AAAAJ&hl=en" style="color:#191970" target="_blank">Google Scholar</a> 
 </p>
 
-<span style="font-size:1.3em">Publications</span>
 <table style="width:100%">
+  <tr>
+    <td style="width:80px; text-align:right; padding-right:10px; font-size:0.8em"> </td>
+    <td style="font-size:1.3em">Publications</td>
+  </tr>
+  <tr>
+    <td style="width:80px; text-align:right; padding-right:10px; font-size:0.8em"> </td>
+    <td><a href="https://arxiv.org/abs/2201.11903" style="color:#191970" target="_blank">Chain of thought prompting elicits reasoning in large language models.</a></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td style="padding-bottom:4px"><b>Jason Wei</b>, Xuezhi Wang, Dale Schuurmans, Maarten Bosma, Ed Chi, Quoc Le, and Denny Zhou.</td>
+  </tr>
   <tr>
     <td style="width:80px; text-align:right; padding-right:10px; font-size:0.8em"> </td>
     <td><a href="https://arxiv.org/pdf/2109.03910" style="color:#191970" target="_blank">A recipe for arbitrary text style transfer with large language models.</a></td>

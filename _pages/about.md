@@ -52,7 +52,7 @@ I work on natural language processing at <a href="https://research.google/teams/
   </tr>
   <tr>
     <td></td>
-    <td style="padding-bottom:4px">{<b>J. Wei</b>, M. Bosma, V. Zhao, K. Guu}, A. Yu, B. Lester, N. Du, A. Dai, and Q. Le.</td>
+    <td style="padding-bottom:4px">{<b>Jason Wei</b>, Maarten Bosma, Vincent Zhao, Kelvin Guu}, Adams Yu, Brian Lester, Nan Du, <br>Andrew Dai, and Quoc Le.</td>
   </tr>
   <tr>
     <td style="width:80px; text-align:right; padding-right:10px; font-size:0.8em"> ICLR '22</td>
@@ -60,7 +60,7 @@ I work on natural language processing at <a href="https://research.google/teams/
   </tr>
   <tr>
     <td></td>
-    <td style="padding-bottom:16px">{T. Sellam, S. Yadlowsky}, <b>J. Wei</b>, N. Saphra, A. D'Amour, T. Linzen, J. Bastings, I. Turc, <br>J. Eisenstein, D. Das, I. Tenney, and E. Pavlick.</td>
+    <td style="padding-bottom:16px">{Thibault Sellam, Steve Yadlowsky}, <b>Jason Wei</b>, Naomi Saphra, Alexander D'Amour, Tal Linzen, <br>Jasmijn Bastings, Iulia Turc, Jacob Eisenstein, Dipanjan Das, Ian Tenney, and Ellie Pavlick.</td>
   </tr>
   <tr>
     <td style="width:80px; text-align:left; padding-right:10px; font-size:1em"></td>

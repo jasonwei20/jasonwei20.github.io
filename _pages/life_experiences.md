@@ -17,8 +17,15 @@ table, th, td {
 <body>
 <table style="width:100%">
   <tr>
+    <td style="width:40px; text-align:right; padding-right:10px; padding-top:10px">2022</td>
+    <td style="padding-top:10px"><b>Jan 8:</b> Hiking Kohala Mountain Road at sunset</td>
+  <tr>
     <td style="width:40px; text-align:right; padding-right:10px; padding-top:10px">2021</td>
-    <td style="padding-top:10px"><b>Aug 30/Sep 4:</b> Watching Djokovic and Kyrgios at the US Open</td>
+    <td style="padding-top:10px"><b>Dec 12: </b>Converting from AI resident to full role at Google</td>
+  </tr>
+  <tr>
+    <td style="width:40px; text-align:right; padding-right:10px"></td>
+    <td><b>Aug 30/Sep 4: </b>Watching Djokovic and Kyrgios at the US Open</td>
   </tr>
   <tr>
     <td style="width:40px; text-align:right; padding-right:10px"></td>

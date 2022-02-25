@@ -7,8 +7,10 @@ author_profile: true
 {% include base_path %}
 
 
-*   Hawaii (Jan 3-10, 2022)
-    *   Hiking **Kohala Mountain Road** at sunset (Jan 8)
+*   Big Island, Hawaii (Jan 3-10, 2022)
+    *   Hawaii Volcanoes National Park, Kona (Jan 9)
+    *   Hilo, Kukuihaele, **Kohala Mountain Road** at sunset (Jan 8)
+    *   Waikoloa Beach Marriott for WACV
 *   New York City (Nov 12-19, 2021)
     *   Google NY Office
 *   Dominican Republic (Nov 7-12, 2021)

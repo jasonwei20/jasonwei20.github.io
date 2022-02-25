@@ -67,7 +67,6 @@ author_profile: true
     *   Reykjavik, **Blue Lagoon** (Dec 2)
 
 *   Places I've Called Home
-    * Mountain View, California (Nov 2021 - present)
     * Plano, Texas (Oct 2021 - present)
     * Hanover, New Hampshire, 1 Webster Avenue (Sep 2016 - Jun 2020)
     * Herndon, Virginia (Apr 2006 - Sep 2021)

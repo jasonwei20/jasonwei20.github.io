@@ -12,6 +12,7 @@ In Fall 2018, I studied abroad in <a href="https://jasonwei20.github.io/posts/20
 
 -----
 
+Like all humans, I will one day die. These pages will give an idea of who I am and what I lived for:
 
 <html>
 <style>
@@ -22,9 +23,6 @@ table, th, td {
   font-size: 0.9em;
 }
 </style>
-
-Like all humans, I will one day die. These pages will give an idea of who I am and what I lived for:
-  
 <body>
 <table style="width:100%">
   <tr>
@@ -48,7 +46,6 @@ Like all humans, I will one day die. These pages will give an idea of who I am a
     <td style="padding-top:10px">My research career is a function of these <a href="https://jasonwei20.github.io/thanks/" style="color:navy">people</a> (among others).</td>
   </tr>
 </table>
-
 </body>
 </html>
 

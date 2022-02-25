@@ -4,7 +4,7 @@ permalink: /thanks/
 author_profile: true
 ---
 
-The following people profoundly influenced me.
+The following people profoundly influenced me (among others).
 
 * Danny Hermes introduced me to the world of software. He's highest-performing programmer I've worked with and also a role model as a person. 
 * Clara Meister is an exemplary researcher in many respects including communication, problem-solving ability, and interdisciplinary research.

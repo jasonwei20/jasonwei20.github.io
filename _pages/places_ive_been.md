@@ -8,7 +8,7 @@ author_profile: true
 
 
 *   Hawaii (Jan 3-10, 2022)
-    *   Hiking Kohala Mountain Road at sunset (Jan 8)
+    *   Hiking **Kohala Mountain Road** at sunset (Jan 8)
 *   New York City (Nov 12-19, 2021)
     *   Google NY Office
 *   Dominican Republic (Nov 7-12, 2021)

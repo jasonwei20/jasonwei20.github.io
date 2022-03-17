@@ -39,7 +39,7 @@ I work on natural language processing at <a href="https://research.google/teams/
     <td style="padding-bottom:4px"><b>Jason Wei</b>, Xuezhi Wang, Dale Schuurmans, Maarten Bosma, Ed Chi, Quoc Le, and Denny Zhou.</td>
   </tr>
   <tr>
-    <td style="width:80px; text-align:right; padding-right:10px; font-size:0.8em"> </td>
+    <td style="width:80px; text-align:right; padding-right:10px; font-size:0.8em">ACL '22</td>
     <td><a href="https://arxiv.org/pdf/2109.03910" style="color:#191970" target="_blank">A recipe for arbitrary text style transfer with large language models.</a></td>
   </tr>
   <tr>
@@ -47,7 +47,7 @@ I work on natural language processing at <a href="https://research.google/teams/
     <td style="padding-bottom:4px">{Emily Reif, Daphne Ippolito}, Ann Yuan, Andy Coenen, Chris Callison-Burch, and <b>Jason Wei</b>.</td>
   </tr>
   <tr>
-    <td style="width:80px; text-align:right; padding-right:10px; font-size:0.8em"> ICLR '22</td>
+    <td style="width:80px; text-align:right; padding-right:10px; font-size:0.8em">ICLR '22</td>
     <td><a href="https://openreview.net/forum?id=gEZrGCozdqR" style="color:#191970" target="_blank">Finetuned language models are zero-shot learners</a> (<a href="https://ai.googleblog.com/2021/10/introducing-flan-more-generalizable.html" target="_blank">blog</a>, oral).</td>
   </tr>
   <tr>

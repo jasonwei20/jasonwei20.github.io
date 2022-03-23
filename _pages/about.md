@@ -32,6 +32,22 @@ I work on natural language processing at <a href="https://research.google/teams/
 <table style="width:100%">
   <tr>
     <td style="width:80px; text-align:right; padding-right:10px; font-size:0.8em"> </td>
+    <td><a href="https://openreview.net/pdf?id=B3Gzjug-xzc" style="color:#191970" target="_blank">Artificial stream of thought has non-trivial connections to consciousness.</a></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td style="padding-bottom:4px"><b>Jason Wei</b>.</td>
+  </tr>
+  <tr>
+    <td style="width:80px; text-align:right; padding-right:10px; font-size:0.8em"> </td>
+    <td><a href="https://arxiv.org/abs/2203.11171" style="color:#191970" target="_blank">Self-consistency improves chain of thought reasoning in language models.</a></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td style="padding-bottom:4px">Xuezhi Wang, <b>Jason Wei</b>, Dale Schuurmans, Quoc Le, Ed Chi, and Denny Zhou.</td>
+  </tr>
+  <tr>
+    <td style="width:80px; text-align:right; padding-right:10px; font-size:0.8em"> </td>
     <td><a href="https://arxiv.org/abs/2201.11903" style="color:#191970" target="_blank">Chain of thought prompting elicits reasoning in large language models.</a></td>
   </tr>
   <tr>

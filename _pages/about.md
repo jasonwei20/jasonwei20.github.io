@@ -52,7 +52,7 @@ I work on natural language processing at <a href="https://research.google/teams/
   </tr>
   <tr>
     <td></td>
-    <td style="padding-bottom:4px">Xuezhi Wang, <b>Jason Wei</b>, Dale Schuurmans, Quoc Le, Ed Chi, and Denny Zhou.</td>
+    <td style="padding-bottom:4px">X. Wang, <b>J. Wei</b>, D. Schuurmans, Q. Le, E. Chi, S. Narang, A. Chowdhery, and D. Zhou.</td>
   </tr>
   <tr>
     <td style="width:80px; text-align:right; padding-right:10px; font-size:0.8em"> </td>

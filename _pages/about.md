@@ -26,6 +26,7 @@ I work on natural language processing at <a href="https://research.google/teams/
 <a href="https://jasonwei20.github.io/personal/" style="color:#191970">Personal</a> 
 | <a href="https://jasonwei20.github.io/files/current-jason-wei-cv.pdf" style="color:#191970" target="_blank">Vitæ</a> 
 | <a href="https://scholar.google.com/citations?user=wA5TK_0AAAAJ&hl=en" style="color:#191970" target="_blank">Google Scholar</a> 
+| <a href="https://twitter.com/_jasonwei" style="color:#191970" target="_blank">Twitter</a> 
 </p>
 
 <span style="font-size:1.3em">Publications</span>

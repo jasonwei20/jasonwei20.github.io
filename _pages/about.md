@@ -41,7 +41,7 @@ I work on natural language processing at <a href="https://research.google/teams/
   </tr>
   <tr>
     <td style="width:80px; text-align:right; padding-right:10px; font-size:0.8em"> </td>
-    <td><a href="https://openreview.net/pdf?id=B3Gzjug-xzc" style="color:#191970" target="_blank">Artificial stream of thought has non-trivial connections to consciousness.</a></td>
+    <td><a href="https://jasonwei20.github.io/files/artificial_stream_of_thought.pdf" style="color:#191970" target="_blank">Artificial stream of thought has non-trivial connections to consciousness.</a></td>
   </tr>
   <tr>
     <td></td>

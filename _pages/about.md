@@ -26,13 +26,22 @@ I work on natural language processing at <a href="https://research.google/teams/
 <a href="https://jasonwei20.github.io/personal/" style="color:#191970">Personal</a> 
 | <a href="https://jasonwei20.github.io/files/current-jason-wei-cv.pdf" style="color:#191970" target="_blank">Vitæ</a> 
 | <a href="https://scholar.google.com/citations?user=wA5TK_0AAAAJ&hl=en" style="color:#191970" target="_blank">Google Scholar</a> 
+| <a href="https://twitter.com/_jasonwei" style="color:#191970" target="_blank">Twitter</a> 
 </p>
 
 <span style="font-size:1.3em">Publications</span>
 <table style="width:100%">
   <tr>
     <td style="width:80px; text-align:right; padding-right:10px; font-size:0.8em"> </td>
-    <td><a href="https://openreview.net/pdf?id=B3Gzjug-xzc" style="color:#191970" target="_blank">Artificial stream of thought has non-trivial connections to consciousness.</a></td>
+    <td><a href="https://arxiv.org/abs/2204.02311" style="color:#191970" target="_blank">PaLM: Scaling language modeling with Pathways.</a></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td style="padding-bottom:4px">{A. Chowdhery, S. Narang, J. Devlin} et al. (64 additional authors).</td>
+  </tr>
+  <tr>
+    <td style="width:80px; text-align:right; padding-right:10px; font-size:0.8em"> </td>
+    <td><a href="https://jasonwei20.github.io/files/artificial_stream_of_thought.pdf" style="color:#191970" target="_blank">Artificial stream of thought has non-trivial connections to consciousness.</a></td>
   </tr>
   <tr>
     <td></td>
@@ -44,7 +53,7 @@ I work on natural language processing at <a href="https://research.google/teams/
   </tr>
   <tr>
     <td></td>
-    <td style="padding-bottom:4px">Xuezhi Wang, <b>Jason Wei</b>, Dale Schuurmans, Quoc Le, Ed Chi, and Denny Zhou.</td>
+    <td style="padding-bottom:4px">X. Wang, <b>J. Wei</b>, D. Schuurmans, Q. Le, E. Chi, S. Narang, A. Chowdhery, and D. Zhou.</td>
   </tr>
   <tr>
     <td style="width:80px; text-align:right; padding-right:10px; font-size:0.8em"> </td>

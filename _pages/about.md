@@ -29,7 +29,7 @@ I work on natural language processing at <a href="https://research.google/teams/
 | <a href="https://twitter.com/_jasonwei" style="color:#191970" target="_blank">Twitter</a> 
 </p>
 
-<span style="font-size:1.3em">Publications</span>
+<span style="font-size:1.3em">Publications ([see all](https://jasonwei20.github.io/papers/))</span>
 <table style="width:100%">
   <tr>
     <td style="width:80px; text-align:right; padding-right:10px; font-size:0.8em"> </td>

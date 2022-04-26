@@ -29,7 +29,7 @@ I work on natural language processing at <a href="https://research.google/teams/
 | <a href="https://twitter.com/_jasonwei" style="color:#191970" target="_blank">Twitter</a> 
 </p>
 
-<span style="font-size:1.3em">Recent publications (<a href="https://jasonwei20.github.io/papers/" style="color:#191970" target="_blank">see all</a>)</span>
+<span style="font-size:1.3em">Publications (<a href="https://jasonwei20.github.io/papers/" style="color:#191970" target="_blank">see all</a>)</span>
 <table style="width:100%">
   <tr>
     <td style="width:80px; text-align:right; padding-right:10px; font-size:0.8em"> </td>
@@ -103,14 +103,6 @@ I work on natural language processing at <a href="https://research.google/teams/
   <tr>
     <td></td>
     <td style="padding-bottom:4px"><b>Jason Wei</b>, Chengyu Huang, Soroush Vosoughi, Yu Cheng, and Shiqi Xu.</td>
-  </tr>
-  <tr>
-    <td style="width:80px; text-align:right; padding-right:10px; font-size:0.8em">EACL '21</td>
-    <td><a href="https://www.aclweb.org/anthology/2021.eacl-main.252/" style="color:#191970" target="_blank">Text augmentation in a multi-task view.</a></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td style="padding-bottom:4px"><b>Jason Wei</b>, Chengyu Huang, Shiqi Xu, and Soroush Vosoughi.</td>
   </tr>
   
   <tr>

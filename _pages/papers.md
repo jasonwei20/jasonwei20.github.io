@@ -1,7 +1,6 @@
 ---
 title: "Publications"
 permalink: /papers/
-author_profile: true
 ---
 
 <html>
@@ -15,6 +14,10 @@ table, th, td {
 </style>
   
 <body>
+  
+<p style="margin-bottom: 1.2em; line-height: 1.8">
+<a href="https://jasonwei20.github.io/" style="color:#191970">(back to homepage)</a> 
+</p>
  
 <table style="width:100%">
   <tr>
@@ -28,7 +31,7 @@ table, th, td {
   </tr>
   <tr>
     <td></td>
-    <td style="padding-bottom:4px">{A. Chowdhery, S. Narang, J. Devlin} et al. (64 additional authors).</td>
+    <td style="padding-bottom:4px">{A. Chowdhery, S. Narang, J. Devlin} and 64 additional authors.</td>
   </tr>
   <tr>
     <td style="width:80px; text-align:right; padding-right:10px; font-size:0.8em"> </td>
@@ -129,7 +132,7 @@ table, th, td {
   </tr>
   <tr>
     <td style="width:80px; text-align:right; padding-right:8px; font-size:0.7em; vertical-align:top">(Findings)</td>
-    <td style="padding-bottom:4px">Ruibo Liu, Jason Wei, Chenyan Jia, and Soroush Vosoughi.</td>
+    <td style="padding-bottom:4px">Ruibo Liu, <b>Jason Wei<b>, Chenyan Jia, and Soroush Vosoughi.</td>
   </tr>
   <tr>
     <td style="width:80px; text-align:right; padding-right:10px; font-size:0.8em">NAACL '21</td>

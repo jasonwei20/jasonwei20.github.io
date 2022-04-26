@@ -16,8 +16,12 @@ table, th, td {
   
 <body>
  
-<span style="font-size:1.3em">Publications</span>
 <table style="width:100%">
+  <tr>
+    <td style="width:80px; text-align:left; padding-right:10px; font-size:1em"></td>
+    <td style="font-size:1.12em; padding-bottom:5px"><u><i>2022</i></u></td>
+  </tr>
+  
   <tr>
     <td style="width:80px; text-align:right; padding-right:10px; font-size:0.8em"> </td>
     <td><a href="https://arxiv.org/abs/2204.02311" style="color:#191970" target="_blank">PaLM: Scaling language modeling with Pathways.</a></td>
@@ -118,6 +122,14 @@ table, th, td {
   <tr>
     <td style="width:80px; text-align:right; padding-right:8px; font-size:0.7em; vertical-align:top">(Findings)</td>
     <td style="padding-bottom:4px">{S. Feng, V. Gangal}, <b>J. Wei</b>, S. Chandar, S. Vosoughi, T. Mitamura, and E. Hovy.</td>
+  </tr>
+  <tr>
+    <td style="width:80px; text-align:right; padding-right:10px; font-size:0.8em">ACL '21</td>
+    <td><a href="https://aclanthology.org/2021.findings-acl.379/" style="color:#191970" target="_blank">Modulating language models with emotions.</a></td>
+  </tr>
+  <tr>
+    <td style="width:80px; text-align:right; padding-right:8px; font-size:0.7em; vertical-align:top">(Findings)</td>
+    <td style="padding-bottom:4px">Ruibo Liu, Jason Wei, Chenyan Jia, and Soroush Vosoughi.</td>
   </tr>
   <tr>
     <td style="width:80px; text-align:right; padding-right:10px; font-size:0.8em">NAACL '21</td>

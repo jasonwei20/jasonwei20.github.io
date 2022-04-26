@@ -1,6 +1,7 @@
 ---
-title: "Publications"
 permalink: /papers/
+title: "Publications"
+author_profile: true
 ---
 
 <html>

@@ -135,7 +135,7 @@ table, th, td {
   </tr>
   <tr>
     <td style="width:80px; text-align:right; padding-right:8px; font-size:0.7em; vertical-align:top">(Findings)</td>
-    <td style="padding-bottom:4px">Ruibo Liu, <b>Jason Wei<b>, Chenyan Jia, and Soroush Vosoughi.</td>
+    <td style="padding-bottom:4px">Ruibo Liu, <b>Jason Wei</b>, Chenyan Jia, and Soroush Vosoughi.</td>
   </tr>
   <tr>
     <td style="width:80px; text-align:right; padding-right:10px; font-size:0.8em">NAACL '21</td>

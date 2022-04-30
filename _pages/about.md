@@ -57,20 +57,20 @@ I work on natural language processing at <a href="https://research.google/teams/
   </tr>
   <tr>
     <td style="width:80px; text-align:right; padding-right:10px; font-size:0.8em">ICLR '22</td>
-    <td><a href="https://openreview.net/forum?id=gEZrGCozdqR" style="color:#191970" target="_blank">Finetuned language models are zero-shot learners</a> (<a href="https://ai.googleblog.com/2021/10/introducing-flan-more-generalizable.html" target="_blank">blog</a>, <a href="https://www.youtube.com/watch?v=iq2kEGanDso" target="_blank">oral</a>).</td>
+    <td><a href="https://openreview.net/forum?id=gEZrGCozdqR" style="color:#191970" target="_blank">Finetuned language models are zero-shot learners</a>.</td>
   </tr>
   <tr>
     <td></td>
-    <td style="padding-bottom:4px">{<b>Jason Wei</b>, Maarten Bosma, Vincent Zhao, Kelvin Guu}, Adams Yu, Brain Lester, Nan Du, Andrew Dai, and Quoc Le.</td>
+    <td style="padding-bottom:4px">{<b>Jason Wei</b>, Maarten Bosma, Vincent Zhao, Kelvin Guu}, Adams Yu, Brain Lester, Nan Du, Andrew Dai, and Quoc Le. (<a href="https://ai.googleblog.com/2021/10/introducing-flan-more-generalizable.html" target="_blank">blog</a>, <a href="https://www.youtube.com/watch?v=iq2kEGanDso" target="_blank">oral</a>)</td>
   </tr>
   
   <tr>
     <td style="width:80px; text-align:right; padding-right:10px; font-size:0.8em">EMNLP '21</td>
-    <td><a href="https://aclanthology.org/2021.emnlp-main.72/" style="color:#191970" target="_blank">Frequency effects on syntactic rule learning in transformers</a> (<a href="https://ai.googleblog.com/2021/12/evaluating-syntactic-abilities-of.html" target="_blank">blog</a>, <a href="https://screencast-o-matic.com/watch/cr6QnuVXYT1" target="_blank">oral</a>).</td>
+    <td><a href="https://aclanthology.org/2021.emnlp-main.72/" style="color:#191970" target="_blank">Frequency effects on syntactic rule learning in transformers</a>.</td>
   </tr>
   <tr>
     <td></td>
-    <td style="padding-bottom:4px"><b>Jason Wei</b>, Dan Garrette, Tal Linzen, and Ellie Pavlick. </td>
+    <td style="padding-bottom:4px"><b>Jason Wei</b>, Dan Garrette, Tal Linzen, and Ellie Pavlick. (<a href="https://ai.googleblog.com/2021/12/evaluating-syntactic-abilities-of.html" target="_blank">blog</a>, <a href="https://screencast-o-matic.com/watch/cr6QnuVXYT1" target="_blank">oral</a>)</td>
   </tr>
   <tr>
     <td style="width:80px; text-align:right; padding-right:10px; font-size:0.8em">EMNLP '21</td>

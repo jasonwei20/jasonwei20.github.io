@@ -11,5 +11,6 @@ The following people profoundly influenced me (among others).
 * Ryan Cotterell introduced me to linguistics. He challenges me to think differently, and his love of learning inspires me.
 * I aim to have the charisma of Ellie Pavlick.
 * Quoc Le inspires me to dream big and work hard. 
+* Denny Zhou saw all the things I missed.
 
 <!-- And thank you to my high school teachers: Michael Auerbach, Ashley Jones, and Duncan Forbes. -->

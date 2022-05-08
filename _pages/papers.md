@@ -42,7 +42,7 @@ table, th, td {
   </tr>
   <tr>
     <td></td>
-    <td style="padding-bottom:4px"><b>Jason Wei</b>.</td>
+    <td style="padding-bottom:4px"><b>J. Wei</b>.</td>
   </tr>
   <tr>
     <td style="width:80px; text-align:right; padding-right:10px; font-size:0.8em"> </td>
@@ -58,7 +58,7 @@ table, th, td {
   </tr>
   <tr>
     <td></td>
-    <td style="padding-bottom:4px"><b>Jason Wei</b>, Xuezhi Wang, Dale Schuurmans, Maarten Bosma, Ed Chi, Quoc Le, and Denny Zhou.</td>
+    <td style="padding-bottom:4px"><b>J. Wei</b>, X. Wang, D. Schuurmans, M. Bosma, E. Chi, Q. Le, and D. Zhou.</td>
   </tr>
   <tr>
     <td style="width:80px; text-align:right; padding-right:10px; font-size:0.8em">ACL '22</td>
@@ -66,11 +66,11 @@ table, th, td {
   </tr>
   <tr>
     <td></td>
-    <td style="padding-bottom:4px">{Emily Reif, Daphne Ippolito}, Ann Yuan, Andy Coenen, Chris Callison-Burch, and <b>Jason Wei</b>.</td>
+    <td style="padding-bottom:4px">{E. Reif, D. Ippolito}, A. Yuan, A. Coenen, C. Callison-Burch, and <b>J. Wei</b>.</td>
   </tr>
   <tr>
     <td style="width:80px; text-align:right; padding-right:10px; font-size:0.8em">ICLR '22</td>
-    <td><a href="https://openreview.net/forum?id=gEZrGCozdqR" style="color:#191970" target="_blank">Finetuned language models are zero-shot learners</a> (<a href="https://ai.googleblog.com/2021/10/introducing-flan-more-generalizable.html" target="_blank">blog</a>, oral).</td>
+    <td><a href="https://openreview.net/forum?id=gEZrGCozdqR" style="color:#191970" target="_blank">Finetuned language models are zero-shot learners</a> (<a href="https://ai.googleblog.com/2021/10/introducing-flan-more-generalizable.html" target="_blank">blog</a>, <a href="https://www.youtube.com/watch?v=iq2kEGanDso" target="_blank">oral</a>).</td>
   </tr>
   <tr>
     <td></td>
@@ -95,7 +95,7 @@ table, th, td {
   </tr>
   <tr>
     <td></td>
-    <td style="padding-bottom:4px"><b>Jason Wei</b>, Dan Garrette, Tal Linzen, and Ellie Pavlick. </td>
+    <td style="padding-bottom:4px"><b>J. Wei</b>, D. Garrette, T. Linzen, and E. Pavlick. </td>
   </tr>
   <tr>
     <td style="width:80px; text-align:right; padding-right:10px; font-size:0.8em">EMNLP '21</td>
@@ -103,7 +103,7 @@ table, th, td {
   </tr>
   <tr>
     <td></td>
-    <td style="padding-bottom:4px"><b>Jason Wei</b>.</td>
+    <td style="padding-bottom:4px"><b>J. Wei</b>.</td>
   </tr>
   <tr>
     <td style="width:80px; text-align:right; padding-right:10px; font-size:0.8em">ACL '21</td>
@@ -111,7 +111,7 @@ table, th, td {
   </tr>
   <tr>
     <td></td>
-    <td style="padding-bottom:4px"><b>Jason Wei</b>, Clara Meister, and Ryan Cotterell.</td>
+    <td style="padding-bottom:4px"><b>J. Wei</b>, C. Meister, and R. Cotterell.</td>
   </tr>
   <tr>
     <td style="width:80px; text-align:right; padding-right:10px; font-size:0.8em">ACL '21</td>
@@ -119,7 +119,7 @@ table, th, td {
   </tr>
   <tr>
     <td></td>
-    <td style="padding-bottom:4px">Ruibo Liu, <b>Jason Wei</b>, and Soroush Vosoughi.</td>
+    <td style="padding-bottom:4px">R. Liu, <b>J. Wei</b>, and S. Vosoughi.</td>
   </tr>
   <tr>
     <td style="width:80px; text-align:right; padding-right:10px; font-size:0.8em">ACL '21</td>
@@ -135,7 +135,7 @@ table, th, td {
   </tr>
   <tr>
     <td style="width:80px; text-align:right; padding-right:8px; font-size:0.7em; vertical-align:top">(Findings)</td>
-    <td style="padding-bottom:4px">Ruibo Liu, <b>Jason Wei</b>, Chenyan Jia, and Soroush Vosoughi.</td>
+    <td style="padding-bottom:4px">R. Liu, <b>J. Wei</b>, C. Jia, and S. Vosoughi.</td>
   </tr>
   <tr>
     <td style="width:80px; text-align:right; padding-right:10px; font-size:0.8em">NAACL '21</td>
@@ -143,7 +143,7 @@ table, th, td {
   </tr>
   <tr>
     <td></td>
-    <td style="padding-bottom:4px"><b>Jason Wei</b>, Kelly Finn, Emma Templeton, Thalia Wheatley, and Soroush Vosoughi.</td>
+    <td style="padding-bottom:4px"><b>J. Wei</b>, K. Finn, E. Templeton, T. Wheatley, and S. Vosoughi.</td>
   </tr>
   <tr>
     <td style="width:80px; text-align:right; padding-right:10px; font-size:0.8em">NAACL '21</td>
@@ -151,7 +151,7 @@ table, th, td {
   </tr>
   <tr>
     <td></td>
-    <td style="padding-bottom:4px"><b>Jason Wei</b>, Chengyu Huang, Soroush Vosoughi, Yu Cheng, and Shiqi Xu.</td>
+    <td style="padding-bottom:4px"><b>J. Wei</b>, C. Huang, S. Vosoughi, Y. Cheng, and S. Xu.</td>
   </tr>
   <tr>
     <td style="width:80px; text-align:right; padding-right:10px; font-size:0.8em">EACL '21</td>
@@ -159,7 +159,7 @@ table, th, td {
   </tr>
   <tr>
     <td></td>
-    <td style="padding-bottom:4px"><b>Jason Wei</b>, Chengyu Huang, Shiqi Xu, and Soroush Vosoughi.</td>
+    <td style="padding-bottom:4px"><b>J. Wei</b>, C. Huang, S. Xu, and S. Vosoughi.</td>
   </tr>
   <tr>
     <td style="width:80px; text-align:right; padding-right:10px; font-size:0.8em">AAAI '21</td>
@@ -167,7 +167,7 @@ table, th, td {
   </tr>
   <tr>
     <td></td>
-    <td style="padding-bottom:16px">Ruibo Liu, Chenyan Jia, <b>Jason Wei</b>, Guangxuan Xu, Lili Wang, and Soroush Vosoughi.</td>
+    <td style="padding-bottom:16px">R. Liu, C. Jia, <b>J. Wei</b>, G. Xu, L. Wang, and S. Vosoughi.</td>
   </tr>
   
   <tr>
@@ -180,7 +180,7 @@ table, th, td {
   </tr>
   <tr>
     <td></td>
-    <td style="padding-bottom:3px"><b>Jason Wei</b> and Kai Zou.</td>
+    <td style="padding-bottom:3px"><b>J. Wei</b> and K. Zou.</td>
   </tr>
 </table>
 

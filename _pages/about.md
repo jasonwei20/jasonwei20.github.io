@@ -33,14 +33,6 @@ I work on natural language processing at <a href="https://research.google/teams/
 <table style="width:100%">
   <tr>
     <td style="width:80px; text-align:right; padding-right:10px; font-size:0.8em"> </td>
-    <td><a href="https://jasonwei20.github.io/files/artificial_stream_of_thought.pdf" style="color:#191970" target="_blank">Artificial stream of thought has non-trivial connections to consciousness.</a></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td style="padding-bottom:4px"><b>Jason Wei</b>.</td>
-  </tr>
-  <tr>
-    <td style="width:80px; text-align:right; padding-right:10px; font-size:0.8em"> </td>
     <td><a href="https://arxiv.org/abs/2201.11903" style="color:#191970" target="_blank">Chain of thought prompting elicits reasoning in large language models.</a></td>
   </tr>
   <tr>
@@ -48,20 +40,17 @@ I work on natural language processing at <a href="https://research.google/teams/
     <td style="padding-bottom:4px"><b>Jason Wei</b>, Xuezhi Wang, Dale Schuurmans, Maarten Bosma, Ed Chi, Quoc Le, and Denny Zhou.</td>
   </tr>
   <tr>
-    <td style="width:80px; text-align:right; padding-right:10px; font-size:0.8em">ACL '22</td>
-    <td><a href="https://arxiv.org/pdf/2109.03910" style="color:#191970" target="_blank">A recipe for arbitrary text style transfer with large language models.</a></td>
-  </tr>
-  <tr>
     <td></td>
-    <td style="padding-bottom:4px">{Emily Reif, Daphne Ippolito}, Ann Yuan, Andy Coenen, Chris Callison-Burch, and <b>Jason Wei</b>.</td>
+    <td style="padding-bottom:4px"><a href="https://www.youtube.com/watch?v=nP-nMZpLM1A&t=7252s" target="_blank">Sundar explains chain of thought prompting at Google I/O 2022</a> / <a href="https://ai.googleblog.com/2022/05/language-models-perform-reasoning-via.html" target="_blank">Google AI blog</a></td>
   </tr>
+  
   <tr>
     <td style="width:80px; text-align:right; padding-right:10px; font-size:0.8em">ICLR '22</td>
     <td><a href="https://openreview.net/forum?id=gEZrGCozdqR" style="color:#191970" target="_blank">Finetuned language models are zero-shot learners</a>.</td>
   </tr>
   <tr>
     <td></td>
-    <td style="padding-bottom:4px">{<b>Jason Wei</b>, Maarten Bosma, Vincent Zhao, Kelvin Guu}, Adams Yu, Brain Lester, Nan Du, Andrew Dai, and Quoc Le. (<a href="https://ai.googleblog.com/2021/10/introducing-flan-more-generalizable.html" target="_blank">blog</a>, <a href="https://www.youtube.com/watch?v=iq2kEGanDso" target="_blank">oral</a>)</td>
+    <td style="padding-bottom:4px">{<b>Jason Wei</b>, Maarten Bosma, Vincent Zhao, Kelvin Guu}, Adams Yu, Brain Lester, Nan Du, Andrew Dai, and Quoc Le. <a href="https://ai.googleblog.com/2021/10/introducing-flan-more-generalizable.html" target="_blank">Google AI blog</a> / <a href="https://www.youtube.com/watch?v=iq2kEGanDso" target="_blank">oral</a></td>
   </tr>
   
   <tr>
@@ -70,16 +59,8 @@ I work on natural language processing at <a href="https://research.google/teams/
   </tr>
   <tr>
     <td></td>
-    <td style="padding-bottom:4px"><b>Jason Wei</b>, Dan Garrette, Tal Linzen, and Ellie Pavlick. (<a href="https://ai.googleblog.com/2021/12/evaluating-syntactic-abilities-of.html" target="_blank">blog</a>, <a href="https://screencast-o-matic.com/watch/cr6QnuVXYT1" target="_blank">oral</a>)</td>
-  </tr>
-  <tr>
-    <td style="width:80px; text-align:right; padding-right:10px; font-size:0.8em">EMNLP '21</td>
-    <td><a href="https://aclanthology.org/2021.emnlp-main.479/" style="color:#191970" target="_blank">Good-enough example extrapolation.</a></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td style="padding-bottom:4px"><b>Jason Wei</b>.</td>
-  </tr>
+    <td style="padding-bottom:4px"><b>Jason Wei</b>, Dan Garrette, Tal Linzen, and Ellie Pavlick. <a href="https://ai.googleblog.com/2021/12/evaluating-syntactic-abilities-of.html" target="_blank">Google AI blog</a> / <a href="https://screencast-o-matic.com/watch/cr6QnuVXYT1" target="_blank">oral</a></td>
+    
   <tr>
     <td style="width:80px; text-align:right; padding-right:10px; font-size:0.8em">ACL '21</td>
     <td><a href="https://aclanthology.org/2021.acl-long.404/" style="color:#191970" target="_blank">A cognitive regularizer for language modeling.</a></td>
@@ -87,22 +68,6 @@ I work on natural language processing at <a href="https://research.google/teams/
   <tr>
     <td></td>
     <td style="padding-bottom:4px"><b>Jason Wei</b>, Clara Meister, and Ryan Cotterell.</td>
-  </tr>
-  <tr>
-    <td style="width:80px; text-align:right; padding-right:10px; font-size:0.8em">NAACL '21</td>
-    <td><a href="http://dx.doi.org/10.18653/v1/2021.naacl-main.352" style="color:#191970" target="_blank">Linguistic complexity loss in text-based therapy.</a></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td style="padding-bottom:4px"><b>Jason Wei</b>, Kelly Finn, Emma Templeton, Thalia Wheatley, and Soroush Vosoughi.</td>
-  </tr>
-  <tr>
-    <td style="width:80px; text-align:right; padding-right:10px; font-size:0.8em">NAACL '21</td>
-    <td><a href="http://dx.doi.org/10.18653/v1/2021.naacl-main.434" style="color:#191970" target="_blank">Few-shot text classification with triplet networks, data augmentation, and curriculum learning.</a></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td style="padding-bottom:4px"><b>Jason Wei</b>, Chengyu Huang, Soroush Vosoughi, Yu Cheng, and Shiqi Xu.</td>
   </tr>
   
   <tr>

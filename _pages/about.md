@@ -37,7 +37,7 @@ I work on natural language processing at <a href="https://research.google/teams/
   </tr>
   <tr>
     <td></td>
-    <td style="padding-bottom:4px"><b>Jason Wei</b>, Xuezhi Wang, Dale Schuurmans, Maarten Bosma, Ed Chi, Quoc Le, and Denny Zhou.</td>
+    <td><b>Jason Wei</b>, Xuezhi Wang, Dale Schuurmans, Maarten Bosma, Ed Chi, Quoc Le, and Denny Zhou.</td>
   </tr>
   <tr>
     <td></td>

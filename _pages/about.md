@@ -60,6 +60,7 @@ I work on natural language processing at <a href="https://research.google/teams/
   <tr>
     <td></td>
     <td style="padding-bottom:4px"><b>Jason Wei</b>, Dan Garrette, Tal Linzen, and Ellie Pavlick. <a href="https://ai.googleblog.com/2021/12/evaluating-syntactic-abilities-of.html" target="_blank">Google AI blog</a> / <a href="https://screencast-o-matic.com/watch/cr6QnuVXYT1" target="_blank">oral</a></td>
+  </tr>
     
   <tr>
     <td style="width:80px; text-align:right; padding-right:10px; font-size:0.8em">ACL '21</td>
@@ -78,6 +79,7 @@ I work on natural language processing at <a href="https://research.google/teams/
     <td></td>
     <td style="padding-bottom:3px"><b>Jason Wei</b> and Kai Zou.</td>
   </tr>
+  
 </table>
 
 </body>

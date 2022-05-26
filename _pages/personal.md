@@ -4,7 +4,7 @@ permalink: /personal/
 author_profile: true
 ---
 
-I graduated from Dartmouth College in 2020 with the AB in Computer Science. At Dartmouth, I joined the <a href="https://en.wikipedia.org/wiki/Kappa_Pi_Kappa" style="color:navy" target="_blank">Tri-Kap</a> fraternity. I was also on the club <a href="http://www.thedartmouth.com/article/2018/04/dartmouth-fencing-club" style="color:navy" target="_blank">fencing</a> team.
+I graduated with an AB from Dartmouth College in 2020. At Dartmouth, I joined the <a href="https://en.wikipedia.org/wiki/Kappa_Pi_Kappa" style="color:navy" target="_blank">Tri-Kap</a> fraternity. I was also on the club <a href="http://www.thedartmouth.com/article/2018/04/dartmouth-fencing-club" style="color:navy" target="_blank">fencing</a> team.
 
 I grew up in Fairfax County, Virginia. When visiting home, I enjoy playing <a href="https://www.youtube.com/watch?v=AQU5rZ3Ha8A" style="color:navy" target="_blank">tennis</a> with my childhood friends.
 

@@ -30,6 +30,14 @@ table, th, td {
   
   <tr>
     <td style="width:80px; text-align:right; padding-right:10px; font-size:0.8em"> </td>
+    <td><a href="https://arxiv.org/abs/2205.10625" style="color:#191970" target="_blank">Least-to-most prompting enables complex reasoning in large language models.</a></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td style="padding-bottom:4px">D. Zhou, N. Schärli, L. Hou, <b>J. Wei</b>, N. Scales, X. Wang, D. Schuurmans, O. Bousquet, Q. Le, and E. Chi.</td>
+  </tr>
+  <tr>
+    <td style="width:80px; text-align:right; padding-right:10px; font-size:0.8em"> </td>
     <td><a href="https://arxiv.org/abs/2204.02311" style="color:#191970" target="_blank">PaLM: Scaling language modeling with Pathways.</a></td>
   </tr>
   <tr>
@@ -58,7 +66,11 @@ table, th, td {
   </tr>
   <tr>
     <td></td>
-    <td style="padding-bottom:4px"><b>J. Wei</b>, X. Wang, D. Schuurmans, M. Bosma, E. Chi, Q. Le, and D. Zhou.</td>
+    <td><b>J. Wei</b>, X. Wang, D. Schuurmans, M. Bosma, E. Chi, Q. Le, and D. Zhou.</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td style="padding-bottom:4px"><a href="https://twitter.com/Google/status/1525188695875366912" target="_blank">Sundar explains chain of thought prompting at Google I/O 2022</a> / <a href="https://ai.googleblog.com/2022/05/language-models-perform-reasoning-via.html" target="_blank">Google AI blog</a></td>
   </tr>
   <tr>
     <td style="width:80px; text-align:right; padding-right:10px; font-size:0.8em">ACL '22</td>
@@ -70,11 +82,15 @@ table, th, td {
   </tr>
   <tr>
     <td style="width:80px; text-align:right; padding-right:10px; font-size:0.8em">ICLR '22</td>
-    <td><a href="https://openreview.net/forum?id=gEZrGCozdqR" style="color:#191970" target="_blank">Finetuned language models are zero-shot learners</a> (<a href="https://ai.googleblog.com/2021/10/introducing-flan-more-generalizable.html" target="_blank">blog</a>, <a href="https://www.youtube.com/watch?v=iq2kEGanDso" target="_blank">oral</a>).</td>
+    <td><a href="https://openreview.net/forum?id=gEZrGCozdqR" style="color:#191970" target="_blank">Finetuned language models are zero-shot learners.</a></td>
   </tr>
   <tr>
     <td></td>
-    <td style="padding-bottom:4px">{<b>J. Wei</b>, M. Bosma, V. Zhao, K. Guu}, A. Yu, B. Lester, N. Du, A. Dai, and Q. Le.</td>
+    <td>{<b>J. Wei</b>, M. Bosma, V. Zhao, K. Guu}, A. Yu, B. Lester, N. Du, A. Dai, and Q. Le.</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td style="padding-bottom:4px"><a href="https://ai.googleblog.com/2021/10/introducing-flan-more-generalizable.html" target="_blank">Google AI blog</a> / <a href="https://www.youtube.com/watch?v=iq2kEGanDso" target="_blank">oral</a></td>
   </tr>
   <tr>
     <td style="width:80px; text-align:right; padding-right:10px; font-size:0.8em"> ICLR '22</td>
@@ -95,7 +111,11 @@ table, th, td {
   </tr>
   <tr>
     <td></td>
-    <td style="padding-bottom:4px"><b>J. Wei</b>, D. Garrette, T. Linzen, and E. Pavlick. </td>
+    <td><b>J. Wei</b>, D. Garrette, T. Linzen, and E. Pavlick. </td>
+  </tr>
+  <tr>
+    <td></td>
+    <td style="padding-bottom:4px"><a href="https://ai.googleblog.com/2021/12/evaluating-syntactic-abilities-of.html" target="_blank">Google AI blog</a> / <a href="https://screencast-o-matic.com/watch/cr6QnuVXYT1" target="_blank">oral</a></td>
   </tr>
   <tr>
     <td style="width:80px; text-align:right; padding-right:10px; font-size:0.8em">EMNLP '21</td>

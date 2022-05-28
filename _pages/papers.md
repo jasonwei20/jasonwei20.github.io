@@ -107,15 +107,11 @@ table, th, td {
   
   <tr>
     <td style="width:80px; text-align:right; padding-right:10px; font-size:0.8em">EMNLP '21</td>
-    <td><a href="https://aclanthology.org/2021.emnlp-main.72/" style="color:#191970" target="_blank">Frequency effects on syntactic rule learning in transformers</a> (<a href="https://ai.googleblog.com/2021/12/evaluating-syntactic-abilities-of.html" target="_blank">blog</a>, <a href="https://screencast-o-matic.com/watch/cr6QnuVXYT1" target="_blank">oral</a>).</td>
+    <td><a href="https://aclanthology.org/2021.emnlp-main.72/" style="color:#191970" target="_blank">Frequency effects on syntactic rule learning in transformers.</a></td>
   </tr>
   <tr>
     <td></td>
-    <td><b>J. Wei</b>, D. Garrette, T. Linzen, and E. Pavlick. </td>
-  </tr>
-  <tr>
-    <td></td>
-    <td style="padding-bottom:4px"><a href="https://ai.googleblog.com/2021/12/evaluating-syntactic-abilities-of.html" target="_blank">Google AI blog</a> / <a href="https://screencast-o-matic.com/watch/cr6QnuVXYT1" target="_blank">oral</a></td>
+    <td style="padding-bottom:4px"><b>J. Wei</b>, D. Garrette, T. Linzen, and E. Pavlick. <a href="https://ai.googleblog.com/2021/12/evaluating-syntactic-abilities-of.html" target="_blank">Google AI blog</a> / <a href="https://screencast-o-matic.com/watch/cr6QnuVXYT1" target="_blank">oral</a></td>
   </tr>
   <tr>
     <td style="width:80px; text-align:right; padding-right:10px; font-size:0.8em">EMNLP '21</td>

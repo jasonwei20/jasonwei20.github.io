@@ -27,6 +27,15 @@ table, th, td {
     <td style="width:80px; text-align:left; padding-right:10px; font-size:1em"></td>
     <td style="font-size:1.12em; padding-bottom:5px"><u><i>2022</i></u></td>
   </tr>
+    
+  <tr>
+    <td style="width:80px; text-align:right; padding-right:10px; font-size:0.8em"> </td>
+    <td><a href="https://arxiv.org/abs/2206.07682" style="color:#191970" target="_blank">Emergent abilities of large language models.</a></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td style="padding-bottom:4px"><b>J. Wei</b>, Y. Tay, R. Bommasani, C. Raffel, B. Zoph, S. Borgeaud, D. Yogatama, M. Bosma, D. Zhou, D. Metzler, E. Chi, T. Hashimoto, O. Vinyals, P. Liang, J. Dean, and W. Fedus.</td>
+  </tr>
   
   <tr>
     <td style="width:80px; text-align:right; padding-right:10px; font-size:0.8em"> </td>

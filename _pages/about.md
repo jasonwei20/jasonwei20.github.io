@@ -31,6 +31,16 @@ I work on natural language processing at <a href="https://research.google/teams/
 
 <span style="font-size:1.3em">Publications (<a href="https://jasonwei20.github.io/papers/" style="color:#191970">see all</a>)</span>
 <table style="width:100%">
+    
+  <tr>
+    <td style="width:80px; text-align:right; padding-right:10px; font-size:0.8em"> </td>
+    <td><a href="https://arxiv.org/abs/2206.07682" style="color:#191970" target="_blank">Emergent abilities of large language models.</a></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td style="padding-bottom:4px"><b>Jason Wei</b>, Yi Tay, Rishi Bommasani, Colin Raffel, Barret Zoph, Sebastian Borgeaud, Dani Yogatama, Maarten Bosma, Denny Zhou, Donald Metzler, Ed H. Chi, Tatsunori Hashimoto, Oriol Vinyals, Percy Liang, Jeff Dean, and William Fedus.</td>
+  </tr>
+  
   <tr>
     <td style="width:80px; text-align:right; padding-right:10px; font-size:0.8em"> </td>
     <td><a href="https://arxiv.org/abs/2201.11903" style="color:#191970" target="_blank">Chain of thought prompting elicits reasoning in large language models.</a></td>

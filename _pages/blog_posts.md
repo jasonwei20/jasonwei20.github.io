@@ -21,6 +21,14 @@ Blog posts about my life, partially inspired by John Watson's blog from the Sher
 <body>
 <table style="width:100%">
   <tr>
+    <td style="width:40px; text-align:right; padding-right:10px; font-size:0.8em; padding-top:5px">2022</td>
+    <td style="padding-top:5px"><a href="https://jasonwei20.github.io/posts/2022/7/blog-post-21/" style="color:#191970" target="_blank">Spring: 摸鱼</a></td>
+  </tr>
+  <tr>
+    <td style="width:40px; text-align:right; padding-right:10px; font-size:0.8em"> </td>
+    <td><a href="https://jasonwei20.github.io/posts/2022/4/blog-post-20/" style="color:#191970" target="_blank">Winter</a></td>
+  </tr>
+  <tr>
     <td style="width:40px; text-align:right; padding-right:10px; font-size:0.8em; padding-top:5px">2021</td>
     <td style="padding-top:5px"><a href="https://jasonwei20.github.io/posts/2021/12/blog-post-19/" style="color:#191970" target="_blank">Fall</a></td>
   </tr>

@@ -6,7 +6,23 @@ author_profile: true
 
 {% include base_path %}
 
-
+*   Raleigh, North Carolina (Jun 8-12, 2022)
+    *   Duke Gardens  
+    *   North Carolina Zoo
+*   Dublin (May 21 - 28, 2022)
+    *   Dublin Convention Centre for ACL 2022
+    *   Guinness Storehouse Dublin
+*   Zurich (Mar 30 - Apr 1, 2022)
+    *   ETH Zurich
+*   London (Mar 26-30, 2022)
+    *   Cambridge University
+    *   London Eye
+    *   Google London office
+*   Princeton, New Jersey (Mar 23-26, 2022)
+    *   Princeton University
+*   Seattle (Mar 20-23, 2022)
+    *   University of Washington
+    *   Gas Works Park
 *   Big Island, Hawaii (Jan 3-10, 2022)
     *   Hawaii Volcanoes National Park, Kona (Jan 9)
     *   Hilo, Kukuihaele, **Kohala Mountain Road** at sunset (Jan 8)

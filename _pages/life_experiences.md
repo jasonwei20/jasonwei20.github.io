@@ -18,7 +18,11 @@ table, th, td {
 <table style="width:100%">
   <tr>
     <td style="width:40px; text-align:right; padding-right:10px; padding-top:10px">2022</td>
-    <td style="padding-top:10px"><b>Jan 8:</b> Hiking Kohala Mountain Road at sunset</td>
+    <td style="padding-top:10px"><b>May 13:</b> Sundar presented chain-of-thought prompting at Google I/O</td>
+  </tr>
+  <tr>
+    <td style="width:40px; text-align:right; padding-right:10px"></td>
+    <td><b>Jan 8:</b> Hiking Kohala Mountain Road at sunset</td>
   </tr>
   <tr>
     <td style="width:40px; text-align:right; padding-right:10px; padding-top:10px">2021</td>

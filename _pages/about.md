@@ -71,15 +71,6 @@ I am a research scientist living in Mountain View, California. I work at <a href
     <td></td>
     <td style="padding-bottom:4px"><b>Jason Wei</b>, Dan Garrette, Tal Linzen, and Ellie Pavlick. <a href="https://ai.googleblog.com/2021/12/evaluating-syntactic-abilities-of.html" target="_blank">Google AI blog</a> / <a href="https://screencast-o-matic.com/watch/cr6QnuVXYT1" target="_blank">oral</a></td>
   </tr>
-    
-  <tr>
-    <td style="width:80px; text-align:right; padding-right:10px; font-size:0.8em">ACL '21</td>
-    <td><a href="https://aclanthology.org/2021.acl-long.404/" style="color:#191970" target="_blank">A cognitive regularizer for language modeling.</a></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td style="padding-bottom:4px"><b>Jason Wei</b>, Clara Meister, and Ryan Cotterell.</td>
-  </tr>
   
   <tr>
     <td style="width:80px; text-align:right; padding-right:10px; font-size:0.8em">EMNLP '19</td>

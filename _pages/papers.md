@@ -27,15 +27,6 @@ table, th, td {
     <td style="width:80px; text-align:left; padding-right:10px; font-size:1em"></td>
     <td style="font-size:1.12em; padding-bottom:5px"><u><i>2022</i></u></td>
   </tr>
-    
-  <tr>
-    <td style="width:80px; text-align:right; padding-right:10px; font-size:0.8em"> </td>
-    <td><a href="https://arxiv.org/abs/2206.07682" style="color:#191970" target="_blank">Emergent abilities of large language models.</a></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td style="padding-bottom:4px"><b>J. Wei</b>, Y. Tay, R. Bommasani, C. Raffel, B. Zoph, S. Borgeaud, D. Yogatama, M. Bosma, D. Zhou, D. Metzler, E. Chi, T. Hashimoto, O. Vinyals, P. Liang, J. Dean, and W. Fedus.</td>
-  </tr>
   
   <tr>
     <td style="width:80px; text-align:right; padding-right:10px; font-size:0.8em"> </td>
@@ -55,14 +46,6 @@ table, th, td {
   </tr>
   <tr>
     <td style="width:80px; text-align:right; padding-right:10px; font-size:0.8em"> </td>
-    <td><a href="https://jasonwei20.github.io/files/artificial_stream_of_thought.pdf" style="color:#191970" target="_blank">Artificial stream of thought has non-trivial connections to consciousness.</a></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td style="padding-bottom:4px"><b>J. Wei</b>.</td>
-  </tr>
-  <tr>
-    <td style="width:80px; text-align:right; padding-right:10px; font-size:0.8em"> </td>
     <td><a href="https://arxiv.org/abs/2203.11171" style="color:#191970" target="_blank">Self-consistency improves chain of thought reasoning in language models.</a></td>
   </tr>
   <tr>
@@ -75,12 +58,22 @@ table, th, td {
   </tr>
   <tr>
     <td></td>
-    <td><b>J. Wei</b>, X. Wang, D. Schuurmans, M. Bosma, E. Chi, Q. Le, and D. Zhou.</td>
+    <td><b>J. Wei</b>, X. Wang, D. Schuurmans, M. Bosma, B. Ichter, F. Xia, E. Chi, Q. Le, and D. Zhou.</td>
   </tr>
   <tr>
     <td></td>
     <td style="padding-bottom:4px"><a href="https://twitter.com/Google/status/1525188695875366912" target="_blank">Sundar explains chain of thought prompting at Google I/O 2022</a> / <a href="https://ai.googleblog.com/2022/05/language-models-perform-reasoning-via.html" target="_blank">Google AI blog</a></td>
   </tr>
+    
+  <tr>
+    <td style="width:80px; text-align:right; padding-right:10px; font-size:0.8em">TMLR '22</td>
+    <td><a href="https://arxiv.org/abs/2206.07682" style="color:#191970" target="_blank">Emergent abilities of large language models.</a></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td style="padding-bottom:4px"><b>J. Wei</b>, Y. Tay, R. Bommasani, C. Raffel, B. Zoph, S. Borgeaud, D. Yogatama, M. Bosma, D. Zhou, D. Metzler, E. Chi, T. Hashimoto, O. Vinyals, P. Liang, J. Dean, and W. Fedus.</td>
+  </tr>
+  
   <tr>
     <td style="width:80px; text-align:right; padding-right:10px; font-size:0.8em">ACL '22</td>
     <td><a href="https://arxiv.org/pdf/2109.03910" style="color:#191970" target="_blank">A recipe for arbitrary text style transfer with large language models.</a></td>

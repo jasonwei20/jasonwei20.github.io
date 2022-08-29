@@ -67,7 +67,7 @@ table, th, td {
     
   <tr>
     <td style="width:80px; text-align:right; padding-right:10px; font-size:0.8em">TMLR '22</td>
-    <td><a href="https://arxiv.org/abs/2206.07682" style="color:#191970" target="_blank">Emergent abilities of large language models.</a></td>
+    <td><a href="https://openreview.net/pdf?id=yzkSU5zdwD" style="color:#191970" target="_blank">Emergent abilities of large language models.</a></td>
   </tr>
   <tr>
     <td></td>

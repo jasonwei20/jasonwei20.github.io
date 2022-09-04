@@ -37,12 +37,8 @@ I am a research scientist at <a href="https://en.wikipedia.org/wiki/Google_Brain
     <td><a href="https://arxiv.org/abs/2201.11903" style="color:#191970" target="_blank">Chain of thought prompting elicits reasoning in large language models.</a></td>
   </tr>
   <tr>
-    <td></td>    
-    <td><b>Jason Wei</b>, Xuezhi Wang, Dale Schuurmans, Maarten Bosma, Brain Ichter, Fei Xia, Ed Chi, Quoc Le, and Denny Zhou.</td>
-  </tr>
-  <tr>
     <td></td>
-    <td style="padding-bottom:4px"><a href="https://twitter.com/Google/status/1525188695875366912" target="_blank">Sundar explains chain of thought prompting at Google I/O 2022</a> / <a href="https://ai.googleblog.com/2022/05/language-models-perform-reasoning-via.html" target="_blank">Google AI blog</a></td>
+    <td style="padding-bottom:4px"><b>Jason Wei</b>, Xuezhi Wang, Dale Schuurmans, Maarten Bosma, Brain Ichter, Fei Xia, Ed Chi, Quoc Le, and Denny Zhou. <a href="https://twitter.com/Google/status/1525188695875366912" target="_blank">Sundar explains chain of thought prompting at Google I/O 2022</a> / <a href="https://ai.googleblog.com/2022/05/language-models-perform-reasoning-via.html" target="_blank">Google AI blog</a></td>
   </tr>
     
   <tr>

@@ -6,10 +6,14 @@ author_profile: true
 
 {% include base_path %}
 
+*   Singapore (Aug 25 - Sep 2, 2022)
+    *   Marina Bay Sands, Singapore Airlines flight
+    *   Gardens by the Bay, Chijmes, Southern Ridges
+    *   Lau Pa Sat, Maxwell Hawker Center
 *   Raleigh, North Carolina (Jun 8-12, 2022)
     *   Duke Gardens  
     *   North Carolina Zoo
-*   Dublin (May 21 - 28, 2022)
+*   Dublin (May 21-28, 2022)
     *   Dublin Convention Centre for ACL 2022
     *   Guinness Storehouse Dublin
 *   Zurich (Mar 30 - Apr 1, 2022)

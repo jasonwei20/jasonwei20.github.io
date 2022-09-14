@@ -47,7 +47,7 @@ I am a research scientist at <a href="https://en.wikipedia.org/wiki/Google_Brain
   </tr>
   <tr>
     <td></td>
-    <td style="padding-bottom:4px"><b>Jason Wei</b>, Yi Tay, Rishi Bommasani, Colin Raffel, Barret Zoph, Sebastian Borgeaud, Dani Yogatama, Maarten Bosma, Denny Zhou, Donald Metzler, Ed H. Chi, Tatsunori Hashimoto, Oriol Vinyals, Percy Liang, Jeff Dean, and William Fedus.</td>
+    <td style="padding-bottom:4px"><b>Jason Wei</b>, Yi Tay, Rishi Bommasani, Colin Raffel, Barret Zoph, Sebastian Borgeaud, Dani Yogatama, Maarten Bosma, Denny Zhou, Donald Metzler, Ed H. Chi, Tatsunori Hashimoto, Oriol Vinyals, Percy Liang, Jeff Dean, and William Fedus. <a href="https://hai.stanford.edu/news/examining-emergent-abilities-large-language-models" target="_blank">Stanford HAI blog</a></td>
   </tr>
   
   <tr>

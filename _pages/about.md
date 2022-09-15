@@ -31,15 +31,6 @@ I am a research scientist at <a href="https://en.wikipedia.org/wiki/Google_Brain
 
 <span style="font-size:1.3em">Publications (<a href="https://jasonwei20.github.io/papers/" style="color:#191970">see all</a>)</span>
 <table style="width:100%">
-  
-  <tr>
-    <td style="width:80px; text-align:right; padding-right:10px; font-size:0.8em"> </td>
-    <td><a href="https://arxiv.org/abs/2201.11903" style="color:#191970" target="_blank">Chain of thought prompting elicits reasoning in large language models.</a></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td style="padding-bottom:4px"><b>Jason Wei</b>, Xuezhi Wang, Dale Schuurmans, Maarten Bosma, Brain Ichter, Fei Xia, Ed Chi, Quoc Le, and Denny Zhou. <a href="https://twitter.com/Google/status/1525188695875366912" target="_blank">Sundar explains chain of thought prompting at Google I/O 2022</a> / <a href="https://ai.googleblog.com/2022/05/language-models-perform-reasoning-via.html" target="_blank">Google AI blog</a></td>
-  </tr>
     
   <tr>
     <td style="width:80px; text-align:right; padding-right:10px; font-size:0.8em">TMLR '22 </td>
@@ -48,6 +39,15 @@ I am a research scientist at <a href="https://en.wikipedia.org/wiki/Google_Brain
   <tr>
     <td></td>
     <td style="padding-bottom:4px"><b>Jason Wei</b>, Yi Tay, Rishi Bommasani, Colin Raffel, Barret Zoph, Sebastian Borgeaud, Dani Yogatama, Maarten Bosma, Denny Zhou, Donald Metzler, Ed H. Chi, Tatsunori Hashimoto, Oriol Vinyals, Percy Liang, Jeff Dean, and William Fedus. <a href="https://hai.stanford.edu/news/examining-emergent-abilities-large-language-models" target="_blank">Stanford HAI blog</a></td>
+  </tr>
+  
+  <tr>
+    <td style="width:80px; text-align:right; padding-right:10px; font-size:0.8em">NeurIPS '22</td>
+    <td><a href="https://arxiv.org/abs/2201.11903" style="color:#191970" target="_blank">Chain of thought prompting elicits reasoning in large language models.</a></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td style="padding-bottom:4px"><b>Jason Wei</b>, Xuezhi Wang, Dale Schuurmans, Maarten Bosma, Brain Ichter, Fei Xia, Ed Chi, Quoc Le, and Denny Zhou. <a href="https://twitter.com/Google/status/1525188695875366912" target="_blank">Sundar explains chain of thought prompting at Google I/O 2022</a> / <a href="https://ai.googleblog.com/2022/05/language-models-perform-reasoning-via.html" target="_blank">Google AI blog</a></td>
   </tr>
   
   <tr>

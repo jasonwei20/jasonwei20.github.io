@@ -52,8 +52,18 @@ table, th, td {
     <td></td>
     <td style="padding-bottom:4px">X. Wang, <b>J. Wei</b>, D. Schuurmans, Q. Le, E. Chi, S. Narang, A. Chowdhery, and D. Zhou.</td>
   </tr>
+    
   <tr>
-    <td style="width:80px; text-align:right; padding-right:10px; font-size:0.8em"> </td>
+    <td style="width:80px; text-align:right; padding-right:10px; font-size:0.8em">TMLR '22</td>
+    <td><a href="https://openreview.net/pdf?id=yzkSU5zdwD" style="color:#191970" target="_blank">Emergent abilities of large language models.</a></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td style="padding-bottom:4px"><b>J. Wei</b>, Y. Tay, R. Bommasani, C. Raffel, B. Zoph, S. Borgeaud, D. Yogatama, M. Bosma, D. Zhou, D. Metzler, E. Chi, T. Hashimoto, O. Vinyals, P. Liang, J. Dean, and W. Fedus.</td>
+  </tr>
+  
+  <tr>
+    <td style="width:80px; text-align:right; padding-right:10px; font-size:0.8em">NeurIPS '22</td>
     <td><a href="https://arxiv.org/abs/2201.11903" style="color:#191970" target="_blank">Chain of thought prompting elicits reasoning in large language models.</a></td>
   </tr>
   <tr>
@@ -63,15 +73,6 @@ table, th, td {
   <tr>
     <td></td>
     <td style="padding-bottom:4px"><a href="https://twitter.com/Google/status/1525188695875366912" target="_blank">Sundar explains chain of thought prompting at Google I/O 2022</a> / <a href="https://ai.googleblog.com/2022/05/language-models-perform-reasoning-via.html" target="_blank">Google AI blog</a></td>
-  </tr>
-    
-  <tr>
-    <td style="width:80px; text-align:right; padding-right:10px; font-size:0.8em">TMLR '22</td>
-    <td><a href="https://openreview.net/pdf?id=yzkSU5zdwD" style="color:#191970" target="_blank">Emergent abilities of large language models.</a></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td style="padding-bottom:4px"><b>J. Wei</b>, Y. Tay, R. Bommasani, C. Raffel, B. Zoph, S. Borgeaud, D. Yogatama, M. Bosma, D. Zhou, D. Metzler, E. Chi, T. Hashimoto, O. Vinyals, P. Liang, J. Dean, and W. Fedus.</td>
   </tr>
   
   <tr>

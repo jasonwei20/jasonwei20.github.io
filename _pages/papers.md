@@ -64,7 +64,7 @@ table, th, td {
   
   <tr>
     <td style="width:80px; text-align:right; padding-right:10px; font-size:0.8em">NeurIPS '22</td>
-    <td><a href="https://arxiv.org/abs/2201.11903" style="color:#191970" target="_blank">Chain of thought prompting elicits reasoning in large language models.</a></td>
+    <td><a href="https://arxiv.org/abs/2201.11903" style="color:#191970" target="_blank">Chain-of-thought prompting elicits reasoning in large language models.</a></td>
   </tr>
   <tr>
     <td></td>

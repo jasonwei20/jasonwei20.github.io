@@ -59,7 +59,11 @@ table, th, td {
   </tr>
   <tr>
     <td></td>
-    <td style="padding-bottom:4px"><b>J. Wei</b>, Y. Tay, R. Bommasani, C. Raffel, B. Zoph, S. Borgeaud, D. Yogatama, M. Bosma, D. Zhou, D. Metzler, E. Chi, T. Hashimoto, O. Vinyals, P. Liang, J. Dean, and W. Fedus. <a href="https://hai.stanford.edu/news/examining-emergent-abilities-large-language-models" target="_blank">Stanford HAI blog</a></td>
+    <td style="padding-bottom:4px"><b>J. Wei</b>, Y. Tay, R. Bommasani, C. Raffel, B. Zoph, S. Borgeaud, D. Yogatama, M. Bosma, D. Zhou, D. Metzler, E. Chi, T. Hashimoto, O. Vinyals, P. Liang, J. Dean, and W. Fedus.</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td style="padding-bottom:4px"><a href="https://hai.stanford.edu/news/examining-emergent-abilities-large-language-models" target="_blank">Stanford HAI blog</a></td>
   </tr>
   
   <tr>

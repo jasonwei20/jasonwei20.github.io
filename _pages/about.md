@@ -29,7 +29,7 @@ I am a research scientist at <a href="https://en.wikipedia.org/wiki/Google_Brain
 | <a href="https://twitter.com/_jasonwei" style="color:#191970" target="_blank">Twitter</a> 
 </p>
 
-<span style="font-size:1.3em">Publications (<a href="https://jasonwei20.github.io/papers/" style="color:#191970">see all</a>)</span>
+<span style="font-size:1.3em">Papers (<a href="https://jasonwei20.github.io/papers/" style="color:#191970">see all</a>)</span>
 <table style="width:100%">
     
   <tr>

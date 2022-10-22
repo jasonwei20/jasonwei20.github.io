@@ -35,7 +35,7 @@ table, th, td {
   </tr>
   <tr>
     <td></td>
-    <td style="padding-bottom:4px">{H. Chung, L. Hou, S. Longpre}, B. Zoph, Y. Tay, W. Fedus, Y. Li, X. Wang, M. Dehghani, S. Brahma, A. Webson, S. Gu, Z. Dai, M. Suzgun, X. Chen, A. Chowdhery, S. Narang, G. Mishra, A. Yu, V. Zhao, Y. Huang, A. Dai, H. Yu, S. Petrov, E. Chi, J. Dean, J. Devlin, A. Roberts, D. Zhou, Q. Le, and <b>J. Wei.</b></td>
+    <td style="padding-bottom:4px">{H. W. Chung, L. Hou, S. Longpre}, B. Zoph, Y. Tay, W. Fedus, Y. Li, X. Wang, M. Dehghani, S. Brahma, A. Webson, S. Gu, Z. Dai, M. Suzgun, X. Chen, A. Chowdhery, S. Narang, G. Mishra, A. Yu, V. Zhao, Y. Huang, A. Dai, H. Yu, S. Petrov, E. Chi, J. Dean, J. Devlin, A. Roberts, D. Zhou, Q. Le, and <b>J. Wei.</b></td>
   </tr>
   <tr>
     <td style="width:80px; text-align:right; padding-right:10px; font-size:0.8em"> </td>
@@ -43,7 +43,7 @@ table, th, td {
   </tr>
   <tr>
     <td></td>
-    <td style="padding-bottom:4px">Y. Tay, <b>J. Wei</b>, H. Chung, V. Tran, D. So, S. Shakeri, X. Garcia, H. Zheng, J. Rao, A. Chowdhery, D. Zhou, D. Metzler, S. Petrov, N. Houlsby, Q. Le, and M. Dehghani.</td>
+    <td style="padding-bottom:4px">Y. Tay, <b>J. Wei</b>, H. W. Chung, V. Tran, D. So, S. Shakeri, X. Garcia, H. Zheng, J. Rao, A. Chowdhery, D. Zhou, D. Metzler, S. Petrov, N. Houlsby, Q. Le, and M. Dehghani.</td>
   </tr>
   <tr>
     <td style="width:80px; text-align:right; padding-right:10px; font-size:0.8em"> </td>
@@ -51,7 +51,7 @@ table, th, td {
   </tr>
   <tr>
     <td></td>
-    <td style="padding-bottom:4px">M. Suzgun, N. Scales, N. Schärli, S. Gehrmann, Y. Tay, H. Chung, A. Chowdhery, Q. Le, E. Chi, D. Zhou, and <b>J. Wei.</b></td>
+    <td style="padding-bottom:4px">M. Suzgun, N. Scales, N. Schärli, S. Gehrmann, Y. Tay, H. W. Chung, A. Chowdhery, Q. V. Le, E. Chi, D. Zhou, and <b>J. Wei.</b></td>
   </tr>
   <tr>
     <td style="width:80px; text-align:right; padding-right:10px; font-size:0.8em"> </td>
@@ -67,7 +67,7 @@ table, th, td {
   </tr>
   <tr>
     <td></td>
-    <td style="padding-bottom:4px">{F. Shi, M. Suzgun}, M. Freitag, X. Wang, S. Srivats, S. Vosoughi, H. Chung, Y. Tay, S. Ruder, D. Zhou, D. Das, and <b>J. Wei.</b></td>
+    <td style="padding-bottom:4px">{F. Shi, M. Suzgun}, M. Freitag, X. Wang, S. Srivats, S. Vosoughi, H. W. Chung, Y. Tay, S. Ruder, D. Zhou, D. Das, and <b>J. Wei.</b></td>
   </tr>
   <tr>
     <td style="width:80px; text-align:right; padding-right:10px; font-size:0.8em"> </td>
@@ -75,7 +75,7 @@ table, th, td {
   </tr>
   <tr>
     <td></td>
-    <td style="padding-bottom:4px">Y. Tay, M. Dehghani, V. Tran, X. Garcia, J. Wei, X. Wang, H. Chung, D. Bahri, T. Schuster, H. Zheng, D. Zhou, N. Houlsby, and D. Metzler.</td>
+    <td style="padding-bottom:4px">Y. Tay, M. Dehghani, V. Tran, X. Garcia, <b>J. Wei</b>, X. Wang, H. Chung, D. Bahri, T. Schuster, H. Zheng, D. Zhou, N. Houlsby, and D. Metzler.</td>
   </tr>
   <tr>
     <td style="width:80px; text-align:right; padding-right:10px; font-size:0.8em"> </td>

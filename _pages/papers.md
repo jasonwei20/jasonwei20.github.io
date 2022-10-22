@@ -28,6 +28,55 @@ table, th, td {
     <td style="font-size:1.12em; padding-bottom:5px"><u><i>2022</i></u></td>
   </tr>
   
+  
+  <tr>
+    <td style="width:80px; text-align:right; padding-right:10px; font-size:0.8em"> </td>
+    <td><a href="https://arxiv.org/abs/2210.09261" style="color:#191970" target="_blank">Scaling instruction-finetuned language models.</a></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td style="padding-bottom:4px">{H. Chung, L. Hou, S. Longpre}, B. Zoph, Y. Tay, W. Fedus, Y. Li, X. Wang, M. Dehghani, S. Brahma, A. Webson, S. Gu, Z. Dai, M. Suzgun, X. Chen, A. Chowdhery, S. Narang, G. Mishra, A. Yu, V. Zhao, Y. Huang, A. Dai, H. Yu, S. Petrov, E. Chi, J. Dean, J. Devlin, A. Roberts, D. Zhou, Q. Le, and <b>J. Wei.</b></td>
+  </tr>
+  <tr>
+    <td style="width:80px; text-align:right; padding-right:10px; font-size:0.8em"> </td>
+    <td><a href="https://arxiv.org/abs/2210.09261" style="color:#191970" target="_blank">Transcending scaling laws with 0.1% extra compute.</a></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td style="padding-bottom:4px">Y. Tay, <b>J. Wei</b>, H. Chung, V. Tran, D. So, S. Shakeri, X. Garcia, H. Zheng, J. Rao, A. Chowdhery, D. Zhou, D. Metzler, S. Petrov, N. Houlsby, Q. Le, and M. Dehghani.</td>
+  </tr>
+  <tr>
+    <td style="width:80px; text-align:right; padding-right:10px; font-size:0.8em"> </td>
+    <td><a href="https://arxiv.org/abs/2210.09261" style="color:#191970" target="_blank">Challenging BIG-Bench tasks and whether chain-of-thought can solve them.</a></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td style="padding-bottom:4px">M. Suzgun, N. Scales, N. Schärli, S. Gehrmann, Y. Tay, H. Chung, A. Chowdhery, Q. Le, E. Chi, D. Zhou, and <b>J. Wei.</b></td>
+  </tr>
+  <tr>
+    <td style="width:80px; text-align:right; padding-right:10px; font-size:0.8em"> </td>
+    <td><a href="https://arxiv.org/abs/2210.05359" style="color:#191970" target="_blank">Mind's Eye: Grounded language model reasoning through simulation.</a></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td style="padding-bottom:4px">R. Liu, <b>J. Wei</b>, S. Gu, T. Wu, S. Vosoughi, C. Cui, D. Zhou, and A. Dai.</td>
+  </tr>
+  <tr>
+    <td style="width:80px; text-align:right; padding-right:10px; font-size:0.8em"> </td>
+    <td><a href="https://arxiv.org/abs/2210.03057" style="color:#191970" target="_blank">Language models are multilingual chain-of-thought reasoners.</a></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td style="padding-bottom:4px">{F. Shi, M. Suzgun}, M. Freitag, X. Wang, S. Srivats, S. Vosoughi, H. Chung, Y. Tay, S. Ruder, D. Zhou, D. Das, and <b>J. Wei.</b></td>
+  </tr>
+  <tr>
+    <td style="width:80px; text-align:right; padding-right:10px; font-size:0.8em"> </td>
+    <td><a href="https://arxiv.org/abs/2205.05131" style="color:#191970" target="_blank">UL2: Unifying language learning paradigms.</a></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td style="padding-bottom:4px">Y. Tay, M. Dehghani, V. Tran, X. Garcia, J. Wei, X. Wang, H. Chung, D. Bahri, T. Schuster, H. Zheng, D. Zhou, N. Houlsby, and D. Metzler.</td>
+  </tr>
   <tr>
     <td style="width:80px; text-align:right; padding-right:10px; font-size:0.8em"> </td>
     <td><a href="https://arxiv.org/abs/2205.10625" style="color:#191970" target="_blank">Least-to-most prompting enables complex reasoning in large language models.</a></td>

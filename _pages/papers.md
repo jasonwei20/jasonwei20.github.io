@@ -31,7 +31,7 @@ table, th, td {
   
   <tr>
     <td style="width:80px; text-align:right; padding-right:10px; font-size:0.8em"> </td>
-    <td><a href="https://arxiv.org/abs/2210.09261" style="color:#191970" target="_blank">Scaling instruction-finetuned language models.</a></td>
+    <td><a href="https://arxiv.org/abs/2210.11416" style="color:#191970" target="_blank">Scaling instruction-finetuned language models.</a></td>
   </tr>
   <tr>
     <td></td>
@@ -39,7 +39,7 @@ table, th, td {
   </tr>
   <tr>
     <td style="width:80px; text-align:right; padding-right:10px; font-size:0.8em"> </td>
-    <td><a href="https://arxiv.org/abs/2210.09261" style="color:#191970" target="_blank">Transcending scaling laws with 0.1% extra compute.</a></td>
+    <td><a href="https://arxiv.org/abs/2210.11399" style="color:#191970" target="_blank">Transcending scaling laws with 0.1% extra compute.</a></td>
   </tr>
   <tr>
     <td></td>

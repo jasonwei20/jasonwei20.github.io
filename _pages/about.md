@@ -7,6 +7,7 @@ redirect_from:
   - /about/
   - /about.html
   - /research/
+redirect_to: "http://jasonwei.net"
 ---
 
 <html>

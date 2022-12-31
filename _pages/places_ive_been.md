@@ -6,6 +6,13 @@ author_profile: true
 
 {% include base_path %}
 
+
+*   Portugal (Dec 18 - Dec 28, 2022)
+    *   Lisbon, Chapel of Bones, Porto
+*   New Orleans (Nov 27 - Dec 4, 2022)
+    *   New Orleans Convention Center
+*   Los Angeles (Nov 8 - 10, 2022)
+    *   Loews Santa Monica Beach Hotel
 *   Singapore (Aug 25 - Sep 2, 2022)
     *   Marina Bay Sands, Singapore Airlines flight
     *   Gardens by the Bay, Chijmes, Southern Ridges

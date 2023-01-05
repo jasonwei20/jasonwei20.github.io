@@ -40,19 +40,16 @@ class Node:
         self.right = None
     
     def insert_element(self, element):  # Insert in binary tree.
-        if self.data == None:
-            self.data = element
-        else:
-            if element < self.data:
-                if self.left == None:
-                    self.left = Node(element)
-                else:
-                    self.left.insert_element(element)
-            elif element > self.data:
-                if self.right == None:
-                    self.right = Node(element)
-                else:
-                    self.right.insert_element(element)
+        if element < self.data:
+            if self.left == None:
+                self.left = Node(element)
+            else:
+                self.left.insert_element(element)
+        elif element > self.data:
+            if self.right == None:
+                self.right = Node(element)
+            else:
+                self.right.insert_element(element)
     
     def target_in_tree(self, target):  # Only works for binary search tree.
         if self.data == target:

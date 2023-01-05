@@ -39,34 +39,37 @@ class Node:
         self.left = None
         self.right = None
     
-    def insert_element(self, element):  # Insert in binary tree.
-        if element < self.data:
-            if self.left == None:
-                self.left = Node(element)
-            else:
-                self.left.insert_element(element)
-        elif element > self.data:
-            if self.right == None:
-                self.right = Node(element)
-            else:
-                self.right.insert_element(element)
     
-    def target_in_tree(self, target):  # Only works for binary search tree.
-        if self.data == target:
-            return True
-        elif target < self.data:
-            if self.left is not None:
-                return self.left.target_in_tree(target)
-        elif target > self.data:
-            if self.right is not None:
-                return self.right.target_in_tree(target)
+def insert_element(node, element):  # Insert in binary tree.
+    if node == None:
+        print(f'added {element}')
+        return Node(element)
+    else:
+        if element < node.data:
+            if node.left == None:
+                node.left = Node(element)
+            else:
+                insert_element(node.left, element)
+        elif element >= node.data:
+            if node.right == None:
+                node.right = Node(element)
+            else:
+                insert_element(node.right, element)
+
+
+def target_in_tree(node, target):  # Only works for binary search tree.
+    if node == None:
         return False
-    
-    def print_in_order(self):
-        if self != None:
-            if self.left != None:
-                self.left.print_in_order()
-            print(self.data)
-            if self.right:
-                self.right.print_in_order()
+    elif node.data == target:
+        return True
+    elif target < node.data:
+        return target_in_tree(node.left, target)
+    elif target > node.data:
+        return target_in_tree(node.right, target)
+
+def print_inorder(node):
+    if node != None:
+        print_inorder(node.left)
+        print(node.data)
+        print_inorder(node.right)
 ```

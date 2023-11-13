@@ -6,7 +6,14 @@ author_profile: true
 
 {% include base_path %}
 
-
+*   Seoul, Korea (Nov 6 - Nov 14, 2023)
+    *   **Signiel Seoul**, Lotte World Mall
+    *   **Yangjaecheon stream**
+    *   Starfield Coex Mall, Apgujeong Rodeo Street
+    *   Gyeongbokgung palace, Golden Spa (Jimjilbang), **Pyeongyang-jib BBQ**
+    *   Kyobo bookstore, **Gwangjang market**
+    *   Yangpyeong Dumulmeori
+*   Honolulu, Hawaii
 *   Portugal (Dec 18 - Dec 28, 2022)
     *   Lisbon, Chapel of Bones, Porto
 *   New Orleans (Nov 27 - Dec 4, 2022)

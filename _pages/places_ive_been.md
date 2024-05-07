@@ -6,6 +6,16 @@ author_profile: true
 
 {% include base_path %}
 
+*   Rome (Mar 15 - Mar 26, 2024)
+    *   Pantheon Iconic Rome Hotel
+    *   Mar 18: Pantheon, Trevi Fountain, Monument to Victor Emmanuel II, Roman Forum
+    *   Mar 19: Piazza di Siena, Spanish Steps
+    *   Mar 20: Six senses hotel spa
+    *   Mar 21: Pompeii and Napoli
+    *   Mar 25: Vatican Museum
+*   Korea & Singapore (Dec 1 - Dec 12, 2023)
+    *   Kensington Hotel Pyeongchang (Brainlink conference), Woljeongsa Temple
+    *   Marina Bay Sands, Capri by Fraser
 *   Seoul, Korea (Nov 6 - Nov 14, 2023)
     *   **Signiel Seoul**, Lotte World Mall
     *   **Yangjaecheon stream**

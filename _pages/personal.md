@@ -40,10 +40,6 @@ table, th, td {
     <td style="width:40px; text-align:right; padding-right:10px; padding-top:10px"></td>
     <td>Quarterly <a href="https://jasonwei20.github.io/blog_posts/" style="color:navy">blog posts</a> about my personal life.</td>
   </tr>
-  <tr>
-    <td style="width:40px; text-align:right; padding-right:10px; padding-top:10px"></td>
-    <td>My research career is a function of these <a href="https://jasonwei20.github.io/thanks/" style="color:navy">people</a>.</td>
-  </tr>
 </table>
 </body>
 </html>

@@ -21,6 +21,10 @@ Blog posts about my life, partially inspired by John Watson's blog from the Sher
 <body>
 <table style="width:100%">
   <tr>
+    <td style="width:40px; text-align:right; padding-right:10px; font-size:0.8em; padding-top:5px">2025</td>
+    <td style="padding-top:5px"><a href="https://jasonwei20.github.io//posts/2025/04/blog-post-26/" style="color:#191970" target="_blank">Winter beginnings</a></td>
+  </tr>
+  <tr>
     <td style="width:40px; text-align:right; padding-right:10px; font-size:0.8em; padding-top:5px">2024</td>
     <td style="padding-top:5px"><a href="https://jasonwei20.github.io/posts/2024/12/blog-post-25/" style="color:#191970" target="_blank">The year of 2024</a></td>
   </tr>

@@ -6,6 +6,9 @@ author_profile: true
 
 {% include base_path %}
 
+*   Singapore and Bali (Apr 17 - Apr 30, 2024)
+*   Vancouver (Dec 10 - Dec 16, 2024)
+*   Vienna (May 6 - May 13, 2024)
 *   Rome (Mar 15 - Mar 26, 2024)
     *   Pantheon Iconic Rome Hotel
     *   Mar 18: Pantheon, Trevi Fountain, Monument to Victor Emmanuel II, Roman Forum
@@ -23,7 +26,9 @@ author_profile: true
     *   Gyeongbokgung palace, Golden Spa (Jimjilbang), **Pyeongyang-jib BBQ**
     *   Kyobo bookstore, **Gwangjang market**
     *   Yangpyeong Dumulmeori
-*   Honolulu, Hawaii
+*   Honolulu, Hawaii (Jul 22 - Jul 30, 2023)
+    *   Cruise on
+    *   Waikiki Beach
 *   Portugal (Dec 18 - Dec 28, 2022)
     *   Lisbon, Chapel of Bones, Porto
 *   New Orleans (Nov 27 - Dec 4, 2022)

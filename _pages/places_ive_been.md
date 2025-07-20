@@ -27,7 +27,7 @@ author_profile: true
     *   Kyobo bookstore, **Gwangjang market**
     *   Yangpyeong Dumulmeori
 *   Honolulu, Hawaii (Jul 22 - Jul 30, 2023)
-    *   Cruise on
+    *   Cruise on Vida Mia (the White Lotus Yacht)
     *   Waikiki Beach
 *   Portugal (Dec 18 - Dec 28, 2022)
     *   Lisbon, Chapel of Bones, Porto

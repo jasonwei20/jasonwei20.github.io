@@ -17,6 +17,22 @@ table, th, td {
 <body>
 <table style="width:100%">
   <tr>
+    <td style="width:40px; text-align:right; padding-right:10px; padding-top:10px">2023</td>
+    <td style="padding-top:10px"><b>Nov:</b> Attending a conference in Pyeongchang and visiting the local Woljeongsa Temple</td>
+  </tr>
+  <tr>
+    <td style="width:40px; text-align:right; padding-right:10px"></td>
+    <td><b>Sep:</b> Going to the Golden Spa Jimjilbang and eating Pyeongyang-jib BBQ after</td>
+  </tr>
+  <tr>
+    <td style="width:40px; text-align:right; padding-right:10px"></td>
+    <td><b>Sep:</b> Staying at Signiel Seoul; having lunch with Hyung Won's parents</td>
+  </tr>
+  <tr>
+    <td style="width:40px; text-align:right; padding-right:10px"></td>
+    <td><b>May:</b> Racing the post-training team in at Sam Altman's ranch</td>
+  </tr>
+  <tr>
     <td style="width:40px; text-align:right; padding-right:10px; padding-top:10px">2022</td>
     <td style="padding-top:10px"><b>May 13:</b> Sundar presented chain-of-thought prompting at Google I/O</td>
   </tr>

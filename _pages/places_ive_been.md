@@ -6,7 +6,7 @@ author_profile: true
 
 {% include base_path %}
 
-*   Singapore and Bali (Apr 17 - Apr 30, 2024)
+*   Singapore and Bali (Apr 17 - Apr 30, 2025)
 *   Vancouver (Dec 10 - Dec 16, 2024)
 *   Vienna (May 6 - May 13, 2024)
 *   Rome (Mar 15 - Mar 26, 2024)

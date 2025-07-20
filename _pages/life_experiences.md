@@ -18,19 +18,31 @@ table, th, td {
 <table style="width:100%">
   <tr>
     <td style="width:40px; text-align:right; padding-right:10px; padding-top:10px">2023</td>
-    <td style="padding-top:10px"><b>Nov:</b> Attending a conference in Pyeongchang and visiting the local Woljeongsa Temple</td>
+    <td style="padding-top:10px"><b>Dec 3:</b> Attending a conference in Pyeongchang and visiting the local Woljeongsa Temple</td>
   </tr>
   <tr>
     <td style="width:40px; text-align:right; padding-right:10px"></td>
-    <td><b>Sep:</b> Going to the Golden Spa Jimjilbang and eating Pyeongyang-jib BBQ after</td>
+    <td><b>Nov 20:</b> Rally with OpenAI colleagues during Sam Altman's firing</td>
   </tr>
   <tr>
     <td style="width:40px; text-align:right; padding-right:10px"></td>
-    <td><b>Sep:</b> Staying at Signiel Seoul; having lunch with Hyung Won's parents</td>
+    <td><b>Nov 12:</b> Having lunch with Hyung Won's parents</td>
   </tr>
   <tr>
     <td style="width:40px; text-align:right; padding-right:10px"></td>
-    <td><b>May:</b> Racing the post-training team in at Sam Altman's ranch</td>
+    <td><b>Nov 11:</b> Going to the Golden Spa Jimjilbang then eating Pyeongyang-jib BBQ after</td>
+  </tr>
+  <tr>
+    <td style="width:40px; text-align:right; padding-right:10px"></td>
+    <td><b>Aug 19:</b> Seeing The Strokes concert in New York</td>
+  </tr>
+  <tr>
+    <td style="width:40px; text-align:right; padding-right:10px"></td>
+    <td><b>Jul 22:</b> Surfing on Waikiki beach</td>
+  </tr>
+  <tr>
+    <td style="width:40px; text-align:right; padding-right:10px"></td>
+    <td><b>Jul 10:</b> Racing the post-training team in at Sam Altman's ranch</td>
   </tr>
   <tr>
     <td style="width:40px; text-align:right; padding-right:10px; padding-top:10px">2022</td>

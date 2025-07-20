@@ -17,6 +17,34 @@ table, th, td {
 <body>
 <table style="width:100%">
   <tr>
+    <td style="width:40px; text-align:right; padding-right:10px; padding-top:10px">2025</td>
+    <td style="padding-top:10px"><b>Jul 19:</b> Throwing a rager at Futurehouse's speakeasy</td>
+  </tr>
+  <tr>
+    <td style="width:40px; text-align:right; padding-right:10px; padding-top:10px">2024</td>
+    <td style="padding-top:10px"><b>Dec 5:</b> Being on the o1 launch video with Sam Altman</td>
+  </tr>
+  <tr>
+    <td style="width:40px; text-align:right; padding-right:10px"></td>
+    <td><b>Sep 12:</b> Helping launch o1-preview</td>
+  </tr>
+  <tr>
+    <td style="width:40px; text-align:right; padding-right:10px"></td>
+    <td><b>Jul 4:</b> Watching Messi play in Argentina vs Equador Copa America (he missed the panenka!)</td>
+  </tr>
+  <tr>
+    <td style="width:40px; text-align:right; padding-right:10px"></td>
+    <td><b>Jun 10:</b> Beautiful dinner with Hugh Zhang and Tim Brooks at Scale AI Basecamp in Napa</td>
+  </tr>
+  <tr>
+    <td style="width:40px; text-align:right; padding-right:10px"></td>
+    <td><b>May 12:</b> Going out to a speakeasy and dance bar in Vienna</td>
+  </tr>
+  <tr>
+    <td style="width:40px; text-align:right; padding-right:10px"></td>
+    <td><b>Mar 20:</b> Bathing in a beautiful roman spa (Six Senses Rome)</td>
+  </tr>
+  <tr>
     <td style="width:40px; text-align:right; padding-right:10px; padding-top:10px">2023</td>
     <td style="padding-top:10px"><b>Dec 3:</b> Attending a conference in Pyeongchang and visiting the local Woljeongsa Temple</td>
   </tr>

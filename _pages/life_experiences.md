@@ -18,7 +18,11 @@ table, th, td {
 <table style="width:100%">
   <tr>
     <td style="width:40px; text-align:right; padding-right:10px; padding-top:10px">2025</td>
-    <td style="padding-top:10px"><b>Jul 19:</b> Throwing a birthday rager with Jerry at Futurehouse's speakeasy</td>
+    <td style="padding-top:10px"><b>Oct 18:</b> Hosting an AI race (pull up, tug of war, race, and capture the flag) </td>
+  </tr>
+  <tr>
+    <td style="width:40px; text-align:right; padding-right:10px"></td>
+    <td><b>Jul 19: </b>Throwing a birthday rager with Jerry at Futurehouse's speakeasy </td>
   </tr>
   <tr>
     <td style="width:40px; text-align:right; padding-right:10px; padding-top:10px">2024</td>

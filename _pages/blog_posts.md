@@ -22,7 +22,11 @@ Blog posts about my life, partially inspired by John Watson's blog from the Sher
 <table style="width:100%">
   <tr>
     <td style="width:40px; text-align:right; padding-right:10px; font-size:0.8em; padding-top:5px">2025</td>
-    <td style="padding-top:5px"><a href="https://jasonwei20.github.io/posts/2025/9/blog-post-28/" style="color:#191970" target="_blank">Summer of TBD</a></td>
+    <td style="padding-top:5px"><a href="https://jasonwei20.github.io/posts/2025/12/blog-post-29/" style="color:#191970" target="_blank">Fall rhythm</a></td>
+  </tr>
+  <tr>
+    <td style="width:40px; text-align:right; padding-right:10px; font-size:0.8em"> </td>
+    <td><a href="https://jasonwei20.github.io/posts/2025/9/blog-post-28/" style="color:#191970" target="_blank">Summer of TBD</a></td>
   </tr>
   <tr>
     <td style="width:40px; text-align:right; padding-right:10px; font-size:0.8em"> </td>

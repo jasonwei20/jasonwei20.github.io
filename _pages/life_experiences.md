@@ -25,6 +25,10 @@ table, th, td {
     <td><b>Jul 19: </b>Throwing a birthday rager with Jerry at Futurehouse's speakeasy </td>
   </tr>
   <tr>
+    <td style="width:40px; text-align:right; padding-right:10px"></td>
+    <td><b>Jul 19: </b>Experiencing Southeast Asian micro-retail (Bali)</td>
+  </tr>
+  <tr>
     <td style="width:40px; text-align:right; padding-right:10px; padding-top:10px">2024</td>
     <td style="padding-top:10px"><b>Dec 5:</b> Being on the o1 launch video with Sam Altman</td>
   </tr>

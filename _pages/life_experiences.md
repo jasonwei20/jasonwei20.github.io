@@ -26,7 +26,7 @@ table, th, td {
   </tr>
   <tr>
     <td style="width:40px; text-align:right; padding-right:10px"></td>
-    <td><b>Jul 19: </b>Experiencing Southeast Asian micro-retail (Bali)</td>
+    <td><b>Apr 19: </b>Experiencing Southeast Asian micro-retail (Bali)</td>
   </tr>
   <tr>
     <td style="width:40px; text-align:right; padding-right:10px; padding-top:10px">2024</td>
